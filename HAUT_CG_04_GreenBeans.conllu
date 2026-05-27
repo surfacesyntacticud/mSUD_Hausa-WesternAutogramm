@@ -30,19 +30,21 @@
 9	arme	armeː	NOUN	_	Gender=Masc	8	udep	_	Gloss=wedding|SpaceAfter=No|wordform=armem
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
 11	maːtaː	maːtaː	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
-12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-13	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Masc|SpaceAfter=No
-14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	parataxis@conj	_	Gloss=Prog|wordform=shinàː
-15	musù	musù	PRON	_	Number=Plur|Person=3	14	comp:obl	_	Gloss=3Plur.Dat
-16	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=effort.Masc
-17	ƙwar̃ai	ƙwar̃ai	ADV	_	_	16	mod	_	Gloss=completely|SpaceAfter=No
-18	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-19	sai	sai	ADV	_	_	21	mod	_	Gloss=then
-20	su-	su-	PRON	_	Number=Plur|Person=3	21	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-21	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	parataxis@conj	_	Gloss=Prog|wordform=sunàː
-22	mai	mai	PRON	_	Gender=Masc|Person=3	21	comp:obl	_	Gloss=3Masc.Dat
-23	kissà	kissà	NOUN	_	Gender=Fem	21	comp:pred	_	Gloss=cheating.Fem|SpaceAfter=No
-24	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+13	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Masc|SpaceAfter=No
+14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	mod/m	_	Gloss=Prog|wordform=shinàː
+15	Ø	ti	VERB	_	_	7	parataxis@conj	_	Gloss=do
+16	musù	musù	PRON	_	Number=Plur|Person=3	15	comp:obl	_	Gloss=3Plur.Dat
+17	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=effort.Masc
+18	ƙwar̃ai	ƙwar̃ai	ADV	_	_	17	mod	_	Gloss=completely|SpaceAfter=No
+19	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+20	sai	sai	ADV	_	_	23	mod	_	Gloss=then
+21	su-	su-	PRON	_	Number=Plur|Person=3	23	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+22	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	23	mod/m	_	Gloss=Prog|wordform=sunàː
+23	Ø	ti	VERB	_	_	15	parataxis@conj	_	Gloss=do
+24	mai	mai	PRON	_	Gender=Masc|Person=3	23	comp:obl	_	Gloss=3Masc.Dat
+25	kissà	kissà	NOUN	_	Gender=Fem	23	comp:pred	_	Gloss=cheating.Fem|SpaceAfter=No
+26	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_002-002
 # speaker_id = *
@@ -51,33 +53,34 @@
 # text = dà sunàː mai kissà , sai yac cêː shiː dai yaː gàji dà kissàm maːtaː , sai yar ràbu dà suː .
 # text_en = As they cheated on him, he said that he was tired of women's deception, he must give them up.
 # text_ortho = dà su nàa mai kissà, sai yac ceè šii dai yaa gàji dà kissàm maataa, sai yaᵲ ᵲàbu dà suu.
-1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
-2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:obj	_	Gloss=Prog|wordform=sunàː
-4	mai	mai	PRON	_	Gender=Masc|Person=3	3	comp:obl	_	Gloss=3Masc.Dat
-5	kissà	kissà	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=cheating.Fem|SpaceAfter=No
-6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
-8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=c=
-10	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
-11	shiː	shiː	PRON	_	Gender=Masc|Person=3	15	dislocated@subj	_	Gloss=3Masc
-12	dai	dai	PART	_	PartType=Top	11	discourse@top	_	Gloss=however
-13	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-14	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Sing
-15	gàji	gàji	VERB	_	_	10	comp:obj	_	Gloss=get_tired
-16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
-17	kissà	kissà	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=cheating.Fem|SpaceAfter=No|wordform=kissàm
-18	-m	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen.Fem|wordform=-C
-19	maːtaː	maːtaː	NOUN	_	Number=Plur	18	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
-20	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-21	sai	sai	ADV	_	_	24	mod	_	Gloss=then
-22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yar
-23	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=r=
-24	ràbu	ràbu	VERB	_	_	15	parataxis@conj	_	Gloss=separate
-25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
-26	suː	suː	PRON	_	Number=Plur|Person=3	25	comp:obj	_	Gloss=3Plur|SpaceAfter=No
-27	.	.	PUNCT	_	_	10	punct	_	Gloss=.
+1	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
+2	su-	su-	PRON	_	Number=Plur|Person=3	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	mod/m	_	Gloss=Prog|wordform=sunàː
+4	Ø	ti	VERB	_	_	1	comp:obj	_	Gloss=do
+5	mai	mai	PRON	_	Gender=Masc|Person=3	4	comp:obl	_	Gloss=3Masc.Dat
+6	kissà	kissà	NOUN	_	Gender=Fem	4	comp:pred	_	Gloss=cheating.Fem|SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+8	sai	sai	ADV	_	_	11	mod	_	Gloss=then
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
+10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=c=
+11	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
+12	shiː	shiː	PRON	_	Gender=Masc|Person=3	16	dislocated@subj	_	Gloss=3Masc
+13	dai	dai	PART	_	PartType=Top	12	discourse@top	_	Gloss=however
+14	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
+15	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Sing
+16	gàji	gàji	VERB	_	_	11	comp:obj	_	Gloss=get_tired
+17	dà	dà	ADP	_	_	16	comp:obl	_	Gloss=with
+18	kissà	kissà	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=cheating.Fem|SpaceAfter=No|wordform=kissàm
+19	-m	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Fem|wordform=-C
+20	maːtaː	maːtaː	NOUN	_	Number=Plur	19	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
+22	sai	sai	ADV	_	_	25	mod	_	Gloss=then
+23	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yar
+24	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=r=
+25	ràbu	ràbu	VERB	_	_	16	parataxis@conj	_	Gloss=separate
+26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=with
+27	suː	suː	PRON	_	Number=Plur|Person=3	26	comp:obj	_	Gloss=3Plur|SpaceAfter=No
+28	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_003-003
 # speaker_id = *
@@ -671,17 +674,18 @@
 # text = sunàː mâː maːlàm àbunci , dà ita dà bâiwaː .
 # text_en = They prepared food for the malam, she and the slave.
 # text_ortho = su nàa maà maalàm ’àbunci, dà ’ita dà baìwaa.
-1	su-	su-	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=sunàː
-3	mâː	mâː	ADP	_	_	2	comp:obl	_	Gloss=Dat
-4	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=malam.Masc
-5	àbunci	àbunci	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=food.Masc|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-7	dà	dà	CCONJ	_	_	8	cc@preconj	_	Gloss=and
-8	ita	ita	PRON	_	Gender=Fem|Person=3	2	dislocated@subj	_	Gloss=3Fem
-9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
-10	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	8	conj:coord	_	Gloss=slave.Fem|SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+1	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	mod/m	_	Gloss=Prog|wordform=sunàː
+3	Ø	ti	VERB	_	_	0	root	_	Gloss=do
+4	mâː	mâː	ADP	_	_	3	comp:obl	_	Gloss=Dat
+5	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=malam.Masc
+6	àbunci	àbunci	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=food.Masc|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+8	dà	dà	CCONJ	_	_	9	cc@preconj	_	Gloss=and
+9	ita	ita	PRON	_	Gender=Fem|Person=3	3	dislocated@subj	_	Gloss=3Fem
+10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
+11	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	9	conj:coord	_	Gloss=slave.Fem|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_017-017
 # speaker_id = *
@@ -1632,7 +1636,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 46122, 47000
-# text = keː kuma ìn biyaː kì, ìn baː kì laːdakkì, in kik= kai mutà naːtà, kih= hwaɗàː mutà sàːƙoː-n-a , sabòːdà inàː sôntà.
+# text = keː kuma in=_̀= biyaː kì, in=_̀= baː kì laːda-k-kì , in ki-Ø= kai mutà naːtà, ki-Ø= hwaɗàː mutà sàːƙoː-n-a , sabòːdà i-nàː sô-n-tà .
 # text_en = As for you, I will pay you, I will give you your commission if you bring her her things and you give her my message because I love her.
 # text_ortho = kee kuma ’ìm biyaa kì, ’ìm baa kì laadakkì, ’in kik kai mutà naatà, kihw hwaɗàa mutà sàaƙoona, sabòo dà ’i nàa soǹtà.
 1	keː	keː	PRON	_	Gender=Fem|Person=2	5	dislocated@comp	_	Gloss=2Fem
@@ -1667,8 +1671,8 @@
 30	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 31	sabòːdà	sabòːdà	SCONJ	_	_	25	mod	_	Gloss=because
 32	i-	i-	PRON	_	Person=1|PronType=Prs	33	subj/m	_	Gloss=1Sing|SpaceAfter=No
-33	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	31	comp:obj	_	Gloss=Prog|wordform=inàː
-34	sô	sôː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	33	comp:obj	_	Gloss=like/love/want.Nmlz.Masc|Poss=Yes|SpaceAfter=No|wordform=sôntà|wordfrom=sôntà
+33	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	31	comp:obj	_	Gloss=Prog|wordform=inàː
+34	sô	sôː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	33	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|Poss=Yes|SpaceAfter=No|wordform=sôntà|wordfrom=sôntà
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 36	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	35	comp:obj/m	_	Gloss=3Fem.Gen
 37	.	.	PUNCT	_	_	5	punct	_	Gloss=.

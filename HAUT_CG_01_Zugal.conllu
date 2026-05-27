@@ -1465,10 +1465,11 @@
 # text_en = It's to her that you do it.
 # text_ortho = ’ita ka kà maà.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	0	root	_	Gloss=3Fem
-2	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	3	subj/m	_	Gloss=2Masc|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:cleft	_	Gloss=Prog|Relative=Yes|wordform=kakà
-4	mâː	mâː	ADP	_	Case=Dat	3	comp:obl	_	Gloss=Dat|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+2	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	4	subj/m	_	Gloss=2Masc|SpaceAfter=No
+3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	mod/m	_	Gloss=Prog|Relative=Yes|wordform=kakà
+4	Ø	ti	VERB	_	_	1	comp:cleft	_	Gloss=do
+5	mâː	mâː	ADP	_	Case=Dat	4	comp:obl	_	Gloss=Dat|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_050-050
 # speaker_id = *
@@ -2987,38 +2988,39 @@
 # sent_timecode = 84000, 85000
 # text_en = But, apart from this, that medicine, when the man uses it on the woman, him, him the man, he does not go to bed during the day until he has finished that medicine.
 # text_ortho = ’àmmaa hwa ban dà hakà nan, šii waǹnam maagànii, lookàcin dà namijì kà maà màccè šii, šii namijìn, baà ši kwaanan ᵲaana sai yaa gamà waǹnam maagànii.
-1	àmmaː	àmmaː	CCONJ	_	_	23	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	24	discourse	_	Gloss=but
 2	hwa	hwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=indeed
-3	bandà	bandà	ADP	_	_	23	mod	_	Gloss=without
+3	bandà	bandà	ADP	_	_	24	mod	_	Gloss=without
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	Gloss=thus|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-6	shiː	shiː	PRON	_	Gender=Masc|Person=3	23	dislocated@comp	_	Gloss=3Masc
+6	shiː	shiː	PRON	_	Gender=Masc|Person=3	24	dislocated@comp	_	Gloss=3Masc
 7	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	8	det	_	Gloss=ProxH.Masc
 8	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	6	conj:appos	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-10	loːkàcin	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	23	mod	_	Gloss=time.Masc.Def
+10	loːkàcin	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	24	mod	_	Gloss=time.Masc.Def
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=that
-12	namijì	namijì	NOUN	_	Gender=Masc	13	subj	_	Gloss=man.Masc
-13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
-14	mâː	mâː	ADP	_	_	13	comp:obl	_	Gloss=Dat
-15	màccè	màccè	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=female.Fem
-16	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	comp:obj	_	Gloss=3Masc|SpaceAfter=No
-17	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-18	shiː	shiː	PRON	_	Gender=Masc|Person=3	23	dislocated@subj	_	Gloss=3Masc
-19	namijìn	namijì	NOUN	_	Definite=Def|Gender=Masc	18	conj:appos	_	Gloss=man.Masc.Def|SpaceAfter=No
-20	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-21	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	23	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-22	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-23	kwaːna	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=spend_night.Nmlz|SpaceAfter=No|wordform=kwaːnan
-24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Masc/Plur
-25	raːna	raːna	ADV	_	_	24	comp:obj	_	Gloss=in_the_day
-26	sai	sai	SCONJ	_	_	23	mod	_	Gloss=until
-27	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-28	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	29	mod/m	_	Gloss=Perf.Sing
-29	gamà	gamàː	VERB	_	_	26	comp:obj	_	Gloss=finish
-30	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	31	det	_	Gloss=ProxH.Masc
-31	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	29	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
-32	.	.	PUNCT	_	_	23	punct	_	Gloss=.
+12	namijì	namijì	NOUN	_	Gender=Masc	14	subj	_	Gloss=man.Masc
+13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	mod/m	_	Gloss=Prog.Rel|Relative=Yes
+14	Ø	ti	VERB	_	_	11	comp:obj	_	Gloss=do
+15	mâː	mâː	ADP	_	_	14	comp:obl	_	Gloss=Dat
+16	màccè	màccè	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=female.Fem
+17	shiː	shiː	PRON	_	Gender=Masc|Person=3	14	comp:obj	_	Gloss=3Masc|SpaceAfter=No
+18	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+19	shiː	shiː	PRON	_	Gender=Masc|Person=3	24	dislocated@subj	_	Gloss=3Masc
+20	namijìn	namijì	NOUN	_	Definite=Def|Gender=Masc	19	conj:appos	_	Gloss=man.Masc.Def|SpaceAfter=No
+21	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+22	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	24	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
+23	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc=|wordform=bâːshi
+24	kwaːna	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=spend_night.Nmlz|SpaceAfter=No|wordform=kwaːnan
+25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur
+26	raːna	raːna	ADV	_	_	25	comp:obj	_	Gloss=in_the_day
+27	sai	sai	SCONJ	_	_	24	mod	_	Gloss=until
+28	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
+29	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Sing
+30	gamà	gamàː	VERB	_	_	27	comp:obj	_	Gloss=finish
+31	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	32	det	_	Gloss=ProxH.Masc
+32	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
+33	.	.	PUNCT	_	_	24	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_100-100
 # speaker_id = *

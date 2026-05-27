@@ -432,7 +432,7 @@
 28	indà	indà	PRON	_	_	27	comp:obj	_	Gloss=where
 29	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Masc|SpaceAfter=No
 30	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=shikè
-31	ba	ba	PART	_	PartType=Neg|Polarity=Neg	30	mod	_	Gloss=Neg|SpaceAfter=No
+31	ba	ba	PART	_	PartType=Neg|Polarity=Neg	27	mod	_	Gloss=Neg|SpaceAfter=No
 32	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 33	ɗiːmuwaː	ɗiːmuwaː	NOUN	_	Gender=Fem	36	subj	_	Gloss=confusion.Fem
 34	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː

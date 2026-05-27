@@ -263,7 +263,7 @@
 7	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 8	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	9	subj	_	Gloss=youth.Plur
 9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog
-10	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:aux	_	Gloss=go.Nmlz.Masc|SpaceAfter=No
+10	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:pred	_	Gloss=go.Nmlz.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	koːwaː	koːwaː	PRON	_	_	13	subj	_	Gloss=everyone
 13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	parataxis	_	Gloss=Prog
@@ -809,17 +809,18 @@
 # text = su- nàː mà sàmàːriː kiràːrìː su- nàː mà ’yam maːtaː.
 # text_en = They are praising the boys, they are praising the girls:
 # text_ortho = su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa :
-1	su-	su-	PRON	_	Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=sunàː
-3	mà	mà	ADP	_	_	2	comp:obl	_	Gloss=Dat
-4	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=youth.Plur
-5	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=epithet.Masc
-6	su-	su-	PRON	_	Person=3	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:pred	_	Gloss=Prog|wordform=sunàː
-8	mà	mà	ADP	_	_	7	comp:pred	_	Gloss=Dat
-9	’yam	’yan	ADJ	_	Number=Plur	8	comp:obj	_	Gloss=young.Plur
-10	maːtaː	maːtaː	NOUN	_	Number=Plur	9	compound	_	Gloss=woman.Plur|SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+1	su-	su-	PRON	_	Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	mod/m	_	Gloss=Prog|wordform=sunàː
+3	Ø	ti	VERB	_	_	0	root	_	Gloss=do
+4	mà	mà	ADP	_	_	3	comp:obl	_	Gloss=Dat
+5	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=youth.Plur
+6	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=epithet.Masc
+7	su-	su-	PRON	_	Person=3	8	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis@conj	_	Gloss=Prog|wordform=sunàː
+9	mà	mà	ADP	_	_	8	comp:pred	_	Gloss=Dat
+10	’yam	’yan	ADJ	_	Number=Plur	9	comp:obj	_	Gloss=young.Plur
+11	maːtaː	maːtaː	NOUN	_	Number=Plur	10	compound	_	Gloss=woman.Plur|SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split2_split2_split2_split2
 # speaker_id = *
@@ -2361,7 +2362,7 @@
 19	wandà	wandà	PRON	_	PronType=Rel	13	conj:appos	_	Gloss=who
 20	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	21	subj/m	_	Gloss=3Fem|SpaceAfter=No
 21	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=takà
-22	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=cuddling.Masc|SpaceAfter=No
+22	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=cuddling.Masc|SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_55-55_split2
@@ -2780,33 +2781,34 @@
 # text = in yay= yi zamnàː, shi- nàː mâː bùdurwaː hiːr̃a, kuma shi- nàː taɓà jìkiː-n-tà , shi- nàː shaːhwaj jìkiː-n-tà ,
 # text_en = After he has sat down, he chats withe the girl, he touches her body, he caresses her body.
 # text_ortho = ’in yay yi zàmne, šì nàa maà bùduᵲwaa hiira, kuma šì nàa taɓà jìkintà, šì nàa šaahwaj jìkintà.
-1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
+1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
 4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
 5	zamnàː	zamnàː	VERB	_	_	4	comp:pred	_	Gloss=stay.Stat|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-7	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Masc|SpaceAfter=No
-8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=shinàː
-9	mâː	mâː	ADP	_	Case=Dat	8	comp:obl	_	Gloss=Dat
-10	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=girl.Fem
-11	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=chatting.Fem|SpaceAfter=No
-12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-13	kuma	kuma	CCONJ	_	_	15	cc	_	Gloss=also
-14	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Masc|SpaceAfter=No
-15	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	conj:coord	_	Gloss=Prog|wordform=shinàː
-16	taɓà	taɓàː	VERB	_	_	15	comp:pred	_	Gloss=touch
-17	jìki	jìkiː	NOUN	_	_	16	comp:obj	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkintà|wordfrom=jìkintà
-18	-n	na	PART	_	Case=Gen|PartType=Case	17	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-19	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	18	comp:obj/m	_	Gloss=3Fem.Gen
-20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-21	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	22	subj/m	_	Gloss=3Masc|SpaceAfter=No
-22	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	conj:coord	_	Gloss=Prog|wordform=shinàː
-23	shaːhwaj	shaːhwàː	VERB	_	ExtPos=NOUN|Gender=Fem	22	comp:pred	_	Gloss=rub.Nmlz.Fem
-24	jìki	jìkiː	NOUN	_	_	23	udep	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkintà|wordfrom=jìkintà
-25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-26	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	25	comp:obj/m	_	Gloss=3Fem.Gen
-27	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+7	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	Gloss=3Masc|SpaceAfter=No
+8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	mod/m	_	Gloss=Prog|wordform=shinàː
+9	Ø	ti	VERB	_	_	0	root	_	Gloss=do
+10	mâː	mâː	ADP	_	Case=Dat	9	comp:obl	_	Gloss=Dat
+11	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=girl.Fem
+12	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	9	comp:pred	_	Gloss=chatting.Fem|SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+14	kuma	kuma	CCONJ	_	_	16	cc	_	Gloss=also
+15	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Masc|SpaceAfter=No
+16	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	conj:coord	_	Gloss=Prog|wordform=shinàː
+17	taɓà	taɓàː	VERB	_	_	16	comp:pred	_	Gloss=touch
+18	jìki	jìkiː	NOUN	_	_	17	comp:obj	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkintà|wordfrom=jìkintà
+19	-n	na	PART	_	Case=Gen|PartType=Case	18	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+20	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	19	comp:obj/m	_	Gloss=3Fem.Gen
+21	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+22	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	23	subj/m	_	Gloss=3Masc|SpaceAfter=No
+23	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	conj:coord	_	Gloss=Prog|wordform=shinàː
+24	shaːhwaj	shaːhwàː	VERB	_	ExtPos=NOUN|Gender=Fem	23	comp:pred	_	Gloss=rub.Nmlz.Fem
+25	jìki	jìkiː	NOUN	_	_	24	udep	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkintà|wordfrom=jìkintà
+26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+27	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	26	comp:obj/m	_	Gloss=3Fem.Gen
+28	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_66-66_split2
 # text = shì=shaːhwà jìki-n-tà koː’ìnaː, dàgà nan zàmne, àmmaː hwa bâːshi=taɓà ƙuːgùː.
@@ -3040,11 +3042,12 @@
 66	shì	yà	PRON	_	Gender=Masc|Person=3|PronType=Prs	65	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 67	,	,	PUNCT	_	_	68	punct	_	Gloss=PUNCT
 68	koː	koː	SCONJ	_	_	65	mod	_	Gloss=even_if
-69	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	70	subj/m	_	Gloss=3Masc|SpaceAfter=No
-70	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	68	comp:obj	_	Gloss=Prog|wordform=shinàː
-71	mutà	mutà	PRON	_	Gender=Fem|Person=3	70	comp:obl	_	Gloss=3Fem.Dat
-72	ɗùmiː	ɗùmiː	NOUN	_	Gender=Masc	70	comp:pred	_	Gloss=chatting.Masc|SpaceAfter=No
-73	.	.	PUNCT	_	_	65	punct	_	Gloss=.
+69	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	71	subj/m	_	Gloss=3Masc|SpaceAfter=No
+70	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	71	mod/m	_	Gloss=Prog|wordform=shinàː
+71	Ø	ti	VERB	_	_	68	comp:obj	_	Gloss=do
+72	mutà	mutà	PRON	_	Gender=Fem|Person=3	71	comp:obl	_	Gloss=3Fem.Dat
+73	ɗùmiː	ɗùmiː	NOUN	_	Gender=Masc	71	comp:pred	_	Gloss=chatting.Masc|SpaceAfter=No
+74	.	.	PUNCT	_	_	65	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_71-71
 # speaker_id = *

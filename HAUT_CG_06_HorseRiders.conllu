@@ -206,7 +206,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 6000, 7000
-# text = a- nàː nan zama-n duːniyàː, kullun ta- nà mai hakànan, ita màːtaw
+# text = a-nàː nan zama-n duːniyàː, kullun ta-nàː Ø mai hakànan, ita màːtaw
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
 1	a-	a-	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
@@ -218,12 +218,13 @@
 7	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 8	kullun	kullun	ADV	_	_	10	mod	_	Gloss=always
 9	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Fem|SpaceAfter=No
-10	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	_	_	_	Gloss=Prog|wordform=tanàː
-11	mai	mai	PRON	_	Gender=Masc|Person=3	10	comp:obl	_	Gloss=3Masc.Dat
-12	hakànan	hakànan	ADV	_	_	10	comp:pred	_	Gloss=thus|SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	ita	ita	PRON	_	Gender=Fem|Person=3	10	dislocated@subj	_	Gloss=3Fem
-15	màːtaw	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	14	conj:appos	_	Gloss=wife.Fem
+10	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=tanàː
+11	Ø	yi	VERB	_	_	10	comp:pred	_	Gloss=do
+12	mai	mai	PRON	_	Gender=Masc|Person=3	11	comp:obl	_	Gloss=3Masc.Dat
+13	hakànan	hakànan	ADV	_	_	11	comp:pred	_	Gloss=thus|SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+15	ita	ita	PRON	_	Gender=Fem|Person=3	10	dislocated@subj	_	Gloss=3Fem
+16	màːtaw	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	15	conj:appos	_	Gloss=wife.Fem
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_08
 # speaker_id = *
