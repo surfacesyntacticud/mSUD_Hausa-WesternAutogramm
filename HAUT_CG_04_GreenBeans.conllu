@@ -25,23 +25,23 @@
 4	armeː	armeː	NOUN	_	Gender=Masc	3	udep	_	Gloss=wedding.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Masc|SpaceAfter=No
-7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis@conj	_	Gloss=Prog|wordform=shinàː
+7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:dicto	_	Gloss=Prog|wordform=shinàː
 8	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:pred	_	Gloss=do.Nmlz.Masc
 9	arme	armeː	NOUN	_	Gender=Masc	8	udep	_	Gloss=wedding|SpaceAfter=No|wordform=armem
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
 11	maːtaː	maːtaː	NOUN	_	Number=Plur	10	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
-12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-13	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Masc|SpaceAfter=No
-14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	mod/m	_	Gloss=Prog|wordform=shinàː
-15	Ø	ti	VERB	_	_	7	parataxis@conj	_	Gloss=do
+12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
+13	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Masc|SpaceAfter=No
+14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	conj:coord	_	Gloss=Prog|wordform=shinàː
+15	Ø	yi	VERB	_	_	14	comp:pred	_	Gloss=do
 16	musù	musù	PRON	_	Number=Plur|Person=3	15	comp:obl	_	Gloss=3Plur.Dat
 17	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=effort.Masc
 18	ƙwar̃ai	ƙwar̃ai	ADV	_	_	17	mod	_	Gloss=completely|SpaceAfter=No
 19	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-20	sai	sai	ADV	_	_	23	mod	_	Gloss=then
-21	su-	su-	PRON	_	Number=Plur|Person=3	23	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-22	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	23	mod/m	_	Gloss=Prog|wordform=sunàː
-23	Ø	ti	VERB	_	_	15	parataxis@conj	_	Gloss=do
+20	sai	sai	CCONJ	_	_	22	cc	_	Gloss=then
+21	su-	su-	PRON	_	Number=Plur|Person=3	22	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+22	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	conj:coord	_	Gloss=Prog|wordform=sunàː
+23	Ø	yi	VERB	_	_	22	comp:pred	_	Gloss=do
 24	mai	mai	PRON	_	Gender=Masc|Person=3	23	comp:obl	_	Gloss=3Masc.Dat
 25	kissà	kissà	NOUN	_	Gender=Fem	23	comp:pred	_	Gloss=cheating.Fem|SpaceAfter=No
 26	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -54,9 +54,9 @@
 # text_en = As they cheated on him, he said that he was tired of women's deception, he must give them up.
 # text_ortho = dà su nàa mai kissà, sai yac ceè šii dai yaa gàji dà kissàm maataa, sai yaᵲ ᵲàbu dà suu.
 1	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
-2	su-	su-	PRON	_	Number=Plur|Person=3	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	mod/m	_	Gloss=Prog|wordform=sunàː
-4	Ø	ti	VERB	_	_	1	comp:obj	_	Gloss=do
+2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:obj	_	Gloss=Prog|wordform=sunàː
+4	Ø	yi	VERB	_	_	3	comp:pred	_	Gloss=do
 5	mai	mai	PRON	_	Gender=Masc|Person=3	4	comp:obl	_	Gloss=3Masc.Dat
 6	kissà	kissà	NOUN	_	Gender=Fem	4	comp:pred	_	Gloss=cheating.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -674,18 +674,18 @@
 # text = sunàː mâː maːlàm àbunci , dà ita dà bâiwaː .
 # text_en = They prepared food for the malam, she and the slave.
 # text_ortho = su nàa maà maalàm ’àbunci, dà ’ita dà baìwaa.
-1	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	mod/m	_	Gloss=Prog|wordform=sunàː
-3	Ø	ti	VERB	_	_	0	root	_	Gloss=do
+1	su-	su-	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
+2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=sunàː
+3	Ø	yi	VERB	_	_	2	comp:pred	_	Gloss=do
 4	mâː	mâː	ADP	_	_	3	comp:obl	_	Gloss=Dat
 5	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=malam.Masc
 6	àbunci	àbunci	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=food.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	dà	dà	CCONJ	_	_	9	cc@preconj	_	Gloss=and
-9	ita	ita	PRON	_	Gender=Fem|Person=3	3	dislocated@subj	_	Gloss=3Fem
+9	ita	ita	PRON	_	Gender=Fem|Person=3	2	dislocated@subj	_	Gloss=3Fem
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	9	conj:coord	_	Gloss=slave.Fem|SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+12	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_017-017
 # speaker_id = *

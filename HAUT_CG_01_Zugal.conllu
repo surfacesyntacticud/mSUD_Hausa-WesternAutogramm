@@ -1465,9 +1465,9 @@
 # text_en = It's to her that you do it.
 # text_ortho = ’ita ka kà maà.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	0	root	_	Gloss=3Fem
-2	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	4	subj/m	_	Gloss=2Masc|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	mod/m	_	Gloss=Prog|Relative=Yes|wordform=kakà
-4	Ø	ti	VERB	_	_	1	comp:cleft	_	Gloss=do
+2	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	3	subj/m	_	Gloss=2Masc|SpaceAfter=No
+3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:cleft	_	Gloss=Prog|Relative=Yes|wordform=kakà
+4	Ø	yi	VERB	_	_	3	comp:pred	_	Gloss=do
 5	mâː	mâː	ADP	_	Case=Dat	4	comp:obl	_	Gloss=Dat|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -2999,9 +2999,9 @@
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 10	loːkàcin	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	24	mod	_	Gloss=time.Masc.Def
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=that
-12	namijì	namijì	NOUN	_	Gender=Masc	14	subj	_	Gloss=man.Masc
-13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	mod/m	_	Gloss=Prog.Rel|Relative=Yes
-14	Ø	ti	VERB	_	_	11	comp:obj	_	Gloss=do
+12	namijì	namijì	NOUN	_	Gender=Masc	13	subj	_	Gloss=man.Masc
+13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp:obj	_	Gloss=Prog.Rel|Relative=Yes
+14	Ø	yi	VERB	_	_	13	comp:pred	_	Gloss=do
 15	mâː	mâː	ADP	_	_	14	comp:obl	_	Gloss=Dat
 16	màccè	màccè	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=female.Fem
 17	shiː	shiː	PRON	_	Gender=Masc|Person=3	14	comp:obj	_	Gloss=3Masc|SpaceAfter=No

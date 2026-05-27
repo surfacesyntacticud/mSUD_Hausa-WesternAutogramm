@@ -635,7 +635,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 20000, 21000
-# text = dà yag gayàː mutà hakànan , koːdà tac ci àbunci , sai tat tahoː , tanàː ta mur̃nàː , taː sàːmu mài doːkìː , bàtà san mijìntà ba neː .
+# text = dà ya-Ø= gayàː mutà hakànan, koːdà ta-Ø= ci àbunci, sai ta-Ø= tahoː, ta-nàː ta mur̃nàː, t-aː= sàːmu mài doːkìː, bà-tà= san mijì-n-tà ba neː.
 # text_en = When he told her like this, as soon as she had taken her food, she left she was happy, she had got a rider, she did not know it was her husband.
 # text_ortho = dà yag gayàa mutà hakà nan, koo dà tac ci ’àbunci, sai tat tahoo, ta nàa ta murnàa, taa sàamu mài dookìː, bà tà san mijìntà ba nèe.
 1	dà	dà	SCONJ	_	_	17	mod	_	Gloss=when
@@ -674,7 +674,7 @@
 34	-n	na	PART	_	Case=Gen|PartType=Case	33	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 35	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	34	comp:obj/m	_	Gloss=3Fem.Gen
 36	ba	ba	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
-37	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	32	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+37	neː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	32	discourse@foc	_	Gloss=Emph|SpaceAfter=No
 38	.	.	PUNCT	_	_	17	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_22

@@ -3915,11 +3915,11 @@
 # sent_timecode = 106000, 107000
 # text_en = Because of this, you pierce the holes in the leather before you put the belt on it.
 # text_ortho = sabàd dà hakà nan ’a kà mà hwaatàa huudàa, tun bà ’à ’azàa mutà kàrhoo ba.
-1	sabàddà	sabàddà	ADP	_	_	5	mod	_	Gloss=because
+1	sabàddà	sabàddà	ADP	_	_	0	root	_	Gloss=because
 2	hakànan	hakànan	ADV	_	_	1	comp:obj	_	Gloss=thus
-3	a-	a-	PRON	_	Person=4|PronType=Prs	5	subj/m	_	Gloss=4|SpaceAfter=No
-4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	mod/m	_	Gloss=Prog|Relative=Yes|wordform=akà
-5	Ø	ti	VERB	_	_	0	root	_	Gloss=do
+3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
+4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:cleft	_	Gloss=Prog|Relative=Yes|wordform=akà
+5	Ø	yi	VERB	_	_	4	comp:pred	_	Gloss=do
 6	mà	mà	ADP	_	_	5	comp:obl	_	Gloss=Dat
 7	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=skin.Fem
 8	huːdàː	huːdàː	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=hole.Fem|SpaceAfter=No
@@ -3931,7 +3931,7 @@
 14	mutà	mutà	PRON	_	Gender=Fem|Person=3	13	comp:obl	_	Gloss=3Fem.Dat
 15	kàr̃hoː	kàr̃hoː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=charm_belt.Masc
 16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	13	mod	_	Gloss=Neg|SpaceAfter=No
-17	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+17	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_110-110
 # speaker_id = *
