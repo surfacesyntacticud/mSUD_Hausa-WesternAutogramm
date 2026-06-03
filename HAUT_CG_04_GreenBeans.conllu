@@ -191,22 +191,22 @@
 # text_en = When that girl was born, as soon as they cut her umbilical cord, they washed her with water, then the girl's father left and went to the malam's and told him: I have a new-born girl, but I'm giving her to you, she's your wife.
 # text_ortho = dà ’ankà hàihi ɗìyaa màcceǹ nan, koo dà ’ankà yankèe mutà ciibìyaa, ’ankà wankèe ta cikin ᵲuwaa, sai ’ùban ɗiyaǹ nan, yat taašì yat tàhi wuᵲim maalàmii, yac ceè mišì : ’an haihwam mun ɗìyaa màccè. ’àmmaa hwa naa baa kà ’ita, màatakkà cee.
 1	dà	dà	SCONJ	_	_	31	mod	_	Gloss=when
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	hàihi	haihù	VERB	_	_	1	comp:obj	_	Gloss=give_birth
 5	ɗìyaː	ɗìyaː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=girl.Fem
 6	màccên	màcce	ADJ	_	Definite=Def|Gender=Fem	5	mod	_	Gloss=female.Fem.Def
 7	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	5	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	koːdà	koːdà	SCONJ	_	_	31	mod	_	Gloss=even_if
-10	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-11	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+10	an-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 12	yankèː	yankèː	VERB	_	_	9	comp:obj	_	Gloss=kill
 13	mutà	mutà	PRON	_	Gender=Fem|Person=3	12	comp:obl	_	Gloss=3Fem.Dat
 14	ciːbìyaː	ciːbìyaː	NOUN	_	Gender=Fem	12	comp:obj@T	_	Gloss=umbilical_cord.Fem|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-16	a-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà=
-17	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+16	an-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà=
+17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 18	wankèː	wankèː	VERB	_	_	12	parataxis	_	Gloss=wash
 19	ta	ta	PRON	_	Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem
 20	cikin	cikin	ADP	_	_	18	comp:obl	_	Gloss=in(side)
@@ -261,8 +261,8 @@
 # text_en = When the imam was told this, he said yes, he understood, he thanked (him) and was happy.
 # text_ortho = dà ’ankà gayàa mà maalàmii hakà nan, yac ceè ’ii yaa jiyàa, kuma yaa goodèe yaa yi murnàa.
 1	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	gayàː	gayàː	VERB	_	_	1	comp:obj	_	Gloss=tell
 5	mà	mà	ADP	_	_	4	comp:obl	_	Gloss=Dat
 6	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=malam.Masc
@@ -378,8 +378,8 @@
 # text_en = After they had taken her, they carried her to the malam's house, they gave her to him to keep and grow near him.
 # text_ortho = ’in ’ankà ɗaukoo tà, ’à kai gidam maalàmii, ’à baa šì ’àbuutai, šì ’aadànaa, tà giᵲma gàᵲee šì.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	ɗaukoː	ɗaukaː	VERB	_	_	1	comp:obj	_	Gloss=take.Dir
 5	ta	ta	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -416,13 +416,13 @@
 # text = ankà ɗaukoː yaːrinyàː , ankà kai mà maːlàmiː .
 # text_en = They took the girl and took her to the malam.
 # text_ortho = ’ankà ɗaukoo yaaᵲinyàa, ’ankà kai mà maalàmii.
-1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	ɗaukoː	ɗaukaː	VERB	_	_	0	root	_	Gloss=take.Dir
 4	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=girl.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-7	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+6	an-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+7	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 8	kai	kai	VERB	_	_	3	parataxis@conj	_	Gloss=reach/take_to
 9	mà	mà	ADP	_	_	8	comp:obl	_	Gloss=Dat
 10	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
@@ -648,8 +648,8 @@
 5	ìsa	ìsa	VERB	_	_	1	comp:obj	_	Gloss=arrive
 6	armeː	armeː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=wedding.Masc|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-9	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+8	an-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+9	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 10	ɗarmàː	ɗarmàː	VERB	_	_	0	root	_	Gloss=tie
 11	musù	musù	PRON	_	Number=Plur|Person=3	10	comp:obl	_	Gloss=3Plur.Dat
 12	armeː	armeː	NOUN	_	Gender=Masc	10	comp:obj@T	_	Gloss=wedding.Masc|SpaceAfter=No
@@ -725,18 +725,18 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 19000, 20000
-# text = du’ àbùn dà yak= kàmaːtà à= yi cikin gàriː, sai sarkiː yaː mai shaːwar̃àː, sabòːdà lì:maːmìː-n-shì neː.
+# text = du’ àbùn dà ya-Ø= kàmaːtà a-_̀= yi cikin gàriː, sai sarkiː y-aː= mai shaːwar̃àː, sabòːdà lì:maːmìː-n-shì neː.
 # text_en = Whatever had to be done in town, the chief took his advice because he was his imam.
 # text_ortho = du’ ’àbun dà yak kàmaatà, ’à yi cikin gàᵲii, sai saᵲkii yaa mai šaawaràa, sabòo dà lìimaamìnšì nee.
 1	du’	dukà	DET	_	PronType=Tot	2	det	_	Gloss=all
-2	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	17	dislocated@top	_	Gloss=thing.Masc.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=that
+2	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	17	dislocated@top	_	Gloss=thing.Masc.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yak
 5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=k=
-6	kàmaːtà	kàmaːtà	NOUN	_	_	3	comp:obj	_	Gloss=be_proper
+6	kàmaːtà	kàmaːtà	NOUN	_	_	3	comp:obj	_	ClauseType=Rel|Gloss=be_proper
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 8	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	9	mod/m	_	Gloss=Sub=
-9	yi	yi	VERB	_	_	6	subj	_	Gloss=do
+9	yi	yi	VERB	_	_	6	subj	_	Gloss=do|RelRole=pred
 10	cikin	cikin	ADP	_	_	9	comp:obl	_	Gloss=in(side)
 11	gàriː	gàriː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=town.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -959,7 +959,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 24000, 25000
-# text = a nàː nan kullun hakànan, rân nan maːlàmiː bâː shi nan, sai ɗa-n sarki-n gàriː yay=yoː mà doːkìː-n-ai sir̃dì: dà màraiceː, zâː shi kìliːsàː.
+# text = a nàː nan kullun hakànan, rân nan maːlàmiː bâː -shi nan, sai ɗa-n sarki-n gàriː ya-Ø= yoː mà doːkìː-n-ai sir̃dì: dà màraiceː, zâː shi kìliːsàː.
 # text_en = This went on until one day the malam was not there, and the chief's son saddled his horse one evening to go for a ride.
 # text_ortho = ’a nàa nan kullun hakà nan, ᵲaǹ nan maalàmii baà ši nan, sai ɗan saᵲkin gàᵲii yay yoo mà dookìinai sirdìi, dà màᵲaicee, zaà ši kìliisàa.
 1	a	a	PRON	_	Person=4	2	subj	_	Gloss=4
@@ -970,11 +970,11 @@
 6	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 7	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	22	mod	_	Gloss=sun/day.Fem.Def
 8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	Gloss=PreRef|PreRef=Yes
-9	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	12	dislocated@subj	_	Gloss=malam.Masc
-10	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	12	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-11	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	22	parataxis@mod	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
-13	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+9	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	10	dislocated@subj	_	Gloss=malam.Masc
+10	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	22	dislocated@mod	_	Gloss=there_is.Neg|wordform=bâːshi
+11	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=-3Masc|wordform=bâːshi
+12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	comp:pred	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
+13	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 14	sai	sai	ADV	_	_	22	mod	_	Gloss=then
 15	ɗa	ɗaː	NOUN	_	Gender=Masc	22	subj	_	Gloss=son|SpaceAfter=No|wordform=ɗan
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod/m	_	Gloss=Gen.Masc/Plur
@@ -1001,7 +1001,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 25000, 26000
-# text = yab biyoː ƙoːhwàg gidam maːlàmiː , sai màccênga ta maːlàmiː , taː sam maːlàmiː bâːshi nan , sai tat tahoː ƙoːhwàg gidaː //
+# text = ya-Ø= biyoː ƙoːhwà-g gida-n maːlàmiː, sai màccênga ta maːlàmiː, t-aː= sam maːlàmiː bâː- -shi nan, sai ta-Ø= tahoː ƙoːhwà-g gidaː //
 # text_en = He passed by the compound door of the imam when the wife of the malam, she realised that the imam was not there, and she went to the door of the compound.
 # text_ortho = yab biyoo ƙoohwàg gidam maalàmii, sai màcceǹga ta maalàmii, taa sam maalàmii baà ši nan, sai tat tahoo ƙoohwàg gidaa.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
@@ -1023,10 +1023,10 @@
 16	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː
 17	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	18	mod/m	_	Gloss=Perf.Sing
 18	sam	sanìː	VERB	_	_	0	root	_	Gloss=know
-19	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	22	dislocated@subj	_	Gloss=malam.Masc
-20	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	22	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-21	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-22	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	18	comp:obj	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
+19	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	20	dislocated@subj	_	Gloss=malam.Masc
+20	bâː-	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	comp:obj	_	Gloss=there_is.Neg|wordform=bâːshi
+21	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=-3Masc|wordform=bâːshi
+22	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	20	comp:pred	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 24	sai	sai	ADV	_	_	27	mod	_	Gloss=then
 25	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tat
@@ -1170,8 +1170,8 @@
 # sent_timecode = 30000, 31000
 # text_en = They said it's the house of a malam, the town imam.
 # text_ortho = ’ankà ceè mai gidam maalàmii nèe, lìimaamìn gàᵲii.
-1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	mai	mai	PRON	_	Gender=Masc|Person=3	3	comp:obl	_	Gloss=3Masc.Dat
 5	gida	gidaː	NOUN	_	Gender=Masc	8	comp:pred	_	Gloss=house|SpaceAfter=No|wordform=gidam
@@ -1324,12 +1324,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 35782, 37365
-# text = dà sunkà zoː cikin gidaː, yac cêː : s'oːhuwaː, àbùn dà nay yi kiràn-kì , don ìn tàmbàyeː kì in kin san gidan lìːmân.
+# text = dà sun-kà= zoː cikin gidaː, ya-Ø= cêː : s'oːhuwaː, àbùn dà na-Ø= yi kirà-n-kì , don in-_̀= tàmbàyeː kì in ki-n= san gida-n lìːmân.
 # text_en = When they entered the compound, he said : Old woman, the reason why I called you is to ask you if you know the imam's house.
 # text_ortho = dà sunkà zoo cikin gidaa, yac ceè : s’oohuwaa, ’àbun dà nay yi kiᵲànkì, don ’ìn tàmbàyee kì, ’in kin san gidan lìimaǹ.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	zoː	zoː	VERB	_	_	1	comp:obj	_	Gloss=come
 5	cikin	cikin	ADP	_	_	4	comp:obl	_	Gloss=in(side)
 6	gidaː	gidaː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=house.Masc|SpaceAfter=No
@@ -1340,11 +1340,11 @@
 11	:	:	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 12	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	23	vocative	_	Gloss=old_woman.Fem|SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-14	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	23	dislocated@top	_	Gloss=thing.Masc.Def
-15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=that
+14	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	23	dislocated@top	_	Gloss=thing.Masc.Def|RelAnt=Yes
+15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=CompRel|Relz=Word
 16	na-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	18	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nay
 17	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
-18	yi	yi	VERB	_	_	15	comp:obj	_	Gloss=do
+18	yi	yi	VERB	_	_	15	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
 19	kirà	kiraː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	18	comp:pred	_	GenderAf=Fem|Gloss=call.Nmlz.Masc|Poss=Yes|SpaceAfter=No|wordform=kirànkì
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 21	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	20	comp:obj/m	_	Gloss=2Fem.Gen
@@ -1822,11 +1822,11 @@
 15	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	16	mod/m	_	Gloss=Sub=|wordform=ìm
 16	baː	baː	VERB	_	_	12	parataxis@conj	_	Gloss=give
 17	kì	kì	PRON	_	Gender=Fem|Person=2	16	comp:obj@R	_	Gloss=2Fem
-18	àbun	àbù	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj@T	_	Gloss=thing.Masc.Def
-19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=that
+18	àbun	àbù	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj@T	_	Gloss=thing.Masc.Def|RelAnt=Yes
+19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
 21	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	22	subj/m	_	Gloss=2Fem=|wordform=zâːki=
-22	kai	kai	VERB	_	_	19	comp:obj	_	Gloss=reach/take_to
+22	kai	kai	VERB	_	_	19	comp:obj	_	ClauseType=Rel|Gloss=reach/take_to|RelRole=obj
 23	mutà	mutà	PRON	_	Gender=Fem|Person=3	22	comp:obl	_	Gloss=3Fem.Dat|SpaceAfter=No
 24	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 25	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	27	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kì
@@ -2558,7 +2558,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 75000, 76000
-# text = kullun in zâːta tàhiyàː kân dàudawaː , can gidam maːlàm , sai tà zoː wurin ɗan sarkiː , shì baː tà àbuːbuwàn dà yac cêː , tà tàhi dà suː , can wurim maːlàm , tà kai mai dàudawaː .
+# text = kullun in zâː-ta= tàhiyàː kân dàudawaː, can gida-n maːlàm, sai ta-_̀= zoː wurin ɗa-n sarkiː, shi-_̀= baː tà àbuːbuwàn dà ya-Ø= cêː, ta-_̀= tàhi dà suː, can wurim maːlàm, ta-_̀= kai mai dàudawaː.
 # text_en = Each time she went and carried "daudawa" there, to the malam's house, she went the chief's son, he gave her the things that he said, she carried them to the malam's place, and brought him "daudawa".
 # text_ortho = kullun ’in zaà ta tàhiyàa, kan dàudawaa, can gidam maalàm, sai tà zoo wuᵲin ɗan saᵲkii, šì baa tà ’àbuubuwàn dà yac ceè, tà tàhi dà suu, can wuᵲim maalàmii, tà kai mai dàudawaa.
 1	kullun	kullun	ADV	_	_	17	mod	_	Gloss=always
@@ -2587,11 +2587,11 @@
 24	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	25	mod/m	_	Gloss=Sub=
 25	baː	baː	VERB	_	_	17	parataxis@mod	_	Gloss=give
 26	tà	ta	PRON	_	Gender=Fem|Person=3	25	comp:obj@R	_	Gloss=3Fem
-27	àbuːbuwàn	àbuːbuwàː	NOUN	_	Definite=Def|Number=Plur	25	comp:obj@T	_	Gloss=things.Plur.Def
-28	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=that
+27	àbuːbuwàn	àbuːbuwàː	NOUN	_	Definite=Def|Number=Plur	25	comp:obj@T	_	Gloss=things.Plur.Def|RelAnt=Yes
+28	dà	dà	SCONJ	_	_	27	mod@relcl	_	Gloss=CompRel|Relz=Word
 29	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 30	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=c=
-31	cêː	cêː	VERB	_	_	28	comp:obj	_	Gloss=say|SpaceAfter=No
+31	cêː	cêː	VERB	_	_	28	comp:obj	_	ClauseType=Rel|Gloss=say|RelRole=obj|SpaceAfter=No
 32	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 33	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 34	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	35	mod/m	_	Gloss=Sub=
@@ -2659,7 +2659,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 77000, 78000
-# text = tab bâː màːtam maːlàm , kuma sai tà baː tà kaːyan dà ɗan sarkiː yab baː tà , yac cêː tà kai matà .
+# text = ta-Ø= bâː màːta-m maːlàm, kuma sai ta-_̀= baː tà kaːyan dà ɗa-n sarkiː ya-Ø= baː tà, ya-Ø= cêː ta-_̀= kai matà.
 # text_en = She gave it to the malam's wife, and she gave her the things that the chief's son had given her and told her to give her.
 # text_ortho = tab baà màatam maalàm, kuma sai tà baa tà kaayan dà ɗan saᵲkii yab baa tà, yac ceè tà kai matà.
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tab
@@ -2675,15 +2675,15 @@
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub=
 12	baː	baː	VERB	_	_	3	conj:coord	_	Gloss=give
 13	tà	ta	PRON	_	Gender=Fem|Person=3	12	comp:obj@R	_	Gloss=3Fem
-14	kaːyan	kaːyaː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj@T	_	Gloss=things.Masc.Def
-15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=that
+14	kaːyan	kaːyaː	NOUN	_	Definite=Def|Gender=Masc	12	comp:obj@T	_	Gloss=things.Masc.Def|RelAnt=Yes
+15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=CompRel|Relz=Word
 16	ɗa	ɗaː	NOUN	_	Gender=Masc	21	subj	_	Gloss=son|SpaceAfter=No|wordform=ɗan
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur
 18	sarkiː	sarkiː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=chief.Masc
 19	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
 20	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=b=
-21	baː	baː	VERB	_	_	15	comp:obj	_	Gloss=give
-22	tà	ta	PRON	_	Gender=Fem|Person=3	21	comp:obj	_	Gloss=3Fem|SpaceAfter=No
+21	baː	baː	VERB	_	_	15	comp:obj	_	ClauseType=Rel|Gloss=give|RelRole=T
+22	tà	ta	PRON	_	Gender=Fem|Person=3	21	comp:obj@R	_	Gloss=3Fem|SpaceAfter=No
 23	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 24	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 25	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=c=
@@ -2904,7 +2904,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 84000, 85000
-# text = dà màːtam maːlàm tah hwaɗàː mà s'oːhuwaː hakà nan, s'oːhuwaː taz zoː tag gayàː mà ɗan sarkiː àbun dà màːtam maːlàm tag gayàː matà.
+# text = dà màːta-m maːlàm ta-Ø= hwaɗàː mà s'oːhuwaː hakànan, s'oːhuwaː ta-Ø= zoː ta-Ø= gayàː mà ɗa-n sarkiː àbùn dà màːta-m maːlàm ta-Ø= gayàː matà.
 # text_en = When the malam's wife had said so to the old woman, the old woman went and told the chief's son what the malam's wife hat told her.
 # text_ortho = dà màatam maalàm tah hwaɗàa mà s’oohuwaa hakà nan, s’oohuwaa taz zoo tag gayàa mà ɗan saᵲkii ’àbun dà màatam maalàm tag gayàa matà.
 1	dà	dà	SCONJ	_	_	15	mod	_	Gloss=when
@@ -2929,14 +2929,14 @@
 20	ɗa	ɗaː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=son|SpaceAfter=No|wordform=ɗan
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Masc/Plur
 22	sarkiː	sarkiː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=chief.Masc
-23	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	18	comp:obj@T	_	Gloss=thing.Masc.Def
-24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=that
+23	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	18	comp:obj@T	_	Gloss=thing.Masc.Def|RelAnt=Yes
+24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=CompRel|Relz=Word
 25	màːta	màːtaː	NOUN	_	Gender=Fem	30	subj	_	Gloss=wife.Fem|SpaceAfter=No|wordform=màːtam
 26	-m	na	PART	_	Case=Gen|PartType=Case	25	udep/m	_	Gloss=Gen.Fem|wordform=-C
 27	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=malam.Masc
 28	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tag
 29	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=g=
-30	gayàː	gayàː	VERB	_	_	24	comp:obj	_	Gloss=tell
+30	gayàː	gayàː	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=tell|RelRole=obj
 31	matà	mutà	PRON	_	Gender=Fem|Person=3	30	comp:obl	_	Gloss=3Fem.Dat|SpaceAfter=No
 32	.	.	PUNCT	_	_	15	punct	_	Gloss=.
 
@@ -3012,8 +3012,8 @@
 34	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 35	suː	suː	PRON	_	Number=Plur|Person=3	30	conj:appos	_	Gloss=3Plur
 36	maː	maː	PART	_	PartType=Top	35	discourse@top	_	Gloss=even
-37	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	39	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-38	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	39	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+37	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	39	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+38	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	39	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 39	hitoː	hita	VERB	_	_	23	parataxis@conj	_	Gloss=get_out.Dir|SpaceAfter=No
 40	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
@@ -3024,8 +3024,8 @@
 # text = ankà tàhi wurin iːdì: .
 # text_en = They went to the place of the ceremony.
 # text_ortho = ’ankà tàhi wuᵲin ’iidìi.
-1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	tàhi	tàhi	VERB	_	_	0	root	_	Gloss=go
 4	wurin	wurin	ADP	_	_	3	comp:obl	_	Gloss=at
 5	iːdì:	iːdì:	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=ceremony.Masc|SpaceAfter=No
@@ -3039,8 +3039,8 @@
 # text_en = As they went to the place of the ceremony, himself, the chief's son, he climbed on his horse, he went and entered the malam's compound.
 # text_ortho = dà sunkà tàhi wuᵲin ’iidìi, šii kàu ɗan saᵲkii, sai yah hau dookìi, yaz zoo yaš šigèe gidan maalàm.
 1	dà	dà	SCONJ	_	_	17	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	tàhi	tàhi	VERB	_	_	1	comp:obj	_	Gloss=go
 5	wurin	wurin	ADP	_	_	4	comp:obj	_	Gloss=at
 6	iːdì:	iːdì:	NOUN	_	Gender=Masc	5	mod	_	Gloss=ceremony.Masc|SpaceAfter=No
@@ -3116,13 +3116,13 @@
 # text_en = Then they entered the hut, and started chatting.
 # text_ortho = sai sunkà šìga ɗakà, sunkà yi ta hiira.
 1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	shìga	shìga	VERB	_	_	0	root	_	Gloss=enter
 5	ɗakà	ɗakà	ADV	_	_	4	comp:obl	_	Gloss=in_the_room|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-7	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-8	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+7	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 9	yi	yi	VERB	_	_	4	parataxis@conj	_	Gloss=do
 10	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	11	mod	_	Gloss=Iter
 11	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	9	comp:pred	_	Gloss=chatting.Fem|SpaceAfter=No
@@ -3132,7 +3132,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 92000, 93000
-# text = su- nàː nan su- nàː hiːr̃a, kuma sunkà= yi àbun dà sunkà= yi.
+# text = su-nàː nan su-nàː hiːr̃a, kuma sun-kà= yi àbun dà sun-kà= yi.
 # text_en = They were there, chatting, and they did what they did.
 # text_ortho = su nàa nan su nàa hiira, kuma sunkà yi ’àbun dà sunkà yi.
 1	su-	su-	PRON	_	Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
@@ -3143,14 +3143,14 @@
 6	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=chatting.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 8	kuma	kuma	CCONJ	_	_	11	cc	_	Gloss=also
-9	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-10	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+9	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+10	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 11	yi	yi	VERB	_	_	5	conj:coord	_	Gloss=do
-12	àbun	àbù	NOUN	_	Definite=Def|Gender=Masc	11	comp:pred	_	Gloss=thing.Masc.Def
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=that
-14	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-15	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
-16	yi	yi	VERB	_	_	13	comp:obj	_	Gloss=do|SpaceAfter=No
+12	àbun	àbù	NOUN	_	Definite=Def|Gender=Masc	11	comp:pred	_	Gloss=thing.Masc.Def|RelAnt=Yes
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	Gloss=CompRel|Relz=Word
+14	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
+16	yi	yi	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=pred|SpaceAfter=No
 17	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_089-089
@@ -3161,8 +3161,8 @@
 # text_en = Then they chatted again.
 # text_ortho = kuma sunkà koomàa hiira.
 1	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=also
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	koːmàː	koːmàː	VERB	_	_	0	root	_	Gloss=return
 5	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=chatting.Fem|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
@@ -3852,8 +3852,8 @@
 # text_en = As they arrived at the house of the malam, the courtier and the malam, there was no horse, and there was no horse tracks.
 # text_ortho = dà sunkà zoo gidam maalàm, dà bàhwaadìi dà maalàm, baabù dookìi, kuma baabù san dookìi
 1	dà	dà	SCONJ	_	_	13	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	zoː	zoː	VERB	_	_	1	comp:obj	_	Gloss=come
 5	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj@G	_	Gloss=house.Masc
 6	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
@@ -3995,8 +3995,8 @@
 # text_en = Then they took the malam back to the chief's compound.
 # text_ortho = sai ’ankà koomàa dà maalàm, can gidan saᵲkii.
 1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	koːmàː	koːmàː	VERB	_	_	0	root	_	Gloss=return
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
@@ -4011,12 +4011,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 118000, 119000
-# text = dà ankà zoː dà maːlàmiː , wurin sarkiː , sai sarkiː yac cêː : tundà maːlàmiː , bâːshi dà laːhiyàː , yaː haukàceː , hay yaː yi mun ƙaryaː , yac cèː naː baː shì doːkì: , niː kâu bàn baː shì doːkì: ba , sai à ɗarmèː shi , à sâː shi kasòː .
+# text = dà a-nkà= zoː dà maːlàmiː, wurin sarkiː, sai sarkiː ya-Ø= cêː : tundà maːlàmiː, bâː -shi dà laːhiyàː, y-aː= haukàceː, hay y-aː= yi mun ƙaryaː, ya-Ø= cèː n-aː= baː shì doːkì:, niː kâu bà-n= baː shì doːkì: ba, sai a-_̀= ɗarmèː shi, a-_̀= sâː shi kasòː.
 # text_en = When they arrived with the malam at the chief's place, then the chief said : Since the malam is not well, he has gone so mad that he has lied to me, saying that I gave him a horse, whereas I, I did not give him a horse, let them tie him up and put him in jail.
 # text_ortho = dà ’ankà zoo dà maalàm, wuᵲin saᵲkii, sai saᵲkii yac ceè : tun dà maalàm, baà ši dà laahiyàa, yaa haukàcee, hay yaa yi mun ƙaᵲyaa, yac cèe naa baa šì dookìi, nii kàu bàm baa šì dookìi ba, sai ’à ɗaᵲmèe ši, ’à saà ši kasòo.
 1	dà	dà	SCONJ	_	_	15	mod	_	Gloss=when
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	zoː	zoː	VERB	_	_	1	comp:obj	_	Gloss=come
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
@@ -4031,16 +4031,16 @@
 15	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
 16	:	:	PUNCT	_	_	57	punct	_	Gloss=PUNCT
 17	tundà	tundà	SCONJ	_	_	57	mod	_	Gloss=since
-18	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	22	dislocated@subj	_	Gloss=malam.Masc|SpaceAfter=No
+18	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	20	dislocated@subj	_	Gloss=malam.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-20	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	22	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-21	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-22	dà	dà	ADP	_	_	17	comp:obj	_	Gloss=with
+20	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	17	comp:obj	_	Gloss=there_is.Neg|wordform=bâːshi
+21	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=-3Masc|wordform=bâːshi
+22	dà	dà	ADP	_	_	20	comp:pred	_	Gloss=with
 23	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	22	comp:obj	_	Gloss=health.Fem|SpaceAfter=No
 24	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 25	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 26	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	27	mod/m	_	Gloss=Perf.Sing
-27	haukàceː	haukàceː	VERB	_	_	22	parataxis@conj	_	Gloss=go_crazy|SpaceAfter=No
+27	haukàceː	haukàceː	VERB	_	_	20	parataxis:conj	_	Gloss=go_crazy|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	hay	hat	SCONJ	_	_	27	mod	_	Gloss=until
 30	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
@@ -4078,7 +4078,7 @@
 62	sâː	sâː	VERB	_	_	57	parataxis@conj	_	Gloss=put
 63	shi	shi	PRON	_	Gender=Masc|Person=3	62	comp:obj@T	_	Gloss=3Masc
 64	kasòː	kasòː	NOUN	_	Gender=Masc	62	comp:obj@L	_	Gloss=prison.Masc|SpaceAfter=No
-65	.	.	PUNCT	_	_	22	punct	_	Gloss=.
+65	.	.	PUNCT	_	_	15	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_114-114_split1
 # text = sai ankà ɗarmè maːlàm .
@@ -4088,8 +4088,8 @@
 # text_en = Then they tied up the malam.
 # text_ortho = sai ’ankà ɗaᵲmè maalàm.
 1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	ɗarmè	ɗarmèː	VERB	_	_	0	root	_	Gloss=tie.Ach
 5	maːlàm	maːlàm	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -4102,8 +4102,8 @@
 # text_en = When they had tied the malam, the chief got up and went home.
 # text_ortho = dà ’ankà ɗaᵲmè maalàm, saᵲkii yat taašì, yaš šìga gidaa.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	ɗarmè	ɗarmèː	VERB	_	_	1	comp:obj	_	Gloss=tie.Ach
 5	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -4122,7 +4122,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 120000, 121000
-# text = sai màːtas sarkiː gùdaː, taz zoː wurin sarkiː, tac cêː mà sarkiː : kaː ganiː sarkiː, kà sàki maːlàm, bâːshi dà lâihiː, kissàm -mù ceː ta maːtaː.
+# text = sai màːta-s sarkiː gùdaː, ta-Ø= zoː wurin sarkiː, ta-Ø= cêː mà sarkiː : k-aː= ganiː sarkiː, ka-_̀= sàki maːlàm, bâː -shi dà lâihiː, kissà-m-mù ceː ta maːtaː.
 # text_en = Then, one of the chief's wifes went to the chief's place, she told the chief : You see, chief, you should release the malam, he did nothing wrong, it's (just) female deception.
 # text_ortho = sai màatas saᵲkii gùdaa, taz zoo wuᵲin saᵲkii, tac ceè mà saᵲkii : kaa ganii saᵲkii, kà sàki maalàm, baà ši dà laìhii, kissàmmù cee ta maataa.
 1	sai	sai	ADV	_	_	9	mod	_	Gloss=then
@@ -4152,16 +4152,16 @@
 25	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	26	mod/m	_	Gloss=Sub=
 26	sàki	sàkaː	VERB	_	_	15	comp:obj@T	_	Gloss=release
 27	maːlàm	maːlàm	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
-28	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-29	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	31	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-30	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-31	dà	dà	ADP	_	_	26	parataxis@conj	_	Gloss=with
+28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
+29	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	26	parataxis:conj	_	Gloss=there_is.Neg|wordform=bâːshi
+30	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=-3Masc|wordform=bâːshi
+31	dà	dà	ADP	_	_	29	comp:pred	_	Gloss=with
 32	lâihiː	lâihiː	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=fault.Masc|SpaceAfter=No
 33	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 34	kissà	kissàː	NOUN	_	_	37	comp:pred	_	Gloss=deception.Fem|Poss=Yes|SpaceAfter=No|wordform=kissàmmù
 35	-m	na	PART	_	Case=Gen|PartType=Case	34	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 36	-mù	-mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	35	comp:obj	_	Gloss=1Plur.Gen
-37	ceː	neː	AUX	_	Copula=Yes|Gender=Fem	31	parataxis@conj	_	Gloss=be.Fem
+37	ceː	neː	AUX	_	Copula=Yes|Gender=Fem	29	parataxis:conj	_	Gloss=be.Fem
 38	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	34	mod	_	Gloss=Gen.Fem
 39	maːtaː	maːtaː	NOUN	_	Number=Plur	38	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
 40	.	.	PUNCT	_	_	9	punct	_	Gloss=.
@@ -4701,8 +4701,8 @@
 # text_ortho = sai hwàadàawaa sunkà ceè mai : ’allàa šì baa kà nasaràa, cikin wânga ᵲaanii, na watàm bakwài, ’ìnaa ’ad dà jìmɓiᵲii ?
 1	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 2	hwàːdàːwaː	hwàːdàːwaː	NOUN	_	Number=Plur	5	subj	_	Gloss=courtiers.Plur
-3	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-4	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 5	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
 6	mai	mai	PRON	_	Gender=Masc|Person=3	5	comp:obl	_	Gloss=3Masc.Dat
 7	:	:	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -4771,16 +4771,16 @@
 # text_en = When they went to the chief's wife's place, they told her: the chief said that you gave him green beans, give us ours.
 # text_ortho = dà sunkà tàhi wuᵲim màatas saᵲkii, sunkà ceè mutà : saᵲkii yaa ceè, kim baa šì jìmɓiᵲii, kì baa mù naamù.
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	tàhi	tàhi	VERB	_	_	1	comp:obj	_	Gloss=go
 5	wurim	wurin	ADP	_	_	4	comp:obl	_	Gloss=at
 6	màːta	màːtaː	NOUN	_	Gender=Fem	5	mod	_	Gloss=wife.Fem|SpaceAfter=No|wordform=màːtas
 7	-s	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Fem|wordform=-C
 8	sarkiː	sarkiː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=chief.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-10	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-11	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+10	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 12	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
 13	mutà	mutà	PRON	_	Gender=Fem|Person=3	12	comp:obl	_	Gloss=3Fem.Dat
 14	:	:	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -4883,11 +4883,11 @@
 # text_en = When they went, they told the chief.
 # text_ortho = dà sunkà zoo sunkà gayàa mà saᵲkii.
 1	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	zoː	zoː	VERB	_	_	1	comp:obj	_	Gloss=come
-5	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-6	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+5	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 7	gayàː	gayàː	VERB	_	_	0	root	_	Gloss=tell
 8	mà	mà	ADP	_	_	7	comp:obl	_	Gloss=Dat
 9	sarkiː	sarkiː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=chief.Masc|SpaceAfter=No
@@ -4897,7 +4897,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 141000, 142000
-# text = sarkiː yat taːshì , yat tàhi cikin gidaː , wurim màːtaː =tai , yac cêː : ìnaː jìmɓirin dà kib baː nì ?
+# text = sarkiː ya-Ø= taːshì, ya-Ø= tàhi cikin gidaː, wurim màːtaː-t-ai , ya-Ø= cêː : ìnaː jìmɓirin dà ki-Ø= baː nì ?
 # text_en = The chief got up, went inside the compound to his wife's place, and said : Where are the green beans you gave me?
 # text_ortho = saᵲkii yat taašì, yat tàhi cikin gidaa, wuᵲim màataatai, yac ceè : ’ìnaa jìmɓiᵲin dà kib baa nì ?
 1	sarkiː	sarkiː	NOUN	_	Gender=Masc	4	subj	_	Gloss=chief.Masc
@@ -4921,11 +4921,11 @@
 19	cêː	cêː	VERB	_	_	8	parataxis@conj	_	Gloss=say
 20	:	:	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	ìnaː	ìnaː	ADV	_	_	19	comp:obj@T	_	Gloss=where.Int
-22	jìmɓirin	jìmɓiriː	NOUN	_	Definite=Def|Gender=Masc	21	comp:cleft	_	Gloss=green_beans.Masc.Def
-23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=that
+22	jìmɓirin	jìmɓiriː	NOUN	_	Definite=Def|Gender=Masc	21	comp:cleft	_	Gloss=green_beans.Masc.Def|RelAnt=Yes
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
 24	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	26	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kib
 25	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=b=
-26	baː	baː	VERB	_	_	23	comp:obj	_	Gloss=give
+26	baː	baː	VERB	_	_	23	comp:obj	_	ClauseType=Rel|Gloss=give|RelRole=T
 27	nì	ni	PRON	_	Person=1	26	comp:obj@R	_	Gloss=1Sing
 28	?	?	PUNCT	_	_	4	punct	_	Gloss=?
 
@@ -5036,13 +5036,13 @@
 # text_en = Then they tied up the chief, they put him in jail, there where the malam was.
 # text_ortho = sai ’ankà ɗaᵲmè saᵲkii, ’ankà saà kasòo, can wuᵲim maalàmii.
 1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	ɗarmè	ɗarmèː	VERB	_	_	0	root	_	Gloss=tie.Ach
 5	sarkiː	sarkiː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=chief.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-8	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+7	an-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 9	sâː	sâː	VERB	_	_	4	parataxis@conj	_	Gloss=put
 10	kasòː	kasòː	NOUN	_	Gender=Masc	9	comp:obj@L	_	Gloss=prison.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -5114,8 +5114,8 @@
 # text_en = When they released the chief, the chief's wife asked the chief: What put you in jail?
 # text_ortho = dà ’ankà sakoo saᵲkii, màatas saᵲkii tat tàmbàyi saᵲkii : mìi yas saà ka kasòo ?
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	sakoː	sàkaː	VERB	_	_	1	comp:obj	_	Gloss=release.Dir
 5	sarkiː	sarkiː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=chief.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5183,7 +5183,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 151000, 152000
-# text = dà kaɗ ɗarmè maːlàmiː, kas sâː cikin kasòː, nic cêː makà à sàki maːlàmiː, bâːshi dà lâihiː, cikin màganàn nan, kissàm -mù ceː ta maːtaː.
+# text = dà ka-Ø= ɗarmè maːlàmiː, ka-Ø= sâː cikin kasòː, ni-Ø= cêː makà a-_̀= sàki maːlàmiː, bâː -shi dà lâihiː, cikin màganàn nan, kissà-m-mù ceː ta maːtaː.
 # text_en = When you tied up the malam, you put him in jail, I told you to release him, he did nothing wrong, that that story was a matter of female deception.
 # text_ortho = dà kaɗ ɗaᵲmè maalàm, kas saà cikin kasòo, nic ceè maa ’à sàki maalàm, baà ši dà laìhii, cikim màganàn nan, kissàmmù cee ta maataa.
 1	dà	dà	SCONJ	_	_	15	mod	_	Gloss=when
@@ -5206,10 +5206,10 @@
 18	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	19	mod/m	_	Gloss=Sub=
 19	sàki	sàkaː	VERB	_	_	15	comp:obj@T	_	Gloss=release
 20	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
-21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-22	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	24	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-23	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-24	dà	dà	ADP	_	_	19	parataxis@conj	_	Gloss=with
+21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+22	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	19	parataxis:conj	_	Gloss=there_is.Neg
+23	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=-3Masc
+24	dà	dà	ADP	_	_	22	comp:pred	_	Gloss=with
 25	lâihiː	lâihiː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=fault.Masc|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	cikin	cikin	ADP	_	_	24	mod	_	Gloss=in(side)
@@ -5219,7 +5219,7 @@
 31	kissà	kissàː	NOUN	_	_	34	comp:pred	_	Gloss=deception.Fem|Poss=Yes|SpaceAfter=No|wordform=kissàmmù
 32	-m	na	PART	_	Case=Gen|PartType=Case	31	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
 33	-mù	-mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	32	comp:obj	_	Gloss=1Plur.Gen
-34	ceː	neː	AUX	_	Copula=Yes|Gender=Fem	24	parataxis@conj	_	Gloss=be.Fem
+34	ceː	neː	AUX	_	Copula=Yes|Gender=Fem	22	parataxis:conj	_	Gloss=be.Fem
 35	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	31	mod	_	Gloss=Gen.Fem
 36	maːtaː	maːtaː	NOUN	_	Number=Plur	35	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
 37	.	.	PUNCT	_	_	15	punct	_	Gloss=.

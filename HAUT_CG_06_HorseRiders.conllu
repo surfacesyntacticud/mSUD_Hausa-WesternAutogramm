@@ -34,7 +34,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 1000, 2000
-# text = wannàn gùdaː shinàː dà doːkìː, gùdaː kâu bâːshi dà doːkìː.
+# text = wannàn gùdaː shi-nàː dà doːkìː, gùdaː kâu bâː -shi dà doːkìː.
 # text_en = This one has a horse, but that one does not.
 # text_ortho = wannàn gùdaa ši nàa dà dookìː, gùdaa kàu baà šì dà dookìː.
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
@@ -44,11 +44,11 @@
 5	dà	dà	ADP	_	_	4	comp:pred	_	Gloss=with
 6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-8	gùdaː	gùdaː	NUM	_	_	12	dislocated@subj	_	Gloss=one
+8	gùdaː	gùdaː	NUM	_	_	10	dislocated@subj	_	Gloss=one
 9	kâu	kàu	PART	_	PartType=Top	8	discourse@top	_	Gloss=whereas
-10	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	12	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-11	shi=	shi	PRON	_	Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-12	dà	dà	ADP	_	_	4	parataxis@conj	_	Gloss=with
+10	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	parataxis:conj	_	Gloss=there_is.Neg
+11	-shi	shi	PRON	_	Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=-3Masc|wordform=bâːshi
+12	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
 13	doːkìː	doːkìː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
@@ -359,14 +359,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 12000, 13000
-# text = àbun dà yay yi naɗìː, don kâm màːtaːtai tà gaːnèː shi.
+# text = àbùn dà ya-Ø= yi naɗìː, don kâm màːtaː-t-ai ta-_̀= gaːnèː shi.
 # text_en = The reason why he put on a turban was to prevent his wife from recognising him.
 # text_ortho = ’àbun dà yay yi naɗìː, don kam̀ màataatai tà gaanèe ši.
-1	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	8	dislocated@subj	_	Gloss=thing.Masc.Def
-2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=that
+1	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	8	dislocated@subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
-5	yi	yi	VERB	_	_	2	comp:obj	_	Gloss=do
+5	yi	yi	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
 6	naɗìː	naɗìː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:pred	_	Gloss=wind.Nmlz.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	don	don	SCONJ	_	_	0	root	_	Gloss=because
@@ -482,7 +482,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 16000, 17000
-# text = dà yat tàhiyàːtai , yaz zoː gàrin dà zâː ta , sai yas sàbka wani gidaː , bài sàbka indà akà bìkiː ba .
+# text = dà ya-Ø= tàhiyàː-t-ai , ya-Ø= zoː gàrin dà zâː ta, sai ya-Ø= sàbka wani gidaː, bà-ì= sàbka indà a-kà bìkiː ba.
 # text_en = As he went on, he arrived to the town where she was going, he stopped at another house, he did not stop where the party was taking place.
 # text_ortho = dà yat tàhiyàatai, yaz zoo gàᵲin dà zaà ta, sai yas sàbka wani gidaa, bài sàbka ’indà ’a kà bìkii ba.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
@@ -495,9 +495,9 @@
 8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=z=
 10	zoː	zoː	VERB	_	_	0	root	_	Gloss=come
-11	gàrin	gàriː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj@G	_	Gloss=town.Masc.Def
-12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=that
-13	zâː	zâː	PART	_	PartType=Pred	12	comp:obj	_	Gloss=Dir
+11	gàrin	gàriː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj@G	_	Gloss=town.Masc.Def|RelAnt=Yes
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
+13	zâː	zâː	PART	_	PartType=Pred	12	comp:obj	_	ClauseType=Rel|Gloss=Dir|RelRole=G
 14	ta	ta	PRON	_	Gender=Fem|Person=3	13	subj	_	Gloss=3Fem|SpaceAfter=No
 15	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 16	sai	sai	ADV	_	_	19	mod	_	Gloss=then
@@ -692,8 +692,8 @@
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Masc.Gen
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-9	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-10	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+9	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+10	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 11	yi	yi	VERB	_	_	0	root	_	Gloss=do
 12	màganàː	màganàː	NOUN	_	Gender=Fem	11	comp:pred	_	Gloss=talk.Fem|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -814,8 +814,8 @@
 # text_en = When they talked about going to bed with her, she said she agreed, he said she should go and prepare herself, prepare herself to go to bed.
 # text_ortho = dà sunkà yi màganàk kwaanaa dà ’ita, tac ceè taa yàrdaa, yac ceè tà tàhi tà šiᵲyoo, tà šiᵲyoo šiᵲìn kwaanaa.
 1	dà	dà	SCONJ	_	_	13	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
 5	màganà	màganàː	NOUN	_	Gender=Fem	4	comp:pred	_	Gloss=talk.Fem|SpaceAfter=No|wordform=màganàk
 6	-k	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|wordform=-C
@@ -871,8 +871,8 @@
 14	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	13	comp:obj/m	_	Gloss=3Masc.Gen
 15	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 16	sai	sai	ADV	_	_	19	mod	_	Gloss=then
-17	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-18	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+17	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+18	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 19	yi	yi	VERB	_	_	11	parataxis@conj	_	Gloss=do
 20	kwântaː	kwântaː	VERB	_	_	19	comp:pred	_	Gloss=lie_down.Part|SpaceAfter=No
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -885,8 +885,8 @@
 # text_en = When they went to bed, he took that heavy wrapper, he said they should cover themselves with it.
 # text_ortho = dà sunkà yi kwànce, sai yaɗ ɗaukoo zanèn ga mài kabᵲii, yac ceè sù ᵲùhwa dà šii.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
 5	kwântaː	kwântaː	VERB	_	_	4	comp:pred	_	Gloss=lie_down.Part|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -916,8 +916,8 @@
 # text = sunkà rùhwa dà zanèː.
 # text_en = They covered themselves with the wrapper.
 # text_ortho = sunkà ᵲùhwa dà zanèe.
-1	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	rùhwa	rùhwa	VERB	_	_	0	root	_	Gloss=be_covered
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	zanèː	zanèː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=wrapper.Masc|SpaceAfter=No
@@ -931,8 +931,8 @@
 # text_en = After they had covered themselves with the wrapper, he pulled her close to his body and hugged her.
 # text_ortho = dà sunkà ᵲùhwa dà zanèe, sai yaj jaawoo tà, kusa gà jìkiinai, yaᵲ ᵲungùmee ta.
 1	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	rùhwa	rùhwa	VERB	_	_	1	comp:obj	_	Gloss=be_covered
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	zanèː	zanèː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=wrapper.Masc|SpaceAfter=No
@@ -1368,8 +1368,8 @@
 19	mai	may-	VERB	_	_	11	parataxis	_	Gloss=give_back
 20	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=thanks.Fem|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-22	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-23	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+22	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+23	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 24	yi	yi	VERB	_	_	11	parataxis@conj	_	Gloss=do
 25	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc	24	comp:pred	_	Gloss=give.Nmlz.Masc
 26	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	25	compound	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No

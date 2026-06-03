@@ -12,11 +12,11 @@
 5	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	Gender=Masc	3	comp:obj@T	_	Gloss=story.Masc
 6	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	8	det	_	Gloss=some.Masc
-8	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	6	comp:obj	_	Gloss=Fulani.Masc
-9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=that
+8	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	6	comp:obj	_	Gloss=Fulani.Masc|RelAnt=Yes
+9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=CompRel|Relz=Word
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 11	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
-12	yi	yi	VERB	_	_	9	comp:obj	_	Gloss=do
+12	yi	yi	VERB	_	_	9	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=subj
 13	làːlaːtàː	làːlaːtàː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=immorality.Fem|SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 15	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
@@ -283,8 +283,8 @@
 # text = sunkà yi shaːwar̃àː ,
 # text_en = They made a plan.
 # text_ortho = sunkà yi šaawaràa,
-1	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	yi	yi	VERB	_	_	0	root	_	Gloss=do
 4	shaːwar̃àː	shaːwar̃àː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=deliberation.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -333,14 +333,14 @@
 # text_en = After this, they started travelling // Him and the mother-in-law, they are on the way to the bush.
 # text_ortho = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàa, dà šii dà sàᵲàkkuwaa, su nàa biǹ daajìi.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
 5	hakànan	hakànan	ADV	_	_	4	mod	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
-8	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-9	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+8	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+9	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 10	yi	yi	VERB	_	_	0	root	_	Gloss=do
 11	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	12	mod	_	Gloss=Iter
 12	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	10	comp:pred	_	Gloss=go.Vnoun.Fem|SpaceAfter=No
@@ -382,8 +382,8 @@
 # text_ortho = sai dà sunkà zoo gà daajìi, s’akad daajìi, baabù hanyàa,
 1	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 2	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
-3	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-4	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 5	zoː	zoː	VERB	_	_	2	comp:obj	_	Gloss=come
 6	gà	gà	ADP	_	_	5	comp:obl	_	Gloss=at
 7	daːjìː	daːjìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=bush.Masc|SpaceAfter=No
@@ -535,7 +535,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_04_Fulani_Mother-in-law.WAV
 # sent_timecode = 15000, 16000
-# text = tôː bàri ìn yi wata dùbaːr̃àː , ìn tàmbàyi dawàː , ham mù ji àbun dà dawàː yac cèː .
+# text = tôː bàri in-_̀= yi wata dùbaːr̃àː, in-_̀= tàmbàyi dawàː, ham mu-_̀= ji àbun dà dawàː ya-Ø= cèː.
 # text_en = Well, let me try something, let me ask the bush so that we'll har what the bush says.
 # text_ortho = toò bàᵲi ’in yi wata dùbaaràa, ’in tàmbàyi dawàa, ham mù ji ’àbun dà dawàa yac cèe.
 1	tôː	tôː	INTJ	_	_	2	discourse	_	Gloss=well
@@ -555,12 +555,12 @@
 15	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	17	subj/m	_	Gloss=1Plur-|SpaceAfter=No|wordform=mù
 16	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	17	mod/m	_	Gloss=Sub=
 17	ji	ji	VERB	_	_	14	comp:obj	_	Gloss=feel/hear
-18	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=thing.Masc.Def
-19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=that
+18	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	dawàː	dawàː	NOUN	_	Gender=Masc	23	subj	_	Gloss=bush.Masc
 21	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 22	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=c=
-23	cèː	cêː	VERB	_	_	19	comp:obj	_	Gloss=say|SpaceAfter=No
+23	cèː	cêː	VERB	_	_	19	comp:obj	_	ClauseType=Rel|Gloss=say|RelRole=obj|SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_17
@@ -733,12 +733,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_04_Fulani_Mother-in-law.WAV
 # sent_timecode = 24000, 26000
-# text = dà sunkà yi hakà nan , shiː bàhillaːcèː , sai yac cêː mà sàràkkuwaːtai : tôː kinàː jîn àbun dà dawàː yac cêː ?
+# text = dà sun-kà= yi hakànan, shiː bàhillaːcèː, sai ya-Ø= cêː mà sàràkkuwaː-t-ai : tôː ki-nàː jîn àbun dà dawàː ya-Ø= cêː ?
 # text_en = After they did like this, the Fulani, he told his mother-in-law : Well, you hear what the bush has said.
 # text_ortho = dà sunkà yi hakà nan, šii bàhillaacèe, sai yac ceè mà sàᵲàkkuwaatai : toò ki nàa jiǹ ’àbun dà dawàa yac ceè.
 1	dà	dà	SCONJ	_	_	13	mod	_	Gloss=when
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
 5	hakànan	hakànan	ADV	_	_	4	mod	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -758,12 +758,12 @@
 20	ki-	ki-	PRON	_	Gender=Fem|Person=2|PronType=Prs	21	subj/m	_	Gloss=2Fem|SpaceAfter=No
 21	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	comp:obj@T	_	Gloss=Prog|wordform=kinàː
 22	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	21	comp:pred	_	Gloss=hear.Vnoun.Masc
-23	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	22	udep	_	Gloss=thing.Masc.Def
-24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=that
+23	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	22	udep	_	Gloss=thing.Masc.Def|RelAnt=Yes
+24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=CompRel|Relz=Word
 25	dawàː	dawàː	NOUN	_	Gender=Masc	28	subj	_	Gloss=bush.Masc
 26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 27	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=c=
-28	cêː	cêː	VERB	_	_	24	comp:obj	_	Gloss=say
+28	cêː	cêː	VERB	_	_	24	comp:obj	_	ClauseType=Rel|Gloss=say|RelRole=obj
 29	?	?	PUNCT	_	_	13	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_27
@@ -822,7 +822,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_04_Fulani_Mother-in-law.WAV
 # sent_timecode = 28000, 29000
-# text = ai sai kà yi àbun dà kay yi niyyàː .
+# text = ai sai ka-_̀= yi àbun dà ka-Ø= yi niyyàː.
 # text_en = Eh, do your best.
 # text_ortho = ’ai sai kà yi ’àbun dà kay yi niyyàa.
 1	ai	ai	INTJ	_	_	5	discourse	_	Gloss=eh
@@ -830,12 +830,12 @@
 3	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	5	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
 4	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	5	mod/m	_	Gloss=Sub=
 5	yi	yi	VERB	_	_	0	root	_	Gloss=do
-6	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=thing.Masc.Def
-7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=that
+6	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
+7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=CompRel|Relz=Word
 8	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	10	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kay
 9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
-10	yi	yi	VERB	_	_	7	comp:obj	_	Gloss=do
-11	niyyàː	niyyàː	NOUN	_	Gender=Fem	10	comp:pred	_	Gloss=effort.Fem|SpaceAfter=No
+10	yi	yi	VERB	_	_	7	comp:obj	_	ClauseType=Rel|Gloss=do
+11	niyyàː	niyyàː	NOUN	_	Gender=Fem	10	comp:pred	_	Gloss=effort.Fem|RelRole=udep|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_30
@@ -897,8 +897,8 @@
 # text_en = They went on travelling after he had sex with her.
 # text_ortho = sai sunkà yi ta tàhiyàa dà yac cii tà.
 1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	yi	yi	VERB	_	_	0	root	_	Gloss=do
 5	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	6	mod	_	Gloss=Iter
 6	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	4	comp:pred	_	Gloss=go.Vnoun.Fem
