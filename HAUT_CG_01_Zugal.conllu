@@ -3042,7 +3042,7 @@
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yam=
 13	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=m=
-14	Ø	yi	VERB	_	_	11	comp:obj	_	ClauseType=Rel|Gloss=do|RelPos=Yes
+14	Ø	yi	VERB	_	_	11	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obj
 15	mâː	mà	ADP	_	_	14	comp:obl	_	Gloss=Dat
 16	màccè	màccè	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=female.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -5505,7 +5505,7 @@
 5	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	comp:obj	_	ClauseType=Rel|Gloss=there_is.Neg
 7	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem|RelPos=Yes
-8	dà	dà	ADP	_	_	6	comp:pred	_	ClauseType=Rel|Gloss=with|RelRole=subj
+8	dà	dà	ADP	_	_	6	comp:pred	_	ClauseType=Rel|Gloss=with
 9	zuccìyaː	zuccìyaː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=heart.Fem|SpaceAfter=No
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
@@ -5991,7 +5991,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 163090, 163246
-# text = suː wa’ànnan hakuːkuwàː koː can dà ùbangijìː ya-Ø= yoː sù, dom maːgàni-n màllakàː, dum màcce-d dà a-nkà= sâː mâː su, cikim maːgàniː, in ta-Ø= ciː sù, tiːlàs a-_̀= màllàkeː tà.
+# text = suː wa’ànnan hakuːkuwàː koː can dà ùbangijìː ya-Ø= yoː sù, dom maːgàni-n màllakàː, dum màcce-d dà an-kà= sâː mâː su, cikim maːgàniː, in ta-Ø= ciː sù, tiːlàs a-_̀= màllàkeː tà.
 # text_en = As for those grasses that God has made as medicine for possession, any woman to whom you give them in a medicine, if she eats them, she has to be possession.
 # text_ortho = suu wa’ànnan hakuukuwàa, koo can dà ùbangijìi yay yoo sù, dom maagànim màllakàa, dum màccen dà ’ankà saà maà su, cikim maagànii, ’in tac cii sù, tiilàs ’à màllàkee tà.
 1	suː	suː	PRON	_	Number=Plur|Person=3	40	dislocated@top	_	Gloss=3Plur
