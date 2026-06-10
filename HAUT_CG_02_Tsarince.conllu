@@ -2240,15 +2240,15 @@
 22	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	24	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 23	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Fem=|wordform=bâːta
 24	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	21	comp:obj	_	Gloss=like/love/want.Nmlz.Masc
-25	mijìn	mijìː	NOUN	_	Definite=Def	24	udep	_	Gloss=husDef
+25	mijìn	mijìː	NOUN	_	Definite=Def	24	udep	_	Gloss=husDef|RelAnt=Yes
 26	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	25	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 27	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-28	wandà	wandà	PRON	_	PronType=Rel	32	comp:obj	_	Gloss=who
+28	wandà	wandà	PRON	_	PronType=Rel	32	comp:obj	_	Gloss=who.Rel|Relz=Word
 29	uwàːyeː	uwàːyeː	NOUN	_	Number=Plur	32	subj	_	Gloss=parents.Plur
 30	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	32	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 31-32	nkà=	_	_	_	_	_	_	_	_
 31	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	32	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-32	yi	yi	VERB	_	_	25	mod@relcl	_	Gloss=do
+32	yi	yi	VERB	_	_	25	mod@relcl	_	ClauseType=Rel|Gloss=do|RelRole=obj
 33	mutà	mutà	PRON	_	Gender=Fem|Person=3	32	comp:obl	_	Gloss=3Fem.Dat|SpaceAfter=No
 34	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 35	sai	sai	ADV	_	_	38	mod	_	Gloss=then
@@ -2538,7 +2538,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 58000, 59000
-# text = in sarmàyiː yag ga bùdurwaː , wandà shikà sôː , sai in dareː yaː yi , shì sanyà riːgunàːnai , shì sâː hùllaː , kuma shì yi naɗiː , shì shaːhwà turàːreː , shì raːtàyà takòːbiː .
+# text = in sarmàyiː ya-C= ga bùdurwaː, wandà shi-kà sôː, sai in dareː y-aː= yi, shi-_̀= sanyà riːgunàː-n-ai , shi-_̀= sâː hùllaː, kuma shi-_̀= yi naɗiː, shi-_̀= shaːhwà turàːreː, shi-_̀= raːtàyà takòːbiː.
 # text_en = When a boy sees a girl that he likes, when night comes, he dresses up, puts on a cap, or a turban, puts on some perfume, and takes his sword.
 # text_ortho = ’in saᵲmàyii yag ga bùduᵲwaa, waddà ši kà soò, sai ’in daᵲee yaa yi, šì sanyà ᵲiigunàanai, šì saà hùllaa, kuma šì yi naɗii, šì šaahwà tùᵲàaᵲee, šì ᵲaatàyà takòobii.
 1	in	in	SCONJ	_	_	22	mod	_	Gloss=if
@@ -2546,11 +2546,11 @@
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yag
 4	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=g=
 5	ga	ganiː	VERB	_	_	1	comp:obj	_	Gloss=see
-6	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=girl.Fem|SpaceAfter=No
+6	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=girl.Fem|RelAnt=Yes|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-8	wandà	wandà	PRON	_	Gender=Fem|PronType=Rel	10	udep	_	Gloss=who.Fem
+8	wandà	wandà	PRON	_	Gender=Fem|PronType=Rel	11	udep	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpaceAfter=No
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=shikà
+10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	mod@relcl	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|wordform=shikà
 11	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 13	sai	sai	ADV	_	_	22	mod	_	Gloss=then

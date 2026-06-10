@@ -819,7 +819,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 27000, 29000
-# text = sai à sàːmu goːr̃ò s'uyèn zaːkìː , goːr̃ò mùlmùlalleː , mài kàmaƙ ƙòːdagòː , wandà yay yi zùndà-zundàː kàmaz zùngùr̃uː .
+# text = sai a-_̀= sàːmu goːr̃ò s'uyè-n zaːkìː, goːr̃ò mùlmùlalleː, mài kàma-ƙ ƙòːdagòː, wandà ya-C= yi zùndà-zundàː kàmaz zùngùr̃uː.
 # text_en = Then get kola like lion testes, round kola, like oblong gourds, hanging like palm-fruit.
 # text_ortho = sai ’à ’ajèe, sai ’à sàamu goorò s’uyèn zaakìi, goorò mùlmùlallee, mài kàmaƙ ƙòodagòo, wandà yay yi zùndà-zundaː kàmaz zùngùruu.
 1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
@@ -831,7 +831,7 @@
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	zaːkìː	zaːkìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=lion.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	goːr̃ò	goːr̃ò	NOUN	_	Gender=Masc	5	conj:dicto	_	Gloss=kola.Masc
+10	goːr̃ò	goːr̃ò	NOUN	_	Gender=Masc	5	conj:dicto	_	Gloss=kola.Masc|RelAnt=Yes
 11	mùlmùlalleː	mùlmùlalleː	ADJ	_	Gender=Masc	10	mod	_	Gloss=round.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	mài	mài	PART	_	Number=Sing|PartType=Der	10	mod	_	Gloss=owner_of.Sing
@@ -839,10 +839,10 @@
 15	-ƙ	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Fem|wordform=-C
 16	ƙòːdagòː	ƙòːdagòː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=palm_fruit.Masc|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=who.Masc
+18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
 19	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 20	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
-21	yi	yi	VERB	_	_	10	mod@relcl	_	Gloss=do
+21	yi	yi	VERB	_	_	10	mod@relcl	_	ClauseType=Rel|Gloss=do
 22	zùndà-zundàː	zùndà-zundàː	ADV	_	_	21	comp:pred	_	Gloss=elongated|Ideo=Yes
 23	kàmaz	kàmat	ADP	_	_	21	mod	_	Gloss=like
 24	zùngùr̃uː	zùngùr̃uː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=long_gourd.Masc|SpaceAfter=No
@@ -1147,7 +1147,7 @@
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_039-040
-# text = in zâː a yîn wani zuːgàl na maːtaː , sai à sàːmu ciːtòn taːbàː , wandà hwaram màccè tash shaː tay yaddàː .
+# text = in zâː-'a=yîn wani zuːgàl na maːtaː, sai a-_̀= sàːmu ciːtò-n taːbàː, wandà hwaram màccè ta-C= shaː ta-C= yaddàː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 35877, 36999
@@ -1168,14 +1168,14 @@
 13	sàːmu	saːmùː	VERB	_	_	0	root	_	Gloss=get
 14	ciːtò	ciːtòː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=quid|SpaceAfter=No|wordform=ciːtòn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
-16	taːbàː	taːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=tobacco.Fem|SpaceAfter=No
+16	taːbàː	taːbàː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=tobacco.Fem|RelAnt=Yes|SpaceAfter=No
 17	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	comp:obj	_	Gloss=who.Masc
+18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	comp:obj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
 19	hwaram	hwaraː	ADJ	_	Definite=Cons|Gender=Fem	20	mod	_	Gloss=white.Fem
 20	màccè	màccè	NOUN	_	Gender=Fem	23	subj	_	Gloss=female.Fem
 21	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tash
 22	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=sh=
-23	shaː	shaː	VERB	_	_	16	mod@relcl	_	Gloss=drink
+23	shaː	shaː	VERB	_	_	16	mod@relcl	_	ClauseType=Rel|Gloss=drink
 24	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tay
 25	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
 26	yaddàː	yaddàː	VERB	_	_	23	conj:coord	_	Gloss=throw_away|SpaceAfter=No
@@ -1431,7 +1431,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 43000, 44000
-# text = don shiː maːgànin zuːgàl , mùtum bâːshi mâː màccè waddà bâːshi sôː , sai waddà kakà sôː .
+# text = don shiː maːgàni-n zuːgàl, mùtum bâː- shi= mâː màccè waddà bâː- shi= sôː, sai waddà ka-kà sôː.
 # text_en = Because that "zugal" medicine, a man does not do it on a woman he does not love, only to the one you love.
 # text_ortho = don šii maagànin zuugàl, mùtum baà ši maà màccè waddà baà ši soò, sai waddà ka kà soò.
 1	don	don	SCONJ	_	_	10	discourse	_	Gloss=because
@@ -1444,11 +1444,11 @@
 8	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	10	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 9	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc=|wordform=bâːshi
 10	mâː	mâː	VERB	_	_	0	root	_	Gloss=do.Dat
-11	màccè	màccè	NOUN	_	Gender=Fem	10	comp:obj@R	_	Gloss=female.Fem
-12	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	15	comp:obj	_	Gloss=who.Fem
+11	màccè	màccè	NOUN	_	Gender=Fem	10	comp:obj@R	_	Gloss=female.Fem|RelAnt=Yes
+12	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	15	comp:obj	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
 13	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	15	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 14	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-15	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	11	mod@relcl	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
+15	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	11	mod@relcl	_	ClauseType=Rel|Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	sai	sai	ADP	_	_	10	mod	_	Gloss=only
 18	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	17	comp:obj	_	Gloss=who.Fem
@@ -2410,22 +2410,22 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 69000, 70000
-# text = in yag ga gujjiyaƙ ƙùrugàn nan, waddà yah hàɗaː, in yaː kaːsayoː tà, sai shì ɗaukèː ta, gujjiyân nan tar̃à, sai shì wankèː dà ruwaː.
+# text = in ya-C= ga gujjiya-ƙ ƙùrugàn nan, waddà ya-C= hàɗaː, in y-aː= kaːsayoː ta, sai shi-_̀= ɗaukèː ta, gujjiyân nan tar̃à, sai shi-_̀= wankèː dà ruwaː.
 # text_en = If he sees those groundnuts that he has eaten, if they are covered in feces, let him take those nine groundnuts, and wash them with water.
 # text_ortho = ’in yag ga gujjiyaƙ ƙùᵲugàn nan, waddà yah hàɗaa, ’in yaa kaasayoo tà, sai šì ɗaukèe ta, gujjiyaǹ nan tarà, sai šì wankèe dà ᵲuwaa.
 1	in	in	SCONJ	_	_	24	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yag
 3	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=g=
 4	ga	ganiː	VERB	_	_	1	comp:obj	_	Gloss=see
-5	gujjiya	gujjiyaː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=groundnut.Fem|SpaceAfter=No|wordform=gujjiyaƙ
+5	gujjiya	gujjiyaː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=groundnut.Fem|RelAnt=Yes|SpaceAfter=No|wordform=gujjiyaƙ
 6	-ƙ	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|wordform=-C
 7	ƙùrugàn	ƙùrugà	NOUN	_	Definite=Def|Gender=Fem	6	comp:obj	_	Gloss=one_seed_groundnut.Fem.Def
 8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 9	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-10	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	13	comp:obj	_	Gloss=who.Fem
+10	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	13	comp:obj	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
 11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
 12	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=h=
-13	hàɗaː	hàɗaː	VERB	_	_	5	mod@relcl	_	Gloss=swallow|SpaceAfter=No
+13	hàɗaː	hàɗaː	VERB	_	_	5	mod@relcl	_	ClauseType=Rel|Gloss=swallow|SpaceAfter=No
 14	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 15	in	in	SCONJ	_	_	24	mod	_	Gloss=if
 16	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
@@ -2811,7 +2811,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 79000, 80000
-# text = in ankà yankèː mai bàːkiː, wânnan gàːrim maːgàniː, wandà ankà ajèː, sai à ɗàukeː shì, à zubàː shi cikin ƙàhoː.
+# text = in an-kà= yankèː mai bàːkiː, wânnan gàːri-n maːgàniː, wandà an-kà= ajèː, sai a-_̀= ɗàukeː shì, a-_̀= zubàː shi cikin ƙàhoː.
 # text_en = After you have removed the mouth, that powdered medicine that you have put aside, you take it, you pour it into the horn.
 # text_ortho = ’in ’ankà yankèe mai bàakii, waǹnan gàaᵲim maagànii, wandà ’ankà ’ajèe, sai ’à ɗàukee šì, ’à zubàa ši cikin ƙàhoo.
 1	in	in	SCONJ	_	_	21	mod	_	Gloss=if
@@ -2822,14 +2822,14 @@
 6	bàːkiː	bàːkiː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=mouth.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	wânnan	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	9	det	_	Gloss=PreRef|PreRef=Yes
-9	gàːri	gàːriː	NOUN	_	Gender=Masc	21	dislocated@comp	_	Gloss=powder|SpaceAfter=No|wordform=gàːrim
+9	gàːri	gàːriː	NOUN	_	Gender=Masc	21	dislocated@comp	_	Gloss=powder|RelAnt=Yes|SpaceAfter=No|wordform=gàːrim
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
 11	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-13	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	comp:obj	_	Gloss=who.Masc
+13	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	comp:obj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
 14	an-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-16	ajèː	ajèː	VERB	_	_	9	mod@relcl	_	Gloss=put_aside|SpaceAfter=No
+16	ajèː	ajèː	VERB	_	_	9	mod@relcl	_	ClauseType=Rel|Gloss=keep_aside|SpaceAfter=No
 17	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 18	sai	sai	ADV	_	_	21	mod	_	Gloss=then
 19	a-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -3248,7 +3248,7 @@
 12	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_107-107
-# text = in zâː'a ɗiːbàːtai , sai à sàːmu lìngàːɓun runhuː , saːbiː , wa’àndà ad dà tabshiː , sai à ɗeːboː sù , à zoː dà suː gidaː .
+# text = in zâː-'a=ɗiːbàː-t-ai , sai a-_̀= sàːmu lìngàːɓu-n runhuː, saːbiː, wa’àndà ad dà tabshiː, sai a-_̀= ɗeːboː sù, a-_̀= zoː dà suː gidaː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 89267, 90000
@@ -3265,14 +3265,14 @@
 9	a-	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 10	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	11	mod/m	_	Gloss=Sub=
 11	sàːmu	saːmùː	VERB	_	_	0	root	_	Gloss=get
-12	lìngàːɓu	lìngàːɓuː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=tender_shoots|SpaceAfter=No|wordform=lìngàːɓun
+12	lìngàːɓu	lìngàːɓuː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=tender_shoots|RelAnt=Yes|SpaceAfter=No|wordform=lìngàːɓun
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur
 14	runhuː	runhuː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=tree_sp.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	saːbiː	saːbiː	ADJ	_	Number=Plur	12	mod	_	Gloss=new.Plur|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	19	subj	_	Gloss=who.Plur
-19	ad	neː	AUX	_	Copula=Yes	12	mod@relcl	_	Gloss=Ident/Foc.Rel|Relative=Yes
+18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	19	subj	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=Word
+19	ad	neː	AUX	_	Copula=Yes	12	mod@relcl	_	ClauseType=Rel|Gloss=Ident/Foc.Rel|Relative=Yes
 20	dà	dà	ADP	_	_	19	comp:pred	_	Gloss=with
 21	tabshiː	tabshiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=softness.Masc|SpaceAfter=No
 22	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -3356,7 +3356,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 92000, 93000
-# text = in ya-Ø= ɓoːyèː su, in dareː ya-Ø= yi, ita màccen dà mùtun kà sôː, im mùtun ya-Ø= taːràː dà ita, bâː- shi= wankè màzàːkuːtàː-t-ai dà ruwaː, bâː- shi= shaːhèːwaː dà wani ƙyalleː, sai shi-_̀= ɗaukoː kunnàn nan na runhuː, wa’àndà ya-Ø= ajèː, sai shi-_̀= shaːhè màzàːkuːtàː-t-ai dà suː.
+# text = in ya-C= ɓoːyèː su, in dareː ya-C= yi, ita màccen dà mùtun kà sôː, im mùtun ya-C= taːràː dà ita, bâː- shi= wankè màzàːkuːtàː-t-ai dà ruwaː, bâː- shi= shaːhèːwaː dà wani ƙyalleː, sai shi-_̀= ɗaukoː kunnàn nan na runhuː, wa’àndà ya-C= ajèː, sai shi-_̀= shaːhè màzàːkuːtàː-t-ai dà suː.
 # text_en = After hiding them, when night comes, the woman that the man loves, if he has intercourse with her, he won't wash his penis with water, he won't rub it with any cloth but he will take those "runhu" leaves that he has kept, and rub his penis with them.
 # text_ortho = ’in yaɓ ɓooyèe su, ’in daᵲee yay yi, ’ita màccen dà mùtun kà soò, ’im mùtun yat taaᵲàa dà ’ita, baà ši wankè màzàakuutàatai dà ᵲuwaa, baà ši šaahèewaa dà wani ƙyallee, sai šì ɗaukoo kunnàn nan na ᵲunhuu, wa’àndà ya’ ’ajèe, sai šì šaahè màzàakuutàatai dà suu.
 1	in	in	SCONJ	_	_	30	mod	_	Gloss=if
@@ -3406,15 +3406,15 @@
 45	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 46	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	47	mod/m	_	Gloss=Sub=
 47	ɗaukoː	ɗàukaː	VERB	_	_	39	parataxis@conj	_	Gloss=take.Dir
-48	kunnàn	kunnài	NOUN	_	Definite=Def|Number=Plur	47	comp:obj	_	Gloss=ear.Def
+48	kunnàn	kunnài	NOUN	_	Definite=Def|Number=Plur	47	comp:obj	_	Gloss=ear.Def|RelAnt=Yes
 49	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	48	det	_	Gloss=PreRef|PreRef=Yes
 50	na	na	PART	_	Case=Gen|PartType=Case	48	mod	_	Gloss=Gen
 51	runhuː	runhuː	NOUN	_	Gender=Masc	50	comp:obj	_	Gloss=tree_sp.Masc|SpaceAfter=No
 52	,	,	PUNCT	_	_	56	punct	_	Gloss=PUNCT
-53	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	56	comp:obj	_	Gloss=who.Plur
+53	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	56	comp:obj	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=Word
 54	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	56	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya’
 55	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	56	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=’=
-56	ajèː	ajèː	VERB	_	_	48	mod@relcl	_	Gloss=put_aside|SpaceAfter=No
+56	ajèː	ajèː	VERB	_	_	48	mod@relcl	_	ClauseType=Rel|Gloss=put_aside|SpaceAfter=No
 57	,	,	PUNCT	_	_	61	punct	_	Gloss=PUNCT
 58	sai	sai	ADV	_	_	61	mod	_	Gloss=then
 59	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	61	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -3920,7 +3920,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 109000, 110000
-# text = in ankà ajè zucciyoːyîn , sai à sàːmu zuccìyak kàryaː , kàryaː kwikwiyàː , waddà ankà hàihwaː tanàː 'yaƙ ƙàramaː , tum bàtà buːɗè idòː ba .
+# text = in an-kà= ajè zucciyoːyîn, sai a-_̀= sàːmu zuccìya-k kàryaː, kàryaː kwikwiyàː, waddà an-kà= hàihwaː ta-nàː 'yaƙ ƙàramaː, tum bà-tà= buːɗè idòː ba.
 # text_en = After putting the hearts aside, you get the heart of a female dog, a new-born little puppy that has not opened its eyes yet.
 # text_ortho = ’in ’ankà ’ajèe zucciyooyiǹ, sai ’à sàamu zuccìyak kàᵲyaa, kàᵲyaa kwikwiyàa, waddà ’ankà hàihwaa ta nàa ’yaƙ ƙàᵲamaa, tum bà tà buuɗè ’idòo ba.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
@@ -3937,13 +3937,13 @@
 12	-k	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem|wordform=-C
 13	kàryaː	kàryaː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=bitch.Fem|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	kàryaː	kàryaː	NOUN	_	Gender=Fem	13	conj:appos	_	Gloss=bitch.Fem
+15	kàryaː	kàryaː	NOUN	_	Gender=Fem	13	conj:appos	_	Gloss=bitch.Fem|RelAnt=Yes
 16	kwikwiyàː	kwikwiyàː	ADJ	_	Gender=Fem	15	mod	_	Gloss=puppy.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-18	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	comp:obj	_	Gloss=who.Fem
+18	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	comp:obj	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
 19	an-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 20	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-21	hàihwaː	hàihwaː	VERB	_	_	15	mod@relcl	_	Gloss=give_birth
+21	hàihwaː	hàihwaː	VERB	_	_	15	mod@relcl	_	ClauseType=Rel|Gloss=give_birth
 22	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	23	subj/m	_	Gloss=3Fem|SpaceAfter=No
 23	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	21	parataxis@conj	_	Gloss=Prog|wordform=tanàː
 24	'yaƙ	ɗan	ADJ	_	Gender=Fem	25	mod	_	Gloss=little.Fem
@@ -6883,7 +6883,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 190000, 191000
-# text = in yah huːcèː, sai à ɗàuki mân, na kic'èːn damoː, wandà yan narkèː, sai à zubàː shì, cikin gàːrim maːgàniː, wandà ankà zubàː cikin wuc'c'iyàl luɗɗai.
+# text = in ya-C= huːcèː, sai a-_̀= ɗàuki mân, na kic'è-n damoː, wandà ya-C= narkèː, sai a-_̀= zubàː shi, cikin gàːri-n maːgàniː, wandà an-kà= zubàː cikin wuc'c'iyà-l luɗɗai.
 # text_en = When it has rested, you take the oil, that of the lizard fat that has melted, then you pour it into the medicine powder that you have poured into the tail of the gourd.
 # text_ortho = ’in yah huucèe, sai ’à ɗàuki maǹ, na kic’èen damoo, wandà yan naᵲkèe, sai ’à zubàa šì, cikin gàaᵲim maagànii, wandà ’ankà zubàa cikin wuc’c’iyàl lud’dai.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
@@ -6898,14 +6898,14 @@
 10	mân	mâi	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	Gloss=oil.Masc.Def|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	na	na	PART	_	Case=Gen|PartType=Case	10	mod	_	Gloss=Gen
-13	kic'è	kic'èː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=fat|SpaceAfter=No|wordform=kic'èn
+13	kic'è	kic'èː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=fat|RelAnt=Yes|SpaceAfter=No|wordform=kic'èn
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
 15	damoː	damoː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=land-monitor.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	subj	_	Gloss=who.Masc
+17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	subj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
 18	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
 19	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=h=
-20	narkèː	narkèː	VERB	_	_	13	mod@relcl	_	Gloss=melt.Ach|SpaceAfter=No
+20	narkèː	narkèː	VERB	_	_	13	mod@relcl	_	ClauseType=Rel|Gloss=melt.Ach|SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 22	sai	sai	ADV	_	_	25	mod	_	Gloss=then
 23	a-	a	PRON	_	Person=4|PronType=PrsSubj	25	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -6914,14 +6914,14 @@
 26	shi	shi	PRON	_	Gender=Masc|Person=3	25	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=in(side)
-29	gàːri	gàːriː	NOUN	_	Gender=Masc	28	comp:obj	_	Gloss=flour|SpaceAfter=No|wordform=gàːrim
+29	gàːri	gàːriː	NOUN	_	Gender=Masc	28	comp:obj	_	Gloss=flour|RelAnt=Yes|SpaceAfter=No|wordform=gàːrim
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur
 31	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 32	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
-33	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	comp:obj	_	Gloss=who.Masc
+33	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	comp:obj	_	Gloss=who.Masc.Rel|Relz=Word
 34	an-	a	PRON	_	Person=4|PronType=PrsSubj	36	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 35	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-36	zubàː	zubàː	VERB	_	_	29	mod@relcl	_	Gloss=pour
+36	zubàː	zubàː	VERB	_	_	29	mod@relcl	_	ClauseType=Rel|Gloss=pour|RelRole=obj
 37	cikin	cikin	ADP	_	_	36	comp:obl	_	Gloss=in(side)
 38	wuc'c'iyà	wuc'c'iyàː	NOUN	_	Gender=Fem	37	comp:obj	_	Gloss=tail.Fem|SpaceAfter=No|wordform=wuc'c'iyàl
 39	-l	na	PART	_	Case=Gen|PartType=Case	38	udep/m	_	Gloss=Gen.Fem|wordform=-C
@@ -7844,18 +7844,18 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 219000, 220000
-# text = dud dà sauran abuːbuwàː wa’àndà ankà ɗiːbàː , à sâː gà turmiː , à dakèː .
+# text = dud dà saura-n abuːbuwàː wa’àndà an-kà= ɗiːbàː, a-_̀= sâː gà turmiː, a-_̀= dakèː.
 # text_en = With the other things that you have taken, you put them all in a mortar and you pound them.
 # text_ortho = dud dà sauᵲan ’abuubuwàa wa’àndà ’ankà ɗiibàa, ’à saà gà tuᵲmii, ’à dakèe.
 1	dud	dukà	PRON	_	PronType=Tot	13	dislocated@comp	_	Gloss=all
 2	dà	dà	CCONJ	_	_	3	cc	_	Gloss=with
-3	saura	sauran	NOUN	_	_	1	conj:coord	_	Gloss=rem|SpaceAfter=No|wordform=sauran
+3	saura	sauran	NOUN	_	_	1	conj:coord	_	Gloss=remainder|RelAnt=Yes|SpaceAfter=No|wordform=sauran
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
 5	abuːbuwàː	àbù	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=thing.Plur
-6	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	9	comp:obj	_	Gloss=who.Plur
+6	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	9	comp:obj	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=Word
 7	an-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-9	ɗiːbàː	ɗiːbàː	VERB	_	_	3	mod@relcl	_	Gloss=take|SpaceAfter=No
+9	ɗiːbàː	ɗiːbàː	VERB	_	_	3	mod@relcl	_	ClauseType=Rel|Gloss=take|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	13	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 12	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	13	mod/m	_	Gloss=Sub=
