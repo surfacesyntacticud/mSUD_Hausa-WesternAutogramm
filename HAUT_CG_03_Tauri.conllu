@@ -387,14 +387,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 9000, 10000
-# text = koː dakàm maː , koːmiː ƙarhim mùtun , bâːshi iyà dakè ɗiyan ƙòːdagòː gà inìː gùdaː , sabòːdà taurinsù .
+# text = koː dakàm maː, koːmiː ƙarhi-n mùtun, bâː- shi= iyà dakè ɗiya-n ƙòːdagòː gà inìː gùdaː, sabòːdà tauriː-n-sù .
 # text_en = Even (by) pounding, whatever your strength, you won't succeed in pounding dum palm seeds in a day because of its toughness.
 # text_ortho = koo dakàm maa, koo mii ƙaᵲhim mùtun, baà ši ’iyà dakè ɗiyan ƙòodagòo gà ’inìi gùdaa, sabòo dà tauᵲinsù.
 1	koː	koː	ADV	_	_	2	mod	_	Gloss=even
 2	dakàm	dakàː	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc	12	mod	_	Gloss=pound.Nmlz.Masc.Def
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-5	koːmiː	koːmiː	PRON	_	_	12	mod	_	Gloss=anything
+5	koːmiː	koːmiː	PRON	_	_	12	mod	_	Gloss=whatever
 6	ƙarhi	ƙarhiː	NOUN	_	Gender=Masc	5	mod@relcl	_	Gloss=strength|SpaceAfter=No|wordform=ƙarhim
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod/m	_	Gloss=Gen.Masc/Plur
 8	mùtun	mùtun	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=person.Masc|SpaceAfter=No

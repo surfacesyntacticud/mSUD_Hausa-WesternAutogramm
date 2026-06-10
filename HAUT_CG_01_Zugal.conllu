@@ -3182,9 +3182,9 @@
 8	na	na	PART	_	Case=Gen|PartType=Case	2	conj:appos	_	Gloss=Gen
 9	cikim	cikin	ADP	_	_	8	comp:obj	_	Gloss=in(side)
 10	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
-11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	dà	dà	SCONJ	_	_	13	cc@preconj	_	Gloss=when
-13	gujjiya	gujjiyaː	NOUN	_	Gender=Fem	40	dislocated@comp	_	Gloss=groundnut.Fem|SpaceAfter=No|wordform=gujjiyaƙ
+13	gujjiya	gujjiyaː	NOUN	_	Gender=Fem	8	conj:appos	_	Gloss=groundnut.Fem|SpaceAfter=No|wordform=gujjiyaƙ
 14	-ƙ	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Fem|wordform=-C
 15	ƙùrugà	ƙùrugà	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=one_seed_groundnut.Fem|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -3202,14 +3202,14 @@
 28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 29	dà	dà	CCONJ	_	_	30	cc	_	Gloss=and
 30	zumàː	zumàː	NOUN	_	_	27	conj:coord	_	Gloss=honey/bee|SpaceAfter=No
-31	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-32	suː	suː	PRON	_	Number=Plur|Person=3	40	dislocated@comp	_	Gloss=3Plur
-33	mùtun	mùtun	NOUN	_	Gender=Masc	34	subj	_	Gloss=person.Masc
-34	ab	neː	AUX	_	Copula=Yes	32	mod@relcl	_	Gloss=Ident/Foc.Rel|Relative=Yes
+31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
+32	suː	suː	PRON	_	Number=Plur|Person=3	13	conj:appos	_	Gloss=3Plur
+33	mùtun	mùtun	NOUN	_	Gender=Masc	40	dislocated@subj	_	Gloss=person.Masc|RelAnt=Yes
+34	ab	neː	AUX	_	Copula=Yes	33	mod@relcl	_	Gloss=Ident/Foc.Rel|Relative=Yes|Relz=Affix
 35	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	37	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 36	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-37	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	34	comp:pred	_	Gloss=eat/have_sex.Nmlz.Masc|SpaceAfter=No
-38	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
+37	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	34	comp:pred	_	ClauseType=Rel|Gloss=eat/have_sex.Nmlz.Masc|RelRole=subj|SpaceAfter=No
+38	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 39	sai	sai	ADV	_	_	40	mod	_	Gloss=then
 40	loːkàcin	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	0	root	_	Gloss=time.Masc.Def|RelAnt=Yes
 41	dà	dà	SCONJ	_	_	40	mod@relcl	_	Gloss=CompRel|Relz=Word
@@ -5473,10 +5473,10 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 150000, 151000
-# text = koːmiː ka-m= mutà, bâː- ta= iyà ràbuwaː dà kai.
+# text = koːmìː ka-m= mutà, bâː- ta= iyà ràbuwaː dà kai.
 # text_en = Whatever you do to her, she cannot leave you.
 # text_ortho = koo mìi kam mutà, baà ta ’iyà ᵲàbuwaa dà kai.
-1	koːmiː	koːmiː	PRON	_	_	9	mod	_	Gloss=anything
+1	koːmìː	koːmìː	PRON	_	_	9	mod	_	Gloss=anything
 2	ka-	ka=	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=kam
 3-4	m=	_	_	_	_	_	_	_	_
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=m=
