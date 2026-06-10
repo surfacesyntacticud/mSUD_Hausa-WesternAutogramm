@@ -183,12 +183,12 @@
 # sent_timecode = 5000, 6000
 # text_en = If it is the type you smoke, if you make a powder, you put it in a pipe, you light it, you inhale the smoke like you smoke tobacco, metal won't catch you.
 # text_ortho = ’in na hayaaƙii nèe, sai ’à yi gàaᵲii, ’à saà gà loohèe, ’à saà wutaa, ’à riƙà šaǹ hayaaƙiǹ, kàma’ ’a nàa šaǹ taabàa, ƙaᵲhèe baà ši kaamà mùtun.
-1	in	in	SCONJ	_	_	37	mod	_	Gloss=if
+1	in	in	SCONJ	_	_	39	mod	_	Gloss=if
 2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	hayaːƙiː	hayaːƙiː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=smoke.Masc
 4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	sai	sai	SCONJ	_	_	37	mod	_	Gloss=then
+6	sai	sai	SCONJ	_	_	39	mod	_	Gloss=then
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 8	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	9	mod/m	_	Gloss=Sub=
 9	yi	yi	VERB	_	_	6	comp:obj	_	Gloss=do
@@ -208,20 +208,22 @@
 23	a-	a	PRON	_	Person=4|PronType=PrsSubj	25	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 24	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	25	mod/m	_	Gloss=Sub=
 25	r̃iƙà	r̃iƙàː	VERB	_	_	20	parataxis@conj	_	Gloss=keep_on
-26	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	25	comp:obj	_	Gloss=drink.Nmlz.Masc
-27	hayaːƙîn	hayaːƙiː	NOUN	_	Definite=Def|Gender=Masc	26	udep	_	Gloss=smoke.Masc.Def
-28	kàma’	kàmat	SCONJ	_	_	26	mod	_	Gloss=like
-29	a-	a-	PRON	_	Person=4|PronType=Prs	30	subj/m	_	Gloss=4|SpaceAfter=No
-30	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	comp:obj	_	Gloss=Prog|wordform=anàː
-31	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:pred	_	Gloss=drink.Nmlz.Masc
-32	taːbàː	taːbàː	NOUN	_	Gender=Fem	31	udep	_	Gloss=tobacco.Fem|SpaceAfter=No
-33	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-34	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	37	subj	_	Gloss=iron.Masc
-35	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	37	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-36	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-37	kaːmà	kaːmàː	VERB	_	_	0	root	_	Gloss=catch
-38	mùtun	mùtun	NOUN	_	Gender=Masc	37	comp:obj	_	Gloss=person.Masc|SpaceAfter=No
-39	.	.	PUNCT	_	_	37	punct	_	Gloss=.
+26	shâ	shâː	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp:obj	_	Gloss=drink.Nmlz|SpaceAfter=No|wordform=shân
+27	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	26	udep/m	_	Gloss=Gen|SpaceAfter=No
+28	hayaːƙîn	hayaːƙiː	NOUN	_	Definite=Def|Gender=Masc	27	comp:obj	_	Gloss=smoke.Masc.Def
+29	kàma’	kàmat	SCONJ	_	_	26	mod	_	Gloss=like
+30	a-	a-	PRON	_	Person=4|PronType=Prs	31	subj/m	_	Gloss=4|SpaceAfter=No
+31	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	29	comp:obj	_	Gloss=Prog|wordform=anàː
+32	shâ	shâː	VERB	_	ExtPos=NOUN|Gender=Masc	31	comp:pred	_	Gloss=drink.Nmlz|SpaceAfter=No|wordform=shân
+33	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	32	udep/m	_	Gloss=Gen|SpaceAfter=No
+34	taːbàː	taːbàː	NOUN	_	Gender=Fem	33	comp:obj	_	Gloss=tobacco.Fem|SpaceAfter=No
+35	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+36	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	39	subj	_	Gloss=iron.Masc
+37	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	39	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
+38	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	39	subj/m	_	Gloss=3Masc=|wordform=bâːshi
+39	kaːmà	kaːmàː	VERB	_	_	0	root	_	Gloss=catch
+40	mùtun	mùtun	NOUN	_	Gender=Masc	39	comp:obj	_	Gloss=person.Masc|SpaceAfter=No
+41	.	.	PUNCT	_	_	39	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_007-007
 # text = im baːbù loːhèː , sai à yi nàɗeːnai , kàma’ an naɗè taːbàː cikin takàr̃daː , à kunnà wutaː , anàː shân hayaːƙiː , ƙarhèː bâːshi kaːmà mùtun .
@@ -230,11 +232,11 @@
 # sent_timecode = 6000, 7000
 # text_en = When there is no pipe, if you roll it like you roll tobacco in a sheet of paper, you light it and you inhale the smoke, metal won't catch you.
 # text_ortho = ’im baabù loohèe, sai ’à yi nàɗeenai, kàma’ ’an naɗè taabàa cikin takàrdaa, ’a nàa kunnà wutaa, ’a nàa šaǹ hayaaƙii, ƙaᵲhèe baà ši kaamà mùtun.
-1	im	in	SCONJ	_	_	34	mod	_	Gloss=if
+1	im	in	SCONJ	_	_	35	mod	_	Gloss=if
 2	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	1	comp:obj	_	Gloss=there_is.Neg
 3	loːhèː	loːhèː	NOUN	_	Gender=Masc	2	subj	_	Gloss=pipe.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	sai	sai	SCONJ	_	_	34	mod	_	Gloss=then
+5	sai	sai	SCONJ	_	_	35	mod	_	Gloss=then
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub=
 8	yi	yi	VERB	_	_	5	comp:obj	_	Gloss=do
@@ -257,15 +259,16 @@
 25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 26	a-	a-	PRON	_	Person=4|PronType=Prs	27	subj/m	_	Gloss=4|SpaceAfter=No
 27	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	23	parataxis@conj	_	Gloss=Prog|wordform=anàː
-28	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	27	comp:pred	_	Gloss=drink.Nmlz.Masc
-29	hayaːƙiː	hayaːƙiː	NOUN	_	Gender=Masc	28	udep	_	Gloss=smoke.Masc|SpaceAfter=No
-30	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-31	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	34	subj	_	Gloss=iron.Masc
-32	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	34	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
-33	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-34	kaːmà	kaːmàː	VERB	_	_	0	root	_	Gloss=catch
-35	mùtun	mùtun	NOUN	_	Gender=Masc	34	comp:obj	_	Gloss=person.Masc|SpaceAfter=No
-36	.	.	PUNCT	_	_	34	punct	_	Gloss=.
+28	shâ	shâː	VERB	_	ExtPos=NOUN|Gender=Masc	27	comp:pred	_	Gloss=drink.Nmlz|SpaceAfter=No|wordform=shân
+29	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	28	udep/m	_	Gloss=Gen|SpaceAfter=No
+30	hayaːƙiː	hayaːƙiː	NOUN	_	Gender=Masc	29	comp:obj	_	Gloss=smoke.Masc|SpaceAfter=No
+31	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+32	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	35	subj	_	Gloss=iron.Masc
+33	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	35	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
+34	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Masc=|wordform=bâːshi
+35	kaːmà	kaːmàː	VERB	_	_	0	root	_	Gloss=catch
+36	mùtun	mùtun	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=person.Masc|SpaceAfter=No
+37	.	.	PUNCT	_	_	35	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_008-008
 # speaker_id = *
@@ -779,9 +782,10 @@
 31	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 32	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	34	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 33	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-34	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	24	comp:obj	_	Gloss=do.Nmlz.Masc
-35	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	34	udep	_	Gloss=good_luck.Masc|SpaceAfter=No
-36	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+34	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	24	comp:obj	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
+35	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	34	udep/m	_	Gloss=Gen|SpaceAfter=No
+36	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=good_luck.Masc|SpaceAfter=No
+37	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_022-022_split2
 # speaker_id = *
@@ -2881,9 +2885,10 @@
 # text_ortho = ’a nàa jaǹ àleewày.
 1	a-	a-	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=anàː
-3	jân	jaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:pred	_	Gloss=pull.Nmlz.Masc
-4	àleːwày	àleːwà	NOUN	_	Definite=Def|Gender=Fem	3	udep	_	Gloss=sweets.Fem.Def|SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+3	jâ	jaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:pred	_	Gloss=pull.Nmlz|SpaceAfter=No|wordform=jân
+4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen|SpaceAfter=No
+5	àleːwày	àleːwà	NOUN	_	Definite=Def|Gender=Fem	4	comp:obj	_	Gloss=sweets.Fem.Def|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_084-084
 # speaker_id = *

@@ -1114,26 +1114,27 @@
 13	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 14	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Fem|SpaceAfter=No
 15	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=tanàː
-16	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	15	comp:pred	_	Gloss=like/love/want.Nmlz.Masc
-17	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-18	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	19	mod/m	_	Gloss=Sub=
-19	kwaːrè	kwaːrèː	VERB	_	_	16	comp:obj	_	Gloss=peel_off
-20	zanèː	zanèː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=wrapper.Masc|SpaceAfter=No
-21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-22	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
-23	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	24	mod/m	_	Gloss=Sub=
-24	hiddoː	hiddàː	VERB	_	_	19	parataxis@conj	_	Gloss=remove.Dir
-25	kâ	kâi	NOUN	_	_	24	comp:obj	_	Gloss=head.Masc|Poss=Yes|SpaceAfter=No|wordform=kântà|wordfrom=kântà
-26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-27	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	26	comp:obj/m	_	Gloss=3Fem.Gen
-28	gà	gà	ADP	_	_	24	comp:obl	_	Gloss=at
-29	hiːliː	hiːliː	NOUN	_	Gender=Masc	28	comp:obj	_	Gloss=open_space.Masc|SpaceAfter=No
-30	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-31	sabàddà	sabàddà	ADP	_	_	16	mod	_	Gloss=because
-32	ɗwa	ɗwai	NOUN	_	Gender=Masc	31	comp:obj	_	Gloss=stench|SpaceAfter=No|wordform=ɗwan
-33	-n	na	PART	_	Case=Gen|PartType=Case	32	udep/m	_	Gloss=Gen.Masc/Plur
-34	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	33	comp:obj	_	Gloss=farting.Fem|SpaceAfter=No
-35	.	.	PUNCT	_	_	15	punct	_	Gloss=.
+16	sô	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	15	comp:pred	_	Gloss=like/love/want.Nmlz|SpaceAfter=No|wordform=sôn
+17	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	16	udep/m	_	Gloss=Gen|SpaceAfter=No
+18	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
+19	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	20	mod/m	_	Gloss=Sub=
+20	kwaːrè	kwaːrèː	VERB	_	_	17	comp:obj	_	Gloss=peel_off
+21	zanèː	zanèː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=wrapper.Masc|SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
+23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
+24	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	25	mod/m	_	Gloss=Sub=
+25	hiddoː	hiddàː	VERB	_	_	20	parataxis@conj	_	Gloss=remove.Dir
+26	kâ	kâi	NOUN	_	_	25	comp:obj	_	Gloss=head.Masc|Poss=Yes|SpaceAfter=No|wordform=kântà|wordfrom=kântà
+27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+28	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	27	comp:obj/m	_	Gloss=3Fem.Gen
+29	gà	gà	ADP	_	_	25	comp:obl	_	Gloss=at
+30	hiːliː	hiːliː	NOUN	_	Gender=Masc	29	comp:obj	_	Gloss=open_space.Masc|SpaceAfter=No
+31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
+32	sabàddà	sabàddà	ADP	_	_	17	comp:obj	_	Gloss=because
+33	ɗwa	ɗwai	NOUN	_	Gender=Masc	32	comp:obj	_	Gloss=stench|SpaceAfter=No|wordform=ɗwan
+34	-n	na	PART	_	Case=Gen|PartType=Case	33	udep/m	_	Gloss=Gen.Masc/Plur
+35	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	34	comp:obj	_	Gloss=farting.Fem|SpaceAfter=No
+36	.	.	PUNCT	_	_	15	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_35
 # speaker_id = *
@@ -1624,11 +1625,12 @@
 # text_ortho = baà ta soǹ koowaa sai šii.
 1	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	3	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 2	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem=|wordform=bâːta
-3	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=like/love/want.Nmlz.Masc
-4	koːwaː	koːwaː	PRON	_	_	3	udep	_	Gloss=everyone
-5	sai	sai	ADP	_	_	3	mod	_	Gloss=except
-6	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc|SpaceAfter=No
-7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+3	sô	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=like/love/want.Nmlz|SpaceAfter=No|wordform=sôn
+4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen|SpaceAfter=No
+5	koːwaː	koːwaː	PRON	_	_	3	udep	_	Gloss=everyone
+6	sai	sai	ADP	_	_	5	mod	_	Gloss=except
+7	shiː	shiː	PRON	_	Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_09-10
 # speaker_id = *
