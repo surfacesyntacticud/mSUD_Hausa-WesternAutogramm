@@ -25,7 +25,7 @@
 5	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 6	koːwaː	koːwaː	PRON	_	_	7	subj	_	Gloss=everyone
 7	dà	dà	ADP	_	_	0	root	_	Gloss=with
-8	màːtaː	màːtaː	NOUN	_	_	7	comp:pred	_	Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=màːtashshì
+8	màːtaː	màːtaː	NOUN	_	_	7	comp:pred	_	Gloss=wife.Fem|SpaceAfter=No|wordform=màːtashshì
 9	-s	na	PART	_	Case=Gen|PartType=Case	8	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No
 10	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj	_	Gloss=3Masc.Gen
 11	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -93,7 +93,7 @@
 10	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Sing
 11	azàː	azàː	VERB	_	_	5	parataxis@conj	_	Gloss=put
 12	mà	mà	ADP	_	_	11	comp:obl	_	Gloss=Dat
-13	doːkìː	doːkìː	NOUN	_	_	12	comp:obj	_	Gloss=horse.Masc|Poss=Yes|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
+13	doːkìː	doːkìː	NOUN	_	_	12	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 15	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj/m	_	Gloss=3Masc.Gen
 16	sir̃dìː	sir̃dìː	NOUN	_	Gender=Masc	11	comp:obj@T	_	Gloss=saddle.Masc|SpaceAfter=No
@@ -111,7 +111,7 @@
 28	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	29	mod/m	_	Gloss=Sub=
 29	biyoː	biyaː	VERB	_	_	0	root	_	Gloss=follow.Dir
 30	gàban	gàban	ADP	_	_	29	comp:obl	_	Gloss=in_front_of
-31	gidaː	gidaː	NOUN	_	_	30	comp:obj	_	Gloss=house.Masc|Poss=Yes|SpaceAfter=No|wordform=gidansù
+31	gidaː	gidaː	NOUN	_	_	30	comp:obj	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidansù
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 33	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	32	comp:obj	_	Gloss=3Plur.Gen
 34	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	35	subj/m	_	Gloss=3Masc|SpaceAfter=No
@@ -127,7 +127,7 @@
 # text_en = Even if her husband was there, if she saw the rider ride pass, she would laugh and say that the rider's wife was lucky.
 # text_ortho = koo mijìntà nàa nan, ’in tag ga mài dookìː yaa wucèe, sai tà yi dàaᵲiyaa, tà ceè : màatam mài dookìː taa ji daaɗintà.
 1	koː	koː	SCONJ	_	_	21	mod	_	Gloss=even_if
-2	mijì	mijìː	NOUN	_	_	5	subj	_	Gloss=husband/male|Poss=Yes|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
+2	mijì	mijìː	NOUN	_	_	5	subj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 4	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Fem.Gen
 5	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:obj	_	Gloss=Prog
@@ -160,7 +160,7 @@
 32	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː
 33	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	34	mod/m	_	Gloss=Perf.Sing
 34	ji	jiyàː	VERB	_	_	26	comp:obj@T	_	Gloss=feel/hear
-35	daːɗi	daːɗiː	NOUN	_	_	34	comp:obj	_	Gloss=happiness.Masc|Poss=Yes|SpaceAfter=No|wordform=daːɗintà|wordfrom=daːɗintà
+35	daːɗi	daːɗiː	NOUN	_	_	34	comp:obj	_	Gloss=happiness.Masc|SpaceAfter=No|wordform=daːɗintà|wordfrom=daːɗintà
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 37	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	36	comp:obj/m	_	Gloss=3Fem.Gen
 38	.	.	PUNCT	_	_	21	punct	_	Gloss=.
@@ -174,7 +174,7 @@
 # text_ortho = šii kàu mijìntà ši nàa jiì, sai ᵲaìnai šì ɓaacì, sai šì ƙyaalèe ta, baà ya ceè mutà koomii.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	dislocated@subj	_	Gloss=3Masc
 2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
-3	mijì	mijìː	NOUN	_	_	1	conj:appos	_	Gloss=husband/male|Poss=Yes|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
+3	mijì	mijìː	NOUN	_	_	1	conj:appos	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 5	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	4	comp:obj/m	_	Gloss=3Fem.Gen
 6	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Masc|SpaceAfter=No
@@ -182,7 +182,7 @@
 8	jîː	jîː	VERB	_	ExtPos=NOUN|Gender=Masc	7	comp:pred	_	Gloss=hear.Nmlz.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	16	mod	_	Gloss=then
-11	râi	râi	NOUN	_	_	16	subj	_	Gloss=life.Masc|Poss=Yes|SpaceAfter=No|wordform=râinai|wordfrom=râinai
+11	râi	râi	NOUN	_	_	16	subj	_	Gloss=life.Masc|SpaceAfter=No|wordform=râinai|wordfrom=râinai
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 13	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	12	comp:obj/m	_	Gloss=3Masc.Gen
 14	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -250,7 +250,7 @@
 15	can	can	ADV	_	Deixis=Remt|PronType=Dem	12	mod	_	Gloss=Remt
 16	gida	gidaː	NOUN	_	Gender=Masc	15	mod	_	Gloss=house|SpaceAfter=No|wordform=gidan
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod/m	_	Gloss=Gen.Masc/Plur
-18	dangì	dangìː	NOUN	_	_	17	comp:obj	_	Gloss=relatives.Masc|Poss=Yes|SpaceAfter=No|wordform=dangìntà|wordfrom=dangìntà
+18	dangì	dangìː	NOUN	_	_	17	comp:obj	_	Gloss=relatives.Masc|SpaceAfter=No|wordform=dangìntà|wordfrom=dangìntà
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 20	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	19	comp:obj/m	_	Gloss=3Fem.Gen
 21	.	.	PUNCT	_	_	6	punct	_	Gloss=.
@@ -262,7 +262,7 @@
 # text = mijìntà yac cêː : tôː , sai kin daːwoː .
 # text_en = Her husband said : OK, see you later.
 # text_ortho = mijìntà yac ceè : toò, sai kin daawoo.
-1	mijì	mijìː	NOUN	_	_	6	subj	_	Gloss=husband/male|Poss=Yes|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
+1	mijì	mijìː	NOUN	_	_	6	subj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 3	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Fem.Gen
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
@@ -288,7 +288,7 @@
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tat
 3	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=t=
 4	ɗàuki	ɗaukaː	VERB	_	_	1	comp:obj	_	Gloss=take
-5	kaːya	kaːyaː	NOUN	_	_	4	comp:obj	_	Gloss=things.Masc|Poss=Yes|SpaceAfter=No|wordform=kaːyantà|wordfrom=kaːyantà
+5	kaːya	kaːyaː	NOUN	_	_	4	comp:obj	_	Gloss=things.Masc|SpaceAfter=No|wordform=kaːyantà|wordfrom=kaːyantà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -318,7 +318,7 @@
 # text_en = Then her husband got up, when to see one of his friends, borrowed a horse, saddled it, tied the caparison, and put on a turban.
 # text_ortho = sai mijìntà yat taašì, yat tàhi wuᵲin wani ’àbookiinai, ya’ ’àᵲi dookìː, yaɗ ɗaᵲmà sirdìː, yas saà kaayaa, yay yi naɗìː.
 1	sai	sai	ADV	_	_	7	mod	_	Gloss=then
-2	mijì	mijìː	NOUN	_	_	7	subj	_	Gloss=husband/male|Poss=Yes|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
+2	mijì	mijìː	NOUN	_	_	7	subj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 4	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Fem.Gen
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
@@ -330,7 +330,7 @@
 11	tàhi	tàhi	VERB	_	_	7	parataxis@conj	_	Gloss=go
 12	wurin	wurin	ADP	_	_	11	comp:obl	_	Gloss=at
 13	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	14	det	_	Gloss=some.Masc
-14	àboːkiː	àboːkiː	NOUN	_	_	12	comp:obj	_	Gloss=friend.Masc|Poss=Yes|SpaceAfter=No|wordform=àboːkiːnai|wordfrom=àboːkiːnai
+14	àboːkiː	àboːkiː	NOUN	_	_	12	comp:obj	_	Gloss=friend.Masc|SpaceAfter=No|wordform=àboːkiːnai|wordfrom=àboːkiːnai
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 16	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Masc.Gen
 17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -371,7 +371,7 @@
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	don	don	SCONJ	_	_	0	root	_	Gloss=because
 9	kâm	kaɗà	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	Gloss=Neg
-10	màːtaː	màːtaː	NOUN	_	_	15	subj	_	GenderAf=Masc|Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=màːtaːtai
+10	màːtaː	màːtaː	NOUN	_	_	15	subj	_	GenderAf=Masc|Gloss=wife.Fem|SpaceAfter=No|wordform=màːtaːtai
 11	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	10	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 12	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	11	comp:obj/m	_	Gloss=3Masc.Gen
 13	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
@@ -400,7 +400,7 @@
 11	hanyàː	hanyàː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=path.Fem|RelAnt=Yes|SpaceAfter=No
 12	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 13	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	19	comp:obj	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
-14	màːtaː	màːtaː	NOUN	_	_	19	subj	_	GenderAf=Masc|Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=màːtaːtai
+14	màːtaː	màːtaː	NOUN	_	_	19	subj	_	GenderAf=Masc|Gloss=wife.Fem|SpaceAfter=No|wordform=màːtaːtai
 15	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 16	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Masc.Gen
 17	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tab
@@ -424,7 +424,7 @@
 7	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=c=
 8	cim	cim	VERB	_	_	0	root	_	Gloss=overtake
 9	mà	mà	ADP	_	_	8	comp:obl	_	Gloss=Dat
-10	màːtaː	màːtaː	NOUN	_	_	9	comp:obj	_	GenderAf=Masc|Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=màːtaːtai
+10	màːtaː	màːtaː	NOUN	_	_	9	comp:obj	_	GenderAf=Masc|Gloss=wife.Fem|SpaceAfter=No|wordform=màːtaːtai
 11	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	10	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 12	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	11	comp:obj/m	_	Gloss=3Masc.Gen
 13	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -451,7 +451,7 @@
 # text_ortho = ’ita kàu màataatai, ’ita dai taa ga mài dookìː, ’àmmaa bà tà san mijintà ba nèe, ’ab bisà dookìː.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	11	dislocated@subj	_	Gloss=3Fem
 2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
-3	màːtaː	màːtaː	NOUN	_	_	1	conj:appos	_	GenderAf=Masc|Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=màːtaːtai
+3	màːtaː	màːtaː	NOUN	_	_	1	conj:appos	_	GenderAf=Masc|Gloss=wife.Fem|SpaceAfter=No|wordform=màːtaːtai
 4	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 5	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	4	comp:obj/m	_	Gloss=3Masc.Gen
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -467,7 +467,7 @@
 16	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 17	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem=|wordform=bàtà
 18	san	sanìː	VERB	_	_	11	conj:coord	_	Gloss=know
-19	mijì	mijìː	NOUN	_	_	18	comp:obj	_	Gloss=husband/male|Poss=Yes|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
+19	mijì	mijìː	NOUN	_	_	18	comp:obj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 21	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	20	comp:obj/m	_	Gloss=3Fem.Gen
 22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg
@@ -488,7 +488,7 @@
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 3	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=t=
-4	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	1	comp:obj	_	GenderAf=Masc|Gloss=go.Nmlz.Fem|Poss=Yes|SpaceAfter=No|wordform=tàhiyàːtai
+4	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	1	comp:obj	_	GenderAf=Masc|Gloss=go.Nmlz.Fem|SpaceAfter=No|wordform=tàhiyàːtai
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
@@ -553,7 +553,7 @@
 4	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Part	3	conj:appos	_	Gloss=stay.Part|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	koːwaː	koːwaː	PRON	_	_	7	subj	_	Gloss=everyone
-7	masabkiː	masabkiː	NOUN	_	_	2	parataxis@conj	_	Gloss=stopping_place.Masc|Poss=Yes|SpaceAfter=No|wordform=masabkiːnai|wordfrom=masabkiːnai
+7	masabkiː	masabkiː	NOUN	_	_	2	parataxis@conj	_	Gloss=stopping_place.Masc|SpaceAfter=No|wordform=masabkiːnai|wordfrom=masabkiːnai
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -583,7 +583,7 @@
 10	yi	yi	VERB	_	_	5	parataxis@conj	_	Gloss=do|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	18	mod	_	Gloss=then
-13	mijì	mijìː	NOUN	_	_	18	subj	_	Gloss=husband/male|Poss=Yes|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
+13	mijì	mijìː	NOUN	_	_	18	subj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 15	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	14	comp:obj/m	_	Gloss=3Fem.Gen
 16	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
@@ -600,7 +600,7 @@
 27	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 28	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
 29	yi	yi	VERB	_	_	18	parataxis@conj	_	Gloss=do
-30	kirà	kiràː	VERB	_	ExtPos=NOUN	29	comp:pred	_	Gloss=call.Nmlz.Masc|Poss=Yes|SpaceAfter=No|wordform=kiràntà|wordfrom=kiràntà
+30	kirà	kiràː	VERB	_	ExtPos=NOUN	29	comp:pred	_	Gloss=call.Nmlz.Masc|SpaceAfter=No|wordform=kiràntà|wordfrom=kiràntà
 31	-n	na	PART	_	Case=Gen|PartType=Case	30	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 32	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	31	comp:obj/m	_	Gloss=3Fem.Gen
 33	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
@@ -626,7 +626,7 @@
 53	sàbka	sàbka	VERB	_	_	50	mod@relcl	_	Gloss=dismount|SpaceAfter=No
 54	,	,	PUNCT	_	_	55	punct	_	Gloss=PUNCT
 55	wurin	wurin	ADP	_	_	50	mod:appos	_	Gloss=at
-56	doːkìː	doːkìː	NOUN	_	_	55	comp:obj	_	Gloss=horse.Masc|Poss=Yes|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
+56	doːkìː	doːkìː	NOUN	_	_	55	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
 57	-n	na	PART	_	Case=Gen|PartType=Case	56	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 58	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	57	comp:obj/m	_	Gloss=3Masc.Gen
 59	.	.	PUNCT	_	_	18	punct	_	Gloss=.
@@ -670,7 +670,7 @@
 30	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	32	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 31	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Fem=|wordform=bàtà
 32	san	saniː	VERB	_	_	26	parataxis@conj	_	Gloss=know
-33	mijì	mijìː	NOUN	_	_	32	comp:obj	_	Gloss=husband/male|Poss=Yes|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
+33	mijì	mijìː	NOUN	_	_	32	comp:obj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 34	-n	na	PART	_	Case=Gen|PartType=Case	33	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 35	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	34	comp:obj/m	_	Gloss=3Fem.Gen
 36	ba	ba	PART	_	PartType=Neg|Polarity=Neg	32	mod	_	Gloss=Neg
@@ -688,7 +688,7 @@
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taz
 3	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=z=
 4	zoː	zoː	VERB	_	_	1	comp:obj	_	Gloss=come
-5	wuriː	wuriː	NOUN	_	_	4	comp:obj@L	_	Gloss=place.Masc|Poss=Yes|SpaceAfter=No|wordform=wuriːnai|wordfrom=wuriːnai
+5	wuriː	wuriː	NOUN	_	_	4	comp:obj@L	_	Gloss=place.Masc|SpaceAfter=No|wordform=wuriːnai|wordfrom=wuriːnai
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Masc.Gen
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -703,7 +703,7 @@
 17	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 18	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	19	mod/m	_	Gloss=Sub=
 19	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:obj	_	Gloss=spend_night.Nmlz.Masc
-20	wuriː	wuriː	NOUN	_	_	19	comp:obj@L	_	Gloss=place.Masc|Poss=Yes|SpaceAfter=No|wordform=wuriːnai|wordfrom=wuriːnai
+20	wuriː	wuriː	NOUN	_	_	19	comp:obj@L	_	Gloss=place.Masc|SpaceAfter=No|wordform=wuriːnai|wordfrom=wuriːnai
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 22	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	21	comp:obj/m	_	Gloss=3Masc.Gen
 23	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -866,7 +866,7 @@
 9	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taz
 10	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=z=
 11	zoː	zoː	VERB	_	_	7	parataxis@conj	_	Gloss=come
-12	wuriː	wuriː	NOUN	_	_	11	comp:obl	_	Gloss=place.Masc|Poss=Yes|SpaceAfter=No|wordform=wuriːnai|wordfrom=wuriːnai
+12	wuriː	wuriː	NOUN	_	_	11	comp:obl	_	Gloss=place.Masc|SpaceAfter=No|wordform=wuriːnai|wordfrom=wuriːnai
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 14	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	13	comp:obj/m	_	Gloss=3Masc.Gen
 15	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
@@ -945,7 +945,7 @@
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	kusa	kusa	ADV	_	_	15	mod	_	Gloss=near
 15	gà	gà	ADP	_	_	11	comp:obl	_	Gloss=at
-16	jìkiː	jìkiː	NOUN	_	_	15	comp:obj	_	Gloss=body.Masc|Poss=Yes|SpaceAfter=No|wordform=jìkiːnai|wordfrom=jìkiːnai
+16	jìkiː	jìkiː	NOUN	_	_	15	comp:obj	_	Gloss=body.Masc|SpaceAfter=No|wordform=jìkiːnai|wordfrom=jìkiːnai
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 18	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	comp:obj/m	_	Gloss=3Masc.Gen
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -995,11 +995,11 @@
 2	koː’ìnaː	koː’ìnaː	PRON	_	_	13	mod	_	Gloss=everywhere|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
-5	waje	wajeː	NOUN	_	_	2	conj:appos	_	Gloss=side|Poss=Yes|SpaceAfter=No|wordform=wajentà|wordfrom=wajentà
+5	waje	wajeː	NOUN	_	_	2	conj:appos	_	Gloss=side|SpaceAfter=No|wordform=wajentà|wordfrom=wajentà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
 8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
-9	wajeː	wajeː	NOUN	_	_	5	conj:coord	_	Gloss=side|Poss=Yes|SpaceAfter=No|wordform=wajeːnai|wordfrom=wajeːnai
+9	wajeː	wajeː	NOUN	_	_	5	conj:coord	_	Gloss=side|SpaceAfter=No|wordform=wajeːnai|wordfrom=wajeːnai
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 11	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Masc.Gen
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -1054,7 +1054,7 @@
 5	zoː	zoː	VERB	_	_	2	mod@relcl	_	Gloss=come
 6	can	can	ADV	_	Deixis=Remt|PronType=Dem	5	mod	_	Gloss=Remt|SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-8	cikìː	cikìː	NOUN	_	_	13	subj	_	Gloss=belly.Masc|Poss=Yes|SpaceAfter=No|wordform=cikìːnai|wordfrom=cikìːnai
+8	cikìː	cikìː	NOUN	_	_	13	subj	_	Gloss=belly.Masc|SpaceAfter=No|wordform=cikìːnai|wordfrom=cikìːnai
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 10	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj/m	_	Gloss=3Masc.Gen
 11	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
@@ -1124,7 +1124,7 @@
 23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 24	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	25	mod/m	_	Gloss=Sub=
 25	hiddoː	hiddàː	VERB	_	_	20	parataxis@conj	_	Gloss=remove.Dir
-26	kâ	kâi	NOUN	_	_	25	comp:obj	_	Gloss=head.Masc|Poss=Yes|SpaceAfter=No|wordform=kântà|wordfrom=kântà
+26	kâ	kâi	NOUN	_	_	25	comp:obj	_	Gloss=head.Masc|SpaceAfter=No|wordform=kântà|wordfrom=kântà
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 28	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	27	comp:obj/m	_	Gloss=3Fem.Gen
 29	gà	gà	ADP	_	_	25	comp:obl	_	Gloss=at
@@ -1269,7 +1269,7 @@
 23	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 24	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tat
 25	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=t=
-26	tàhiyà	tàhiyàː	VERB	_	ExtPos=NOUN	20	parataxis@conj	_	GenderAf=Fem|Gloss=go.Nmlz.Fem|Poss=Yes|SpaceAfter=No|wordform=tàhiyàttà
+26	tàhiyà	tàhiyàː	VERB	_	ExtPos=NOUN	20	parataxis@conj	_	GenderAf=Fem|Gloss=go.Nmlz.Fem|SpaceAfter=No|wordform=tàhiyàttà
 27	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	26	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 28	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	27	comp:obj/m	_	Gloss=3Fem.Gen
 29	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -1302,7 +1302,7 @@
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tat
 3	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=t=
-4	tàhiyà	tàhiyàː	VERB	_	ExtPos=NOUN	1	comp:obj	_	GenderAf=Fem|Gloss=go.Nmlz.Fem|Poss=Yes|SpaceAfter=No|wordform=tàhiyàttà
+4	tàhiyà	tàhiyàː	VERB	_	ExtPos=NOUN	1	comp:obj	_	GenderAf=Fem|Gloss=go.Nmlz.Fem|SpaceAfter=No|wordform=tàhiyàttà
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 6	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Fem.Gen
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1315,7 +1315,7 @@
 14	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yam=
 15	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=m=
 16	mâː	mâː	ADP	_	_	12	parataxis	_	Gloss=Dat
-17	doːkìː	doːkìː	NOUN	_	_	16	comp:obj	_	Gloss=horse.Masc|Poss=Yes|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
+17	doːkìː	doːkìː	NOUN	_	_	16	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 19	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	18	comp:obj/m	_	Gloss=3Masc.Gen
 20	sir̃dìː	sir̃dìː	NOUN	_	Gender=Masc	16	comp:obj@T	_	Gloss=saddle.Masc|SpaceAfter=No
@@ -1323,20 +1323,20 @@
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaɗ
 23	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=ɗ=
 24	ɗàuki	ɗaukaː	VERB	_	_	16	parataxis	_	Gloss=take
-25	kaːyaː	kaːyaː	NOUN	_	_	24	comp:obj	_	Gloss=things.Masc|Poss=Yes|SpaceAfter=No|wordform=kaːyaːnai|wordfrom=kaːyaːnai
+25	kaːyaː	kaːyaː	NOUN	_	_	24	comp:obj	_	Gloss=things.Masc|SpaceAfter=No|wordform=kaːyaːnai|wordfrom=kaːyaːnai
 26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 27	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	26	comp:obj/m	_	Gloss=3Masc.Gen
 28	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 29	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
 30	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=h=
 31	hau	hau	VERB	_	_	24	parataxis@conj	_	Gloss=climb/start
-32	doːkìː	doːkìː	NOUN	_	_	31	comp:obj	_	Gloss=horse.Masc|Poss=Yes|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
+32	doːkìː	doːkìː	NOUN	_	_	31	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 34	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	33	comp:obj/m	_	Gloss=3Masc.Gen
 35	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 36	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	38	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 37	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	38	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=t=
-38	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	31	parataxis@conj	_	GenderAf=Masc|Gloss=go.Nmlz.Fem|Poss=Yes|SpaceAfter=No|wordform=tàhiyàːtai
+38	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	31	parataxis@conj	_	GenderAf=Masc|Gloss=go.Nmlz.Fem|SpaceAfter=No|wordform=tàhiyàːtai
 39	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	38	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 40	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	39	comp:obj/m	_	Gloss=3Masc.Gen
 41	.	.	PUNCT	_	_	12	punct	_	Gloss=.
@@ -1360,7 +1360,7 @@
 10	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=b=
 11	baː	baː	VERB	_	_	3	parataxis@conj	_	Gloss=give
 12	shì	shi	PRON	_	Gender=Masc|Person=3	11	comp:obj@R	_	Gloss=3Masc
-13	doːkìː	doːkìː	NOUN	_	_	11	comp:obj@T	_	Gloss=horse.Masc|Poss=Yes|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
+13	doːkìː	doːkìː	NOUN	_	_	11	comp:obj@T	_	Gloss=horse.Masc|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 15	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj/m	_	Gloss=3Masc.Gen
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
@@ -1378,7 +1378,7 @@
 28	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 29	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=t=
 30	tàhi	tàhi	VERB	_	_	24	parataxis@conj	_	Gloss=go
-31	gidaː	gidaː	NOUN	_	_	30	comp:obj@G	_	Gloss=house.Masc|Poss=Yes|SpaceAfter=No|wordform=gidaːnai|wordfrom=gidaːnai
+31	gidaː	gidaː	NOUN	_	_	30	comp:obj@G	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidaːnai|wordfrom=gidaːnai
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 33	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	32	comp:obj/m	_	Gloss=3Masc.Gen
 34	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -1396,11 +1396,11 @@
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 5	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
 6	yi	yi	VERB	_	_	3	parataxis@conj	_	Gloss=do
-7	zamaː	zamaː	VERB	_	ExtPos=NOUN	6	comp:pred	_	Gloss=stay.Nmlz.Masc|Poss=Yes|SpaceAfter=No|wordform=zamaːnai|wordfrom=zamaːnai
+7	zamaː	zamaː	VERB	_	ExtPos=NOUN	6	comp:pred	_	Gloss=stay.Nmlz.Masc|SpaceAfter=No|wordform=zamaːnai|wordfrom=zamaːnai
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen
 10	cikin	cikin	ADP	_	_	6	mod	_	Gloss=in(side)
-11	gidaː	gidaː	NOUN	_	_	10	comp:obj	_	Gloss=house.Masc|Poss=Yes|SpaceAfter=No|wordform=gidaːnai|wordfrom=gidaːnai
+11	gidaː	gidaː	NOUN	_	_	10	comp:obj	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidaːnai|wordfrom=gidaːnai
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 13	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	12	comp:obj/m	_	Gloss=3Masc.Gen
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -1412,7 +1412,7 @@
 20	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	ham	hat	SCONJ	_	_	6	mod	_	Gloss=until
-23	màcceː	màcce	NOUN	_	_	28	subj	_	Gloss=woman.Fem|Poss=Yes|SpaceAfter=No|wordform=màcceːnai|wordfrom=màcceːnai
+23	màcceː	màcce	NOUN	_	_	28	subj	_	Gloss=woman.Fem|SpaceAfter=No|wordform=màcceːnai|wordfrom=màcceːnai
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 25	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	24	comp:obj/m	_	Gloss=3Masc.Gen
 26	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taz
@@ -1609,7 +1609,7 @@
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yas
 4	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=s=
 5	sàːmu	saːmùː	VERB	_	_	0	root	_	Gloss=get
-6	màːtaː	màːtaː	NOUN	_	_	5	comp:obj	_	GenderAf=Masc|Gloss=wife.Fem|Poss=Yes|SpaceAfter=No|wordform=màːtaːtai
+6	màːtaː	màːtaː	NOUN	_	_	5	comp:obj	_	GenderAf=Masc|Gloss=wife.Fem|SpaceAfter=No|wordform=màːtaːtai
 7	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	6	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 8	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
 9	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	5	mod	_	Gloss=health.Fem
@@ -1654,7 +1654,7 @@
 13	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=g=
 14	gayàː	gayàː	VERB	_	_	0	root	_	Gloss=tell
 15	mà	mà	ADP	_	_	14	comp:obl	_	Gloss=Dat
-16	mijì	mijìː	NOUN	_	_	15	comp:obj	_	Gloss=husband/male|Poss=Yes|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
+16	mijì	mijìː	NOUN	_	_	15	comp:obj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 18	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	17	comp:obj/m	_	Gloss=3Fem.Gen
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
