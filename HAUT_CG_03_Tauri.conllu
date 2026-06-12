@@ -14,13 +14,13 @@
 7	maːgàni	maːgàniː	NOUN	_	Gender=Masc	5	conj:dicto	_	Gloss=charm|RelAnt=Yes|SpaceAfter=No|wordform=maːgànin
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
 9	tauri	tauri	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=toughness_charm.Masc|SpaceAfter=No
-10	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
-11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	33	dislocated@comp	_	Gloss=which.Masc.Rel|Relz=Word
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	mod@relcl	_	Gloss=which.Masc.Rel|Relz=Word
 12	in	in	SCONJ	_	_	33	mod	_	Gloss=if
 13	a-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 14	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Plur
 15	yi	yi	VERB	_	_	12	comp:obj	_	Gloss=do
-16	shì	shi	PRON	_	Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc|SpaceAfter=No
+16	shì	shi	PRON	_	Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc|RelPos=Yes|SpaceAfter=No
 17	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 18	in	in	SCONJ	_	_	33	mod	_	Gloss=if
 19	na	na	PART	_	Case=Gen|PartType=Case	21	comp:pred	_	Gloss=Gen
@@ -37,8 +37,8 @@
 30	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	33	subj	_	Gloss=iron.Masc
 31	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	33	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 32	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Masc=|wordform=bâːshì
-33	huːdàː	huːdàː	VERB	_	_	7	mod@relcl	_	ClauseType=Rel|Gloss=pierce
-34	shi	shi	PRON	_	Gender=Masc|Person=3	33	comp:obj	_	Gloss=3Masc|RelPos=Yes|SpaceAfter=No
+33	huːdàː	huːdàː	VERB	_	_	11	comp	_	ClauseType=Rel|Gloss=pierce
+34	shi	shi	PRON	_	Gender=Masc|Person=3	33	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 35	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_002-002
