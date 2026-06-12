@@ -2390,11 +2390,11 @@
 23	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_55-55_split2
+# text = sai su-_̀= cêː mutà : “ tundà shiː ki-kà sôː, a-n= baː shì, shi-_̀= kaːwoː duːkìya-n wâncân wandà bâː- ki= sôː, a-_̀= baː shi àbuː-t-ai tundà bâː- ki= sôː-n-ai , shi-_̀= bìɗi wani mài sôː-n-ai ".
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 53000, 54000
-# text = sai sù=cêː mutà : “ tundà shiː ki-kà sôː, am=baː shì, shì=kaːwoː duːkìya-n wâncân wandà bâː ki sôː, à=baː shi àbuː-t-ai tundà bâː ki sôː-n-ai , shì=bìɗi wani mài sôː-n-ai ".
-# text_en = They will tell her "since it's him that you like, we give him to you, let him give back the cattle to the one you don't like, let him recover his hings since you don't like him, so that he will look for someone who likes him.
+# text_en = They will tell her "since it's him that you like, we give him to you, let him give back the cattle to the one you don't like, let him recover his things since you don't like him, so that he will look for someone who likes him.
 # text_ortho = sai sù ceè mutà : “tun dà šii ki kà soò, ’am baa šì, šì kaawoo duukìyaw waǹcaǹ wandà baà ki soò, ’à baa šì ’àbuutai tun dà baà ki soònai, šì bìɗi wata mài soònai.
 1	sai	sai	ADV	_	_	4	mod	_	Gloss=then
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
@@ -2419,11 +2419,11 @@
 21	kaːwoː	kai	VERB	_	_	16	parataxis@conj	_	Gloss=reach/take_to.Dir
 22	duːkìya	duːkìyaː	NOUN	_	_	21	comp:obj	_	Gloss=c|SpaceAfter=No|wordform=duːkìyaw
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	mod/m	_	Gloss=Gen.Masc/Plur
-24	wâncân	cân	PRON	_	Deixis=Med|Gender=Masc|PronType=Dem	23	comp:obj	_	Gloss=Med.Masc
-25	wandà	wandà	PRON	_	PronType=Rel	28	udep	_	Gloss=who
+24	wâncân	cân	PRON	_	Deixis=Med|Gender=Masc|PronType=Dem	23	comp:obj	_	Gloss=Med.Masc|RelAnt=Yes
+25	wandà	wandà	PRON	_	PronType=Rel	24	mod@relcl	_	Gloss=who|Relz=Word
 26	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	28	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 27	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	28	subj/m	_	Gloss=2Fem=|wordform=bâːki
-28	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	24	mod@relcl	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
+28	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp	_	ClauseType=Rel|Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 30	a-	a	PRON	_	Person=4|PronType=PrsSubj	32	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 31	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	32	mod/m	_	Gloss=Sub=
