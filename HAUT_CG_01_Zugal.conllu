@@ -412,37 +412,37 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 16000, 17000
-# text = dà wandà ya-h= hwaːɗoː ƙasà, dà wandà ya-Ø= laƙèː bisà, koːwanè an-kà= saːmùː, sai a-_̀= c'ìntoː shi, a-_̀= c'ìntoː shi dà daːmaː, a-_̀= ƙumshèː gà wata takàr̃daː koː wasu raggàː.
+# text = dà wandà ya-C= hwaːɗoː ƙasà, dà wandà ya-C= laƙèː bisà, koːwanè an-kà= saːmùː, sai a-_̀= c'ìntoː shi, a-_̀= c'ìntoː shi dà daːmaː, a-_̀= ƙumshèː gà wata takàr̃daː koː wasu raggàː.
 # text_en = Both the one that has fallen on the ground, and the one that gathers on top, whichever you get, collect it, collect a lot, wrap it in a paper or some cloth.
 # text_ortho = dà wandà yah hwaaɗoo ƙasà, dà wandà yal laƙèe bisà, koo wanè ’ankà saamùu, sai ’à c’intoo šì, ’à c’intoo šì dà daamaa, ’à ƙumšèe gà wata takàrdaa koo wasu ᵲaggàa.
 1	dà	dà	CCONJ	_	_	2	cc@preconj	_	Gloss=and
-2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	dislocated@comp	_	Gloss=who.Masc
+2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	dislocated@comp	_	Gloss=who.Masc
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
-4	h=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes
+4	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes
 5	hwaːɗoː	hwaːɗi	VERB	_	_	2	mod@relcl	_	Gloss=fall.Dir
 6	ƙasà	ƙasà	ADV	_	_	5	comp:obl	_	Gloss=on_ground|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-8	dà	dà	CCONJ	_	_	9	cc@preconj	_	Gloss=and
+8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
 9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	2	conj:coord	_	Gloss=who.Masc
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yal
 11	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=l=
 12	laƙèː	laƙèː	VERB	_	_	9	mod@relcl	_	Gloss=pile_up
 13	bisà	bisà	ADP	_	_	12	comp:obl	_	Gloss=on_top_of|SpaceAfter=No
-14	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-15	koːwanè	koːwanè	PRON	_	_	23	mod	_	Gloss=whichever
+14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+15	koːwanè	koːwanè	PRON	_	_	9	conj:appos	_	Gloss=whichever
 16	an-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 18	saːmùː	saːmùː	VERB	_	_	15	mod@relcl	_	Gloss=get|SpaceAfter=No
-19	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+19	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 20	sai	sai	ADV	_	_	23	mod	_	Gloss=then
 21	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 22	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	23	mod/m	_	Gloss=Sub=
 23	c'ìntoː	c'ìntaː	VERB	_	_	0	root	_	Gloss=pick_up_by_chance.Dir
 24	shi	shi	PRON	_	Gender=Masc|Person=3	23	comp:obj	_	Gloss=3Masc|SpaceAfter=No
-25	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+25	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 26	a-	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 27	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	28	mod/m	_	Gloss=Sub=
-28	c'ìntoː	c'ìntaː	VERB	_	_	23	conj:dicto	_	Gloss=pick_up_by_chance.Dir
+28	c'ìntoː	c'ìntaː	VERB	_	_	23	parataxis	_	Gloss=pick_up_by_chance.Dir
 29	shi	shi	PRON	_	Gender=Masc|Person=3	28	comp:obj	_	Gloss=3Masc
 30	dà	dà	ADP	_	_	28	mod	_	Gloss=with
 31	daːmaː	daːmaː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=chance/quantity.Fem|SpaceAfter=No
@@ -844,11 +844,11 @@
 14	kàma	kàmaː	NOUN	_	Gender=Fem	13	compound	_	Gloss=appearance.Fem|SpaceAfter=No|wordform=kàmaƙ
 15	-ƙ	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Fem|wordform=-C
 16	ƙòːdagòː	ƙòːdagòː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=palm_fruit.Masc|SpaceAfter=No
-17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	subj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	mod@relcl	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
 19	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 20	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
-21	yi	yi	VERB	_	_	10	mod@relcl	_	ClauseType=Rel|Gloss=do
+21	yi	yi	VERB	_	_	18	comp	_	ClauseType=Rel|Gloss=do|RelRole=subj
 22	zùndà-zundàː	zùndà-zundàː	ADV	_	_	21	comp:pred	_	Gloss=elongated|Ideo=Yes
 23	kàmaz	kàmat	ADP	_	_	21	mod	_	Gloss=like
 24	zùngùr̃uː	zùngùr̃uː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=long_gourd.Masc|SpaceAfter=No
@@ -3283,9 +3283,9 @@
 14	runhuː	runhuː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=tree_sp.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	saːbiː	saːbiː	ADJ	_	Number=Plur	12	mod	_	Gloss=new.Plur|SpaceAfter=No
-17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	19	subj	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=Word
-19	ad	neː	AUX	_	Copula=Yes	12	mod@relcl	_	ClauseType=Rel|Gloss=Ident/Foc.Rel|Relative=Yes
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	12	mod@relcl	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=Word
+19	ad	neː	AUX	_	Copula=Yes	18	comp	_	ClauseType=Rel|Gloss=Ident/Foc.Rel|Relative=Yes|RelRole=subj
 20	dà	dà	ADP	_	_	19	comp:pred	_	Gloss=with
 21	tabshiː	tabshiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=softness.Masc|SpaceAfter=No
 22	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -5515,7 +5515,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 151000, 152000
-# text_en = Se is like a hen, who bears no grudge.
+# text_en = She is like a hen, who bears no grudge.
 # text_ortho = kàmak kàazaa cèe, dà baà ta dà zuccìyaa.
 1	kàmak	kàmat	ADP	_	_	3	comp:pred	_	Gloss=like
 2	kàːzaː	kàːzaː	NOUN	_	Gender=Fem	1	comp:obj	_	Gloss=hen.Fem|RelAnt=Yes
@@ -6921,11 +6921,11 @@
 13	kic'è	kic'èː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=fat|RelAnt=Yes|SpaceAfter=No|wordform=kic'èn
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod/m	_	Gloss=Gen.Masc/Plur
 15	damoː	damoː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=land-monitor.Masc|SpaceAfter=No
-16	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	subj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
+16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+17	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	mod@relcl	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
 18	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
 19	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=h=
-20	narkèː	narkèː	VERB	_	_	13	mod@relcl	_	ClauseType=Rel|Gloss=melt.Ach|SpaceAfter=No
+20	narkèː	narkèː	VERB	_	_	17	comp	_	ClauseType=Rel|Gloss=melt.Ach|RelRole=subj|SpaceAfter=No
 21	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 22	sai	sai	ADV	_	_	25	mod	_	Gloss=then
 23	a-	a	PRON	_	Person=4|PronType=PrsSubj	25	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
