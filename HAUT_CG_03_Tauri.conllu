@@ -2323,7 +2323,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 65000, 66000
-# text = in taz zama gàːriː, à gamè gàːrintà dà gàːrim maːgànîn, wandà ankà ajèː.
+# text = in ta-C= zama gàːriː, a-_̀= gamè gàːri-n-tà dà gàːri-n maːgànîn, wandà an-kà= ajèː.
 # text_en = When it has become flour, you mix it with the powdered medicine that you have set aside.
 # text_ortho = ’in taz zama gàaᵲii, ’à gamè gàaᵲintà dà gàaᵲim maagàniǹ, wandà ’ankà ’ajèe.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
@@ -2342,11 +2342,11 @@
 14	gàːri	gàːriː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=flour|RelAnt=Yes|SpaceAfter=No|wordform=gàːrim
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
 16	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	15	comp:obj	_	Gloss=charm.Masc.Def|SpaceAfter=No
-17	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	comp:obj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=who.Masc.Rel|Relz=Word
 19	an-	a	PRON	_	Person=4|PronType=PrsSubj	21	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 20	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-21	ajèː	ajèː	VERB	_	_	14	mod@relcl	_	ClauseType=Rel|Gloss=put_aside|SpaceAfter=No
+21	ajèː	ajèː	VERB	_	_	18	comp	_	ClauseType=Rel|Gloss=keep_aside|RelRole=obj|SpaceAfter=No
 22	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_067-067
