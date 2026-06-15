@@ -3252,7 +3252,7 @@
 3	na	na	PART	_	Case=Gen|PartType=Case	2	mod	_	Gloss=Gen
 4	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:obj	_	Gloss=eat/have_sex.Nmlz.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-6	wandà	wandà	SCONJ	_	Gender=Masc|PronType=Rel	9	comp:obj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=word
+6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	9	comp:obj	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
 7	a-	a-	PRON	_	Person=4|PronType=Prs	8	subj/m	_	Gloss=4|SpaceAfter=No
 8	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	mod@relcl	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|wordform=akà
 9	ɗiːbàː	ɗiːbàː	VERB	_	_	8	comp:pred	_	Gloss=take
@@ -5158,7 +5158,7 @@
 5	wa’ànnan	nan	DET	_	Deixis=ProxH|Number=Plur|PronType=Dem	6	det	_	Gloss=ProxH.Plur
 6	abuːbuwàː	àbù	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=thing.Plur|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	6	mod@relcl	_	Gloss=who.Plur.Rel|Relz=word
+8	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	6	mod@relcl	_	Gloss=who.Plur.Rel|Relz=Word
 9	mun-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	11	subj/m	_	Gloss=1Plur-|SpaceAfter=No|wordform=munkà
 10	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 11	zaːnàː	zaːnàː	VERB	_	_	8	comp	_	ClauseType=Rel|Gloss=tell|RelRole=obj

@@ -2334,7 +2334,7 @@
 17	wânga	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	18	det	_	Gloss=ProxS.Masc
 18	mijìː	mijìː	NOUN	_	_	16	comp:obj	_	Gloss=husband|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	wandà	wandà	PRON	_	PronType=Rel	18	mod@relcl	_	Gloss=who.Rel|Relz=word
+20	wandà	wandà	PRON	_	PronType=Rel	18	mod@relcl	_	Gloss=who.Rel|Relz=Word
 21	mun-	mu-	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	23	subj/m	_	Gloss=1Plur-|wordform=mu-
 22	kà=	nkà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 23	Ø	yi	VERB	_	_	20	comp	_	ClauseType=Rel|Gloss=do|RelRole=obj
