@@ -7545,7 +7545,7 @@
 3	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Gender=Masc	1	conj:appos	_	Gloss=grass_sp.Masc
 4	ƙwaːròː	ƙwaːròː	NOUN	_	Gender=Masc	3	mod	_	Gloss=insect.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	du'	dukà	DET	_	PronType=Tot	7	det	_	Gloss=all
+6	du'	dukà	ADV	_	PronType=Tot	7	mod	_	Gloss=all
 7	indà	indà	ADV	_	_	17	dislocated@mod	_	Gloss=where
 8	namijì	namijì	NOUN	_	Gender=Masc	11	subj	_	Gloss=man.Masc
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay

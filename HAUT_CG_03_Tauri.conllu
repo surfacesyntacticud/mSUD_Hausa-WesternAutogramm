@@ -3228,10 +3228,10 @@
 34	irì	irìː	NOUN	_	Gender=Masc	46	mod	_	Gloss=type|RelAnt=Yes|SpaceAfter=No|wordform=irìn
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	mod/m	_	Gloss=Gen.Masc/Plur
 36	juːyì	juːyì	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=change.Masc
-37	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	40	comp:pred	_	Gloss=who.Masc.Rel|RelPos=Yes|Relz=Word
+37	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	34	mod@relcl	_	Gloss=who.Masc.Rel|Relz=Word
 38	an-	a	PRON	_	Person=4|PronType=PrsSubj	40	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 39	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	40	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-40	yi	yi	VERB	_	_	34	mod@relcl	_	ClauseType=Rel|Gloss=do
+40	yi	yi	VERB	_	_	37	comp	_	ClauseType=Rel|Gloss=do|RelRole=pred
 41	dà	dà	ADP	_	_	40	comp:obl	_	Gloss=with
 42	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	41	comp:obj	_	Gloss=iron.Masc|SpaceAfter=No
 43	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
@@ -3798,11 +3798,11 @@
 19	shi	shi	PRON	_	Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc
 20	bisà	bisà	ADP	_	_	18	comp:obl	_	Gloss=on_top_of
 21	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=skin.Fem|RelAnt=Yes|SpaceAfter=No
-22	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-23	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	26	comp:obj@L	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
+22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+23	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
 24	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	26	mod/m	_	Gloss=Fut-|SpaceAfter=No
 25	'a=	a	PRON	_	Person=4|PronType=PrsSubj	26	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
-26	ɗumkèː	ɗumkèː	VERB	_	_	21	mod@relcl	_	ClauseType=Rel|Gloss=sew_up
+26	ɗumkèː	ɗumkèː	VERB	_	_	23	comp	_	ClauseType=Rel|Gloss=sew_up|RelRole=L
 27	shi	shi	PRON	_	Gender=Masc|Person=3	26	comp:obj@T	_	Gloss=3Masc|SpaceAfter=No
 28	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 

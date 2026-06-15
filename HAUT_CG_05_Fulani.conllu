@@ -110,11 +110,11 @@
 14	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	16	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 15	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Sing
 16	rasà	rasàː	VERB	_	_	5	parataxis@mod	_	Gloss=lack
-17	wàdà	wàdà	ADV	_	PronType=Rel	16	comp:obj	_	Gloss=how
+17	wàdà	wàdà	ADV	_	PronType=Rel	16	comp:obj	_	ClauseType=Rel|Gloss=how|Relz=Word
 18	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	20	mod/m	_	Gloss=Fut-|SpaceAfter=No
 19-20	zâː	_	_	_	_	_	_	_	_
 19	ka=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	20	subj/m	_	Gloss=2Masc=|wordform=zâːka=
-20	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	17	mod@relcl	_	Gloss=do.Vnoun.Masc
+20	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	17	mod@relcl	_	Gloss=do.Vnoun.Masc|RelRole=mod
 21	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	23	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
 22	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	23	mod/m	_	Gloss=Sub=
 23	ci	ci	VERB	_	_	20	mod	_	Gloss=have_sex_with

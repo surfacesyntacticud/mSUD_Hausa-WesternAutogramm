@@ -1297,11 +1297,11 @@
 3	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=r=
 4	rasà	rasàː	VERB	_	_	1	comp:obj	_	Gloss=lack
 5	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=cleverness/trick.Fem|RelAnt=Yes|SpaceAfter=No
-6	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-7	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	10	comp:pred	_	Gloss=which.Fem.Rel|RelPos=Yes|Relz=Word
+6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+7	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	5	mod@relcl	_	Gloss=which.Fem.Rel|Relz=Word
 8	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	10	mod/m	_	Gloss=Fut-|SpaceAfter=No
 9	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
-10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	mod@relcl	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|SpaceAfter=No
+10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|RelRole=pred|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	17	mod	_	Gloss=sun/day.Fem.Def
 13	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	12	det	_	Gloss=PreRef|PreRef=Yes
@@ -1698,10 +1698,10 @@
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
 3	rasà	rasàː	VERB	_	_	0	root	_	Gloss=lack
 4	dùbaːràː	dùbaːràː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=plan.Fem|RelAnt=Yes
-5	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	8	comp:pred	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
+5	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	4	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
 6	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	8	mod/m	_	Gloss=Fut-|SpaceAfter=No
 7	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
-8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	mod@relcl	_	ClauseType=Rel|Gloss=do.Nmlz.Masc
+8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|RelRole=pred
 9	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 10	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	11	mod/m	_	Gloss=Sub=
 11	ganeː	ganiː	VERB	_	_	8	parataxis@mod	_	Gloss=see
@@ -1886,7 +1886,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 51000, 52000
-# text = dà yab baː tà waɗànnan kaːyaː, tà kai mà màːtam maːlàm, s'oːhuwaː taɓ ɓoːyèː, taɓ ɓoːyè kaːyaː, wa’àndà yab baː tà, cikin kaːyantà, indà maːlàm bâːshi ganiː.
+# text = dà ya-C= baː tà waɗànnan kaːyaː, ta-_̀= kai mà màːta-m maːlàm, s'oːhuwaː ta-C= ɓoːyèː, ta-C= ɓoːyè kaːyaː, wa’àndà ya-C= baː tà, cikin kaːya-n-tà , indà maːlàm bâː- shi= ganiː.
 # text_en = When he gave her these things to take to the malam's wife, the old woman hid (them), she hid the things that he gave her in her goods, where the malam would not see them.
 # text_ortho = dà yab baa tà waɗànnan kaayaa, tà kai mà màatam maalàm, s’oohuwaa taɓ ɓooyèe, taɓ ɓooyè kaayaa, wa’àndà yab baa tà, cikin kaayantà, ’indà maalàm baà ši ganii.
 1	dà	dà	SCONJ	_	_	20	mod	_	Gloss=when
@@ -1914,11 +1914,11 @@
 23	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=ɓ=
 24	ɓoːyè	ɓoːyèː	VERB	_	_	20	conj:dicto	_	Gloss=hide
 25	kaːyaː	kaːyaː	NOUN	_	Gender=Masc	24	comp:obj	_	Gloss=things.Masc|RelAnt=Yes|SpaceAfter=No
-26	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-27	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	30	comp:obj@T	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=Word
+26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+27	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	25	mod@relcl	_	Gloss=who.Plur.Rel|Relz=Word
 28	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
 29	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=b=
-30	baː	baː	VERB	_	_	25	mod@relcl	_	ClauseType=Rel|Gloss=give
+30	baː	baː	VERB	_	_	27	comp	_	ClauseType=Rel|Gloss=give|RelRole=T
 31	tà	ta	PRON	_	Gender=Fem|Person=3	30	comp:obj@R	_	Gloss=3Fem|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 33	cikin	cikin	ADP	_	_	24	comp:obl	_	Gloss=in(side)
@@ -2099,7 +2099,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 58000, 59000
-# text = dà tak kai dàudawaː, sai tah hiddoː kaːyaː, wa’àndà ɗan sarkiː yab baː tà, tab bâː màːtam maːlàm.
+# text = dà ta-C= kai dàudawaː, sai ta-C= hiddoː kaːyaː, wa’àndà ɗa-n sarkiː ya-C= baː tà, ta-C= bâː màːta-m maːlàm.
 # text_en = When she brought the "daudawa", she took out the things that the chief's son had given her to give to the malam's wife.
 # text_ortho = dà tak kai dàudawaa, sai tah hiddoo kaayaa, wa’àndà ɗan saᵲkii yab baa tà, tab baà màatam maalàm.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
@@ -2113,14 +2113,14 @@
 9	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=h=
 10	hiddoː	hiddàː	VERB	_	_	0	root	_	Gloss=remove.Dir
 11	kaːyaː	kaːyaː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=things.Masc|RelAnt=Yes|SpaceAfter=No
-12	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-13	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	19	comp:obj@T	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=Word
+12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+13	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	11	mod@relcl	_	Gloss=who.Plur.Rel|Relz=Word
 14	ɗa	ɗaː	NOUN	_	Gender=Masc	19	subj	_	Gloss=son|SpaceAfter=No|wordform=ɗan
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
 16	sarkiː	sarkiː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=chief.Masc
 17	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
 18	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=b=
-19	baː	baː	VERB	_	_	11	mod@relcl	_	ClauseType=Rel|Gloss=give
+19	baː	baː	VERB	_	_	13	comp	_	ClauseType=Rel|Gloss=give|RelRole=T
 20	tà	ta	PRON	_	Gender=Fem|Person=3	19	comp:obj@R	_	Gloss=3Fem|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 22	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tab
@@ -2265,10 +2265,10 @@
 23	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc=|wordform=bài
 24	san	sanìː	VERB	_	_	16	conj:coord	_	Gloss=know
 25	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=cleverness/trick.Fem|RelAnt=Yes
-26	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	29	comp:pred	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
+26	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	25	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
 27	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	29	mod/m	_	Gloss=Fut-|SpaceAfter=No
 28	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
-29	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	25	mod@relcl	_	ClauseType=Rel|Gloss=do.Nmlz.Masc
+29	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	comp	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|RelRole=pred
 30	ba	ba	PART	_	PartType=Neg|Polarity=Neg	24	mod	_	Gloss=Neg|SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 32	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -2312,10 +2312,10 @@
 10	hwaɗàː	hwaɗàː	VERB	_	_	20	subj	_	Gloss=tell
 11	mikì	mikì	PRON	_	Gender=Fem|Person=2	10	comp:obl	_	Gloss=2Fem.Dat|RelAnt=Yes
 12	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=cleverness/trick.Fem
-13	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	16	comp:pred	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
+13	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	12	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
 14	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	16	mod/m	_	Gloss=Fut-|SpaceAfter=No
 15	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
-16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	mod@relcl	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|SpaceAfter=No
+16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|RelRole=pred|SpaceAfter=No
 17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 18	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 19	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	20	mod/m	_	Gloss=Sub=
