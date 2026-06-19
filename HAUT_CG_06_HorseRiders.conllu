@@ -141,7 +141,7 @@
 13	doːkìː	doːkìː	NOUN	_	Gender=Masc	12	compound	_	Gloss=horse.Masc
 14	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 15	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Sing
-16	wucèː	wucèː	VERB	_	_	11	parataxis@comp	_	Gloss=pass_by|SpaceAfter=No
+16	wucèː	wucèː	VERB	_	_	11	parataxis:comp	_	Gloss=pass_by|SpaceAfter=No
 17	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 18	sai	sai	ADV	_	_	21	mod	_	Gloss=then
 19	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
@@ -792,7 +792,7 @@
 24	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	25	mod	_	Gloss=Iter
 25	zuhwàː	zuhwàː	NOUN	_	Gender=Fem	23	comp:pred	_	Gloss=perspiration.Fem|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-27	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	23	parataxis	_	Gloss=there_is.Neg
+27	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	23	parataxis:conj	_	Gloss=there_is.Neg
 28	indà	indà	PRON	_	_	27	subj	_	Gloss=where
 29	iskàː	iskàː	NOUN	_	Gender=Fem	30	subj	_	Gloss=air.Fem
 30	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
@@ -1086,7 +1086,7 @@
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 15	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 16	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	17	mod/m	_	Gloss=Sub=
-17	yi	yi	VERB	_	_	12	parataxis	_	Gloss=do
+17	yi	yi	VERB	_	_	12	parataxis:conj	_	Gloss=do
 18	mutà	mutà	PRON	_	Gender=Fem|Person=3	17	comp:obl	_	Gloss=3Fem.Dat
 19	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	17	comp:obj@T	_	Gloss=farting.Fem|SpaceAfter=No
 20	.	.	PUNCT	_	_	12	punct	_	Gloss=.
@@ -1314,7 +1314,7 @@
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yam=
 15	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=m=
-16	mâː	mâː	ADP	_	_	12	parataxis	_	Gloss=Dat
+16	mâː	mâː	ADP	_	_	12	parataxis:conj	_	Gloss=Dat
 17	doːkìː	doːkìː	NOUN	_	_	16	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No|wordform=doːkìːnai|wordfrom=doːkìːnai
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 19	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	18	comp:obj/m	_	Gloss=3Masc.Gen
@@ -1322,7 +1322,7 @@
 21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaɗ
 23	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=ɗ=
-24	ɗàuki	ɗaukaː	VERB	_	_	16	parataxis	_	Gloss=take
+24	ɗàuki	ɗaukaː	VERB	_	_	16	parataxis:conj	_	Gloss=take
 25	kaːyaː	kaːyaː	NOUN	_	_	24	comp:obj	_	Gloss=things.Masc|SpaceAfter=No|wordform=kaːyaːnai|wordfrom=kaːyaːnai
 26	-n	na	PART	_	Case=Gen|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 27	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	26	comp:obj/m	_	Gloss=3Masc.Gen
@@ -1366,7 +1366,7 @@
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yam=
 18	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=m=
-19	mai	may-	VERB	_	_	11	parataxis	_	Gloss=give_back
+19	mai	may-	VERB	_	_	11	parataxis:conj	_	Gloss=give_back
 20	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=thanks.Fem|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 22	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà

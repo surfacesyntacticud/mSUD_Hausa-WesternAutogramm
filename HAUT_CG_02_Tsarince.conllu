@@ -268,7 +268,7 @@
 10	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:pred	_	Gloss=go.Nmlz.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	koːwaː	koːwaː	PRON	_	_	13	subj	_	Gloss=everyone
-13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	parataxis	_	Gloss=Prog
+13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	parataxis:conj	_	Gloss=Prog
 14	kira	kiraː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	13	comp:pred	_	Gloss=call.Vnoun.Masc|SpaceAfter=No|wordform=kiran
 15	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	udep/m	_	Gloss=Gen|SpaceAfter=No
 16	bùdurwad	bùdurwaː	NOUN	_	Definite=Def|Gender=Fem	15	comp:obj	_	Gloss=girl.Fem.Def|RelAnt=Yes|SpaceAfter=No
@@ -481,7 +481,7 @@
 3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog
 4	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=go.Nmlz.Masc
 5	su-	su-	PRON	_	Number=Plur|Person=3	6	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis	_	Gloss=Prog|wordform=sunàː
+6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis:conj	_	Gloss=Prog|wordform=sunàː
 7	kiràː	kiràː	VERB	_	ExtPos=NOUN	6	comp:pred	_	Gloss=call.Nmlz.Masc|SpaceAfter=No|wordform=kirànsù
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	comp:obj	_	Gloss=3Plur.Gen
@@ -1125,7 +1125,7 @@
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 23	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
 24	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	25	mod/m	_	Gloss=Sub=
-25	tàhi	tàhi	VERB	_	_	20	parataxis	_	Gloss=go
+25	tàhi	tàhi	VERB	_	_	20	parataxis:conj	_	Gloss=go
 26	wuri	wuriː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=place|SpaceAfter=No|wordform=wurin
 27	-n	na	PART	_	Case=Gen|PartType=Case	26	udep/m	_	Gloss=Gen.Masc/Plur
 28	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	27	comp:obj	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No
@@ -2350,7 +2350,7 @@
 33	sai	sai	ADV	_	_	36	mod	_	Gloss=then
 34	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	36	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kì
 35	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	36	mod/m	_	Gloss=Sub=
-36	hwàɗi	hwàɗaː	VERB	_	_	28	parataxis	_	Gloss=tell
+36	hwàɗi	hwàɗaː	VERB	_	_	28	parataxis:conj	_	Gloss=tell
 37	wandà	wandà	PRON	_	PronType=Rel	36	comp:obj	_	Gloss=who
 38	ki-	ki-	PRON	_	Gender=Fem|Person=2|PronType=Prs	39	subj/m	_	Gloss=2Fem|SpaceAfter=No
 39	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	37	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=kikà
