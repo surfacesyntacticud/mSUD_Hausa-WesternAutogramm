@@ -7041,8 +7041,8 @@
 # text_ortho = waddà ši kà soò, soò dà yawàa, bàa soò kàɗannà ba. don šii maagàniǹ nan, sai màccen dà mùtun kà soò dà yawàa.
 1	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	6	dislocated@subj	_	ClauseType=Rel|Gloss=who.Fem|Relz=Word
 2	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Masc|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog|Relative=Yes|RelRole=obj|wordform=shikà
-4	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
+3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=shikà
+4	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=like/love/want.Nmlz.Masc
 7	dà	dà	ADP	_	_	6	mod	_	Gloss=with
@@ -8176,8 +8176,8 @@
 # text_ortho = waddà ši kà soò, soò dà yawàa, bàa soò kàɗannà ba. don šii maagàniǹ nan, sai màccen dà mùtun kà soò dà yawàa.
 1	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	6	dislocated@subj	_	ClauseType=Rel|Gloss=who.Fem|Relz=Word
 2	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Masc|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog|Relative=Yes|RelRole=obj|wordform=shikà
-4	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
+3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=shikà
+4	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=like/love/want.Nmlz.Masc
 7	dà	dà	ADP	_	_	6	mod	_	Gloss=with

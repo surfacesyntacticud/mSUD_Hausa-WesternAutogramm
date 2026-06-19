@@ -2866,7 +2866,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 65000, 66000
-# text_en = She, the girl, if she looks she sees that boy that she likes.
+# text_en = She, the girl, if she looks she sees that boy that this boy is the one she likes.
 # text_ortho = ’ita bùduᵲwaa, in tad diibàa tag ga saᵲmàyiǹ nan, wandà takà soò nee.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	10	dislocated@subj	_	Gloss=3Fem
 2	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	1	conj:appos	_	Gloss=girl.Fem|SpaceAfter=No
@@ -2878,14 +2878,14 @@
 8	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tag
 9	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=g=
 10	ga	ganiː	VERB	_	_	0	root	_	Gloss=see
-11	sarmàyîn	sarmàyiː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=youth.Masc.Def
+11	sarmàyîn	sarmàyiː	NOUN	_	Definite=Def|Gender=Masc	18	subj	_	Gloss=youth.Masc.Def
 12	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	11	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
-13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=who.Masc|Relz=Word
+13	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	comp:pred	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 15	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Fem|SpaceAfter=No
-16	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	mod@relcl	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|RelRole=obj|wordform=takà
-17	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:pred	_	Gloss=like/love/want.Nmlz.Masc
-18	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	17	discourse@foc	_	Gloss=be.Masc/Plur|RelRole=obj|SpaceAfter=No
+16	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=takà
+17	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj
+18	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	10	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_67-67_split1_split2
@@ -3034,12 +3034,12 @@
 33	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	34	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=g=
 34	ga	ganiː	VERB	_	_	28	parataxis:conj	_	Gloss=see
 35	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	36	mod	_	Gloss=Neg
-36	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	34	comp:obj	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
+36	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	41	comp:pred	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 37	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	38	subj/m	_	Gloss=3Fem|SpaceAfter=No
 38	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	36	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=takà
 39	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	38	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj
 40	ba	ba	PART	_	PartType=Neg|Polarity=Neg	36	mod	_	Gloss=Neg
-41	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	36	discourse@foc	_	Gloss=be.Masc/Plur|RelRole=obj|SpaceAfter=No
+41	neː	neː	AUX	_	Copula=Yes|Gender=Masc	34	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
 42	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 43	in	in	SCONJ	_	_	65	mod	_	Gloss=if
 44	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	46	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
