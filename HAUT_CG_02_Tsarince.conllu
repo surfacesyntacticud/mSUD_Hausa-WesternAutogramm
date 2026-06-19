@@ -1098,14 +1098,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 22000, 23000
-# text = wandà taːshì tay yàr̃da , yay yi kiràntà taz zoː , sai tà biː shì , sù tàhi wurin kwaːnaː .
+# text = wandà taːshì ta-C= yàr̃da, ya-C= yi kirà-n-tà ta-C= zoː, sai ta-_̀= biː shì, su-_̀= tàhi wuri-n kwaːnaː.
 # text_en = The one whose (girl) agrees, ( he has called her and she has come ), she will follow him and they will go to bed.
 # text_ortho = wanda taašì tay yàrda, yay yi kiᵲàntà taz zoo, sai tà bii šì, sù tàhi wuᵲin kwaanaa.
-1	wandà	wandà	PRON	_	PronType=Rel	20	dislocated@subj	_	Gloss=who
+1	wandà	wandà	PRON	_	PronType=Rel	20	dislocated@subj	_	ClauseType=Rel|Gloss=who|Relz=Word
 2	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	5	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tay
 4	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
-5	yàr̃da	yàr̃da	VERB	_	_	1	mod@relcl	_	Gloss=agree|SpaceAfter=No
+5	yàr̃da	yàr̃da	VERB	_	_	1	mod@relcl	_	Gloss=agree|RelRole=obl|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 8	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=y=
@@ -2312,7 +2312,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 52000, 53000
-# text = suː kuma uwàːyên nan, sai su-_̀= cêː mutà “ tundà bâː- ki= sôn wânga mijìː, wandà mu- nkà= Ø mikì, a-n= bar̃ bùtuː-n-ai , sai ki-_̀= hwàɗi wandà ki-kà sôː ”.
+# text = suː kuma uwàːyên nan, sai su-_̀= cêː mutà “ tundà bâː- ki= sô-nwânga mijìː, wandà mun- kà= Ø mikì, a-n= bar̃ bùtuː-n-ai , sai ki-_̀= hwàɗi wandà ki-kà sôː ”.
 # text_en = They, the parents, they will tell her "since you do no like this husband that we chose for you, we stop the talks, tell us who you want."
 # text_ortho = suu kuma ’uwàayeǹ nan, sai sù ceè mutà “tun dà baà ki soǹ waǹga mijìi, wanda munkà mikì, ’am bar bùtunnai, sai kì hwàɗi wandà ki kà soò”.
 1	suː	suː	PRON	_	Number=Plur|Person=3	9	dislocated@top	_	Gloss=3Plur
@@ -2351,10 +2351,10 @@
 34	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	36	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kì
 35	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	36	mod/m	_	Gloss=Sub=
 36	hwàɗi	hwàɗaː	VERB	_	_	28	parataxis:conj	_	Gloss=tell
-37	wandà	wandà	PRON	_	PronType=Rel	36	comp:obj	_	Gloss=who
+37	wandà	wandà	PRON	_	PronType=Rel	36	comp:obj	_	ClauseType=Rel|Gloss=who|Relz=Word
 38	ki-	ki-	PRON	_	Gender=Fem|Person=2|PronType=Prs	39	subj/m	_	Gloss=2Fem|SpaceAfter=No
 39	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	37	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=kikà
-40	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	39	comp:pred	_	Gloss=like/love/want.Nmlz.Masc
+40	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	39	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj
 41	”	”	PUNCT	_	_	28	punct	_	Gloss=PUNCT|SpaceAfter=No
 42	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
@@ -2383,10 +2383,10 @@
 16	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	comp:obj	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|RelRole=subj|wordform=takà
 17	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	wandà	wandà	PRON	_	PronType=Rel	13	conj:appos	_	Gloss=who
+19	wandà	wandà	PRON	_	PronType=Rel	13	conj:appos	_	ClauseType=Rel|Gloss=who|Relz=Word
 20	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	21	subj/m	_	Gloss=3Fem|SpaceAfter=No
 21	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=takà
-22	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=cuddling.Masc|SpaceAfter=No
+22	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=cuddling.Masc|RelRole=obl|SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_55-55_split2
@@ -2454,7 +2454,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 54000, 55000
-# text = in a-nkà= baː shì duːkìyaː-t-ai , sai a-_̀= musù armeː, dà wandà ta-kà sôː.
+# text = in an-kà= baː shì duːkìyaː-t-ai , sai a-_̀= musù armeː, dà wandà ta-kà sôː.
 # text_en = If he is given back his cattle, let her get married with the one she likes.
 # text_ortho = ’in ’ankà baa šì duukìyaatai, sai ’à musù ’aᵲmee, dà wanda ta kà soò.
 1	in	in	SCONJ	_	_	13	mod	_	Gloss=if
@@ -2475,25 +2475,25 @@
 15	armeː	armeː	NOUN	_	Gender=Masc	13	comp:pred	_	Gloss=wedding.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
-18	wandà	wandà	PRON	_	PronType=Rel	17	comp:obj	_	Gloss=who
+18	wandà	wandà	PRON	_	PronType=Rel	17	comp:obj	_	ClauseType=Rel|Gloss=who|Relz=Word
 19	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Fem|SpaceAfter=No
 20	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	18	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=takà
-21	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	20	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
+21	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	20	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
 22	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_57-57
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 55000, 56000
-# text = shiː kuma wandà bâːta sôː , shì bìɗi wani .
+# text = shiː kuma wandà bâː- ta= sôː, shi-_̀= bìɗi wani.
 # text_en = He, the one she does not like, let him look for another one.
 # text_ortho = šii kuma wanda baà ta soò, šì bìɗi wata.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	10	dislocated@subj	_	Gloss=3Masc
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-3	wandà	wandà	PRON	_	PronType=Rel	1	conj:appos	_	Gloss=who
+3	wandà	wandà	PRON	_	PronType=Rel	1	conj:appos	_	ClauseType=Rel|Gloss=who|Relz=Word
 4	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	6	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 5	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem=|wordform=bâːta
-6	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	3	mod@relcl	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
+6	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	3	mod@relcl	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=

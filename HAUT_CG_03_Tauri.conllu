@@ -350,15 +350,15 @@
 26	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_009-009_split2_split2
-# text = wa’àndà su-kè, in sum= bushèː, koːmiː ƙarhi-n mùtun, bâːshi= iyà gùrgurà-s-sù dà haƙoːriː, sai dai à= dakàː.
+# text = wa’àndà su-kè, in su-n= bushèː, koːmiː ƙarhi-n mùtun, bâː- shi= iyà gùrgurà-s-sù dà haƙoːriː, sai dai a-_̀= dakàː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 8000, 9000
 # text_en = As they are, if they are dry, however strong you are, you won't succeed in gnawing them with your teeth, except if you pound them.
 # text_ortho = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
-1	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	17	mod	_	Gloss=who.Plur
+1	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	17	mod	_	ClauseType=Rel|Gloss=who.Plur|Relz=Word
 2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-3	kè	nàː	AUX	_	Copula=Yes	1	mod@relcl	_	Gloss=be|Relative=Yes|SpaceAfter=No|wordform=sukè
+3	kè	nàː	AUX	_	Copula=Yes	1	mod@relcl	_	Gloss=be|Relative=Yes|RelRole=subj|SpaceAfter=No|wordform=sukè
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 6	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sum
@@ -675,7 +675,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 18000, 19000
-# text = àmmaː koː bandà suː , àkwai itàːceː dà yawàː , wa’àndà akà ɗiːbàː , à yi maːgànin tauri .
+# text = àmmaː koː bandà suː, àkwai itàːceː dà yawàː, wa’àndà a-kà ɗiːbàː, a-_̀= yi maːgàni-n tauri.
 # text_en = But apart from them, there are many trees that you pick to use.
 # text_ortho = ’àmmaa koo ban dà suu, ’àkwai ’itàacee dà yawàa, wa’àndà ’a kà ɗiibàa, ’à yi maagànin tauᵲi.
 1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
@@ -688,10 +688,10 @@
 8	dà	dà	ADP	_	_	7	mod	_	Gloss=with
 9	yawàː	yawàː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=quantity.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	7	conj:appos	_	Gloss=who.Plur
+11	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	7	mod:appos@relcl	_	Gloss=who.Plur|Relz=Word
 12	a-	a-	PRON	_	Person=4|PronType=Prs	13	subj/m	_	Gloss=4|SpaceAfter=No
-13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=akà
-14	ɗiːbàː	ɗiːbàː	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:pred	_	Gloss=take.Nmlz.Masc/Fem|SpaceAfter=No
+13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp@obj	_	Gloss=Prog|Relative=Yes|wordform=akà
+14	ɗiːbàː	ɗiːbàː	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:pred	_	Gloss=take.Nmlz.Masc/Fem|RelRole=obj|SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 16	a-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 17	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	18	mod/m	_	Gloss=Sub=
@@ -705,16 +705,16 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 19000, 20000 20000, 21000
-# text = àmmaː niː, wa’àndà ni-Ø= sanìː, suː zâː-m= baːdà làːbaːr̃ìː. dom bâː- shi= yìwuwaː, mùtun shi-_̀= baːdà làːbaːr̃ìː, na àbùn dà bà-ì= sanìː ba.
+# text = àmmaː niː, wa’àndà ni-C= sanìː, suː zâː-m= baːdà làːbaːr̃ìː. dom bâː- shi= yìwuwaː, mùtun shi-_̀= baːdà làːbaːr̃ìː, na àbùn dà bà-ì= sanìː ba.
 # text_en = But me, it is those I know that I will talk about because it is not possible for anybody to talk about things that he does not know.
 # text_ortho = ’àmmaa nii, wa’àndà nis sanìi, suu zam̀ baadà làabaarìi, dom baà ši yìwuwaa, mùtun šì baadà làabaarìi, na ’àbun dà bài sanìi ba.
 1	àmmaː	àmmaː	CCONJ	_	_	9	discourse	_	Gloss=but
 2	niː	niː	PRON	_	Person=1	9	dislocated@subj	_	Gloss=1Sing|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-4	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	9	dislocated@top	_	Gloss=who.Plur
+4	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	9	dislocated@top	_	ClauseType=Rel|Gloss=who.Plur|Relz=Word
 5	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nis
 6	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s=
-7	sanìː	sanìː	VERB	_	_	4	mod@relcl	_	Gloss=know|SpaceAfter=No
+7	sanìː	sanìː	VERB	_	_	4	mod@relcl	_	Gloss=know|RelRole=obj|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	suː	suː	PRON	_	Number=Plur|Person=3	0	root	_	Gloss=3Plur
 10	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	12	mod/m	_	Gloss=Fut-|SpaceAfter=No
@@ -978,7 +978,7 @@
 13	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_026-026
-# text = koː kuma bandà hakànan suː, ’yan tauri, in sunàː wàːsat tauri, àkwai maːgàniː dà yawàː, na tauri, wandà sukài, sù yi dabòː dà shiː, tàːre dà ƙarhèː, dom mutàːneː sù ganiː, sù yi màːmaːkìː.
+# text = koː kuma bandà hakànan suː, ’ya-n tauri, in su-nàː wàːsa-t tauri, àkwai maːgàniː dà yawàː, na tauri, wandà su-sukài , su-_̀= yi dabòː dà shiː, tàːre dà ƙarhèː, dom mutàːneː su-_̀= ganiː, su-_̀= yi màːmaːkìː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 25000, 26000
@@ -1009,11 +1009,11 @@
 23	na	na	PART	_	Case=Gen|PartType=Case	19	mod	_	Gloss=Gen
 24	tauri	tauri	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=toughness_charm.Masc|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	19	mod@relcl	_	Gloss=who.Masc
+26	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	19	mod@relcl	_	Gloss=who.Masc|Relz=Word
 27	su-	su-	PRON	_	Number=Plur|Person=3	28	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 28-29	sukài	_	_	_	_	_	_	_	_
-28	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	26	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=sukà
-29	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	28	comp:pred	_	Gloss=do.Nmlz.Masc
+28	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	26	mod@relcl	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|wordform=sukà
+29	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	28	comp:pred	_	Gloss=do.Nmlz.Masc|RelRole=pred
 30	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 31	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
 32	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	33	mod/m	_	Gloss=Sub=
@@ -2462,7 +2462,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 71000, 72000
-# text = anàː yîm maːgànin ƙarhèː , wandà akà ɗiːbàː gà lòːdaː .
+# text = a-nàː yîm maːgàni-n ƙarhèː, wandà a-kà ɗiːbàː gà lòːdaː.
 # text_en = They do a toughness medicine which they get from "loda" [plant sp.]
 # text_ortho = ’a nàa yim̀ maagànin ƙaᵲhèe, wandà ’a kà ɗiibàa gà lòodaa.
 1	a-	a-	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
@@ -2472,10 +2472,10 @@
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
 6	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=iron.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	conj:appos	_	Gloss=who.Masc
+8	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	4	mod@relcl	_	Gloss=that.Masc|Relz=Word
 9	a-	a-	PRON	_	Person=4|PronType=Prs	10	subj/m	_	Gloss=4|SpaceAfter=No
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=akà
-11	ɗiːbàː	ɗiːbàː	VERB	_	_	10	comp:pred	_	Gloss=take
+10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	mod@relcl	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|wordform=akà
+11	ɗiːbàː	ɗiːbàː	VERB	_	_	10	comp:pred	_	Gloss=take|RelRole=obj
 12	gà	gà	ADP	_	_	11	comp:obl	_	Gloss=at
 13	lòːdaː	lòːdaː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=plant_sp.Fem|SpaceAfter=No
 14	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -2509,7 +2509,7 @@
 20	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_074-074_split1
-# text = in zâː'a= ɗiːbàː-t-ai , mùtun yaː= yi yaːwòː cikin daːjìː, yaː= ga indà ta-kè, sai shì= tahoːwaː-t-ai , shì= zoː shì= bìɗi àbùkka-n gamìm maːgànîn, sabòːdà shiː wânnam maːgàniː, wandà a- kà ɗiːbàː gà lòːdaː, raːna-d dà ankà= ɗèːbai , rân nan a- kà ɗumkèː shi.
+# text = in zâː-'a=ɗiːbàː-t-ai , mùtun y-aː= yi yaːwòː cikin daːjìː, y-aː= ga indà ta-kè, sai shi-_̀= tahoːwaː-t-ai , shi-_̀= zoː shi-_̀= bìɗi àbùkka-n gamìm maːgànîn, sabòːdà shiː wânnam maːgàniː, wandà a-kà ɗiːbàː gà lòːdaː, raːna-d dà an-kà= ɗèːbai , rân nan a-kà ɗumkèː shi.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 73000, 74000
@@ -2560,9 +2560,9 @@
 43	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	44	det	_	Gloss=ProxH.Masc
 44	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	42	conj:appos	_	Gloss=charm.Masc|SpaceAfter=No
 45	,	,	PUNCT	_	_	46	punct	_	Gloss=PUNCT
-46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	44	conj:appos	_	Gloss=who.Masc
+46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	44	mod:appos@relcl	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 47	a-	a-	PRON	_	Person=4|PronType=Prs	48	subj/m	_	Gloss=4|SpaceAfter=No
-48	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	46	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=akà
+48	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	46	mod@relcl	_	Gloss=Prog|Relative=Yes|RelRole=obj|wordform=akà
 49	ɗiːbàː	ɗiːbàː	VERB	_	ExtPos=NOUN|Gender=Fem	48	comp:pred	_	Gloss=take.Nmlz.Fem
 50	gà	gà	ADP	_	_	49	comp:obl	_	Gloss=at
 51	lòːdaː	lòːdaː	NOUN	_	Gender=Fem	50	comp:obj	_	Gloss=plant_sp.Fem|SpaceAfter=No
@@ -2800,7 +2800,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 80000, 81000
-# text = in ankà ajèː, sai à sàːmu dunƙulèn shuːniː, shuːniː irìn na dâː, wandà maːtaː kà ùnhwàːniː dà shiː, dà suː dà marìnaː.
+# text = in an-kà= ajèː, sai a-_̀= sàːmu dunƙulè-n shuːniː, shuːniː irìn na dâː, wandà maːtaː kà ùnhwàːniː dà shiː, dà suː dà marìnaː.
 # text_en = After putting it aside, they get balls of henna, the olf type of henna that women and dyers use.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à sàamu dunƙulèn šuunii, šuunii ’iᵲìn na daà, wandà maataa kà ’ùnhwàanii dà šii, dà suu dà maᵲìnaa.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
@@ -2821,9 +2821,9 @@
 16	na	na	PART	_	Case=Gen|PartType=Case	15	mod	_	Gloss=Gen
 17	dâː	dâː	ADV	_	_	16	comp:obj	_	Gloss=formerly|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	conj:appos	_	Gloss=who.Masc
+19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod:appos@relcl	_	Gloss=who.Masc|Relz=Word
 20	maːtaː	maːtaː	NOUN	_	Number=Plur	21	subj	_	Gloss=woman.Plur
-21	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
+21	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|RelRole=subj
 22	ùnhwàːniː	ùnhwàːniː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=using.Masc
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
 24	shiː	shiː	PRON	_	Gender=Masc|Person=3	23	comp:obj	_	Gloss=3Masc|SpaceAfter=No
@@ -2865,10 +2865,10 @@
 22	-k	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Fem|wordform=-C
 23	karaː	karaː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=stalk.Masc|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-25	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	conj@appos	_	Gloss=who.Fem
+25	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	conj@appos	_	ClauseType=Rel|Gloss=who.Fem|Relz=Word
 26	a-	a-	PRON	_	Person=4|PronType=Prs	27	subj/m	_	Gloss=4|SpaceAfter=No
 27-28	akài	_	_	_	_	_	_	_	_
-27	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=akà
+27	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	mod@relcl	_	Gloss=Prog|Relative=Yes|RelRole=mod|wordform=akà
 28	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	27	comp:pred	_	Gloss=do.Nmlz.Masc
 29	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=with
 30	kara	karaː	NOUN	_	Gender=Masc	29	comp:obj	_	Gloss=stalk|SpaceAfter=No|wordform=karan

@@ -56,14 +56,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 2000, 3000
-# text = ita màːtaw wandà bâː doːkìː, sai tanàː sôm mài doːkìː.
+# text = ita màːta-w wandà bâː doːkìː, sai ta-nàː sôm mài doːkìː.
 # text_en = She, the wife of the one without a horse, she likes horse riders.
 # text_ortho = ’ita màataw wandà baà dookìː, sai ta nàa som̀ mài dookìː.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	10	dislocated@subj	_	Gloss=3Fem
 2	màːta	màːtaː	NOUN	_	Gender=Fem	1	conj:appos	_	Gloss=wife.Fem|SpaceAfter=No|wordform=màːtaw
 3	-w	na	PART	_	Case=Gen|PartType=Case	2	udep/m	_	Gloss=Gen.Fem|wordform=-C
-4	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	3	comp:obj	_	Gloss=who.Masc
-5	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	mod@relcl	_	Gloss=there_is.Neg
+4	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	3	comp:obj	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
+5	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	mod@relcl	_	Gloss=there_is.Neg|RelRole=pred
 6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	subj	_	Gloss=horse.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	sai	sai	ADV	_	_	10	mod	_	Gloss=then

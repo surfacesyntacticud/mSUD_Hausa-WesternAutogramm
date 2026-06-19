@@ -37,14 +37,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 3000, 4000
-# text = àkwai wandà mazaː kà yîː, don sù=màllàki maːtaː.
+# text = àkwai wandà mazaː kà yîː, don su-_̀= màllàki maːtaː.
 # text_en = There is the one that men are doing to control women.
 # text_ortho = ’àkwài wandà mazaa kà yiì, don sù màllàki maazaa.
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
-2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	subj	_	Gloss=who.Masc
+2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	subj	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 3	mazaː	mazaː	NOUN	_	Number=Plur	4	subj	_	Gloss=husband.Plur
 4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
-5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
+5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=do.Nmlz.Masc|RelRole=pred|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	don	don	SCONJ	_	_	5	mod	_	Gloss=because
 8	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
@@ -97,14 +97,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 5000, 6000
-# text = àkwai wandà maːtaː kà yîː, don sù=màllàki mazaː.
+# text = àkwai wandà maːtaː kà yîː, don su-_̀= màllàki mazaː.
 # text_en = There is the one that women are doing to control men.
 # text_ortho = ’àkwài wandà maataa kà yiì, don sù màllàki maazaa.
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
-2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	subj	_	Gloss=who.Masc
+2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	subj	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 3	maːtaː	maːtaː	NOUN	_	Number=Plur	4	subj	_	Gloss=woman.Plur
 4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
-5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
+5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=do.Nmlz.Masc|RelRole=pred|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	don	don	SCONJ	_	_	5	mod	_	Gloss=because
 8	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
@@ -207,7 +207,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 8000, 9000
-# text = in kac ciː shì, sai shì kaːmà wandà kac ci sabòːdà shiː.
+# text = in ka-C= ciː shì, sai shi-_̀= kaːmà wandà ka-C= ci sabòːdà shiː.
 # text_en = If you take it, then, you will catch (bewitch) the one you have intercourse with because of it.
 # text_ortho = ’in kac cii šì, sai šì kaamà wandà kac ci sabòo dà šii.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
@@ -220,10 +220,10 @@
 8	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
 10	kaːmà	kaːmàː	VERB	_	_	0	root	_	Gloss=catch
-11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	comp:obj	_	Gloss=who.Masc
+11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	comp:obj	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 12	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	14	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kac
 13	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
-14	ci	ci	VERB	_	_	11	mod@relcl	_	Gloss=eat
+14	ci	ci	VERB	_	_	11	mod@relcl	_	Gloss=eat|RelRole=obj
 15	sabòːdà	sabòːdà	SCONJ	_	_	14	mod	_	Gloss=because
 16	shiː	shiː	PRON	_	Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 17	.	.	PUNCT	_	_	10	punct	_	Gloss=.
@@ -232,7 +232,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 9000, 10000
-# text = wani kà=yi wankaː, shì=kaːmà wandà kay=yi wankaː sabòːdà shiː.
+# text = wani ka-_̀= yi wankaː, shi-_̀= kaːmà wandà ka-C= yi wankaː sabòːdà shiː.
 # text_en = Some, you will wash yourself (with it), it will catch the one who has washed because of it.
 # text_ortho = wani kà yi wankaa, šì kaamà wandà kay yi wankaa sabòo dà šii.
 1	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	4	dislocated@top	_	Gloss=some.Masc
@@ -244,20 +244,20 @@
 7	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 8	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	9	mod/m	_	Gloss=Sub=
 9	kaːmà	kaːmàː	VERB	_	_	4	parataxis:conj	_	Gloss=catch
-10	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	9	comp:obj	_	Gloss=who.Masc
+10	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	9	comp:obj	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 11	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	13	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kay
 12	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
 13	yi	yi	VERB	_	_	10	mod@relcl	_	Gloss=do
 14	wankaː	wankaː	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:pred	_	Gloss=bathing.Nmlz.Masc
 15	sabòːdà	sabòːdà	ADP	_	_	13	mod	_	Gloss=because
-16	shiː	shiː	PRON	_	Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc|SpaceAfter=No
+16	shiː	shiː	PRON	_	Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc|RelPos=Yes|SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_010-010
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 10000, 11000
-# text = wani à=shaːhwàː gà jìkiː, kà= rùngùmi mùtun, shì=kaːmà wandà kar=rùngumàː.
+# text = wani a-_̀= shaːhwàː gà jìkiː, ka- _̀= rùngùmi mùtun, shi-_̀= kaːmà wandà ka-C= rùngumàː.
 # text_en = Some, you rub on your body, you hug someone, and it will catch the one you hug.
 # text_ortho = wani ’à šaahwàa gà jìkii, kà ᵲungùmi mùtun, šì kaamà wandà kaᵲ ᵲùngumàa.
 1	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	4	dislocated@comp	_	Gloss=some.Masc
@@ -275,10 +275,10 @@
 13	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 14	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	15	mod/m	_	Gloss=Sub=
 15	kaːmà	kaːmàː	VERB	_	_	10	parataxis:conj	_	Gloss=catch
-16	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	comp:obj	_	Gloss=who.Masc
+16	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	comp:obj	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 17	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	19	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kar
 18	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=r=
-19	rùngumàː	rùngumàː	VERB	_	_	16	mod@relcl	_	Gloss=embrace|SpaceAfter=No
+19	rùngumàː	rùngumàː	VERB	_	_	16	mod@relcl	_	Gloss=embrace|RelRole=obj|SpaceAfter=No
 20	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_011-011
@@ -416,17 +416,17 @@
 # text_en = Both the one that has fallen on the ground, and the one that gathers on top, whichever you get, collect it, collect a lot, wrap it in a paper or some cloth.
 # text_ortho = dà wandà yah hwaaɗoo ƙasà, dà wandà yal laƙèe bisà, koo wanè ’ankà saamùu, sai ’à c’intoo šì, ’à c’intoo šì dà daamaa, ’à ƙumšèe gà wata takàrdaa koo wasu ᵲaggàa.
 1	dà	dà	CCONJ	_	_	2	cc@preconj	_	Gloss=and
-2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	dislocated@comp	_	Gloss=who.Masc
+2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	dislocated@comp	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
 4	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes
-5	hwaːɗoː	hwaːɗi	VERB	_	_	2	mod@relcl	_	Gloss=fall.Dir
+5	hwaːɗoː	hwaːɗi	VERB	_	_	2	mod@relcl	_	Gloss=fall.Dir|RelRole=subj
 6	ƙasà	ƙasà	ADV	_	_	5	comp:obl	_	Gloss=on_ground|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
-9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	2	conj:coord	_	Gloss=who.Masc
+9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	2	conj:coord	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yal
 11	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=l=
-12	laƙèː	laƙèː	VERB	_	_	9	mod@relcl	_	Gloss=pile_up
+12	laƙèː	laƙèː	VERB	_	_	9	mod@relcl	_	Gloss=pile_up|RelRole=subj
 13	bisà	bisà	ADP	_	_	12	comp:obl	_	Gloss=on_top_of|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	koːwanè	koːwanè	PRON	_	_	9	conj:appos	_	Gloss=whichever
@@ -481,7 +481,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 18000, 19000
-# text = in an ajèː , sai à sàːmu tùràːreː , tùràːren jìbdàː , wandà bâː gamìː .
+# text = in a-n= ajèː, sai a-_̀= sàːmu tùràːreː, tùràːre-n jìbdàː, wandà bâː gamìː.
 # text_en = Once you have put it aside, get some perfume, amber, pure one.
 # text_ortho = ’in ’an ’ajèe, sai ’à sàamu tuᵲàaᵲee, tuᵲàaᵲen jìbdàa, wandà baà gamìi.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
@@ -495,12 +495,12 @@
 9	sàːmu	saːmùː	VERB	_	_	0	root	_	Gloss=get
 10	tùràːreː	tùràːreː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=perfume.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	tùràːre	tùràːreː	NOUN	_	Gender=Masc	10	conj:dicto	_	Gloss=perfume|SpaceAfter=No|wordform=tùràːren
+12	tùràːre	tùràːreː	NOUN	_	Gender=Masc	10	mod:appos	_	Gloss=perfume|SpaceAfter=No|wordform=tùràːren
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur
 14	jìbdàː	jìbdàː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=musk.Fem|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	12	conj:appos	_	Gloss=who.Masc
-17	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	16	mod@relcl	_	Gloss=there_is.Neg
+16	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	12	mod:appos@relcl	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
+17	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	16	mod@relcl	_	Gloss=there_is.Neg|RelRole=pred
 18	gamìː	gamìː	NOUN	_	Gender=Masc	17	subj	_	Gloss=tampering.Masc|SpaceAfter=No
 19	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
@@ -759,7 +759,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 26000, 27000
-# text = kun san ita taːbàː, wandà duy yas sabàː dà shântà, im bài sàːmeː tà ba yash shaː, bâːshi iyà zamaː sai yaː bìɗeː tà.
+# text = ku-n= san ita taːbàː, wandà duy ya-C= sabàː dà shâ-n-tà , im bà-ì= sàːmeː tà ba ya-C= shaː, bâː- shi= iyà zamaː sai y-aː= bìɗeː tà.
 # text_en = You know it, whoever has tasted it once, if he does not get some to take, he won't stay quiet but look for some.
 # text_ortho = kun san ’ita taabàa, wandà duy yas sabàa dà šaǹtà, ’im bài sàamee tà ba yaš šaa, baà ši ’iyà zamaa sai yaa bìɗee tà.
 1	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	3	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kun
@@ -768,11 +768,11 @@
 4	ita	ita	PRON	_	Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem
 5	taːbàː	taːbàː	NOUN	_	Gender=Fem	4	conj:appos	_	Gloss=tobacco.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-7	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	29	dislocated@subj	_	Gloss=who.Masc
+7	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	29	dislocated@subj	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
 8	duy	dukà	DET	_	PronType=Tot	7	det	_	Gloss=all
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yas
 10	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=s=
-11	sabàː	sabàː	VERB	_	_	7	mod@relcl	_	Gloss=be_used_to
+11	sabàː	sabàː	VERB	_	_	7	mod@relcl	_	Gloss=be_used_to|RelRole=subj
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
 13	shâ	shâː	VERB	_	ExtPos=NOUN	12	comp:obj	_	Gloss=drink.Nmlz.Masc|SpaceAfter=No|wordform=shântà|wordfrom=shântà
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -1864,9 +1864,9 @@
 5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	Gloss=PreRef|PreRef=Yes
 6	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Prs	4	mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	mod:appos@relcl	_	Gloss=which.Masc|Relz=Word
+8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	mod:appos@relcl	_	ClauseType=Rel|Gloss=which.Masc|Relz=Word
 9	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Fem|SpaceAfter=No
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	mod@relcl	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|wordform=takà
+10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=takà
 11	shâ	shâː	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	Gloss=drink.Nmlz|SpaceAfter=No|wordform=shân
 12	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	11	udep/m	_	Gloss=Gen|SpaceAfter=No
 13	ruwaː	ruwaː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=water.Plur
