@@ -365,7 +365,7 @@
 1	àbùn	àbù	NOUN	_	Definite=Def|Gender=Masc	8	dislocated@subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
-4	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=y=
+4	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=y=
 5	yi	yi	VERB	_	_	2	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=mod
 6	naɗìː	naɗìː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:pred	_	Gloss=wind.Nmlz.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -404,7 +404,7 @@
 15	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 16	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Masc.Gen
 17	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tab
-18	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=b=
+18	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=b=
 19	bi	bi	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=follow|RelRole=obj|SpaceAfter=No
 20	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
@@ -622,7 +622,7 @@
 49	can	can	ADV	_	Deixis=Remt|PronType=Dem	44	mod	_	Gloss=Remt
 50	indà	indà	ADV	_	_	49	mod:appos	_	Gloss=where
 51	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	53	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yas
-52	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	53	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=s=
+52	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	53	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=s=
 53	sàbka	sàbka	VERB	_	_	50	mod@relcl	_	Gloss=dismount|SpaceAfter=No
 54	,	,	PUNCT	_	_	55	punct	_	Gloss=PUNCT
 55	wurin	wurin	ADP	_	_	50	mod:appos	_	Gloss=at

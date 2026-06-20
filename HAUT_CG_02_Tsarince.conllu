@@ -1104,7 +1104,7 @@
 1	wandà	wandà	PRON	_	PronType=Rel	20	dislocated@subj	_	ClauseType=Rel|Gloss=who|Relz=Word
 2	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	5	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tay
-4	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=y=
+4	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=y=
 5	yàr̃da	yàr̃da	VERB	_	_	1	mod@relcl	_	Gloss=agree|RelRole=obl|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
@@ -1574,7 +1574,7 @@
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 25	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	24	comp:obj/m	_	Gloss=3Fem.Gen
 26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
-27	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=b=
+27	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=b=
 28	baː	baː	VERB	_	_	22	comp:obj	_	ClauseType=Rel|Gloss=give|RelRole=T
 29	tà	ta	PRON	_	Gender=Fem|Person=3	28	comp:obj@R	_	Gloss=3Fem|SpaceAfter=No
 30	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
@@ -2269,7 +2269,7 @@
 31	uwàːyeː	uwàːyeː	NOUN	_	Number=Plur	34	subj	_	Gloss=parents.Plur
 32	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	34	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 33-34	nkà=	_	_	_	_	_	_	_	_
-33	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	34	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+33	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	34	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 34	yi	yi	VERB	_	_	30	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obj
 35	mutà	mutà	PRON	_	Gender=Fem|Person=3	34	comp:obl	_	Gloss=3Fem.Dat|SpaceAfter=No
 36	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -2286,7 +2286,7 @@
 47	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	46	det	_	Gloss=PreRef|PreRef=Yes
 48	dà	dà	SCONJ	_	_	46	mod@relcl	_	Gloss=CompRel|Relz=Word
 49	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	51	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-50	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	51	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+50	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	51	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 51	baːdàː	baːdàː	VERB	_	_	48	comp:obj	_	ClauseType=Rel|Gloss=give
 52	ta	ta	PRON	_	Gender=Fem|Person=3	51	comp:obj	_	Gloss=3Fem
 53-54	gàrai	_	_	_	_	_	_	_	_
@@ -2336,7 +2336,7 @@
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	wandà	wandà	PRON	_	PronType=Rel	18	mod@relcl	_	Gloss=who.Rel|Relz=Word
 21	mun-	mu-	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	23	subj/m	_	Gloss=1Plur-|wordform=mu-
-22	kà=	nkà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+22	kà=	nkà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 23	Ø	yi	VERB	_	_	20	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obj
 24	mikì	mikì	PRON	_	Gender=Fem|Person=2	23	comp:obl	_	Gloss=2Fem.Dat|SpaceAfter=No
 25	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -3005,7 +3005,7 @@
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=PreRef|PreRef=Yes
 5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-7	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=z=
+7	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=z=
 8	zoː	zoː	VERB	_	_	5	comp:obj	_	ClauseType=Rel|Gloss=come|RelRole=subj
 9	wurin	wurin	ADP	_	_	8	comp:obl	_	Gloss=at
 10	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=girl.Fem
@@ -3429,7 +3429,7 @@
 8	lokàcin	lokàciː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=time.Masc.Def|RelAnt=Yes
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=CompRel|Relz=Word
 10	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-11	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+11	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 12	soː	soː	VERB	_	_	9	comp:obj	_	ClauseType=Rel|Gloss=like/love/want|RelRole=mod
 13	gidaː	gidaː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=house.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT

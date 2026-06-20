@@ -15,7 +15,7 @@
 8	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	6	comp:obj	_	Gloss=Fulani.Masc|RelAnt=Yes
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=CompRel|Relz=Word
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
-11	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=y=
+11	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=y=
 12	yi	yi	VERB	_	_	9	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=subj
 13	làːlaːtàː	làːlaːtàː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=immorality.Fem|SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -563,7 +563,7 @@
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	dawàː	dawàː	NOUN	_	Gender=Masc	23	subj	_	Gloss=bush.Masc
 21	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-22	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=c=
+22	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=c=
 23	cèː	cêː	VERB	_	_	19	comp:obj	_	ClauseType=Rel|Gloss=say|RelRole=obj|SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -769,7 +769,7 @@
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word
 26	dawàː	dawàː	NOUN	_	Gender=Masc	29	subj	_	Gloss=bush.Masc
 27	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-28	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=c=
+28	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Sing=|Relz=Affix|wordform=c=
 29	cêː	cêː	VERB	_	_	25	comp:obj	_	ClauseType=Rel|Gloss=say|RelRole=obj
 30	?	?	PUNCT	_	_	13	punct	_	Gloss=.
 
@@ -840,7 +840,7 @@
 6	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	5	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=CompRel|Relz=Word
 8	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	10	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kay
-9	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|wordform=y=
+9	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=y=
 10	yi	yi	VERB	_	_	7	comp:obj	_	ClauseType=Rel|Gloss=do
 11	niyyàː	niyyàː	NOUN	_	Gender=Fem	10	comp:pred	_	Gloss=effort.Fem|RelRole=udep|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
