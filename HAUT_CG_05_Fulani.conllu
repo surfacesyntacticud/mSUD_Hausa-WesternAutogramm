@@ -483,10 +483,10 @@
 5	sàràkkuwaː	sàràkkuwaː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=in-law.Fem
 6	:	:	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
-8	ƙàːƙàː	ƙàːƙàː	ADV	_	_	3	comp:obj@T	_	Gloss=how
+8	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	3	comp:obj@T	_	Gloss=how
 9	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	11	mod/m	_	Gloss=Fut-|SpaceAfter=No
 10	mu=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	11	subj/m	_	Gloss=1Plur=|wordform=zâːmu=
-11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:cleft	_	Gloss=do.Vnoun.Masc
+11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:cleft	_	ClauseType=Int|Gloss=do.Vnoun.Masc
 12	tun	tun	SCONJ	_	_	11	mod	_	Gloss=since/before
 13	dà	dà	SCONJ	_	_	12	comp:obj	_	Gloss=when
 14	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	16	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=naː
@@ -511,7 +511,7 @@
 7	kai	kai	PRON	_	Gender=Masc|Person=2	4	comp:obj@T	_	Gloss=2Masc
 8	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	10	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kas
 9	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
-10	san	sanìː	VERB	_	_	7	comp:cleft	_	Gloss=know
+10	san	sanìː	VERB	_	_	7	comp:cleft	_	ClauseType=Cleft|Gloss=know
 11	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=cleverness/trick.Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	tundà	tundà	SCONJ	_	_	7	mod	_	Gloss=since
@@ -802,10 +802,10 @@
 4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
 5	:	:	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
-7	ƙàːƙàː	ƙàːƙàː	ADV	_	_	3	subj	_	Gloss=how
+7	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	3	subj	_	Gloss=how
 8	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	10	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kic
 9	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
-10	cèː	cêː	VERB	_	_	7	comp:cleft	_	Gloss=say
+10	cèː	cêː	VERB	_	_	7	comp:cleft	_	ClauseType=Int|Gloss=say
 11	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_29_split1
@@ -819,10 +819,10 @@
 2	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	:	:	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	ƙàːƙàː	ƙàːƙàː	ADV	_	_	3	comp:obj@T	_	Gloss=how
+5	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	3	comp:obj@T	_	Gloss=how
 6	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	8	mod/m	_	Gloss=Fut-|SpaceAfter=No
 7	ni=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	Gloss=1Sing=|wordform=zâːni=
-8	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:cleft	_	Gloss=say.Vnoun.Fem
+8	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:cleft	_	ClauseType=Int|Gloss=say.Vnoun.Fem
 9	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_29_split2

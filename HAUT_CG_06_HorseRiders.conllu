@@ -473,7 +473,7 @@
 22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg
 23	nèː	neː	PART	_	PartType=Foc	18	discourse@foc	_	Gloss=Emph|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-25	ab	neː	AUX	_	Copula=Yes|Mood=Rel	19	comp:cleft	_	Gloss=Ident/Foc.Rel
+25	ab	neː	AUX	_	Copula=Yes|Mood=Rel	19	comp:cleft	_	ClauseType=Cleft|Gloss=Ident/Foc.Rel
 26	bisà	bisà	ADP	_	_	25	comp:pred	_	Gloss=on_top_of
 27	doːkìː	doːkìː	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 28	.	.	PUNCT	_	_	11	punct	_	Gloss=.
@@ -1445,7 +1445,7 @@
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 15	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=z=
-16	zoː	zoː	VERB	_	_	10	comp:cleft	_	Gloss=come
+16	zoː	zoː	VERB	_	_	10	comp:cleft	_	ClauseType=Cleft|Gloss=come
 17	wurim	wurin	ADP	_	_	16	comp:obl	_	Gloss=at
 18	bìkiː	bìkiː	NOUN	_	_	17	comp:obj	_	Gloss=festivity
 19	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Masc|SpaceAfter=No

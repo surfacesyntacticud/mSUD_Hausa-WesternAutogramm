@@ -862,7 +862,7 @@
 # text_en = That's the lion testes.
 # text_ortho = šii ’às s’uyèn zaakìi.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-2	a'	neː	AUX	_	Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Ident/Foc.Rel
+2	a'	neː	AUX	_	Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Ident/Foc.Rel
 3	s'uyè	s'uyèː	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=testicle|SpaceAfter=No|wordform=s'uyèn
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
 5	zaːkìː	zaːkìː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=lion.Masc|SpaceAfter=No
@@ -1473,7 +1473,7 @@
 # text_ortho = ’ita ka kà maà.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	0	root	_	Gloss=3Fem
 2	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	3	subj/m	_	Gloss=2Masc|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Prog|wordform=kakà
+3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=kakà
 4	Ø	yi	VERB	_	_	3	comp:pred	_	Gloss=do
 5	mâː	mâː	ADP	_	Case=Dat	4	comp:obl	_	Gloss=Dat|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -1571,10 +1571,10 @@
 1	sabòːdà	sabòːdà	ADP	_	_	0	root	_	Gloss=because
 2	hakànan	hakànan	ADV	_	_	1	comp:obj	_	Gloss=thus|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-4	ab	neː	AUX	_	Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Ident/Foc.Rel
+4	ab	neː	AUX	_	Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Ident/Foc.Rel
 5	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	7	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 6	a=	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	Gloss=4=|wordform=bâː’a
-7	Ø	yi	PRON	_	_	4	comp:cleft	_	Gloss=do
+7	Ø	yi	PRON	_	_	4	comp:cleft	_	ClauseType=Cleft|Gloss=do
 8	mâː	mâː	VERB	_	_	7	comp:obl	_	Gloss=do.Dat
 9	màccè	màccè	NOUN	_	Gender=Fem	8	comp:obl	_	Gloss=female.Fem
 10	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
@@ -1596,7 +1596,7 @@
 # text_ortho = ’ita ’a kà maà.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	0	root	_	Gloss=3Fem
 2	a-	a-	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Prog|wordform=akà
+3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 4	mâː	mâː	ADP	_	ExtPos=VERB	3	comp:pred	_	Gloss=do.Dat|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1679,7 +1679,7 @@
 9	sàːmu	saːmùː	VERB	_	_	0	root	_	Gloss=get
 10	jibdàː	jibdàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=musk.Fem|RelRole=obj|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	10	mod@relcl	_	Gloss=who.Fem|Relz=Word
+12	waddà	waddà	PRON	_	ExtPos=SCONJ|Gender=Fem|PronType=Rel	10	mod@relcl	_	Gloss=who.Fem|Relz=Word
 13	bâː	babù	PART	_	PartType=Pred|Polarity=Neg	12	comp:obj	_	ClauseType=Rel|Gloss=there_is.Neg|RelRole=subj|wordform=bâːta
 14	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=-3Fem
 15	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
@@ -2160,7 +2160,7 @@
 42	shiː	shiː	PRON	_	Gender=Masc|Person=3	34	parataxis:conj	_	Gloss=3Masc
 43	kaɗai	kaɗai	ADJ	_	_	42	mod	_	Gloss=alone
 44	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	45	subj/m	_	Gloss=3Fem|SpaceAfter=No
-45	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	42	comp:cleft	_	Gloss=Prog|wordform=takà
+45	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	42	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=takà
 46	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	45	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
 47	.	.	PUNCT	_	_	21	punct	_	Gloss=.
 
@@ -2235,7 +2235,7 @@
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	suː	suː	PRON	_	Number=Plur|Person=3	0	root	_	Gloss=3Plur
 7	a-	a-	PRON	_	Person=4|PronType=Prs	8	subj/m	_	Gloss=4|SpaceAfter=No
-8	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	6	comp:cleft	_	Gloss=Prog|wordform=akà
+8	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	6	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 9	hiddàːwaː	hiddàː	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:pred	_	Gloss=remove.Nmlz.Fem|SpaceAfter=No
 10	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -3236,7 +3236,7 @@
 47	sai	sai	ADV	_	_	50	mod	_	Gloss=then
 48	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	50	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 49	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	50	mod/m	_	Gloss=Sub=
-50	ci	ci	VERB	_	_	40	comp:cleft	_	Gloss=eat
+50	ci	ci	VERB	_	_	40	comp:cleft	_	ClauseType=Cleft|Gloss=eat
 51	àbuː	àbu	NOUN	_	_	50	comp:obj	_	Gloss=thing.Masc|SpaceAfter=No|wordform=àbuːnai|wordfrom=àbuːnai
 52	-n	na	PART	_	Case=Gen|PartType=Case	51	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 53	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	52	comp:obj/m	_	Gloss=3Masc.Gen
@@ -3323,7 +3323,7 @@
 9	dà	dà	ADP	_	_	0	root	_	Gloss=with
 10	màraiceː	màraiceː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=late_evening.Masc
 11	a-	a-	PRON	_	Person=4|PronType=Prs	12	subj/m	_	Gloss=4|SpaceAfter=No
-12	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	9	comp:cleft	_	Gloss=Prog|wordform=akà
+12	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	9	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 13	ɗeːboː	ɗiːbàː	VERB	_	_	12	comp:pred	_	Gloss=take.Dir
 14	sù	sù	PRON	_	Number=Plur|Person=3	13	comp:obj	_	Gloss=3Plur|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -3667,7 +3667,7 @@
 3	kàɗan	kàɗan	ADV	_	_	1	mod	_	Gloss=small
 4	nàː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Emph
 5	a-	a-	PRON	_	Person=4|PronType=Prs	6	subj/m	_	Gloss=4|SpaceAfter=No
-6	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Prog|wordform=akà
+6	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 7	sâːwaː	sâː	VERB	_	ExtPos=NOUN|Gender=Fem	6	comp:pred	_	Gloss=put.Nmlz.Fem|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	don	don	SCONJ	_	_	1	mod	_	Gloss=because
@@ -4775,7 +4775,7 @@
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	13	mod	_	Gloss=if
 7	sallàː	sallàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=prayer.Fem
-8	zâː	zâi	PART	_	PartType=Pred	7	comp:cleft	_	Gloss=Dir
+8	zâː	zâi	PART	_	PartType=Pred	7	comp:cleft	_	ClauseType=Cleft|Gloss=Dir
 9	shi	shi	PRON	_	Gender=Masc|Person=3	8	subj	_	Gloss=3Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 11	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -5286,7 +5286,7 @@
 83	kashèː	kashèː	VERB	_	_	82	comp:obj	_	Gloss=kill
 84	ta	ta	PRON	_	Gender=Fem|Person=3	83	comp:obj	_	Gloss=3Fem
 85	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=Prs	86	subj/m	_	Gloss=3Masc|SpaceAfter=No
-86	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	83	comp:cleft	_	Gloss=Prog|SpaceAfter=No|wordform=yakèː
+86	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	83	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|SpaceAfter=No|wordform=yakèː
 87	,	,	PUNCT	_	_	82	punct	_	Gloss=PUNCT
 88	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	90	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 89	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	90	subj/m	_	Gloss=3Fem=|wordform=bâːta
@@ -5310,7 +5310,7 @@
 5	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	4	comp:obj/m	_	Gloss=3Fem.Gen
 6	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	7	subj/m	_	Gloss=2Masc|SpaceAfter=No
 7-8	kakài	_	_	_	_	_	_	_	_
-7	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	Gloss=Prog|wordform=kakà
+7	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=kakà
 8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	7	comp:pred	_	Gloss=do.Nmlz.Masc
 9	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 10	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	12	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
@@ -5524,7 +5524,7 @@
 3	cèː	neː	AUX	_	Copula=Yes|Gender=Fem	0	root	_	Gloss=be.Fem|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	ClauseType=Rel|Gloss=PUNCT|RelRole=subj
 5	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
-6	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	comp:obj	_	ClauseType=Rel|Gloss=there_is.Neg
+6	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	comp:obj	_	ClauseType=Rel|Gloss=there_is.Neg|RelRole=subj
 7	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem|RelPos=Yes
 8	dà	dà	ADP	_	_	6	comp:pred	_	ClauseType=Rel|Gloss=with
 9	zuccìyaː	zuccìyaː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=heart.Fem|SpaceAfter=No
@@ -5593,7 +5593,7 @@
 2	hakànan	hakànan	ADV	_	_	1	comp:obj	_	Gloss=thus|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	a-	a-	PRON	_	Person=4|PronType=Prs	5	subj/m	_	Gloss=4|SpaceAfter=No
-5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Prog|wordform=akà
+5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 6	sâː	sâː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:pred	_	Gloss=put.Nmlz.Masc
 7	zucciyoːyi	zucciyoːyiː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=heart|SpaceAfter=No|wordform=zucciyoːyin
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
@@ -5697,7 +5697,7 @@
 2	hakànan	hakànan	ADV	_	_	1	comp:obj	_	Gloss=thus|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	a-	a-	PRON	_	Person=4	5	subj/m	_	Gloss=4|SpaceAfter=No
-5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Prog|wordform=akà
+5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 6	sâː	sâː	VERB	_	_	5	comp:pred	_	Gloss=put
 7	zuccìya	zuccìyaː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=heart.Fem|SpaceAfter=No|wordform=zuccìyak
 8	-k	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Fem|wordform=-C
@@ -7084,7 +7084,7 @@
 7	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 8	ita	ita	PRON	_	Gender=Fem|Person=3	0	root	_	Gloss=3Fem
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpaceAfter=No
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	8	comp:cleft	_	Gloss=Prog|wordform=shikà
+10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	8	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=shikà
 11	Ø	yi	VERB	_	_	10	comp:pred	_	Gloss=do
 12	mà	mà	ADP	_	_	11	comp:obl	_	Gloss=Dat
 13	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	14	det	_	Gloss=ProxH.Masc
@@ -7364,7 +7364,7 @@
 18	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 19	hakànan	hakànan	ADV	_	_	0	root	_	Gloss=thus
 20	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	21	subj/m	_	Gloss=3Fem|SpaceAfter=No
-21	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	19	comp:cleft	_	Gloss=Prog|wordform=takà
+21	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	19	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=takà
 22	zamaː	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc	21	comp:pred	_	Gloss=stay.Nmlz.Masc
 23	gà	gà	ADP	_	_	22	comp:obl	_	Gloss=at
 24	mùtun	mùtun	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=person.Masc|SpaceAfter=No
@@ -7529,7 +7529,7 @@
 14	hakànan	hakànan	ADV	_	_	0	root	_	Gloss=thus
 15	a-	a-	PRON	_	Person=4	16	subj/m	_	Gloss=a-|SpaceAfter=No
 16-17	akài	_	_	_	_	_	_	_	_
-16	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	14	comp:cleft	_	Gloss=Prog|wordform=akà
+16	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	14	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 17	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:pred	_	Gloss=do.Nmlz.Masc
 18	dà	dà	ADP	_	_	17	comp:obl	_	Gloss=with
 19	shiː	shiː	PRON	_	Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc|SpaceAfter=No
@@ -7576,7 +7576,7 @@
 2	hakànan	hakànan	ADV	_	_	1	comp:obj	_	Gloss=thus|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	a-	a-	PRON	_	Person=4	5	subj/m	_	Gloss=a-|SpaceAfter=No
-5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Prog|wordform=akà
+5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 6	sâː	sâː	VERB	_	_	5	comp:pred	_	Gloss=put
 7	shi	shi	PRON	_	Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc
 8	cikim	cikin	ADP	_	_	6	comp:obl	_	Gloss=in(side)

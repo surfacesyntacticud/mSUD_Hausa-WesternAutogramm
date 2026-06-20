@@ -538,7 +538,7 @@
 3	armeː	armeː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=wedding.Masc
 4	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	6	mod/m	_	Gloss=Fut-|SpaceAfter=No
 5	'a=	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
-6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:cleft	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
+6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:cleft	_	ClauseType=Cleft|Gloss=do.Nmlz.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	an-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 9	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
@@ -636,13 +636,13 @@
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	0	root	_	Gloss=PreRef|PreRef=Yes
 10	su-	su-	PRON	_	Number=Plur|Person=3	11	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-11	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	9	comp:cleft	_	Gloss=Prog|wordform=sukà
+11	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	9	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=sukà
 12	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:pred	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	kuma	kuma	CCONJ	_	_	15	cc	_	Gloss=also
 15	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	9	conj:coord	_	Gloss=PreRef|PreRef=Yes
 16	su-	su-	PRON	_	Number=Plur|Person=3	17	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-17	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	15	comp:cleft	_	Gloss=Prog|wordform=sukà
+17	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	15	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=sukà
 18	ini	ini	VERB	_	ExtPos=NOUN|Gender=Masc	17	comp:pred	_	Gloss=spend_day.Nmlz.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	har̃	har̃	ADP	_	_	15	dislocated@mod	_	Gloss=until
@@ -1638,7 +1638,7 @@
 # text_ortho = hakà nan ’a kà s’àaᵲìncee.
 1	hakànan	hakànan	ADV	_	_	0	root	_	Gloss=thus
 2	a-	a-	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	Gloss=Prog|wordform=akà
+3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
 4	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=cuddling.Masc|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -1707,7 +1707,7 @@
 12	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 13	suː	suː	PRON	_	Number=Plur|Person=3	0	root	_	Gloss=3Plur
 14	su-	su-	PRON	_	Number=Plur|Person=3	15	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-15	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	13	comp:cleft	_	Gloss=Prog|wordform=sukà
+15	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	13	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=sukà
 16	tuːɓèwaː	tuːɓèː	VERB	_	ExtPos=NOUN|Gender=Fem	15	comp:pred	_	Gloss=remove.Nmlz.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 18	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	20	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
@@ -2053,7 +2053,7 @@
 5	tà	ta	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-8	as'	neː	AUX	_	Copula=Yes|Mood=Rel	7	comp:cleft	_	Gloss=Id/Foc.Rel
+8	as'	neː	AUX	_	Copula=Yes|Mood=Rel	7	comp:cleft	_	ClauseType=Cleft|Gloss=Id/Foc.Rel
 9	s'àːrìnci	s'àːrìnci	NOUN	_	Gender=Masc	8	comp:pred	_	Gloss=fornication.Masc|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -2137,7 +2137,7 @@
 5	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=girl.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-8	as'	neː	AUX	_	Copula=Yes|Mood=Rel	7	comp:cleft	_	Gloss=Id/Foc.Rel
+8	as'	neː	AUX	_	Copula=Yes|Mood=Rel	7	comp:cleft	_	ClauseType=Cleft|Gloss=Id/Foc.Rel
 9	s'àːrìnci	s'àːrìnci	NOUN	_	Gender=Masc	8	comp:pred	_	Gloss=fornication.Masc|SpaceAfter=No
 10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -2406,7 +2406,7 @@
 8	tundà	tundà	SCONJ	_	_	16	mod	_	Gloss=since
 9	shiː	shiː	PRON	_	Gender=Masc|Person=3	8	comp:obj	_	Gloss=3Masc
 10	ki-	ki-	PRON	_	Gender=Fem|Person=2|PronType=Prs	11	subj/m	_	Gloss=2Fem|SpaceAfter=No
-11	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	9	comp:cleft	_	Gloss=Prog|wordform=kikà
+11	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	9	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=kikà
 12	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=am
@@ -3242,7 +3242,7 @@
 17	kwântaː	kwântaː	VERB	_	_	0	root	_	Gloss=lie_down.Part
 18	su-	su-	PRON	_	Number=Plur|Person=3	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 19-20	sukài	_	_	_	_	_	_	_	_
-19	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	17	comp:cleft	_	Gloss=Prog|wordform=sukà
+19	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	17	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=sukà
 20	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	19	comp:pred	_	Gloss=do.Nmlz.Masc
 21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 22	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
