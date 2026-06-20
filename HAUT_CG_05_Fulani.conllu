@@ -265,7 +265,7 @@
 42	dabràt	dabràt	ADP	_	_	41	comp:obj	_	Gloss=alongside|SpaceAfter=No|wordform=dabràssù
 43	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	42	comp:obj	_	Gloss=3Plur.Gen
 44	,	,	PUNCT	_	_	45	punct	_	Gloss=PUNCT
-45	indà	indà	PRON	_	_	41	mod	_	Gloss=where
+45	indà	indà	ADV	_	_	41	mod	_	Gloss=where
 46	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	51	subj	_	GenderAf=Masc|Gloss=in-law.Fem|SpaceAfter=No|wordform=sàràkkuwaːtai
 47	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	46	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 48	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	47	comp:obj/m	_	Gloss=3Masc.Gen
@@ -432,7 +432,7 @@
 25	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	27	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 26	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=3Masc=|wordform=bài
 27	san	sanìː	VERB	_	_	23	parataxis:conj	_	Gloss=know
-28	indà	indà	PRON	_	_	27	comp:obj	_	Gloss=where
+28	indà	indà	ADV	_	_	27	comp:obj	_	Gloss=where
 29	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	30	subj/m	_	Gloss=3Masc|SpaceAfter=No
 30	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=shikè
 31	ba	ba	PART	_	PartType=Neg|Polarity=Neg	27	mod	_	Gloss=Neg|SpaceAfter=No

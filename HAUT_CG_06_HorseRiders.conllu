@@ -405,7 +405,7 @@
 16	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Masc.Gen
 17	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tab
 18	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=b=
-19	bi	bi	VERB	_	_	13	comp	_	ClauseType=Rel|Gloss=follow|RelRole=obj|SpaceAfter=No
+19	bi	bi	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=follow|RelRole=obj|SpaceAfter=No
 20	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_15
@@ -737,7 +737,7 @@
 13	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=who.Masc.Rel|Relz=Word
 14	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	16	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 15	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Fem=|wordform=bàtà
-16	sanìː	sanìː	VERB	_	_	13	comp	_	ClauseType=Rel|Gloss=know|RelRole=obj
+16	sanìː	sanìː	VERB	_	_	13	comp:obj	_	ClauseType=Rel|Gloss=know|RelRole=obj
 17	ba	ba	PART	_	PartType=Neg|Polarity=Neg	16	mod	_	Gloss=Neg|SpaceAfter=No
 18	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
@@ -793,14 +793,14 @@
 25	zuhwàː	zuhwàː	NOUN	_	Gender=Fem	23	comp:pred	_	Gloss=perspiration.Fem|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	23	parataxis:conj	_	Gloss=there_is.Neg
-28	indà	indà	PRON	_	_	27	subj	_	Gloss=where
+28	indà	indà	ADV	_	_	27	subj	_	Gloss=where
 29	iskàː	iskàː	NOUN	_	Gender=Fem	30	subj	_	Gloss=air.Fem
 30	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	28	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
 31	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	30	comp:pred	_	Gloss=enter.Nmlz.Fem|SpaceAfter=No
 32	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 33	kuma	kuma	CCONJ	_	_	34	cc	_	Gloss=also
 34	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	27	conj:coord	_	Gloss=there_is.Neg
-35	indà	indà	PRON	_	_	34	subj	_	Gloss=where
+35	indà	indà	ADV	_	_	34	subj	_	Gloss=where
 36	iskàː	iskàː	NOUN	_	Gender=Fem	37	subj	_	Gloss=air.Fem
 37	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	35	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
 38	hìtaː	hìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	37	comp:pred	_	Gloss=get_out.Nmlz.Fem|SpaceAfter=No
@@ -1004,14 +1004,14 @@
 11	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Masc.Gen
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
-14	indà	indà	PRON	_	_	13	subj	_	Gloss=where
+14	indà	indà	ADV	_	_	13	subj	_	Gloss=where
 15	iskàː	iskàː	NOUN	_	Gender=Fem	16	subj	_	Gloss=air.Fem
 16	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
 17	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:pred	_	Gloss=enter.Nmlz.Fem|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	kuma	kuma	CCONJ	_	_	20	cc	_	Gloss=also
 20	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	13	conj:coord	_	Gloss=there_is.Neg
-21	indà	indà	PRON	_	_	20	subj	_	Gloss=where
+21	indà	indà	ADV	_	_	20	subj	_	Gloss=where
 22	iskàː	iskàː	NOUN	_	Gender=Fem	23	subj	_	Gloss=air.Fem
 23	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	21	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes
 24	hìtaː	hìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	23	comp:pred	_	Gloss=get_out.Nmlz.Fem|SpaceAfter=No

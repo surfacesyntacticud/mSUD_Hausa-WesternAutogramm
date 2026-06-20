@@ -349,7 +349,7 @@
 12	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	13	mod/m	_	Gloss=Sub=
 13	hwaɗàː	hwaɗàː	VERB	_	_	0	root	_	Gloss=tell
 14	matà	matà	PRON	_	Gender=Fem|Person=3	13	comp:obl	_	Gloss=3Fem.Dat
-15	indà	indà	PRON	_	_	13	comp:obj@T	_	Gloss=where
+15	indà	indà	ADV	_	_	13	comp:obj@T	_	Gloss=where
 16	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	18	mod/m	_	Gloss=Fut-|SpaceAfter=No
 17	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem=|wordform=zâːta=
 18	ìskeː	ìskaː	VERB	_	_	15	mod@relcl	_	Gloss=find
@@ -627,7 +627,7 @@
 # text_en = Where they do the henna period, there they sleep, there the spend the day, up till now.
 # text_ortho = nan ’indà ’a kà zaman lallèe, nan su kà kwaanaa, kuma nan su kà ’inìi, hak kullum.
 1	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	9	dislocated@top	_	Gloss=PreRef|PreRef=Yes
-2	indà	indà	PRON	_	_	4	udep	_	Gloss=where
+2	indà	indà	ADV	_	_	4	udep	_	Gloss=where
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
 4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog|Relative=Yes|wordform=akà
 5	zama	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=stay.Nmlz|SpaceAfter=No|wordform=zaman
@@ -1053,7 +1053,7 @@
 12	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
 13	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	14	mod/m	_	Gloss=Sub=
 14	tàhi	tàhi	VERB	_	_	10	parataxis:conj	_	Gloss=go
-15	indà	indà	PRON	_	_	14	comp:obj@G	_	Gloss=where
+15	indà	indà	ADV	_	_	14	comp:obj@G	_	Gloss=where
 16	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	18	mod/m	_	Gloss=Fut-|SpaceAfter=No
 17	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Plur=|wordform=zâːsu=
 18	kwaːnaː	kwaːna	VERB	_	ExtPos=NOUN|Gender=Masc	15	mod@relcl	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No
@@ -1070,7 +1070,7 @@
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	tàhi	tàhi	VERB	_	_	1	comp:obj	_	Gloss=go
-5	indà	indà	PRON	_	_	4	comp:obj@G	_	Gloss=where
+5	indà	indà	ADV	_	_	4	comp:obj@G	_	Gloss=where
 6	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	8	mod/m	_	Gloss=Fut-|SpaceAfter=No
 7	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Plur=|wordform=zâːsu=
 8	kwaːnaː	kwaːna	VERB	_	ExtPos=NOUN|Gender=Masc	5	mod@relcl	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No
@@ -2270,7 +2270,7 @@
 32	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	34	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 33-34	nkà=	_	_	_	_	_	_	_	_
 33	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	34	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-34	yi	yi	VERB	_	_	30	comp	_	ClauseType=Rel|Gloss=do|RelRole=obj
+34	yi	yi	VERB	_	_	30	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obj
 35	mutà	mutà	PRON	_	Gender=Fem|Person=3	34	comp:obl	_	Gloss=3Fem.Dat|SpaceAfter=No
 36	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 37	sai	sai	ADV	_	_	40	mod	_	Gloss=then
@@ -2337,7 +2337,7 @@
 20	wandà	wandà	PRON	_	PronType=Rel	18	mod@relcl	_	Gloss=who.Rel|Relz=Word
 21	mun-	mu-	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	23	subj/m	_	Gloss=1Plur-|wordform=mu-
 22	kà=	nkà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-23	Ø	yi	VERB	_	_	20	comp	_	ClauseType=Rel|Gloss=do|RelRole=obj
+23	Ø	yi	VERB	_	_	20	comp:obj	_	ClauseType=Rel|Gloss=do|RelRole=obj
 24	mikì	mikì	PRON	_	Gender=Fem|Person=2	23	comp:obl	_	Gloss=2Fem.Dat|SpaceAfter=No
 25	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 26	a-	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
@@ -2423,7 +2423,7 @@
 25	wandà	wandà	PRON	_	PronType=Rel	24	mod@relcl	_	Gloss=who|Relz=Word
 26	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	28	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 27	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	28	subj/m	_	Gloss=2Fem=|wordform=bâːki
-28	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp	_	ClauseType=Rel|Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
+28	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp:obj	_	ClauseType=Rel|Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
 29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 30	a-	a	PRON	_	Person=4|PronType=PrsSubj	32	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 31	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	32	mod/m	_	Gloss=Sub=
@@ -2700,7 +2700,7 @@
 14	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 15	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	16	mod/m	_	Gloss=Sub=
 16	ga	ganiː	VERB	_	_	10	parataxis:conj	_	Gloss=see
-17	indà	indà	PRON	_	_	16	comp:obj	_	Gloss=where
+17	indà	indà	ADV	_	_	16	comp:obj	_	Gloss=where
 18	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	20	subj	_	Gloss=girl.Fem
 19	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Fem|SpaceAfter=No
 20	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	17	mod@relcl	_	Gloss=Prog|Relative=Yes|SpaceAfter=No|wordform=takè
@@ -2717,7 +2717,7 @@
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yag
 3	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=g=
 4	ga	ganiː	VERB	_	_	1	comp:obj	_	Gloss=see
-5	indà	indà	PRON	_	_	4	comp:obj	_	Gloss=where
+5	indà	indà	ADV	_	_	4	comp:obj	_	Gloss=where
 6	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	8	subj	_	Gloss=girl.Fem
 7	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Fem|SpaceAfter=No
 8	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	mod@relcl	_	Gloss=Prog|Relative=Yes|SpaceAfter=No|wordform=takè
