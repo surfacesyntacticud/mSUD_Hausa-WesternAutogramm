@@ -2570,11 +2570,11 @@
 4	C=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=g=
 5	ga	ganiː	VERB	_	_	1	comp:obj	_	Gloss=see
 6	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=girl.Fem|RelAnt=Yes|SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-8	wandà	wandà	PRON	_	Gender=Fem|PronType=Rel	11	udep	_	Gloss=who.Fem.Rel|RelPos=Yes|Relz=Word
+7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+8	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Fem|PronType=Rel	6	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpaceAfter=No
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	mod@relcl	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|wordform=shikà
-11	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
+10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	comp:obj	_	ClauseType=Rel|Gloss=Prog|Relative=Yes|wordform=shikà
+11	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|RelRole=obj|SpaceAfter=No
 12	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 13	sai	sai	ADV	_	_	22	mod	_	Gloss=then
 14	in	in	SCONJ	_	_	22	mod	_	Gloss=if
