@@ -1441,7 +1441,7 @@
 9	san	sanìː	VERB	_	_	3	parataxis:conj	_	Gloss=know
 10	shiː	shiː	PRON	_	Gender=Masc|Person=3	9	comp:obj	_	Gloss=3Masc
 11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	Gloss=Neg
-12	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	10	discourse@foc	_	Gloss=be.Masc/Plur|SpaceAfter=No
+12	neː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	10	discourse@foc	_	Gloss=Emph.Masc/Plur|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 15	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=z=
