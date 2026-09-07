@@ -1013,7 +1013,7 @@
 27	su-	su-	PRON	_	Number=Plur|Person=3	28	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 28-29	sukài	_	_	_	_	_	_	_	_
 28	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	26	comp	_	ClauseType=Rel|Gloss=Prog|Relz=Affix|wordform=sukà
-29	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	28	comp:pred	_	Gloss=do.Nmlz.Masc|RelRole=pred
+29	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	28	comp:pred	_	Gloss=do.Nmlz.Masc|RelRole=obj
 30	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 31	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	33	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
 32	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	33	mod/m	_	Gloss=Sub=
