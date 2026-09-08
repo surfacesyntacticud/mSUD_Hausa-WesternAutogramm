@@ -19,19 +19,19 @@
 12	in	in	SCONJ	_	_	33	mod	_	Gloss=if
 13	a-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 14	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Plur
-15	yi	yi	VERB	_	_	12	comp:obj	_	Gloss=do
+15	yi	yi	VERB	_	_	12	comp	_	Gloss=do
 16	shì	shi	PRON	_	Gender=Masc|Person=3	15	comp:obj	_	Gloss=3Masc|RelPos=Yes|SpaceAfter=No
 17	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 18	in	in	SCONJ	_	_	33	mod	_	Gloss=if
 19	na	na	PART	_	Case=Gen|PartType=Case	21	comp:pred	_	Gloss=Gen
 20	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	19	comp	_	Gloss=eat/have_sex.Nmlz.Masc
-21	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	18	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+21	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	18	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 22	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 23	im	in	SCONJ	_	_	33	mod	_	Gloss=if
 24	mùtun	mùtun	NOUN	_	Gender=Masc	27	subj	_	Gloss=person.Masc
 25	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 26	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=c=
-27	ciː	ci	VERB	_	_	23	comp:obj	_	Gloss=eat
+27	ciː	ci	VERB	_	_	23	comp	_	Gloss=eat
 28	shì	shi	PRON	_	Gender=Masc|Person=3	27	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 29	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 30	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	33	subj	_	Gloss=iron.Masc
@@ -52,7 +52,7 @@
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	na	na	PART	_	Case=Gen|PartType=Case	5	comp:pred	_	Gloss=Gen
 4	laːyuː	laːyuː	NOUN	_	Number=Plur	3	comp	_	Gloss=charm.Plur
-5	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+5	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	an-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 8	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
@@ -61,7 +61,7 @@
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	in	in	SCONJ	_	_	25	mod	_	Gloss=if
 13	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Fem|SpaceAfter=No
-14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	12	comp:obj	_	Gloss=Prog|wordform=tanàː
+14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	12	comp	_	Gloss=Prog|wordform=tanàː
 15	gà	gà	ADP	_	_	14	comp:pred	_	Gloss=at
 16	jìki	jìkiː	NOUN	_	Gender=Masc	15	comp	_	Gloss=body|SpaceAfter=No|wordform=jìkim
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur
@@ -86,12 +86,12 @@
 1	in	in	SCONJ	_	_	21	mod	_	Gloss=if
 2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	ɗàmaràː	ɗàmaràː	NOUN	_	Gender=Fem	2	comp	_	Gloss=belt.Fem
-4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	SCONJ	_	_	21	mod	_	Gloss=then
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 8	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	9	mod/m	_	Gloss=Sub=
-9	yi	yi	VERB	_	_	6	comp:obj	_	Gloss=do
+9	yi	yi	VERB	_	_	6	comp	_	Gloss=do
 10	ɗàmaràː	ɗàmaràː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=belt.Fem|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	a-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -119,7 +119,7 @@
 1	in	in	SCONJ	_	_	20	mod	_	Gloss=if
 2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	kàr̃hoː	kàr̃huː	NOUN	_	Gender=Masc	2	comp	_	Gloss=tubular_belt.Masc
-4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 6	an-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 7	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
@@ -149,12 +149,12 @@
 1	in	in	SCONJ	_	_	27	mod	_	Gloss=if
 2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	shaːhiː	shaːhiː	NOUN	_	Gender=Masc	2	comp	_	Gloss=lotion.Masc
-4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	SCONJ	_	_	27	mod	_	Gloss=then
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 8	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	9	mod/m	_	Gloss=Sub=
-9	yi	yi	VERB	_	_	6	comp:obj	_	Gloss=do
+9	yi	yi	VERB	_	_	6	comp	_	Gloss=do
 10	gàːriː	gàːriː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=flour.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	a-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -186,12 +186,12 @@
 1	in	in	SCONJ	_	_	39	mod	_	Gloss=if
 2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	hayaːƙiː	hayaːƙiː	NOUN	_	Gender=Masc	2	comp	_	Gloss=smoke.Masc
-4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	SCONJ	_	_	39	mod	_	Gloss=then
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 8	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	9	mod/m	_	Gloss=Sub=
-9	yi	yi	VERB	_	_	6	comp:obj	_	Gloss=do
+9	yi	yi	VERB	_	_	6	comp	_	Gloss=do
 10	gàːriː	gàːriː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=flour.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	a-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -213,7 +213,7 @@
 28	hayaːƙîn	hayaːƙiː	NOUN	_	Definite=Def|Gender=Masc	27	comp	_	Gloss=smoke.Masc.Def
 29	kàma’	kàmat	SCONJ	_	_	26	mod	_	Gloss=like
 30	a-	a-	PRON	_	Person=4|PronType=Prs	31	subj/m	_	Gloss=4|SpaceAfter=No
-31	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	29	comp:obj	_	Gloss=Prog|wordform=anàː
+31	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	29	comp	_	Gloss=Prog|wordform=anàː
 32	shâ	shâː	VERB	_	ExtPos=NOUN|Gender=Masc	31	comp:pred	_	Gloss=drink.Nmlz|SpaceAfter=No|wordform=shân
 33	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	32	udep/m	_	Gloss=Gen|SpaceAfter=No
 34	taːbàː	taːbàː	NOUN	_	Gender=Fem	33	comp	_	Gloss=tobacco.Fem|SpaceAfter=No
@@ -233,13 +233,13 @@
 # text_en = When there is no pipe, if you roll it like you roll tobacco in a sheet of paper, you light it and you inhale the smoke, metal won't catch you.
 # text_ortho = ’im baabù loohèe, sai ’à yi nàɗeenai, kàma’ ’an naɗè taabàa cikin takàrdaa, ’a nàa kunnà wutaa, ’a nàa šaǹ hayaaƙii, ƙaᵲhèe baà ši kaamà mùtun.
 1	im	in	SCONJ	_	_	35	mod	_	Gloss=if
-2	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	1	comp:obj	_	Gloss=there_is.Neg
+2	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	1	comp	_	Gloss=there_is.Neg
 3	loːhèː	loːhèː	NOUN	_	Gender=Masc	2	subj	_	Gloss=pipe.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	SCONJ	_	_	35	mod	_	Gloss=then
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub=
-8	yi	yi	VERB	_	_	5	comp:obj	_	Gloss=do
+8	yi	yi	VERB	_	_	5	comp	_	Gloss=do
 9	nàɗeː	nàɗeː	NOUN	_	_	8	comp:pred	_	Gloss=tying.Masc|SpaceAfter=No|wordform=nàɗeːnai|wordfrom=nàɗeːnai
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 11	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Masc.Gen
@@ -247,7 +247,7 @@
 13	kàma’	kàmat	SCONJ	_	_	8	mod	_	Gloss=like
 14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 15	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Plur
-16	naɗè	naɗèː	VERB	_	_	13	comp:obj	_	Gloss=tie
+16	naɗè	naɗèː	VERB	_	_	13	comp	_	Gloss=tie
 17	taːbàː	taːbàː	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=tobacco.Fem
 18	cikin	cikin	ADP	_	_	16	comp:obl	_	Gloss=in(side)
 19	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	18	comp	_	Gloss=paper.Fem|SpaceAfter=No
@@ -280,7 +280,7 @@
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 2	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
-4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîm
+4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp	_	Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîm
 5	-m	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 6	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	5	comp	_	Gloss=charm.Masc.Def|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -363,7 +363,7 @@
 5	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 6	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sum
 7	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Plur
-8	bushèː	bushèː	VERB	_	_	5	comp:obj	_	Gloss=dry_up|SpaceAfter=No
+8	bushèː	bushèː	VERB	_	_	5	comp	_	Gloss=dry_up|SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 10	koːmiː	koːmiː	PRON	_	_	17	mod	_	Gloss=whatever
 11	ƙarhi	ƙarhiː	NOUN	_	Gender=Masc	10	mod@relcl	_	Gloss=strength|SpaceAfter=No|wordform=ƙarhim
@@ -383,7 +383,7 @@
 25	dai	dai	PART	_	PartType=Top	24	discourse@top	_	Gloss=however
 26	a-	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 27	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	28	mod/m	_	Gloss=Sub=
-28	dakàː	dakàː	VERB	_	_	24	comp:obj	_	Gloss=pound|SpaceAfter=No
+28	dakàː	dakàː	VERB	_	_	24	comp	_	Gloss=pound|SpaceAfter=No
 29	.	.	PUNCT	_	_	17	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_010-010
@@ -429,7 +429,7 @@
 1	in	in	SCONJ	_	_	12	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	sàːmu	saːmùː	VERB	_	_	1	comp:obj	_	Gloss=get
+4	sàːmu	saːmùː	VERB	_	_	1	comp	_	Gloss=get
 5	ɗiya	ɗiyaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=daughter/seed|SpaceAfter=No|wordform=ɗiyan
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	ƙòːdagòː	ƙòːdagòː	NOUN	_	Gender=Masc	6	comp	_	Gloss=dum_palm_nut.Masc|SpaceAfter=No
@@ -610,7 +610,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	sàːmeː	saːmùː	VERB	_	_	1	comp:obj	_	Gloss=get
+4	sàːmeː	saːmùː	VERB	_	_	1	comp	_	Gloss=get
 5	shì	shi	PRON	_	Gender=Masc|Person=3	4	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -725,7 +725,7 @@
 15	dom	don	SCONJ	_	_	9	mod	_	Gloss=because
 16	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	18	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 17	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-18	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN|Gender=Fem	15	comp:obj	_	Gloss=be_possible.Nmlz.Fem|SpaceAfter=No
+18	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN|Gender=Fem	15	comp	_	Gloss=be_possible.Nmlz.Fem|SpaceAfter=No
 19	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 20	mùtun	mùtun	NOUN	_	Gender=Masc	23	subj	_	Gloss=person.Masc
 21	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -764,7 +764,7 @@
 13	tauri	tauri	NOUN	_	Gender=Masc	12	comp	_	Gloss=toughness_charm.Masc
 14	na	na	PART	_	Case=Gen|PartType=Case	11	mod	_	Gloss=Gen
 15	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	14	comp	_	Gloss=eat/have_sex.Nmlz.Masc
-16	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	10	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+16	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	10	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 17	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 18	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	20	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 19	a=	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	Gloss=4=|wordform=bâː'a
@@ -777,12 +777,12 @@
 26	mùtun	mùtun	NOUN	_	Gender=Masc	29	subj	_	Gloss=person.Masc
 27	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 28	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	29	mod/m	_	Gloss=Perf.Sing
-29	ciː	ci	VERB	_	_	25	comp:obj	_	Gloss=eat
+29	ciː	ci	VERB	_	_	25	comp	_	Gloss=eat
 30	shì	shi	PRON	_	Gender=Masc|Person=3	29	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 31	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 32	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	34	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 33	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	34	subj/m	_	Gloss=3Masc=|wordform=bâːshi
-34	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	24	comp:obj	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
+34	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	24	comp	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
 35	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	34	udep/m	_	Gloss=Gen|SpaceAfter=No
 36	ar̃zìkiː	ar̃zìkiː	NOUN	_	Gender=Masc	35	comp	_	Gloss=good_luck.Masc|SpaceAfter=No
 37	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -799,7 +799,7 @@
 3	mùtun	mùtun	NOUN	_	Gender=Masc	6	subj	_	Gloss=person.Masc
 4	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 5	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Sing
-6	cêː	cêː	VERB	_	_	2	comp:obj	_	Gloss=say
+6	cêː	cêː	VERB	_	_	2	comp	_	Gloss=say
 7	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Masc|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	Gloss=Prog|wordform=shinàː
 9	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:pred	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
@@ -823,7 +823,7 @@
 3	mùtun	mùtun	NOUN	_	Gender=Masc	6	subj	_	Gloss=person.Masc
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 5	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=c=
-6	ci	ci	VERB	_	_	2	comp:obj	_	Gloss=eat
+6	ci	ci	VERB	_	_	2	comp	_	Gloss=eat
 7	ɓargo	ɓargoː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=bone_marrow|SpaceAfter=No|wordform=ɓargon
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Masc/Plur
 9	jaːkiː	jaːkiː	NOUN	_	Gender=Masc	8	comp	_	Gloss=donkey.Masc|SpaceAfter=No
@@ -837,7 +837,7 @@
 17	in	in	SCONJ	_	_	42	mod	_	Gloss=if
 18	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 19	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=y=
-20	yi	yi	VERB	_	_	17	comp:obj	_	Gloss=do
+20	yi	yi	VERB	_	_	17	comp	_	Gloss=do
 21	kuːwàː	kuːwàː	NOUN	_	Gender=Fem	20	comp:pred	_	Gloss=yell.Fem|SpaceAfter=No
 22	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 23	du’	dukà	DET	_	PronType=Tot	24	det	_	Gloss=all
@@ -853,7 +853,7 @@
 33	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	32	comp:obj/m	_	Gloss=3Masc.Gen
 34	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 35	in	in	SCONJ	_	_	42	mod	_	Gloss=if
-36	àkwai	àkwai	PART	_	PartType=Pred	35	comp:obj	_	Gloss=there_is
+36	àkwai	àkwai	PART	_	PartType=Pred	35	comp	_	Gloss=there_is
 37	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	36	subj	_	Gloss=iron.Masc|SpaceAfter=No
 38	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 39	sai	sai	ADV	_	_	42	mod	_	Gloss=then
@@ -874,12 +874,12 @@
 3	mùtun	mùtun	NOUN	_	Gender=Masc	6	subj	_	Gloss=person.Masc
 4	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 5	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Sing
-6	hàsalà	hàsalà	VERB	_	_	2	comp:obj	_	Gloss=get_angry|SpaceAfter=No
+6	hàsalà	hàsalà	VERB	_	_	2	comp	_	Gloss=get_angry|SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 8	dà	dà	SCONJ	_	_	18	mod	_	Gloss=when
 9	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 10	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Sing
-11	kaːmà	kaːmàː	VERB	_	_	8	comp:obj	_	Gloss=catch
+11	kaːmà	kaːmàː	VERB	_	_	8	comp	_	Gloss=catch
 12	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=iron.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 14	dus	dukà	ADV	_	PronType=Tot	18	mod	_	Gloss=all
@@ -911,7 +911,7 @@
 13	koː	koː	SCONJ	_	_	23	mod	_	Gloss=or
 14	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 15	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Sing
-16	tàːki	tàːkaː	VERB	_	_	13	comp:obj	_	Gloss=tread_on
+16	tàːki	tàːkaː	VERB	_	_	13	comp	_	Gloss=tread_on
 17	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	16	comp:obj	_	Gloss=iron.Masc|SpaceAfter=No
 18	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 19	kuma	kuma	CCONJ	_	_	23	cc	_	Gloss=also
@@ -965,7 +965,7 @@
 1	kàːhin	kàːhin	SCONJ	_	_	12	mod	_	Gloss=before
 2	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 3	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	4	mod/m	_	Gloss=Sub=
-4	kai	kai	VERB	_	_	1	comp:obj	_	Gloss=reach/take_to
+4	kai	kai	VERB	_	_	1	comp	_	Gloss=reach/take_to
 5-6	gàrai	_	_	_	_	_	_	_	_
 5	gàr̃eː	gàr̃eː	ADP	_	_	4	comp:obl	_	Gloss=at/to
 6	shi	shi	PRON	_	Gender=Masc|Person=3	5	comp	_	Gloss=3Masc
@@ -996,7 +996,7 @@
 10	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 11	in	in	SCONJ	_	_	18	mod	_	Gloss=if
 12	su-	su-	PRON	_	Number=Plur|Person=3	13	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp:obj	_	Gloss=Prog|wordform=sunàː
+13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp	_	Gloss=Prog|wordform=sunàː
 14	wàːsa	wàːsaː	NOUN	_	Gender=Fem	13	comp:pred	_	Gloss=game.Fem|SpaceAfter=No|wordform=wàːsat
 15	-t	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Fem|wordform=-C
 16	tauri	tauri	NOUN	_	Gender=Masc	15	comp	_	Gloss=toughness_charm.Masc|SpaceAfter=No
@@ -1030,7 +1030,7 @@
 43	mutàːneː	mutàːneː	NOUN	_	Number=Plur	46	subj	_	Gloss=people.Plur
 44	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	46	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
 45	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	46	mod/m	_	Gloss=Sub=
-46	ganiː	ganiː	VERB	_	_	42	comp:obj	_	Gloss=see|SpaceAfter=No
+46	ganiː	ganiː	VERB	_	_	42	comp	_	Gloss=see|SpaceAfter=No
 47	,	,	PUNCT	_	_	50	punct	_	Gloss=PUNCT
 48	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	50	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
 49	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	50	mod/m	_	Gloss=Sub=
@@ -1068,13 +1068,13 @@
 # text_ortho = ’in su nàa wàasaa, dà ’an saà hannuu, ’an šàahi wuƙaa, koo takòobii dà ’akaihwaa, sai ᵲuwaa sù yi ta zùbaa gà jìkin ƙaᵲhèe.
 1	in	in	SCONJ	_	_	26	mod	_	Gloss=if
 2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:obj	_	Gloss=Prog|wordform=sunàː
+3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp	_	Gloss=Prog|wordform=sunàː
 4	wàːsaː	wàːsaː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=game.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	dà	dà	SCONJ	_	_	26	mod	_	Gloss=when
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 8	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Plur
-9	sâː	sâː	VERB	_	_	6	comp:obj	_	Gloss=put
+9	sâː	sâː	VERB	_	_	6	comp	_	Gloss=put
 10	hannuː	hannuː	NOUN	_	_	9	comp:obj	_	Gloss=hand/arm|SpaceAfter=No
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	a-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
@@ -1143,7 +1143,7 @@
 6	in	in	SCONJ	_	_	15	mod	_	Gloss=if
 7	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sun
 8	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Plur
-9	yi	yi	VERB	_	_	6	comp:obj	_	Gloss=do
+9	yi	yi	VERB	_	_	6	comp	_	Gloss=do
 10	zuhwàː	zuhwàː	NOUN	_	Gender=Fem	9	comp:pred	_	Gloss=perspiration.Fem|SpaceAfter=No
 11	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	15	mod	_	Gloss=then
@@ -1185,7 +1185,7 @@
 5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	0	root	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	sabòːdà	sabòːdà	SCONJ	_	_	5	mod	_	Gloss=because
-8	tauri	tauri	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=toughness_charm.Masc|SpaceAfter=No
+8	tauri	tauri	NOUN	_	Gender=Masc	7	comp	_	Gloss=toughness_charm.Masc|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_031-031
@@ -1413,7 +1413,7 @@
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sun
 3	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Plur
-4	tamnèː	tàmnaː	VERB	_	_	1	comp:obj	_	Gloss=chew.Ach
+4	tamnèː	tàmnaː	VERB	_	_	1	comp	_	Gloss=chew.Ach
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
 6	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	7	mod/m	_	Gloss=Sub=
 7	zubdàː	zubdàː	VERB	_	_	0	root	_	Gloss=throw_away|SpaceAfter=No
@@ -1471,7 +1471,7 @@
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 2	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
-4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:obj	_	Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîm
+4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp	_	Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîm
 5	-m	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 6	maːgàni	maːgàniː	NOUN	_	Gender=Masc	5	comp	_	Gloss=charm|SpaceAfter=No|wordform=maːgànin
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod/m	_	Gloss=Gen.Masc/Plur
@@ -1537,7 +1537,7 @@
 1	in	in	SCONJ	_	_	14	mod	_	Gloss=if
 2	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
-4	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	1	comp:obj	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
+4	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	1	comp	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
 7	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=at
@@ -1610,7 +1610,7 @@
 15	hash	hat	SCONJ	_	_	10	mod	_	Gloss=until
 16	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 17	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	18	mod/m	_	Gloss=Sub=
-18	kai	kai	VERB	_	_	15	comp:obj	_	Gloss=reach/take_to
+18	kai	kai	VERB	_	_	15	comp	_	Gloss=reach/take_to
 19	gà	gà	ADP	_	_	18	comp:obl	_	Gloss=at
 20	saːyèː	saːyèː	NOUN	_	Gender=Masc	19	comp	_	Gloss=root.Masc|SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	_	Gloss=.
@@ -1625,7 +1625,7 @@
 1	in	in	SCONJ	_	_	24	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yak
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=k=
-4	kai	kai	VERB	_	_	1	comp:obj	_	Gloss=reach/take_to
+4	kai	kai	VERB	_	_	1	comp	_	Gloss=reach/take_to
 5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=at
 6	saːyèː	saːyèː	NOUN	_	Gender=Masc	5	comp	_	Gloss=root.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
@@ -1685,7 +1685,7 @@
 1	in	in	SCONJ	_	_	22	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya’
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=’=
-4	aunà	aunàː	VERB	_	_	1	comp:obj	_	Gloss=measure
+4	aunà	aunàː	VERB	_	_	1	comp	_	Gloss=measure
 5	iyàːkas	iyàːkaː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=limit.Fem|SpaceAfter=No|wordform=iyàːkas'
 6	-s	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|wordform=-C
 7	s'awo	s'awoː	NOUN	_	_	6	comp	_	Gloss=length.Masc|SpaceAfter=No|wordform=s'awontà|wordfrom=s'awontà
@@ -1748,7 +1748,7 @@
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yar
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=r=
-4	ruhèː	ruhèː	VERB	_	_	1	comp:obj	_	Gloss=close
+4	ruhèː	ruhèː	VERB	_	_	1	comp	_	Gloss=close
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	5	comp	_	Gloss=ground/earth.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1770,7 +1770,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=t=
-4	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	1	comp:obj	_	GenderAf=Masc|Gloss=go.Nmlz.Fem|SpaceAfter=No|wordform=tàhiyàːtai
+4	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	1	comp	_	GenderAf=Masc|Gloss=go.Nmlz.Fem|SpaceAfter=No|wordform=tàhiyàːtai
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1784,7 +1784,7 @@
 15	lahàdi	lahàdi	NOUN	_	Gender=Fem	18	subj	_	Gloss=Sunday.Fem
 16	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː
 17	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	18	mod/m	_	Gloss=Perf.Sing
-18	zoː	zoː	VERB	_	_	13	comp:obj	_	Gloss=come|SpaceAfter=No
+18	zoː	zoː	VERB	_	_	13	comp	_	Gloss=come|SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_049-049
@@ -1799,7 +1799,7 @@
 3	lahàdi	lahàdi	NOUN	_	Gender=Fem	6	subj	_	Gloss=Sunday.Fem
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taz
 5	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=z=
-6	zoː	zoː	VERB	_	_	1	comp:obj	_	Gloss=come|SpaceAfter=No
+6	zoː	zoː	VERB	_	_	1	comp	_	Gloss=come|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	sai	sai	ADV	_	_	11	mod	_	Gloss=then
 9	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -1821,7 +1821,7 @@
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yak
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=k=
-4	koːmàː	koːmàː	VERB	_	_	1	comp:obj	_	Gloss=return|SpaceAfter=No
+4	koːmàː	koːmàː	VERB	_	_	1	comp	_	Gloss=return|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 7	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -1848,13 +1848,13 @@
 1	in	in	SCONJ	_	_	30	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=t=
-4	toːnèː	toːnèː	VERB	_	_	1	comp:obj	_	Gloss=dig_up|SpaceAfter=No
+4	toːnèː	toːnèː	VERB	_	_	1	comp	_	Gloss=dig_up|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	im	in	SCONJ	_	_	30	mod	_	Gloss=if
 7	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	10	subj	_	Gloss=charm.Masc.Def
 8	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 9	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Sing
-10	ci	ci	VERB	_	_	6	comp:obj	_	Gloss=take_effect|SpaceAfter=No
+10	ci	ci	VERB	_	_	6	comp	_	Gloss=take_effect|SpaceAfter=No
 11	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 12	ƙarhèn	ƙarhèː	NOUN	_	Definite=Def|Gender=Masc	30	dislocated@comp	_	Gloss=iron.Def|RelAnt=Yes
 13	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	12	det	_	Gloss=PreRef|PreRef=Yes
@@ -1870,7 +1870,7 @@
 23	dà	dà	SCONJ	_	_	14	conj:coord	_	ClauseType=Rel|Gloss=when|RelRole=subj
 24	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 25	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Sing
-26	toːnèː	toːnèː	VERB	_	_	23	comp:obj	_	Gloss=dig_up|SpaceAfter=No
+26	toːnèː	toːnèː	VERB	_	_	23	comp	_	Gloss=dig_up|SpaceAfter=No
 27	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 28	bâː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	30	mod/m	_	Gloss=Neg.Prog-|wordform=bâː
 29	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=3Masc=|wordform=bâːshi
@@ -1881,7 +1881,7 @@
 34	sai	sai	SCONJ	_	_	30	mod	_	Gloss=unless
 35	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 36	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	37	mod/m	_	Gloss=Sub=
-37	ga	ganiː	VERB	_	_	34	comp:obj	_	Gloss=see
+37	ga	ganiː	VERB	_	_	34	comp	_	Gloss=see
 38	saːyèn	saːyèː	NOUN	_	Definite=Def|Gender=Masc	37	comp:obj	_	Gloss=root.Masc.Def
 39	shiː	shiː	PRON	_	Gender=Masc|Person=3	37	dislocated@comp	_	Gloss=3Masc
 40	ɗai	ɗai	ADJ	_	_	39	mod	_	Gloss=same|SpaceAfter=No
@@ -1898,7 +1898,7 @@
 2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 4	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc=|wordform=bài
-5	ci	ci	VERB	_	_	1	comp:obj	_	Gloss=take_effect
+5	ci	ci	VERB	_	_	1	comp	_	Gloss=take_effect
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	sai	sai	ADV	_	_	11	mod	_	Gloss=then
@@ -1929,7 +1929,7 @@
 2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 4	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Sing
-5	ci	ci	VERB	_	_	1	comp:obj	_	Gloss=take_effect|SpaceAfter=No
+5	ci	ci	VERB	_	_	1	comp	_	Gloss=take_effect|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
 8	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -1965,7 +1965,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yag
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=g=
-4	ga	ganiː	VERB	_	_	1	comp:obj	_	Gloss=see
+4	ga	ganiː	VERB	_	_	1	comp	_	Gloss=see
 5	hakànan	hakànan	ADV	_	_	4	mod	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -1998,7 +1998,7 @@
 1	in	in	SCONJ	_	_	12	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yad
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=d=
-4	daːc'ìkkeː	daːs'àː	VERB	_	_	1	comp:obj	_	Gloss=hack_off.Ach.Dir
+4	daːc'ìkkeː	daːs'àː	VERB	_	_	1	comp	_	Gloss=hack_off.Ach.Dir
 5	shi	shi	PRON	_	Gender=Masc|Person=3	4	comp:obj	_	Gloss=3Masc
 6	dàk	dàgà	ADP	_	_	4	comp:obl	_	Gloss=from
 7	koː’ìnaː	koː’ìnaː	PRON	_	_	6	comp	_	Gloss=everywhere|SpaceAfter=No
@@ -2031,7 +2031,7 @@
 1	in	in	SCONJ	_	_	12	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=t=
-4	tàhi	tàhi	VERB	_	_	1	comp:obj	_	Gloss=go
+4	tàhi	tàhi	VERB	_	_	1	comp	_	Gloss=go
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	comp	_	Gloss=3Masc
 7	gidaː	gidaː	NOUN	_	Gender=Masc	4	comp:obj@G	_	Gloss=house.Masc|SpaceAfter=No
@@ -2055,7 +2055,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 3	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Plur
-4	karkàreː	karkàraː	VERB	_	_	1	comp:obj	_	Gloss=scrape.Ach|SpaceAfter=No
+4	karkàreː	karkàraː	VERB	_	_	1	comp	_	Gloss=scrape.Ach|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub=
@@ -2085,7 +2085,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	dakèː	dakèː	VERB	_	_	1	comp:obj	_	Gloss=pound|SpaceAfter=No
+4	dakèː	dakèː	VERB	_	_	1	comp	_	Gloss=pound|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub=
@@ -2105,7 +2105,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=b=
-4	buːshèː	buːshèː	VERB	_	_	1	comp:obj	_	Gloss=dry|SpaceAfter=No
+4	buːshèː	buːshèː	VERB	_	_	1	comp	_	Gloss=dry|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub=
@@ -2128,7 +2128,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	dakèː	dakèː	VERB	_	_	1	comp:obj	_	Gloss=pound|SpaceAfter=No
+4	dakèː	dakèː	VERB	_	_	1	comp	_	Gloss=pound|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub=
@@ -2174,7 +2174,7 @@
 1	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	dakàː	dakàː	VERB	_	_	1	comp:obj	_	Gloss=pound|SpaceAfter=No
+4	dakàː	dakàː	VERB	_	_	1	comp	_	Gloss=pound|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yad
 7	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=d=
@@ -2200,7 +2200,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 3	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Plur
-4	kwaːshèː	kwaːshèː	VERB	_	_	1	comp:obj	_	Gloss=collect|SpaceAfter=No
+4	kwaːshèː	kwaːshèː	VERB	_	_	1	comp	_	Gloss=collect|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub=
@@ -2218,7 +2218,7 @@
 1	in	in	SCONJ	_	_	15	mod	_	Gloss=if
 2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 3	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Plur
-4	tankàɗeː	tankàɗeː	VERB	_	_	1	comp:obj	_	Gloss=sieve|SpaceAfter=No
+4	tankàɗeː	tankàɗeː	VERB	_	_	1	comp	_	Gloss=sieve|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	s'àkin	s'àkiː	NOUN	_	Definite=Def|Gender=Masc	15	dislocated@comp	_	Gloss=siftings.Masc.Def|RelAnt=Yes
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=CompRel|Relz=Word
@@ -2284,7 +2284,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	sheːƙèː	sheːƙàː	VERB	_	_	1	comp:obj	_	Gloss=winnow.Ach|SpaceAfter=No
+4	sheːƙèː	sheːƙàː	VERB	_	_	1	comp	_	Gloss=winnow.Ach|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub=
@@ -2305,7 +2305,7 @@
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=am
 3	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Plur
-4	baːkàcè	baːkàceː	VERB	_	_	1	comp:obj	_	Gloss=winnow_grain
+4	baːkàcè	baːkàceː	VERB	_	_	1	comp	_	Gloss=winnow_grain
 5	dùssaː	dùssaː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=bran.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -2329,7 +2329,7 @@
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taz
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=z=
-4	zama	zama	VERB	_	_	1	comp:obj	_	Gloss=become
+4	zama	zama	VERB	_	_	1	comp	_	Gloss=become
 5	gàːriː	gàːriː	NOUN	_	Gender=Masc	4	comp:pred	_	Gloss=flour.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -2359,7 +2359,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	gamè	gamàː	VERB	_	_	1	comp:obj	_	Gloss=join.Ach
+4	gamè	gamàː	VERB	_	_	1	comp	_	Gloss=join.Ach
 5	gàːrîn	gàːriː	NOUN	_	Definite=Def|Gender=Masc	4	comp:obj	_	Gloss=flour.Masc.Def|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -2397,7 +2397,7 @@
 2	ruwaː	ruwaː	NOUN	_	Number=Plur	5	subj	_	Gloss=water.Plur
 3	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 4	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-5	dàhu	dahwàː	VERB	_	_	1	comp:obj	_	Gloss=boil.Pass|SpaceAfter=No
+5	dàhu	dahwàː	VERB	_	_	1	comp	_	Gloss=boil.Pass|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 8	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	9	mod/m	_	Gloss=Sub=
@@ -2416,7 +2416,7 @@
 2	kùnuː	kùnuː	NOUN	_	Gender=Masc	5	subj	_	Gloss=guinea_corn_drink.Masc
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
 4	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=h=
-5	huːcèː	huːcèː	VERB	_	_	1	comp:obj	_	Gloss=rest|SpaceAfter=No
+5	huːcèː	huːcèː	VERB	_	_	1	comp	_	Gloss=rest|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	mài	mài	PART	_	Number=Sing|PartType=Der	11	subj	_	Gloss=owner_of.Sing
 8	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	7	compound	_	Gloss=like/love/want.Nmlz.Masc
@@ -2437,7 +2437,7 @@
 3	mùtun	mùtun	NOUN	_	Gender=Masc	6	subj	_	Gloss=person.Masc
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yash
 5	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=sh=
-6	shaː	shaː	VERB	_	_	2	comp:obj	_	Gloss=drink
+6	shaː	shaː	VERB	_	_	2	comp	_	Gloss=drink
 7	wânnan	nan	PRON	_	Deixis=ProxH|Gender=Masc|PronType=Dem	6	comp:obj	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	12	subj	_	Gloss=iron.Masc
@@ -2518,7 +2518,7 @@
 1	in	in	SCONJ	_	_	26	mod	_	Gloss=if
 2	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
-4	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	1	comp:obj	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
+4	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	1	comp	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2573,10 +2573,10 @@
 56	an-	a	PRON	_	Person=4|PronType=PrsSubj	58	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 57	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	58	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 58-59	ɗèːbai	_	_	_	_	_	_	_	_
-58	ɗiːbàː	ɗiːbàː	VERB	_	_	55	comp:obj	_	Gloss=take
+58	ɗiːbàː	ɗiːbàː	VERB	_	_	55	comp	_	Gloss=take
 59	shi	shi	PRON	_	Gender=Masc|Person=3	58	comp:obj	_	Gloss=3Masc
 60	,	,	PUNCT	_	_	53	punct	_	Gloss=PUNCT
-61	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	41	comp:obj	_	Gloss=sun/day.Fem.Def
+61	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	41	comp	_	Gloss=sun/day.Fem.Def
 62	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	61	det	_	Gloss=PreRef|PreRef=Yes
 63	a-	a-	PRON	_	Person=4|PronType=Prs	64	subj/m	_	Gloss=4|SpaceAfter=No
 64	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	61	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
@@ -2610,7 +2610,7 @@
 1	in	in	SCONJ	_	_	25	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	ɗèːbeː	ɗiːbàː	VERB	_	_	1	comp:obj	_	Gloss=take
+4	ɗèːbeː	ɗiːbàː	VERB	_	_	1	comp	_	Gloss=take
 5	shì	shi	PRON	_	Gender=Masc|Person=3	4	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	an-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
@@ -2648,7 +2648,7 @@
 5	mùtun	mùtun	NOUN	_	Gender=Masc	8	dislocated@subj	_	Gloss=person.Masc
 6	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	8	mod/m	_	Gloss=Fut-|SpaceAfter=No
 7	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
-8	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	4	comp:obj	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
+8	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	4	comp	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
 9	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 10	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj/m	_	Gloss=3Masc.Gen
 11	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -2677,7 +2677,7 @@
 34	sai	sai	SCONJ	_	_	32	mod	_	Gloss=until
 35	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 36	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	37	mod/m	_	Gloss=Perf.Sing
-37	bìɗi	bìɗaː	VERB	_	_	34	comp:obj	_	Gloss=look_for
+37	bìɗi	bìɗaː	VERB	_	_	34	comp	_	Gloss=look_for
 38	àbùkka	àboːkiː	NOUN	_	Number=Plur	37	comp:obj	_	Gloss=friend|SpaceAfter=No|wordform=àbùkkan
 39	-n	na	PART	_	Case=Gen|PartType=Case	38	udep/m	_	Gloss=Gen.Masc/Plur
 40	gamìː	gamìː	NOUN	_	Gender=Masc	39	comp	_	Gloss=collaboration.Masc|SpaceAfter=No
@@ -2700,7 +2700,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=t=
-4	taːràː	taːràː	VERB	_	_	1	comp:obj	_	Gloss=gather
+4	taːràː	taːràː	VERB	_	_	1	comp	_	Gloss=gather
 5	su	su	PRON	_	Person=3	4	comp:obj	_	Gloss=3.Pl|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -2722,7 +2722,7 @@
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 3	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing
-4	ɗeːboː	ɗiːbàː	VERB	_	_	1	comp:obj	_	Gloss=take.Dir|SpaceAfter=No
+4	ɗeːboː	ɗiːbàː	VERB	_	_	1	comp	_	Gloss=take.Dir|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	gàː	gàː	PART	_	PartType=Pred	12	dislocated@comp	_	Gloss=here_is
 7	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	6	subj	_	Gloss=skin.Fem|SpaceAfter=No
@@ -2743,7 +2743,7 @@
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaɗ
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=ɗ=
-4	ɗumkèː	ɗumkèː	VERB	_	_	1	comp:obj	_	Gloss=sew_up|SpaceAfter=No
+4	ɗumkèː	ɗumkèː	VERB	_	_	1	comp	_	Gloss=sew_up|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 7	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -2768,7 +2768,7 @@
 8	jaːkiː	jaːkiː	NOUN	_	Gender=Masc	11	subj	_	Gloss=donkey.Masc
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yam
 10	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=m=
-11	mutù	mutù	VERB	_	_	7	comp:obj	_	Gloss=die|SpaceAfter=No
+11	mutù	mutù	VERB	_	_	7	comp	_	Gloss=die|SpaceAfter=No
 12	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 13	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -2806,7 +2806,7 @@
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	ajèː	ajèː	VERB	_	_	1	comp:obj	_	Gloss=put_aside|SpaceAfter=No
+4	ajèː	ajèː	VERB	_	_	1	comp	_	Gloss=put_aside|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -2844,7 +2844,7 @@
 1	in	in	SCONJ	_	_	13	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	sàːmu	saːmùː	VERB	_	_	1	comp:obj	_	Gloss=get
+4	sàːmu	saːmùː	VERB	_	_	1	comp	_	Gloss=get
 5	dunƙulè	dunƙulèː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=ball|SpaceAfter=No|wordform=dunƙulèn
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod/m	_	Gloss=Gen.Masc/Plur
 7	shuːnîn	shuːniː	NOUN	_	Definite=Def|Gender=Masc	6	comp	_	Gloss=indigo.Masc.Def
@@ -2900,7 +2900,7 @@
 1	in	in	SCONJ	_	_	13	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	jaː	jaː	VERB	_	_	1	comp:obj	_	Gloss=pull
+4	jaː	jaː	VERB	_	_	1	comp	_	Gloss=pull
 5	tà	ta	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tay
@@ -2951,7 +2951,7 @@
 1	in	in	SCONJ	_	_	16	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	ajèː	ajèː	VERB	_	_	1	comp:obj	_	Gloss=put_aside|SpaceAfter=No
+4	ajèː	ajèː	VERB	_	_	1	comp	_	Gloss=put_aside|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 7	dà	dà	ADP	_	_	16	mod	_	Gloss=at
@@ -2969,7 +2969,7 @@
 19	in	in	SCONJ	_	_	16	mod	_	Gloss=if
 20	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	22	mod/m	_	Gloss=Fut-|SpaceAfter=No
 21	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
-22	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp:obj	_	Gloss=go.Nmlz.Fem
+22	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp	_	Gloss=go.Nmlz.Fem
 23	ɗiːbà	ɗiːbàː	VERB	_	ExtPos=NOUN|Gender=Fem	22	mod	_	Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàm
 24	-m	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Fem|wordform=-C
 25	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	24	comp	_	Gloss=charm.Masc.Def|SpaceAfter=No
@@ -2992,7 +2992,7 @@
 8	dà	dà	SCONJ	_	_	7	comp	_	Gloss=when
 9	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	11	mod/m	_	Gloss=Fut-|SpaceAfter=No
 10	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
-11	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:obj	_	Gloss=go.Nmlz.Fem
+11	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp	_	Gloss=go.Nmlz.Fem
 12	ɗiːbà	ɗìːbaː	VERB	_	ExtPos=NOUN|Gender=Fem	11	mod	_	Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàm
 13	-m	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Fem|wordform=-C
 14	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	13	comp	_	Gloss=charm.Masc.Def|SpaceAfter=No
@@ -3018,7 +3018,7 @@
 1	koː	koː	SCONJ	_	_	10	mod	_	Gloss=however
 2	ɗan	ɗan	ADV	_	_	3	mod	_	Gloss=little
 3	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	4	comp:pred	_	Gloss=how
-4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur
+4	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp	_	Gloss=be.Masc/Plur
 5	ƙarhèn	ƙarhèː	NOUN	_	Definite=Def|Gender=Masc	4	dislocated@subj	_	Gloss=iron.Masc.Def|SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -3050,7 +3050,7 @@
 1	in	in	SCONJ	_	_	12	mod	_	Gloss=if
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 3	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing
-4	gamà	gamàː	VERB	_	_	1	comp:obj	_	Gloss=finish
+4	gamà	gamàː	VERB	_	_	1	comp	_	Gloss=finish
 5	har̃akà	har̃akàː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=business.Fem|SpaceAfter=No|wordform=har̃akàm
 6	-m	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|wordform=-C
 7	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	6	comp	_	Gloss=charm.Masc.Def|SpaceAfter=No
@@ -3073,7 +3073,7 @@
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	koː	koː	SCONJ	_	_	19	mod	_	Gloss=whether
 26	wuƙaː	wuƙaː	NOUN	_	Gender=Fem	27	comp:pred	_	Gloss=knife.Fem
-27	cèː	neː	AUX	_	Copula=Yes|Gender=Fem	25	comp:obj	_	Gloss=be.Fem|SpaceAfter=No
+27	cèː	neː	AUX	_	Copula=Yes|Gender=Fem	25	comp	_	Gloss=be.Fem|SpaceAfter=No
 28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 29	koː	koː	CCONJ	_	_	30	cc	_	Gloss=or
 30	takòːbiː	takòːbiː	NOUN	_	Gender=Masc	26	conj:coord	_	Gloss=sword.Masc|SpaceAfter=No
@@ -3112,7 +3112,7 @@
 # text_ortho = koo dàa zoobèe nee, kaì du’ ’iᵲìn ƙaᵲhèe, koo hwaᵲii koo jàa koo baƙii, koo wanè ’iᵲìn ƙaᵲhèe nee, koo dàa kuɗɗii nèe, ’in dai na ƙaᵲhèe nee, ’im mùtun zaà ši ɗiibàw waǹnam maagànii, baà ši kwancìi dà šii.
 1	koːdàː	koːdàː	SCONJ	_	_	44	mod	_	Gloss=even_if
 2	zoːbèː	zoːbèː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=ring.Masc
-3	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+3	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	kâi	kâi	INTJ	_	_	44	discourse	_	Gloss=well
 6	du’	dukà	DET	_	PronType=Tot	7	det	_	Gloss=all
@@ -3135,19 +3135,19 @@
 23	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 24	koːdàː	koːdàː	SCONJ	_	_	44	mod	_	Gloss=even_if
 25	kuɗɗiː	kuɗɗiː	NOUN	_	Gender=Masc	26	comp:pred	_	Gloss=money.Masc
-26	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	24	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+26	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	24	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 27	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 28	in	in	SCONJ	_	_	44	mod	_	Gloss=if
 29	dai	dai	PART	_	PartType=Top	28	discourse@top	_	Gloss=however
 30	na	na	PART	_	Case=Gen|PartType=Case	32	comp:pred	_	Gloss=Gen
 31	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	30	comp	_	Gloss=iron.Masc
-32	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	28	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+32	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	28	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 33	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 34	im	in	SCONJ	_	_	44	mod	_	Gloss=if
 35	mùtun	mùtun	NOUN	_	Gender=Masc	38	dislocated@subj	_	Gloss=person.Masc
 36	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	38	mod/m	_	Gloss=Fut-|SpaceAfter=No
 37	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	38	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
-38	ɗiːbàw	ɗìbaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	34	comp:obj	_	Gloss=take.Nmlz.Fem
+38	ɗiːbàw	ɗìbaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	34	comp	_	Gloss=take.Nmlz.Fem
 39	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	40	det	_	Gloss=ProxH.Masc
 40	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=charm.Masc|SpaceAfter=No
 41	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
@@ -3169,7 +3169,7 @@
 2	mùtun	mùtun	NOUN	_	Gender=Masc	5	subj	_	Gloss=person.Masc
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yak
 4	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=k=
-5	kwan	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	1	comp:obj	_	Gloss=spend_night.Nmlz.Masc
+5	kwan	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	1	comp	_	Gloss=spend_night.Nmlz.Masc
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	6	comp	_	Gloss=3Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3196,7 +3196,7 @@
 2	im	in	SCONJ	_	_	46	mod	_	Gloss=if
 3	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 4	kà=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	5	subj/m	_	Gloss=2Masc=|wordform=bàkà
-5	kwan	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:obj	_	Gloss=spend_night.Nmlz.Masc
+5	kwan	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp	_	Gloss=spend_night.Nmlz.Masc
 6	dà	dà	ADP	_	_	5	comp:obl	_	Gloss=with
 7	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	6	comp	_	Gloss=iron.Masc
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
@@ -3207,7 +3207,7 @@
 13	dà	dà	SCONJ	_	_	12	comp	_	Gloss=that
 14	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	16	mod/m	_	Gloss=Fut-|SpaceAfter=No
 15	ka=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	16	subj/m	_	Gloss=2Masc=|wordform=zâːka=
-16	ɗiːbà	ɗìːbaː	VERB	_	ExtPos=NOUN|Gender=Fem	13	comp:obj	_	Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàm
+16	ɗiːbà	ɗìːbaː	VERB	_	ExtPos=NOUN|Gender=Fem	13	comp	_	Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàm
 17	-m	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Fem|wordform=-C
 18	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	17	comp	_	Gloss=charm.Masc.Def|SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -3218,7 +3218,7 @@
 24	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 25	in	in	SCONJ	_	_	46	mod	_	Gloss=if
 26	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	27	subj/m	_	Gloss=3Masc|SpaceAfter=No
-27	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	comp:obj	_	Gloss=Prog|wordform=shinàː
+27	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	25	comp	_	Gloss=Prog|wordform=shinàː
 28	gà	gà	ADP	_	_	27	comp:pred	_	Gloss=at
 29	jìki	jìkiː	NOUN	_	_	28	comp	_	GenderAf=Masc|Gloss=body.Masc|SpaceAfter=No|wordform=jìkinkà
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -3253,7 +3253,7 @@
 1	in	in	SCONJ	_	_	44	mod	_	Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kak
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=k=
-4	kwaːna	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	1	comp:obj	_	Gloss=spend_night.Nmlz.Masc
+4	kwaːna	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	1	comp	_	Gloss=spend_night.Nmlz.Masc
 5	wuri	wuri	ADV	_	_	4	mod	_	Gloss=outside
 6	dà	dà	ADP	_	_	4	mod	_	Gloss=at
 7	ra	raːnaː	NOUN	_	Gender=Fem	6	comp	_	Gloss=day.Fem|SpaceAfter=No|wordform=ral
@@ -3266,16 +3266,16 @@
 14	lahàdi	lahàdi	NOUN	_	Gender=Fem	13	comp	_	Gloss=Sunday.Fem
 15	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tay
 16	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=y=
-17	yi	yi	VERB	_	_	11	comp:obj	_	Gloss=do|SpaceAfter=No
+17	yi	yi	VERB	_	_	11	comp	_	Gloss=do|SpaceAfter=No
 18	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 19	tundà	tundà	SCONJ	_	_	44	mod	_	Gloss=since
-20	àssùbâː	àssùbâː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=early_morning.Fem|SpaceAfter=No
+20	àssùbâː	àssùbâː	NOUN	_	Gender=Fem	19	comp	_	Gloss=early_morning.Fem|SpaceAfter=No
 21	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 22	tum	tun	SCONJ	_	_	44	mod	_	Gloss=since/before
 23	mutàːneː	mutàːneː	NOUN	_	Number=Plur	26	subj	_	Gloss=people.Plur
 24	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	26	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 25	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Plur=|wordform=bàsù
-26	taːshì	taːshì	VERB	_	_	22	comp:obj	_	Gloss=rise
+26	taːshì	taːshì	VERB	_	_	22	comp	_	Gloss=rise
 27	dàk	dàgà	ADP	_	_	26	comp:obl	_	Gloss=from
 28	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	27	comp	_	Gloss=spend_night.Nmlz.Masc
 29	ba	ba	PART	_	PartType=Neg|Polarity=Neg	26	mod	_	Gloss=Neg|SpaceAfter=No
@@ -3319,7 +3319,7 @@
 1	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kaz
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
-4	zoː	zoː	VERB	_	_	1	comp:obj	_	Gloss=come
+4	zoː	zoː	VERB	_	_	1	comp	_	Gloss=come
 5	wuri	wuriː	NOUN	_	_	4	comp:obj	_	Gloss=place.Masc|SpaceAfter=No|wordform=wurintà|wordfrom=wurintà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
@@ -3365,7 +3365,7 @@
 9	ita	ita	PRON	_	Gender=Fem|Person=3	12	dislocated@subj	_	Gloss=3Fem
 10	lòːdaː	lòːdaː	NOUN	_	Gender=Fem	9	conj:appos	_	Gloss=mucilaginous_plant_sp.Fem|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	yàːɗoː	yàːɗoː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=creeping.Masc
+12	yàːɗoː	yàːɗoː	NOUN	_	Gender=Masc	8	comp	_	Gloss=creeping.Masc
 13	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Fem|SpaceAfter=No
 14-15	takài	_	_	_	_	_	_	_	_
 14	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	12	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=takà
@@ -3406,7 +3406,7 @@
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kaɗ
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=ɗ=
-4	ɗàuki	ɗaukaː	VERB	_	_	1	comp:obj	_	Gloss=take
+4	ɗàuki	ɗaukaː	VERB	_	_	1	comp	_	Gloss=take
 5	duːc'ìː	duːc'ìː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=stone.Plur
 6	biyu	biyu	NUM	_	_	5	det	_	Gloss=two|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3450,7 +3450,7 @@
 45	hat	hat	SCONJ	_	_	43	mod	_	Gloss=until
 46	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	48	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tà
 47	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	48	mod/m	_	Gloss=Sub=
-48	daːc'èː	daːc'èː	VERB	_	_	45	comp:obj	_	Gloss=chop_off|SpaceAfter=No
+48	daːc'èː	daːc'èː	VERB	_	_	45	comp	_	Gloss=chop_off|SpaceAfter=No
 49	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_096-096
@@ -3463,10 +3463,10 @@
 1	in	in	SCONJ	_	_	18	mod	_	Gloss=if
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tad
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=d=
-4	daːc'èː	daːc'èː	VERB	_	_	1	comp:obj	_	Gloss=chop_off|SpaceAfter=No
+4	daːc'èː	daːc'èː	VERB	_	_	1	comp	_	Gloss=chop_off|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	18	mod	_	Gloss=if
-7	dàƙ	dàgà	ADP	_	_	6	comp:obj	_	Gloss=from
+7	dàƙ	dàgà	ADP	_	_	6	comp	_	Gloss=from
 8	ƙasà	ƙasà	ADV	_	_	7	comp	_	Gloss=below
 9	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	11	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kah
 10	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|wordform=h=
@@ -3492,7 +3492,7 @@
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kad
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=d=
-4	daːc'èː	daːc'èː	VERB	_	_	1	comp:obj	_	Gloss=chop_off
+4	daːc'èː	daːc'èː	VERB	_	_	1	comp	_	Gloss=chop_off
 5	dàs	dàgà	ADP	_	_	4	comp:obl	_	Gloss=from
 6	samà	samà	ADV	_	_	5	comp	_	Gloss=above|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3532,7 +3532,7 @@
 1	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kat
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=t=
-4	tattàkeː	tattàkeː	VERB	_	_	1	comp:obj	_	Gloss=hammer.Int.Ach
+4	tattàkeː	tattàkeː	VERB	_	_	1	comp	_	Gloss=hammer.Int.Ach
 5	ta	ta	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tay
@@ -3576,7 +3576,7 @@
 1	in	in	SCONJ	_	_	12	mod	_	Gloss=if
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tak
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=k=
-4	kai	kai	VERB	_	_	1	comp:obj	_	Gloss=reach/take_to
+4	kai	kai	VERB	_	_	1	comp	_	Gloss=reach/take_to
 5	s'awo	s'awoː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=length|SpaceAfter=No|wordform=s'awon
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	kàr̃hoː	kàr̃hoː	NOUN	_	Gender=Masc	6	comp	_	Gloss=charm_belt.Masc|SpaceAfter=No
@@ -3597,7 +3597,7 @@
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	barìː	barìː	VERB	_	_	1	comp:obj	_	Gloss=leave|SpaceAfter=No
+4	barìː	barìː	VERB	_	_	1	comp	_	Gloss=leave|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 7	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	9	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
@@ -3629,7 +3629,7 @@
 1	in	in	SCONJ	_	_	14	mod	_	Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kaj
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=j=
-4	jiƙàː	jiƙàː	VERB	_	_	1	comp:obj	_	Gloss=soak
+4	jiƙàː	jiƙàː	VERB	_	_	1	comp	_	Gloss=soak
 5	su	su	PRON	_	Person=3	4	comp:obj	_	Gloss=3.Pl|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
@@ -3665,7 +3665,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kash
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=sh=
-4	shaːhèː	shaːhèː	VERB	_	_	1	comp:obj	_	Gloss=rub
+4	shaːhèː	shaːhèː	VERB	_	_	1	comp	_	Gloss=rub
 5	shi	shi	PRON	_	Gender=Masc|Person=3	4	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -3685,7 +3685,7 @@
 1	tum	tun	SCONJ	_	_	26	mod	_	Gloss=since/before
 2	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 3	kà=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc=|wordform=bàkà
-4	azà	azàː	VERB	_	_	1	comp:obj	_	Gloss=put
+4	azà	azàː	VERB	_	_	1	comp	_	Gloss=put
 5	kàr̃hoː	kàr̃hoː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=charm_belt.Masc
 6	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=at
 7	ta	ta	PRON	_	Gender=Fem|Person=3	6	comp	_	Gloss=3Fem
@@ -3695,10 +3695,10 @@
 11	kàr̃hoː	kàr̃hoː	NOUN	_	Gender=Masc	10	conj:appos	_	Gloss=charm_belt.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 13	tun	tun	SCONJ	_	_	26	mod	_	Gloss=since/before
-14	kàːhin	kàːhin	SCONJ	_	_	13	comp:obj	_	Gloss=before
+14	kàːhin	kàːhin	SCONJ	_	_	13	comp	_	Gloss=before
 15	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	17	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
 16	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	17	mod/m	_	Gloss=Sub=
-17	shaːhwàː	shaːhwàː	VERB	_	_	14	comp:obj	_	Gloss=rub
+17	shaːhwàː	shaːhwàː	VERB	_	_	14	comp	_	Gloss=rub
 18	mai	mai	PRON	_	Gender=Masc|Person=3	17	comp:obl	_	Gloss=3Masc.Dat
 19	shuːniː	shuːniː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=indigo.Masc
 20	dà	dà	CCONJ	_	_	21	cc	_	Gloss=and
@@ -3725,7 +3725,7 @@
 1	yàːkîn	yàːkîn	SCONJ	_	_	11	mod	_	Gloss=before
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
 3	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	4	mod/m	_	Gloss=Sub=
-4	sâː	sâː	VERB	_	_	1	comp:obj	_	Gloss=put
+4	sâː	sâː	VERB	_	_	1	comp	_	Gloss=put
 5	shuːniː	shuːniː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=indigo.Masc
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	àleːwà	àleːwà	NOUN	_	Gender=Fem	5	conj:coord	_	Gloss=sweets.Fem|SpaceAfter=No
@@ -3746,7 +3746,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kaɗ
 3	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=ɗ=
-4	ɗaukoː	ɗaukaː	VERB	_	_	1	comp:obj	_	Gloss=take.Dir
+4	ɗaukoː	ɗaukaː	VERB	_	_	1	comp	_	Gloss=take.Dir
 5	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=skin.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -3779,7 +3779,7 @@
 # text_ortho = ’in kàrhoǹ nàa dà šaahìi, na ɓaᵲgon jàakii dà ’àleewà dà šuunii, ’ankà ’azàa ši bisà hwaatàa, waddà zaà ’a ɗumkèe ši.
 1	in	in	SCONJ	_	_	18	mod	_	Gloss=if
 2	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=charm_belt.Masc.Def
-3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:obj	_	Gloss=Prog
+3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp	_	Gloss=Prog
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	shaːhìː	shaːhìː	NOUN	_	Gender=Masc	4	comp	_	Gloss=lining.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -3817,7 +3817,7 @@
 2	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 3-4	bà’à	_	_	_	_	_	_	_	_
 3	'à=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4=|wordform=bà’à
-4	Ø	yi	VERB	_	_	1	comp:obj	_	Gloss=do
+4	Ø	yi	VERB	_	_	1	comp	_	Gloss=do
 5	mutà	mutà	PRON	_	Gender=Fem|Person=3	4	comp:obl	_	Gloss=3Fem.Dat
 6	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	Number=Plur	4	comp:pred	_	Gloss=holes.Plur
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg|SpaceAfter=No
@@ -3842,7 +3842,7 @@
 26	koː	koː	SCONJ	_	_	37	mod	_	Gloss=or
 27	a-	a	PRON	_	Person=4|PronType=PrsSubj	29	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 28	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	29	mod/m	_	Gloss=Perf.Plur
-29	taːrà	taːràː	VERB	_	_	26	comp:obj	_	Gloss=gather
+29	taːrà	taːràː	VERB	_	_	26	comp	_	Gloss=gather
 30	àlluːr̃àː	àlluːr̃àː	NOUN	_	Gender=Fem	29	comp:obj	_	Gloss=needle.Fem|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	c’inkèː	c’inkèː	NOUN	_	Gender=Masc	30	conj:coord	_	Gloss=wooden_skewer.Masc
@@ -3857,7 +3857,7 @@
 41	bàleː	bàleː	SCONJ	_	_	37	mod	_	Gloss=much_less
 42	a-	a	PRON	_	Person=4|PronType=PrsSubj	44	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 43	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	44	mod/m	_	Gloss=Sub=
-44	ɗumkè	ɗumkèː	VERB	_	_	41	comp:obj	_	Gloss=sew_up
+44	ɗumkè	ɗumkèː	VERB	_	_	41	comp	_	Gloss=sew_up
 45	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def|Gender=Masc	44	comp:obj	_	Gloss=charm_belt.Masc.Def|SpaceAfter=No
 46	.	.	PUNCT	_	_	37	punct	_	Gloss=.
 
@@ -3905,7 +3905,7 @@
 3	has	hat	SCONJ	_	_	1	mod	_	Gloss=until
 4	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sù
 5	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	6	mod/m	_	Gloss=Sub=
-6	laːlàːceː	laːlàːceː	VERB	_	_	3	comp:obj	_	Gloss=spoil
+6	laːlàːceː	laːlàːceː	VERB	_	_	3	comp	_	Gloss=spoil
 7	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	9	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 8	'à=	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4=|wordform=bà’à
 9	ɗumkè	ɗumkèː	VERB	_	_	6	parataxis:conj	_	Gloss=sew_up
@@ -3932,7 +3932,7 @@
 10	tum	tun	SCONJ	_	_	5	mod	_	Gloss=since/before
 11	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	13	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 12	'à=	a	PRON	_	Person=4|PronType=PrsSubj	13	subj/m	_	Gloss=4=|wordform=bà’à
-13	azàː	àzàː	VERB	_	_	10	comp:obj	_	Gloss=put
+13	azàː	àzàː	VERB	_	_	10	comp	_	Gloss=put
 14	mutà	mutà	PRON	_	Gender=Fem|Person=3	13	comp:obl	_	Gloss=3Fem.Dat
 15	kàr̃hoː	kàr̃hoː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=charm_belt.Masc
 16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	13	mod	_	Gloss=Neg|SpaceAfter=No
@@ -3948,7 +3948,7 @@
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 3	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Plur
-4	ɗumkèː	ɗumkèː	VERB	_	_	1	comp:obj	_	Gloss=sew_up|SpaceAfter=No
+4	ɗumkèː	ɗumkèː	VERB	_	_	1	comp	_	Gloss=sew_up|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
@@ -3967,7 +3967,7 @@
 # text_ortho = ’in ši nàa gà jìkinkà, du’ ’iᵲìn ƙaᵲhèe, baà ši huudè jìkinkà .
 1	in	in	SCONJ	_	_	16	mod	_	Gloss=if
 2	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Masc|SpaceAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:obj	_	Gloss=Prog|wordform=shinàː
+3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp	_	Gloss=Prog|wordform=shinàː
 4	gà	gà	ADP	_	_	3	comp:pred	_	Gloss=at
 5	jìki	jìkiː	NOUN	_	_	4	comp	_	GenderAf=Masc|Gloss=body.Masc|SpaceAfter=No|wordform=jìkinkà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -4006,7 +4006,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
+4	yi	yi	VERB	_	_	1	comp	_	Gloss=do
 5	hùːde	hùːde	NOUN	_	Gender=Masc	4	comp:pred	_	Gloss=hole.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -4041,6 +4041,6 @@
 36	ha'	hat	SCONJ	_	_	30	mod	_	Gloss=until
 37	a-	a	PRON	_	Person=4|PronType=PrsSubj	39	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 38	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	39	mod/m	_	Gloss=Sub=
-39	ɗumkèː	ɗumkèː	VERB	_	_	36	comp:obj	_	Gloss=sew_up|SpaceAfter=No
+39	ɗumkèː	ɗumkèː	VERB	_	_	36	comp	_	Gloss=sew_up|SpaceAfter=No
 40	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 

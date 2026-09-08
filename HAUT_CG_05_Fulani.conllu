@@ -136,7 +136,7 @@
 4	allàː	allàː	PROPN	_	_	7	subj	_	Gloss=God
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
 6	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=b=
-7	baː	baː	VERB	_	_	3	comp:obj	_	Gloss=give
+7	baː	baː	VERB	_	_	3	comp	_	Gloss=give
 8	shì	shi	PRON	_	Gender=Masc|Person=3	7	comp:obj@R	_	Gloss=3Masc
 9	sa’àː	sa’àː	NOUN	_	Gender=Fem	7	comp:obj@T	_	Gloss=opportunity.Fem|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -224,7 +224,7 @@
 1	dà	dà	SCONJ	_	_	13	mod	_	Gloss=when
 2	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	4	mod/m	_	Gloss=Fut-|SpaceAfter=No
 3	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur=|wordform=zâːsu=
-4	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	1	comp:obj	_	Gloss=go.Vnoun.Fem|SpaceAfter=No
+4	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	1	comp	_	Gloss=go.Vnoun.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	dislocated@subj	_	Gloss=3Masc
 7	bàhillaːcèn	bàhillaːcèn	VERB	_	Definite=Def|Gender=Masc	6	conj:appos	_	Gloss=Fulani.Masc.Def
@@ -246,7 +246,7 @@
 23	in	in	SCONJ	_	_	41	mod	_	Gloss=if
 24	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sun
 25	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	26	mod/m	_	Gloss=Perf.Plur
-26	tàhi	tàhi	VERB	_	_	23	comp:obj	_	Gloss=go|SpaceAfter=No
+26	tàhi	tàhi	VERB	_	_	23	comp	_	Gloss=go|SpaceAfter=No
 27	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 28	dà	dà	CCONJ	_	_	29	cc@preconj	_	Gloss=and
 29	shiː	shiː	PRON	_	Gender=Masc|Person=3	26	dislocated@subj	_	Gloss=3Masc
@@ -304,7 +304,7 @@
 6	im	in	SCONJ	_	_	28	mod	_	Gloss=if
 7	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Plur-|SpaceAfter=No|wordform=mun
 8	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Plur
-9	kai	kai	VERB	_	_	6	comp:obj	_	Gloss=reach/take_to
+9	kai	kai	VERB	_	_	6	comp	_	Gloss=reach/take_to
 10	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=at
 11	daːjìː	daːjìː	NOUN	_	Gender=Masc	10	comp	_	Gloss=bush.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -336,7 +336,7 @@
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
+4	yi	yi	VERB	_	_	1	comp	_	Gloss=do
 5	hakànan	hakànan	ADV	_	_	4	mod	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -387,7 +387,7 @@
 2	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
 3	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 4	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-5	zoː	zoː	VERB	_	_	2	comp:obj	_	Gloss=come
+5	zoː	zoː	VERB	_	_	2	comp	_	Gloss=come
 6	gà	gà	ADP	_	_	5	comp:obl	_	Gloss=at
 7	daːjìː	daːjìː	NOUN	_	Gender=Masc	6	comp	_	Gloss=bush.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -488,10 +488,10 @@
 10	mu=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	11	subj/m	_	Gloss=1Plur=|wordform=zâːmu=
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:cleft	_	ClauseType=Int|Gloss=do.Vnoun.Masc
 12	tun	tun	SCONJ	_	_	11	mod	_	Gloss=since/before
-13	dà	dà	SCONJ	_	_	12	comp:obj	_	Gloss=when
+13	dà	dà	SCONJ	_	_	12	comp	_	Gloss=when
 14	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	16	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=naː
 15	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	16	mod/m	_	Gloss=Perf.Sing
-16	yi	yi	VERB	_	_	13	comp:obj	_	Gloss=do
+16	yi	yi	VERB	_	_	13	comp	_	Gloss=do
 17	ɗiːmuwaː	ɗiːmuwaː	NOUN	_	Gender=Fem	16	comp:pred	_	Gloss=confusion.Fem
 18	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
@@ -517,7 +517,7 @@
 13	tundà	tundà	SCONJ	_	_	7	mod	_	Gloss=since
 14	kai	kai	PRON	_	Gender=Masc|Person=2	16	subj	_	Gloss=2Masc
 15	namijì	namijì	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=man.Masc
-16	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	13	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
+16	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	13	comp	_	Gloss=be.Masc/Plur|SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_15
@@ -558,7 +558,7 @@
 14	ham	hat	SCONJ	_	_	11	mod	_	Gloss=until
 15	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	17	subj/m	_	Gloss=1Plur-|SpaceAfter=No|wordform=mù
 16	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	17	mod/m	_	Gloss=Sub=
-17	ji	ji	VERB	_	_	14	comp:obj	_	Gloss=feel/hear
+17	ji	ji	VERB	_	_	14	comp	_	Gloss=feel/hear
 18	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=thing.Masc.Def|RelAnt=Yes
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
 20	dawàː	dawàː	NOUN	_	Gender=Masc	23	subj	_	Gloss=bush.Masc
@@ -652,7 +652,7 @@
 1	dà	dà	SCONJ	_	_	15	mod	_	Gloss=when
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 3	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing
-4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
+4	yi	yi	VERB	_	_	1	comp	_	Gloss=do
 5	kirà	kiràː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=call.Vnoun|SpaceAfter=No|wordform=kiràn
 6	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceAfter=No
 7	dawàː	dawàː	NOUN	_	Gender=Masc	6	comp	_	Gloss=bush.Masc|SpaceAfter=No
@@ -745,7 +745,7 @@
 1	dà	dà	SCONJ	_	_	13	mod	_	Gloss=when
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
-4	yi	yi	VERB	_	_	1	comp:obj	_	Gloss=do
+4	yi	yi	VERB	_	_	1	comp	_	Gloss=do
 5	hakànan	hakànan	ADV	_	_	4	mod	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	dislocated@subj	_	Gloss=3Masc
@@ -912,7 +912,7 @@
 7	dà	dà	SCONJ	_	_	4	mod	_	Gloss=when
 8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 9	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing=|wordform=c=
-10	ciː	ci	VERB	_	_	7	comp:obj	_	Gloss=have_sex_with
+10	ciː	ci	VERB	_	_	7	comp	_	Gloss=have_sex_with
 11	tà	ta	PRON	_	Gender=Fem|Person=3	10	comp:obj	_	Gloss=3Fem|SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
