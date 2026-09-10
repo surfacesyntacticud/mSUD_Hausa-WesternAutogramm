@@ -7516,7 +7516,7 @@
 # text_ortho = ’iᵲìn yaddà ’ankài dà ɗam màɗaɗɗahii, šii maa hakà nan ’a kài dà šii.
 1	irì	irìː	NOUN	_	Gender=Masc	14	mod	_	Gloss=type.Masc|SpaceAfter=No|wordform=irìn
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod/m	_	Gloss=Gen.Masc/Plur
-3	yaddà	yaddà	PRON	_	PronType=Rel	2	comp	_	ClauseType=Rel|Gloss=how|Relz=Word
+3	yaddà	yaddà	ADV	_	PronType=Rel	2	comp	_	ClauseType=Rel|Gloss=how|Relz=Word
 4	an-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 5-6	nkà=	_	_	_	_	_	_	_	_
 5	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
