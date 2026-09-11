@@ -356,9 +356,9 @@
 # sent_timecode = 8000, 9000
 # text_en = As they are, if they are dry, however strong you are, you won't succeed in gnawing them with your teeth, except if you pound them.
 # text_ortho = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
-1	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	17	mod	_	ClauseType=Rel|Gloss=who.Plur|Relz=Word
+1	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	17	mod	_	Gloss=who.Plur|RelAnt=Yes|Relz=Word
 2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-3	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	1	mod@relcl	_	Gloss=be|RelRole=subj|Relz=Affix|SpaceAfter=No|wordform=sukè
+3	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	1	mod@relcl	_	ClauseType=Rel|Gloss=be|RelRole=subj|Relz=Affix|SpaceAfter=No|wordform=sukè
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 6	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sum
@@ -711,10 +711,10 @@
 1	àmmaː	àmmaː	CCONJ	_	_	9	discourse	_	Gloss=but
 2	niː	niː	PRON	_	Person=1	9	dislocated@subj	_	Gloss=1Sing|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-4	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	9	dislocated@top	_	ClauseType=Rel|Gloss=who.Plur|Relz=Word
+4	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	9	dislocated@top	_	Gloss=who.Plur|RelAnt=Yes|Relz=Word
 5	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nis
 6	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=s=
-7	sanìː	sanìː	VERB	_	_	4	mod@relcl	_	Gloss=know|RelRole=obj|SpaceAfter=No
+7	sanìː	sanìː	VERB	_	_	4	mod@relcl	_	ClauseType=Rel|Gloss=know|RelRole=obj|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	suː	suː	PRON	_	Number=Plur|Person=3	0	root	_	Gloss=3Plur
 10	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	12	mod/m	_	Gloss=Fut-|SpaceAfter=No
@@ -2560,9 +2560,9 @@
 43	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	44	det	_	Gloss=ProxH.Masc
 44	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	42	conj:appos	_	Gloss=charm.Masc|SpaceAfter=No
 45	,	,	PUNCT	_	_	46	punct	_	Gloss=PUNCT
-46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	44	mod:appos@relcl	_	ClauseType=Rel|Gloss=who.Masc|Relz=Word
+46	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	44	mod:appos@relcl	_	Gloss=who.Masc|RelAnt=Yes|Relz=Word
 47	a-	a-	PRON	_	Person=4|PronType=Prs	48	subj/m	_	Gloss=4|SpaceAfter=No
-48	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	46	mod@relcl	_	Gloss=Prog|RelRole=obj|Relz=Affix|wordform=akà
+48	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	46	mod@relcl	_	ClauseType=Rel|Gloss=Prog|RelRole=obj|Relz=Affix|wordform=akà
 49	ɗiːbàː	ɗiːbàː	VERB	_	ExtPos=NOUN|Gender=Fem	48	comp:pred	_	Gloss=take.Nmlz.Fem
 50	gà	gà	ADP	_	_	49	comp:obl	_	Gloss=at
 51	lòːdaː	lòːdaː	NOUN	_	Gender=Fem	50	comp	_	Gloss=plant_sp.Fem|SpaceAfter=No
@@ -2865,10 +2865,10 @@
 22	-k	na	PART	_	Case=Gen|PartType=Case	21	udep/m	_	Gloss=Gen.Fem|wordform=-C
 23	karaː	karaː	NOUN	_	Gender=Masc	22	comp	_	Gloss=stalk.Masc|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-25	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	conj@appos	_	ClauseType=Rel|Gloss=who.Fem|Relz=Word
+25	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	conj@appos	_	Gloss=who.Fem|RelAnt=Yes|Relz=Word
 26	a-	a-	PRON	_	Person=4|PronType=Prs	27	subj/m	_	Gloss=4|SpaceAfter=No
 27-28	akài	_	_	_	_	_	_	_	_
-27	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	25	mod@relcl	_	Gloss=Prog|RelRole=mod|Relz=Affix|wordform=akà
+27	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	25	mod@relcl	_	ClauseType=Rel|Gloss=Prog|RelRole=mod|Relz=Affix|wordform=akà
 28	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	27	comp:pred	_	Gloss=do.Nmlz.Masc
 29	dà	dà	ADP	_	_	28	comp:obl	_	Gloss=with
 30	kara	karaː	NOUN	_	Gender=Masc	29	comp	_	Gloss=stalk|SpaceAfter=No|wordform=karan

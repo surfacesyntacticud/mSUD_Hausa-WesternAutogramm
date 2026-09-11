@@ -3904,9 +3904,9 @@
 9	:	:	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	kèː	keː	PRON	_	Gender=Fem|Person=2	11	vocative	_	Gloss=2Fem
 11	ìnaː	ìnaː	ADV	_	PronType=Int	5	comp:obj	_	Gloss=where.Int
-12	doːkì:	doːkì:	NOUN	_	Gender=Masc	11	comp:cleft	_	ClauseType=Int|Gloss=horse.Masc|RelAnt=Yes|SpaceAfter=No
+12	doːkì:	doːkì:	NOUN	_	Gender=Masc	11	comp:cleft	_	Gloss=horse.Masc|RelAnt=Yes|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	12	mod@relcl	_	Gloss=who.Masc.Rel|Relz=Word
+14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	12	mod@relcl	_	ClauseType=Rel|Gloss=who.Masc.Rel|Relz=Word
 15	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	17	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nib
 16	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=b=
 17	barì:	barì:	VERB	_	_	14	comp	_	ClauseType=Rel|Gloss=let/leave|RelRole=obj
@@ -4936,8 +4936,8 @@
 19	cêː	cêː	VERB	_	_	8	parataxis:conj	_	Gloss=say
 20	:	:	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	ìnaː	ìnaː	ADV	_	PronType=Int	19	comp:obj@T	_	Gloss=where.Int
-22	jìmɓirin	jìmɓiriː	NOUN	_	Definite=Def|Gender=Masc	21	comp:cleft	_	ClauseType=Int|Gloss=green_beans.Masc.Def|RelAnt=Yes
-23	dà	dà	SCONJ	_	_	22	mod@relcl	_	Gloss=CompRel|Relz=Word
+22	jìmɓirin	jìmɓiriː	NOUN	_	Definite=Def|Gender=Masc	21	comp:cleft	_	Gloss=green_beans.Masc.Def|RelAnt=Yes
+23	dà	dà	SCONJ	_	_	22	mod@relcl	_	ClauseType=Rel|Gloss=CompRel|Relz=Word
 24	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	26	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kib
 25	C=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	26	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=b=
 26	baː	baː	VERB	_	_	23	comp	_	ClauseType=Rel|Gloss=give|RelRole=T
