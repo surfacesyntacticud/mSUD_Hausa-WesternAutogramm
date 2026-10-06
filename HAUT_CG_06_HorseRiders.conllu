@@ -471,7 +471,7 @@
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 21	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	20	comp:obj/m	_	Gloss=3Fem.Gen
 22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg
-23	nèː	neː	PART	_	PartType=Foc	18	discourse@foc	_	Gloss=Emph|SpaceAfter=No
+23	nèː	neː	PART	_	PartType=Foc	19	discourse@foc	_	Gloss=Emph|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	ab	neː	AUX	_	Copula=Yes|Mood=Rel	19	comp:cleft	_	ClauseType=Cleft|Gloss=Ident/Foc.Rel
 26	bisà	bisà	ADP	_	_	25	comp:pred	_	Gloss=on_top_of
@@ -632,11 +632,11 @@
 59	.	.	PUNCT	_	_	18	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_21
+# text = dà ya-Ø= gayàː mutà hakànan, koːdà ta-Ø= ci àbunci, sai ta-Ø= tahoː, ta-nàː ta mur̃nàː, t-aː= sàːmu mài doːkìː, bà-tà= san mijì-n-tà ba neː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 20000, 21000
-# text = dà ya-Ø= gayàː mutà hakànan, koːdà ta-Ø= ci àbunci, sai ta-Ø= tahoː, ta-nàː ta mur̃nàː, t-aː= sàːmu mài doːkìː, bà-tà= san mijì-n-tà ba neː.
-# text_en = When he told her like this, as soon as she had taken her food, she left she was happy, she had got a rider, she did not know it was her husband.
+# text_en = When he told her like this, as soon as she had taken her food, she left she was happy, she had got a rider, she did not recognize her husband.
 # text_ortho = dà yag gayàa mutà hakà nan, koo dà tac ci ’àbunci, sai tat tahoo, ta nàa ta murnàa, taa sàamu mài dookìː, bà tà san mijìntà ba nèe.
 1	dà	dà	SCONJ	_	_	17	mod	_	Gloss=when
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yag
