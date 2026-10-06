@@ -2998,7 +2998,7 @@
 39	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_099-099
-# text = àmmaː hwa bandà hakànan, shiː wânnam maːgàniː, loːkàcin dà namijì kà= Ø mâː màccè shiː, shiː namijìn, bâː- shi= kwaːna-n raːna sai y-aː= gamà wânnam maːgàniː.
+# text = àmmaː hwa bandà hakànan, shiː wânnam maːgàniː, loːkàcin dà namijì kà Ø mâː màccè shiː, shiː namijìn, bâː- shi= kwaːna-n raːna sai y-aː= gamà wânnam maːgàniː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 84000, 85000
@@ -3016,7 +3016,7 @@
 10	loːkàcin	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	24	mod	_	Gloss=time.Masc.Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	namijì	namijì	NOUN	_	Gender=Masc	14	subj	_	Gloss=man.Masc
-13	kà=	nàː=	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	14	mod/m	_	Gloss=Prog.Rel=|Relz=Affix
+13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	14	mod/m	_	Gloss=Prog.Rel|Relz=Affix
 14	Ø	yi	VERB	_	_	11	comp	_	ClauseType=Rel|Gloss=do|RelRole=mod
 15	mâː	mà	ADP	_	_	14	comp:obl	_	Gloss=Dat
 16	màccè	màccè	NOUN	_	Gender=Fem	15	comp	_	Gloss=female.Fem
