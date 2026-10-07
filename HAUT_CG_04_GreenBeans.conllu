@@ -114,7 +114,7 @@
 21	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	20	comp:obj/m	_	Gloss=3Fem.Gen
 22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	16	mod	_	Gloss=Neg|SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-24	kuma	kuma	PART	_	PartType=Disc	27	discourse	_	Gloss=also
+24	kuma	kuma	PART	_	PartType=Disc	25	discourse	_	Gloss=also
 25	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	16	conj:coord	_	Gloss=Neg.Perf-|SpaceAfter=No
 26	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=3Fem=|wordform=bàtà
 27	girmaː	girmaː	VERB	_	_	25	comp:aux	_	Gloss=grow
@@ -297,7 +297,7 @@
 # text = àmmaː tundà an baː shi , sai à ɗaukoː ta , kât tà shaː noːnòn uwattà , kuma kât tà girma wurin uwattà , sabòːdà kât tà yi kissà .
 # text_en = But, since they have given her to him, let them take her, don't let her drink her mother's milk, don't let her grow at her mother's place lest she should become deceitful.
 # text_ortho = ’àmmaa tun dà ’am baa šì, sai ’à ɗaukoo tà, kat’ tà šaa noonòn ’uwattà, kuma kat’ tà giᵲma wuᵲin ’uwattà, sabòo dà kat’ tà yi kissà.
-1	àmmaː	àmmaː	CCONJ	_	_	11	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	10	discourse	_	Gloss=but
 2	tundà	tundà	SCONJ	_	_	10	mod	_	Gloss=since
 3	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
 4	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	2	comp	_	Gloss=Perf.Plur
@@ -1588,8 +1588,8 @@
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	C=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=c=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
-4	tôː	tôː	INTJ	_	_	25	discourse	_	Gloss=well
-5	maːdàlla	maːdàlla	INTJ	_	_	25	discourse	_	Gloss=thank_God|SpaceAfter=No
+4	tôː	tôː	INTJ	_	_	24	discourse	_	Gloss=well
+5	maːdàlla	maːdàlla	INTJ	_	_	24	discourse	_	Gloss=thank_God|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 7	in	in	SCONJ	_	_	24	mod	_	Gloss=if
 8	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	9	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kin
@@ -2003,7 +2003,7 @@
 2	C=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=c=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	:	:	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-5	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
+5	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
 6	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	10	vocative	_	Gloss=old_woman.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
@@ -2465,7 +2465,7 @@
 5	mutà	mutà	PRON	_	Gender=Fem|Person=3	4	comp:obl	_	Gloss=3Fem.Dat
 6	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	4	comp:pred	_	Gloss=thanks.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-8	kuma	kuma	PART	_	PartType=Disc	11	discourse	_	Gloss=also
+8	kuma	kuma	PART	_	PartType=Disc	10	discourse	_	Gloss=also
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
 10	C=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=b=
 11	baː	baː	VERB	_	_	10	comp:aux	_	Gloss=give
@@ -2969,7 +2969,7 @@
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 8	C=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=c=
 9	cêː	cêː	VERB	_	_	8	comp:aux	_	Gloss=say
-10	tôː	tôː	INTJ	_	_	15	discourse	_	Gloss=well|SpaceAfter=No
+10	tôː	tôː	INTJ	_	_	14	discourse	_	Gloss=well|SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 12	allàː	allàː	PROPN	_	_	14	subj	_	Gloss=God
 13	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -3173,7 +3173,7 @@
 # text = kuma sunkà koːmàː hiːr̃a.
 # text_en = Then they chatted again.
 # text_ortho = kuma sunkà koomàa hiira.
-1	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=also
+1	kuma	kuma	PART	_	PartType=Disc	3	discourse	_	Gloss=also
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	koːmàː	koːmàː	VERB	_	_	3	comp:aux	_	Gloss=return
@@ -3343,7 +3343,7 @@
 # text = tôː kâk kà zamnàː , sai kà koːmàː , kà tàhi wurin sarkiː , kà yoː gòːdiyaː .
 # text_en = Well, don't sit down, you must go back, you must go the the chief's place and thank (him).
 # text_ortho = toò kak’ kà zamnàa, sai kà koomàa, kà tàhi wuᵲin saᵲkii, kà yoo gòodiyaa.
-1	tôː	tôː	INTJ	_	_	5	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	4	discourse	_	Gloss=well
 2	kâk	kaɗà	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg
 3	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
 4	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub=
@@ -3519,7 +3519,7 @@
 # text = don ita màːtam maːlàm , koː can ƙaryaː cèː tay yi mà maːlàm , tat tuːràː shi gidan sarkiː , don shì hìta shì bar̃ gidaː , kâsh shì shìga ɗaːkì: , shì ga ɗan sarkiː .
 # text_en = Because she, the malam's wife, although it was a lie she told then to the malam, she sent him to the chief's house so that he would go out and leave the compound lest he should enter the hut and see the chief's son.
 # text_ortho = don ’ita màatam maalàm, koo can ƙaᵲyaa cèe tay yi mà maalàm, tat tuuᵲàa ši gidan saᵲkii, don šì hìta šì bar gidaa, kaš’ šì šìga ɗaakìi, šì ga ɗan saᵲkii.
-1	don	don	SCONJ	_	_	19	discourse	_	Gloss=because
+1	don	don	SCONJ	_	_	18	discourse	_	Gloss=because
 2	ita	ita	PRON	_	Gender=Fem|Person=3	18	dislocated@subj	_	Gloss=3Fem
 3	màːta	màːtaː	NOUN	_	Gender=Fem	2	conj:appos	_	Gloss=wife.Fem|SpaceAfter=No|wordform=màːtam
 4	-m	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Fem|wordform=-C
@@ -5180,7 +5180,7 @@
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	mai	mai	PRON	_	Gender=Masc|Person=3	3	comp:obl	_	Gloss=3Masc.Dat
 5	:	:	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-6	àsheː	àsheː	INTJ	_	_	10	discourse	_	Gloss=you_don't_say!|SpaceAfter=No
+6	àsheː	àsheː	INTJ	_	_	9	discourse	_	Gloss=you_don't_say!|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 8	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	9	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kaː=
 9	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	3	comp:obj@T	_	Gloss=Perf.Sing

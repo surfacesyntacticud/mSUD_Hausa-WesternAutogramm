@@ -269,7 +269,7 @@
 5	C=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=c=
 6	cêː	cêː	VERB	_	_	5	comp:aux	_	Gloss=say
 7	:	:	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-8	tôː	tôː	INTJ	_	_	13	discourse	_	Gloss=well|SpaceAfter=No
+8	tôː	tôː	INTJ	_	_	12	discourse	_	Gloss=well|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 11	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	12	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kin
@@ -1541,7 +1541,7 @@
 # text = kuma bâːta sôm mài doːkìː .
 # text_en = She did not the rider.
 # text_ortho = kuma baà ta som̀ mài dookìː,
-1	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=also
+1	kuma	kuma	PART	_	PartType=Disc	2	discourse	_	Gloss=also
 2	bâː-	bâː-	AUX	_	Aspect=Prog|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Prog-|wordform=bâː
 3	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Fem=|wordform=bâːta
 4	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=like/love/want.Nmlz.Masc

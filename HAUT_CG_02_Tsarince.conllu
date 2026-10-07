@@ -219,7 +219,7 @@
 # text = sabòːdà in raːnaː tah hwaːɗi , ’yam maːtaː dà yawàː , sai sù tàːru wuriː gùdaː , sù tàhi hwageː , sù yi wargiː .
 # text_en = Because, if the night has come, many girls, they would gather in one place, they would go outside to play.
 # text_ortho = sabòo dà ’in ᵲaanaa tah hwaaɗi, ’’yam maataa dà yawàa, sai sù tàaᵲu wuᵲii gùdaa, sù tàhi hwagee, sù yi waᵲgii.
-1	sabòːdà	sabòːdà	SCONJ	_	_	16	discourse	_	Gloss=because
+1	sabòːdà	sabòːdà	SCONJ	_	_	15	discourse	_	Gloss=because
 2	in	in	SCONJ	_	_	15	mod	_	Gloss=if
 3	raːnaː	raːnaː	NOUN	_	_	5	subj	_	Gloss=sun
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tah
@@ -1324,7 +1324,7 @@
 # text = kuma shiː sarmàyiː , shì azà hannuː =nai bisa jìkin bùdurwaː , shìnàː shaːhwaj jìkin =tà , shìnàː jîn daːɗiː .
 # text_en = He too the boy, he puts his hand on the girl's body, he caresses her body, he is happy.
 # text_ortho = kuma šii saᵲmàyii, šì ’azà hannuunai bisa jìkim bùduᵲwaa, šì nàa šaahwaj jìkintà, šì nàa jìn daaɗii.
-1	kuma	kuma	PART	_	PartType=Disc	7	discourse	_	Gloss=also
+1	kuma	kuma	PART	_	PartType=Disc	6	discourse	_	Gloss=also
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3	6	dislocated@subj	_	Gloss=3Masc
 3	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	2	conj:appos	_	Gloss=youth.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -1649,7 +1649,7 @@
 # text = tôː kuma bandà hakà nan, shiː sarmàyiː, in yak kìri bùdurwaː, shìnàː sôntà, tanàː sôːnai, sunkà tàhi wurin s'àːrìnceː, sunkà tuːɓèː.
 # text_en = Well, apart from that, he the boy, when he asks the girl and he likes her, and she likes him, they do tsarince, they undress.
 # text_ortho = toò kuma ban dà hakà nan, šii saᵲmàyii, ’in yak kìᵲi bùduᵲwaa, šì nàa soǹtà, ta nàa soònai, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà tuuɓèe.
-1	tôː	tôː	INTJ	_	_	29	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	28	discourse	_	Gloss=well
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	bandà	bandà	ADP	_	_	28	mod	_	Gloss=without
 4	hakànan	hakànan	ADV	_	_	3	comp	_	Gloss=thus|SpaceAfter=No
@@ -2999,7 +2999,7 @@
 # sent_timecode = 68000, 70000
 # text_en = Or he, the boy who has come to the girl to do "yawo", she, the girl, if she looks at the boy and sees that it is not the one she likes, if she does not like him, even if he wakes her up to chat, she will ignore him, even if he is bothering her.
 # text_ortho = koo kòo šii saᵲmàyiǹ nan dà yaz zoo wuᵲim bùduᵲwaa don sù yi yaawòo. ’ita bùduᵲwaǹ nan, ’in tad diibàa, tad dìibi saᵲmàyiǹ nan, tag ga bàa wanda ta kà soò ba nèe, ’in baà ta soònai, koo yaa taadàa ta, don sù yi hiira, sai tà ƙyaalèe šì, koo šì nàa mutà ɗùmii.
-1	koːkòː	koːkòː	CCONJ	_	_	65	discourse	_	Gloss=or
+1	koːkòː	koːkòː	CCONJ	_	_	64	discourse	_	Gloss=or
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3	64	dislocated@comp	_	Gloss=3Masc
 3	sarmàyîn	sarmàyîn	NOUN	_	Definite=Def|Gender=Masc	2	conj:appos	_	Gloss=youth.Masc.Def|RelAnt=Yes
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=PreRef|PreRef=Yes
@@ -3367,7 +3367,7 @@
 # text = koː kuma in shinàː sôn bùdurwân nan , shiː sarmàyiː , sai shì tàmbàyeː tà .
 # text_en = If he likes the girl, he the boy; he will ask her.
 # text_ortho = koo kuma ’in šì nàa sòm bùduᵲwaǹ nan, šii saᵲmàyii, sai šì tàmbàyee tà.
-1	koː	koː	CCONJ	_	_	17	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	16	discourse	_	Gloss=or
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	in	in	SCONJ	_	_	16	mod	_	Gloss=if
 4	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	Gloss=3Masc|SpaceAfter=No
@@ -3454,7 +3454,7 @@
 # sent_timecode = 78000, 79000
 # text_en = Because she, the girl, if the boy goes away with her, one day, if they don't come back, the girl will become pregnant.
 # text_ortho = don ’ita bùduᵲwaǹ nan, ’in saᵲmàyii yat tàhi dà ’ita, wani lookàcii baà su daawowwaa, sai bùduᵲwaǹ nan taa yi cikìi.
-1	don	don	SCONJ	_	_	25	discourse	_	Gloss=because
+1	don	don	SCONJ	_	_	24	discourse	_	Gloss=because
 2	ita	ita	PRON	_	Gender=Fem|Person=3	24	dislocated@subj	_	Gloss=3Fem
 3	bùdurwân	bùdurwân	NOUN	_	Definite=Def|Gender=Fem	2	conj:appos	_	Gloss=girl.Fem.Def
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No

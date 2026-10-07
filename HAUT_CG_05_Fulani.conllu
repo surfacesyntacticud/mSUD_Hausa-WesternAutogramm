@@ -832,7 +832,7 @@
 # text = ai sai ka-_̀= yi àbun dà ka-Ø= yi niyyàː.
 # text_en = Eh, do your best.
 # text_ortho = ’ai sai kà yi ’àbun dà kay yi niyyàa.
-1	ai	ai	INTJ	_	_	5	discourse	_	Gloss=eh
+1	ai	ai	INTJ	_	_	4	discourse	_	Gloss=eh
 2	sai	sai	ADV	_	_	4	mod	_	Gloss=then
 3	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
 4	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub=
