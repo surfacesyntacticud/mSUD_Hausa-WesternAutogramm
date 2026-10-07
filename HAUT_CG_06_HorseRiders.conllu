@@ -463,8 +463,8 @@
 12	mài	mài	PART	_	Number=Sing|PartType=Der	11	comp:obj	_	Gloss=owner_of.Sing
 13	doːkìː	doːkìː	NOUN	_	Gender=Masc	12	compound	_	Gloss=horse.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-15	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
-16	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	11	conj:coord	_	Gloss=Neg.Perf-|SpaceAfter=No
+15	àmmaː	àmmaː	CCONJ	_	_	16	cc	_	Gloss=but
+16	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	10	conj:coord	_	Gloss=Neg.Perf-|SpaceAfter=No
 17	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Fem=|wordform=bàtà
 18	san	sanìː	VERB	_	_	16	comp:aux	_	Gloss=know
 19	mijì	mijìː	NOUN	_	_	18	comp:obj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
