@@ -1231,8 +1231,8 @@
 16	C=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=r=
 17	rasàː	rasàː	VERB	_	_	16	comp:aux	_	Gloss=lack
 18	wàdà	wàdà	PRON	_	_	17	comp:obj	_	Gloss=how.Rel
-19	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	18	mod@relcl	_	Gloss=Fut-|SpaceAfter=No
-20	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+19	zâː	zâː	AUX	_	Copula=No|Tense=Fut	18	mod@relcl	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+20	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 21	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	19	comp:aux	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 23	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -1299,8 +1299,8 @@
 5	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=cleverness/trick.Fem|RelAnt=Yes|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	5	mod@relcl	_	Gloss=which.Fem.Rel|Relz=Word
-8	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	7	comp	_	Gloss=Fut-|SpaceAfter=No
-9	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+8	zâː	zâː	AUX	_	Copula=No|Tense=Fut	7	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+9	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|RelRole=pred|SpaceAfter=No
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	16	mod	_	Gloss=sun/day.Fem.Def
@@ -1323,8 +1323,8 @@
 29	cikin	cikin	ADP	_	_	28	mod	_	Gloss=in(side)
 30	gìdaː	gìdaː	NOUN	_	Gender=Masc	29	comp:obl	_	Gloss=house.Masc
 31	kàmaz	kàmat	SCONJ	_	_	24	mod	_	Gloss=like
-32	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	31	comp	_	Gloss=Fut-|SpaceAfter=No
-33	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+32	zâː	zâː	AUX	_	Copula=No|Tense=Fut	31	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+33	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 34	sàye	sàyaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	32	comp:aux	_	Gloss=buy.Nmlz|SpaceAfter=No|wordform=sàyen
 35	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	34	udep/m	_	Gloss=Gen|SpaceAfter=No
 36	dàudawaː	dàudawaː	NOUN	_	Definite=Cons	35	comp	_	Gloss=daudawa|SpaceAfter=No
@@ -1600,8 +1600,8 @@
 13	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	12	conj:appos	_	Gloss=old_woman.Fem|SpaceAfter=No
 14	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 15	in	in	SCONJ	_	_	24	mod	_	Gloss=if
-16	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	15	comp	_	Gloss=Fut-|SpaceAfter=No
-17	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	16	subj/m	_	Gloss=2Fem=|wordform=zâːki=
+16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+17	-ki	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	16	subj/m	_	Gloss=3Masc|wordform=zâːki=
 18	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=go.Nmlz.Fem
 19	gida	gidaː	NOUN	_	Gender=Masc	18	udep	_	Gloss=house|SpaceAfter=No|wordform=gidan
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
@@ -1699,8 +1699,8 @@
 3	rasà	rasàː	VERB	_	_	2	comp:aux	_	Gloss=lack
 4	dùbaːràː	dùbaːràː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=plan.Fem|RelAnt=Yes
 5	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	4	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
-6	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	5	comp	_	Gloss=Fut-|SpaceAfter=No
-7	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+6	zâː	zâː	AUX	_	Copula=No|Tense=Fut	5	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+7	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|RelRole=pred
 9	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 10	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	8	parataxis:mod	_	Gloss=Sub=
@@ -1816,8 +1816,8 @@
 # text_en = When you go there to their house, you will go, I will give you things to take to her, you will take them to her.
 # text_ortho = ’in zaà ki tàhiyàa, can gidansù kì zoo, ’ìm baa kì ’àbun dà zaà kì kai mutà, ki kai mutà.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No
-3	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	2	subj/m	_	Gloss=2Fem=|wordform=zâːki=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+3	-ki	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc|wordform=zâːki=
 4	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	Gloss=go.Nmlz.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	can	can	ADV	_	Deixis=Remt|PronType=Dem	4	comp:obl	_	Gloss=Remt
@@ -1834,8 +1834,8 @@
 17	kì	kì	PRON	_	Gender=Fem|Person=2	16	comp:obj@R	_	Gloss=2Fem
 18	àbun	àbù	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj@T	_	Gloss=thing.Masc.Def|RelAnt=Yes
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=CompRel|Relz=Word
-20	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut-|SpaceAfter=No
-21	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	20	subj/m	_	Gloss=2Fem=|wordform=zâːki=
+20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+21	-ki	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc|wordform=zâːki=
 22	kai	kai	VERB	_	_	20	comp:aux	_	ClauseType=Rel|Gloss=reach/take_to|RelRole=obj
 23	mutà	mutà	PRON	_	Gender=Fem|Person=3	22	comp:obl	_	Gloss=3Fem.Dat|SpaceAfter=No
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -1854,7 +1854,7 @@
 # text_ortho = s’oohuwaa dà zaà ta tàhiyàa, taz zoo wuᵲiinai, yab baa tà goorò, dà tùᵲàaᵲee dà kuɗɗii, dà zôbban zinaarìyaa.
 1	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	8	dislocated@subj	_	Gloss=old_woman.Fem
 2	dà	dà	SCONJ	_	_	8	mod	_	Gloss=when
-3	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	2	comp	_	Gloss=Fut-|SpaceAfter=No
+3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	2	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 4	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem=|wordform=zâːta=
 5	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	Gloss=go.Nmlz.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -2266,8 +2266,8 @@
 24	san	sanìː	VERB	_	_	22	comp:aux	_	Gloss=know
 25	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=cleverness/trick.Fem|RelAnt=Yes
 26	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	25	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
-27	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	26	comp	_	Gloss=Fut-|SpaceAfter=No
-28	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+27	zâː	zâː	AUX	_	Copula=No|Tense=Fut	26	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+28	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 29	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	27	comp:aux	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|RelRole=pred
 30	ba	ba	PART	_	PartType=Neg|Polarity=Neg	24	mod	_	Gloss=Neg|SpaceAfter=No
 31	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
@@ -2313,8 +2313,8 @@
 11	mikì	mikì	PRON	_	Gender=Fem|Person=2	10	comp:obl	_	Gloss=2Fem.Dat|RelAnt=Yes
 12	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=cleverness/trick.Fem
 13	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	12	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
-14	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	13	comp	_	Gloss=Fut-|SpaceAfter=No
-15	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+14	zâː	zâː	AUX	_	Copula=No|Tense=Fut	13	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+15	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	14	comp:aux	_	ClauseType=Rel|Gloss=do.Nmlz.Masc|RelRole=pred|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
@@ -2499,8 +2499,8 @@
 15	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	14	comp	_	Gloss=old_woman.Fem
 16	:	:	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 17	in	in	SCONJ	_	_	31	mod	_	Gloss=if
-18	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	17	comp	_	Gloss=Fut-|SpaceAfter=No
-19	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	18	subj/m	_	Gloss=2Fem=|wordform=zâːki=
+18	zâː	zâː	AUX	_	Copula=No|Tense=Fut	17	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+19	-ki	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc|wordform=zâːki=
 20	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	comp:aux	_	Gloss=go.Nmlz.Fem|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	can	can	ADV	_	Deixis=Remt|PronType=Dem	20	comp:obj@G	_	Gloss=Remt
@@ -2574,7 +2574,7 @@
 # text_ortho = kullun ’in zaà ta tàhiyàa, kan dàudawaa, can gidam maalàm, sai tà zoo wuᵲin ɗan saᵲkii, šì baa tà ’àbuubuwàn dà yac ceè, tà tàhi dà suu, can wuᵲim maalàmii, tà kai mai dàudawaa.
 1	kullun	kullun	ADV	_	_	16	mod	_	Gloss=always
 2	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-3	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	2	comp	_	Gloss=Fut-|SpaceAfter=No
+3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	2	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 4	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem=|wordform=zâːta=
 5	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	Gloss=go.Nmlz.Fem
 6	kân	kân	ADP	_	_	5	mod	_	Gloss=about
@@ -2800,7 +2800,7 @@
 # text_ortho = dà s’oohuwaa zaà ta tàhiyàa, sai màatam maalàm, tac ceè mà s’oohuwaa : ’in kin zoo, kì gayàa mà ɗan saᵲkii, ’in ši nàa soǹ šì gan nì, šì baᵲìi sai ᵲas sallàa, ’in ’an hau ’iidìi. maalàm yaa tàhi wuᵲin ’iidìi, can hiilin ’iidìi - tàaᵲe dà saᵲkii, dà mutàanen gàᵲii.
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
 2	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	3	dislocated@subj	_	Gloss=old_woman.Fem
-3	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No
+3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 4	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem=|wordform=zâːta=
 5	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	Gloss=go.Nmlz.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3797,7 +3797,7 @@
 # text_ortho = sabòo dà mii zaà ka zoẁwaa naǹ wuᵲiina [?] kà mun ƙaᵲyaa ?.
 1	sabòːdà	sabòːdà	SCONJ	_	_	0	root	_	Gloss=because
 2	miː	miː	PRON	_	PronType=Int	1	comp	_	Gloss=what.Int
-3	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp:cleft	_	Gloss=Fut-|SpaceAfter=No
+3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp:cleft	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 4	ka=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	Gloss=2Masc=|wordform=zâːka=
 5	zôwwaː	zoː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	ClauseType=Cleft|Gloss=come.Nmlz.Fem
 6	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	5	comp:obj@G	_	Gloss=ProxS
@@ -4975,8 +4975,8 @@
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 4	C=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing=|wordform=t=
 5	tàhi	tàhi	VERB	_	_	4	comp:aux	_	Gloss=go
-6	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	4	parataxis:conj	_	Gloss=Fut-|SpaceAfter=No
-7	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+6	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	parataxis:conj	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+7	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 8	bugù	bug-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:aux	_	Gloss=beat.Nmlz.Masc|SpaceAfter=No|wordform=bugùntà|wordfrom=bugùntà
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 10	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	9	comp:obj/m	_	Gloss=3Fem.Gen

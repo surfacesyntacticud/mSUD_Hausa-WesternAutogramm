@@ -278,7 +278,7 @@
 # text_en = When you make the medicine, you take (different types of) woods, all hard ones, you make the medicine with them.
 # text_ortho = ’in zaà ’a yim̀ maagàniǹ, sai ’à ɗèebi ’itàacee, dum màasu tauᵲii, ’à yi maagàniǹ dà suu.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
 4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîm
 5	-m	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -717,7 +717,7 @@
 7	sanìː	sanìː	VERB	_	_	6	comp:aux	_	ClauseType=Rel|Gloss=know|RelRole=obj|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	suː	suː	PRON	_	Number=Plur|Person=3	0	root	_	Gloss=3Plur
-10	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	9	comp:cleft	_	Gloss=Fut-|SpaceAfter=No
+10	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp:cleft	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 11	m=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	10	subj/m	_	Gloss=1Sing=|wordform=zâm=
 12	baːdà	baːdàː	VERB	_	_	10	comp:aux	_	ClauseType=Cleft|Gloss=give
 13	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=story.Masc|SpaceAfter=No
@@ -1469,7 +1469,7 @@
 # text_en = When you make a metal medicine, you get it from the pawpaw.
 # text_ortho = ’in zaà ’a yim̀ maagànin ƙaᵲhèe, ’a nàa ɗiibàatai gà gwaddàa.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
 4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîm
 5	-m	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -1535,7 +1535,7 @@
 # text_en = When getting it from a cassia tree, you take an early start.
 # text_ortho = ’in zaà ’a ɗiibàatai gà ᵲunhuu, sai mùtun yà yi sabkoo.
 1	in	in	SCONJ	_	_	13	mod	_	Gloss=if
-2	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
 4	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
@@ -2516,7 +2516,7 @@
 # text_en = When you get it, the man who has gone to the bush and seen where it is, he will go look for other makers of toughness medicines, because that medicine that you get from "loda", when you get it, it's that very day that you sew it [into the amulet].
 # text_ortho = ’in zaà ’a ɗiibàatai, mùtun yaa yi yaːwòo cikin daajìi, yaa ga ’indà ta kè, sai šì tahoowàatai, šì zoo šì bìɗi ’àbùkkan gamìm maagàniǹ, sabòo dà šii waǹnam maagànii, wandà ’akà ɗiibàa gà lòodaa, ᵲad dà ’ankà ɗèebai, ᵲaǹ nan ’a kà ɗumkèe ši.
 1	in	in	SCONJ	_	_	25	mod	_	Gloss=if
-2	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
 4	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
@@ -2646,8 +2646,8 @@
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	im	in	SCONJ	_	_	31	mod	_	Gloss=if
 5	mùtun	mùtun	NOUN	_	Gender=Masc	6	dislocated@subj	_	Gloss=person.Masc
-6	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	4	comp	_	Gloss=Fut-|SpaceAfter=No
-7	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+6	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+7	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 8	ɗiːbàː	ɗìː	VERB	_	ExtPos=NOUN	6	comp:aux	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
 9	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 10	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj/m	_	Gloss=3Masc.Gen
@@ -2967,8 +2967,8 @@
 17	wuri	wuri	ADV	_	_	16	mod	_	Gloss=outside|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=.
 19	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-20	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut-|SpaceAfter=No
-21	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	19	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+21	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 22	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	20	comp:aux	_	Gloss=go.Nmlz.Fem
 23	ɗiːbà	ɗiːbàː	VERB	_	ExtPos=NOUN|Gender=Fem	22	mod	_	Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàm
 24	-m	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Fem|wordform=-C
@@ -2990,8 +2990,8 @@
 6	raːna	raːnaː	NOUN	_	Gender=Fem	5	comp	_	Gloss=day.Fem|SpaceAfter=No|wordform=raːnan
 7	-d	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Fem|wordform=-C
 8	dà	dà	SCONJ	_	_	7	comp	_	Gloss=when
-9	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	8	comp	_	Gloss=Fut-|SpaceAfter=No
-10	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	8	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+10	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 11	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	9	comp:aux	_	Gloss=go.Nmlz.Fem
 12	ɗiːbà	ɗìːbaː	VERB	_	ExtPos=NOUN|Gender=Fem	11	mod	_	Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàm
 13	-m	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Fem|wordform=-C
@@ -3145,8 +3145,8 @@
 33	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 34	im	in	SCONJ	_	_	42	mod	_	Gloss=if
 35	mùtun	mùtun	NOUN	_	Gender=Masc	36	dislocated@subj	_	Gloss=person.Masc
-36	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	34	comp	_	Gloss=Fut-|SpaceAfter=No
-37	shi=	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Masc=|wordform=zâːshi=
+36	zâː	zâː	AUX	_	Copula=No|Tense=Fut	34	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+37	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Masc|wordform=zâːshi=
 38	ɗiːbàw	ɗìbaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	36	comp:aux	_	Gloss=take.Nmlz.Fem
 39	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	40	det	_	Gloss=ProxH.Masc
 40	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	38	comp:obj	_	Gloss=charm.Masc|SpaceAfter=No
@@ -3205,7 +3205,7 @@
 11	raːna	raːnaː	NOUN	_	Gender=Fem	10	comp	_	Gloss=day.Fem|SpaceAfter=No|wordform=raːnan
 12	-d	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem|wordform=-C
 13	dà	dà	SCONJ	_	_	12	comp	_	Gloss=that
-14	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	13	comp	_	Gloss=Fut-|SpaceAfter=No
+14	zâː	zâː	AUX	_	Copula=No|Tense=Fut	13	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 15	ka=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	14	subj/m	_	Gloss=2Masc=|wordform=zâːka=
 16	ɗiːbà	ɗìːbaː	VERB	_	ExtPos=NOUN|Gender=Fem	14	comp:aux	_	Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàm
 17	-m	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Fem|wordform=-C
@@ -3324,7 +3324,7 @@
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	3	conj:coord	_	Gloss=Fut-|SpaceAfter=No
+9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	conj:coord	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 10	ka=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	9	subj/m	_	Gloss=2Masc=|wordform=zâːka=
 11	ɗiːbà	ɗìːb	VERB	_	ExtPos=NOUN	9	comp:aux	_	GenderAf=Fem|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàttà
 12	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
@@ -3800,7 +3800,7 @@
 21	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	20	comp	_	Gloss=skin.Fem|RelAnt=Yes|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	mod@relcl	_	Gloss=who.Fem.Rel|Relz=Word
-24	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	23	comp	_	Gloss=Fut-|SpaceAfter=No
+24	zâː	zâː	AUX	_	Copula=No|Tense=Fut	23	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 25	'a=	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
 26	ɗumkèː	ɗumkèː	VERB	_	_	24	comp:aux	_	ClauseType=Rel|Gloss=sew_up|RelRole=L
 27	shi	shi	PRON	_	Gender=Masc|Person=3	26	comp:obj@T	_	Gloss=3Masc|SpaceAfter=No
