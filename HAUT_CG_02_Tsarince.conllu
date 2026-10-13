@@ -146,7 +146,7 @@
 22	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	12	conj:coord	_	Gloss=Sub=
 23	(	(	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	ita	ita	PRON	_	Gender=Fem|Person=3	33	parataxis:insert	_	Gloss=3Fem
-25	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	24	conj:dicto	_	Gloss=girl.Fem|SpaceAfter=No
+25	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	24	conj:reform	_	Gloss=girl.Fem|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	ita	ita	PRON	_	Gender=Fem|Person=3	25	conj:reform	_	Gloss=3Fem
 28	dà	dà	CCONJ	_	_	29	cc	_	Gloss=with
@@ -350,8 +350,8 @@
 13	hwaɗàː	hwaɗàː	VERB	_	_	12	comp:aux	_	Gloss=tell
 14	matà	matà	PRON	_	Gender=Fem|Person=3	13	comp:obl	_	Gloss=3Fem.Dat
 15	indà	indà	ADV	_	_	13	comp:obj@T	_	Gloss=where
-16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	mod@relcl	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-17	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Fem=|wordform=zâːta=
+16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	mod@relcl	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+17	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Fem|wordform=zâːta=
 18	ìskeː	ìskaː	VERB	_	_	16	comp:aux	_	Gloss=find
 19	shì	yà	PRON	_	Gender=Masc|Person=3|PronType=Prs	18	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
@@ -536,8 +536,8 @@
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	armeː	armeː	NOUN	_	Gender=Masc	1	comp	_	Gloss=wedding.Masc
-4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	comp:cleft	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-5	'a=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	comp:cleft	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+5	-'a	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 6	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	ClauseType=Cleft|Gloss=do.Nmlz.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	an-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
@@ -562,13 +562,13 @@
 5	tà	ta	PRON	_	Gender=Fem|Person=3	4	comp:obj@T	_	Gloss=3Fem
 6	gidan	gidaː	NOUN	_	Definite=Def|Gender=Masc	4	comp:obj@G	_	Gloss=house.Masc.Def|RelAnt=Yes
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=CompRel|Relz=Word
-8	zâː	zâː	AUX	_	Copula=No|Tense=Fut	7	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-9	'a=	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4=|wordform=zâːa=
+8	zâː	zâː	AUX	_	Copula=No|Tense=Fut	7	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+9	-'a	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4|wordform=zâːa=
 10	ruhì	ruh	VERB	_	ExtPos=NOUN	8	comp:aux	_	ClauseType=Rel|Gloss=seclude.Nmlz.Masc|RelRole=mod|SpaceAfter=No|wordform=ruhìntà|wordfrom=ruhìntà
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 12	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	11	comp:obj/m	_	Gloss=3Fem.Gen
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	ruhi	ruhiː	NOUN	_	Gender=Masc	10	conj:dicto	_	Gloss=seclusion|SpaceAfter=No|wordform=ruhin
+14	ruhi	ruhiː	NOUN	_	Gender=Masc	10	conj:reform	_	Gloss=seclusion|SpaceAfter=No|wordform=ruhin
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
 16	zama	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc	15	comp	_	Gloss=stay.Nmlz|SpaceAfter=No|wordform=zaman
 17	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	16	udep/m	_	Gloss=Gen|SpaceAfter=No
@@ -1054,8 +1054,8 @@
 13	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	9	parataxis:conj	_	Gloss=Sub=
 14	tàhi	tàhi	VERB	_	_	13	comp:aux	_	Gloss=go
 15	indà	indà	ADV	_	_	14	comp:obj@G	_	Gloss=where
-16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	mod@relcl	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-17	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Plur=|wordform=zâːsu=
+16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	mod@relcl	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+17	-su	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Plur|wordform=zâːsu=
 18	kwaːnaː	kwaːna	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:aux	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No
 19	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
@@ -1071,8 +1071,8 @@
 3	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	tàhi	tàhi	VERB	_	_	3	comp:aux	_	Gloss=go
 5	indà	indà	ADV	_	_	4	comp:obj@G	_	Gloss=where
-6	zâː	zâː	AUX	_	Copula=No|Tense=Fut	5	mod@relcl	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-7	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Plur=|wordform=zâːsu=
+6	zâː	zâː	AUX	_	Copula=No|Tense=Fut	5	mod@relcl	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+7	-su	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Plur|wordform=zâːsu=
 8	kwaːnaː	kwaːna	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:aux	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	13	mod	_	Gloss=then
@@ -2251,8 +2251,8 @@
 13	mijìː	mijìː	NOUN	_	_	11	comp:pred	_	Gloss=husband|SpaceAfter=No
 14	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 15	in	in	SCONJ	_	_	39	mod	_	Gloss=if
-16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-17	'a=	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+17	-'a	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 18	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:aux	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
 19	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	18	udep/m	_	Gloss=Gen|SpaceAfter=No
 20	armeː	armeː	NOUN	_	Gender=Masc	19	comp	_	Gloss=wedding.Masc|SpaceAfter=No

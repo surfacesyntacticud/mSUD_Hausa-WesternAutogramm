@@ -348,8 +348,8 @@
 # text_en = When you do zugal, you get lizzard faeces, white faeces, the one on fig-trees.
 # text_ortho = ’in zaà ’à yiǹ zuugàl, sai ’à sàamu kaašin ƙàdàngàᵲᵲuu, hwaᵲin kaašii, na bisà šìiᵲiyàa.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
 5	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen|SpaceAfter=No
 6	zuːgàl	zuːgàl	NOUN	_	_	5	comp	_	Gloss=love_charm|SpaceAfter=No
@@ -363,7 +363,7 @@
 14	ƙàdàngàrruː	ƙàdàngàrruː	NOUN	_	Number=Plur	13	comp	_	Gloss=lizard.Plur|SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	hwarin	hwariː	ADJ	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=white.Masc
-17	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	12	conj:dicto	_	Gloss=faeces.Masc|SpaceAfter=No
+17	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	12	conj:reform	_	Gloss=faeces.Masc|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 19	na	na	PART	_	Case=Gen|PartType=Case	17	mod	_	Gloss=Gen
 20	bisà	bisà	ADP	_	_	19	comp	_	Gloss=on_top_of
@@ -1160,8 +1160,8 @@
 # text_en = [2] When you do a "zugal" for women, you must get a tobacco quid which a white woman has chewed and thrown away.
 # text_ortho = [2] ’in zaà ’a yiǹ wani zuugàl na maataa, sai ’à sàamu ciitòn taabàa, wandà hwaᵲam màccè taš šaa tay yaddàa.
 1	in	in	SCONJ	_	_	13	mod	_	Gloss=if
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
 5	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen|SpaceAfter=No
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	7	det	_	Gloss=some.Masc
@@ -1260,7 +1260,7 @@
 17	mài	mài	PART	_	Number=Sing|PartType=Der	15	mod	_	Gloss=owner_of.Sing
 18	ƙarhiː	ƙarhiː	NOUN	_	Gender=Masc	17	compound	_	Gloss=strength.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	mài	mài	PART	_	Number=Sing|PartType=Der	17	conj:dicto	_	Gloss=owner_of.Sing
+20	mài	mài	PART	_	Number=Sing|PartType=Der	17	conj:reform	_	Gloss=owner_of.Sing
 21	tauriː	tauriː	NOUN	_	Gender=Masc	20	compound	_	Gloss=toughness.Masc
 22	kàmad	kàmat	ADP	_	_	21	mod	_	Gloss=like
 23	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	22	comp	_	Gloss=stone.Masc|SpaceAfter=No
@@ -1302,7 +1302,7 @@
 6	ƙàdàngàrruː	ƙàdàngàrruː	NOUN	_	Number=Plur	5	comp	_	Gloss=lizard.Plur|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	hwarin	hwariː	ADJ	_	Definite=Cons|Gender=Masc	9	mod	_	Gloss=white.Masc
-9	kaːshi	kaːshiː	NOUN	_	Gender=Masc	4	conj:dicto	_	Gloss=faeces|SpaceAfter=No|wordform=kaːshin
+9	kaːshi	kaːshiː	NOUN	_	Gender=Masc	4	conj:reform	_	Gloss=faeces|SpaceAfter=No|wordform=kaːshin
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
 11	ƙàdàngàrruː	ƙàdàngàrruː	NOUN	_	Number=Plur	10	comp	_	Gloss=lizard.Plur|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -1608,8 +1608,8 @@
 # text_en = If you are going to do "zugal" for women, you look for a hedgehog, you kill it, you gather its blood in a bottle or a bowl.
 # text_ortho = ’in zaà ’a yiǹ wani zuugàl na maataa, sai ’à bìɗi biššiyaa, ’à yankèe ta, ’à tàᵲàaᵲi jinintà cikin wata kwalbaa koo wani kwaanòo.
 1	in	in	SCONJ	_	_	13	mod	_	Gloss=if
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
 5	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen|SpaceAfter=No
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	7	det	_	Gloss=some.Masc
@@ -2051,11 +2051,11 @@
 12	gamàː	gamàː	VERB	_	_	11	comp:aux	_	Gloss=join
 13	su	su	PRON	_	Person=3	12	comp:obj	_	Gloss=3.Pl
 14	dà	dà	ADP	_	_	12	comp:obl	_	Gloss=with
-15	wa’ànnan	nan	DET	_	Deixis=ProxH|Number=Plur|PronType=Dem	19	det	_	Gloss=ProxH.Plur
-16	sauran	sauran	ADJ	_	Gender=Masc	19	mod	_	Gloss=remaining.Masc|SpaceAfter=No
+15	wa’ànnan	nan	DET	_	Deixis=ProxH|Number=Plur|PronType=Dem	16	det	_	Gloss=ProxH.Plur
+16	sauran	sauran	ADJ	_	Gender=Masc	14	comp	_	Gloss=remaining.Masc|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	sauran	sauran	ADJ	_	Gender=Masc	16	conj:dicto	_	Gloss=remaining.Masc
-19	abuːbuwàː	àbù	NOUN	_	Number=Plur	14	comp	_	Gloss=thing.Plur|RelAnt=Yes|SpaceAfter=No
+18	sauran	sauran	ADJ	_	Gender=Masc	16	conj:reform	_	Gloss=remaining.Masc
+19	abuːbuwàː	àbù	NOUN	_	Number=Plur	18	mod	_	Gloss=thing.Plur|RelAnt=Yes|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	19	mod@relcl	_	Gloss=who.Plur|Relz=Word
 22	an-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
@@ -2174,8 +2174,8 @@
 # text_en = When you do "zugal", you get nine date fruits, with the stems.
 # text_ortho = [4] ’in zaà ’a yiǹ wani zuugàl, sai ’à sàamu dàbiinòo, ɗiyan dàbiinòo, màasu hancìi, ɗaa tarà.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
 5	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen|SpaceAfter=No
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	7	det	_	Gloss=some.Masc
@@ -2187,7 +2187,7 @@
 12	sàːmu	saːmùː	VERB	_	_	11	comp:aux	_	Gloss=get
 13	dàbiːnòː	dàbiːnòː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=date.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	ɗiya	ɗiyaː	NOUN	_	Number=Plur	13	conj:dicto	_	Gloss=daughter|SpaceAfter=No|wordform=ɗiyan
+15	ɗiya	ɗiyaː	NOUN	_	Number=Plur	13	conj:reform	_	Gloss=daughter|SpaceAfter=No|wordform=ɗiyan
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur
 17	dàbiːnòː	dàbiːnòː	NOUN	_	Gender=Masc	16	comp	_	Gloss=date.Masc|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
@@ -2358,7 +2358,7 @@
 19	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
 20	gwangwaniː	gwangwaniː	NOUN	_	Gender=Masc	19	comp	_	Gloss=tin.Masc|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-22	gwangwani	gwangwaniː	NOUN	_	Gender=Masc	20	conj:dicto	_	Gloss=tin|SpaceAfter=No|wordform=gwangwanin
+22	gwangwani	gwangwaniː	NOUN	_	Gender=Masc	20	conj:reform	_	Gloss=tin|SpaceAfter=No|wordform=gwangwanin
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur
 24	ruwaː	ruwaː	NOUN	_	Number=Plur	23	comp	_	Gloss=water.Plur|SpaceAfter=No
 25	.	.	PUNCT	_	_	17	punct	_	Gloss=.
@@ -3272,8 +3272,8 @@
 # text_en = When you pick it, you take tender shoots and leaves of the "runhu", new ones, that are soft, you pick them and take them home.
 # text_ortho = ’in zaà ’a ɗiibàatai, sai ’à sàamu lìngàaɓun ᵲunhuu, saabii, wa’àndà ’ad dà tabšii ## sai ’à ɗeeboo sù, ’à zoo dà suu gidaa.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 4	ɗiːbàː	ɗiː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GenderAf=Masc|Gloss=take.Nmlz.Fem|SpaceAfter=No|wordform=ɗiːbàːtai
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
@@ -3632,8 +3632,8 @@
 # text_en = You scrape the dirt, that of the pestle, the dirt that her hands are doing, and mix it with the medicine. When you give her some meat, you put the medicine in the meat, and give her to eat.
 # text_ortho = in zaà ’a baa tà naamàa, sai ’à saà mutà maagàniǹ nan cikin naamàa, 'à baa tà tà ci.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 4	baː	baː	VERB	_	_	2	comp:aux	_	Gloss=give
 5	tà	ta	PRON	_	Gender=Fem|Person=3	4	comp:obj@R	_	Gloss=3Fem
 6	naːmàː	naːmàː	NOUN	_	Gender=Masc	4	comp:obj@T	_	Gloss=meat.Masc|SpaceAfter=No
@@ -3830,8 +3830,8 @@
 # text_en = When you do the medicine, you get four white hens.
 # text_ortho = ’in zaà ’a yim̀ maagàniǹ, sai ’à sàamu ’yam maatan kàaji, hwaᵲhwaᵲuu, suu huɗu.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz.Masc
 5	-m	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
 6	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	5	comp	_	Gloss=medicine/charm.Masc.Def|SpaceAfter=No
@@ -4972,7 +4972,7 @@
 10	sàːmu	saːmùː	VERB	_	_	9	comp:aux	_	Gloss=get
 11	hac'iː	hac'iː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=bullrush_millet.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	s'aːbà	s'aːbàː	NOUN	_	Gender=Fem	11	conj:dicto	_	Gloss=threshed_millet.Fem|SpaceAfter=No|wordform=s'aːbàh
+13	s'aːbà	s'aːbàː	NOUN	_	Gender=Fem	11	conj:reform	_	Gloss=threshed_millet.Fem|SpaceAfter=No|wordform=s'aːbàh
 14	-h	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen.Fem|wordform=-C
 15	hac'iː	hac'iː	NOUN	_	Gender=Masc	14	comp	_	Gloss=bullrush_millet.Masc|SpaceAfter=No
 16	.	.	PUNCT	_	_	9	punct	_	Gloss=.
@@ -6449,7 +6449,7 @@
 6	-k	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|wordform=-C
 7	karaː	karaː	NOUN	_	Gender=Fem	6	comp	_	Gloss=millet_stalk.Fem|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	zuccìya	zuccìyaː	NOUN	_	Gender=Fem	5	conj:dicto	_	Gloss=heart.Fem|SpaceAfter=No|wordform=zuccìyak
+9	zuccìya	zuccìyaː	NOUN	_	Gender=Fem	5	conj:reform	_	Gloss=heart.Fem|SpaceAfter=No|wordform=zuccìyak
 10	-k	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Fem|wordform=-C
 11	karaː	karaː	NOUN	_	Gender=Fem	10	comp	_	Gloss=millet_stalk.Fem
 12	ɗàriː	ɗàriː	NUM	_	_	9	det	_	Gloss=hundred|SpaceAfter=No
@@ -6743,13 +6743,13 @@
 9	ɗaukoː	ɗàukaː	VERB	_	_	8	comp:aux	_	Gloss=take.Dir
 10	gàːriː	gàːriː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=flour.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	gàːri	gàːriː	NOUN	_	Gender=Masc	10	conj:dicto	_	Gloss=flour|SpaceAfter=No|wordform=gàːrim
+12	gàːri	gàːriː	NOUN	_	Gender=Masc	10	conj:reform	_	Gloss=flour|SpaceAfter=No|wordform=gàːrim
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur
 14	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	13	comp	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	12	conj:dicto	_	Gloss=who.Masc|RelAnt=Yes|Relz=Word
+16	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	14	mod@relcl	_	Gloss=who.Masc|RelAnt=Yes|Relz=Word
 17	an-	a	PRON	_	Person=4|PronType=PrsSubj	18	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-18	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	16	mod@relcl	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
+18	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	16	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 19	dakàː	dakàː	VERB	_	_	18	comp:aux	_	ClauseType=Rel|Gloss=pound|RelRole=obj|SpaceAfter=No
 20	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
@@ -7150,8 +7150,8 @@
 38	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	34	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 39	tuːɓèː	tuːɓèː	VERB	_	_	38	comp:aux	_	Gloss=remove|SpaceAfter=No
 40	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
-41	zâː	zâː	AUX	_	Copula=No|Tense=Fut	38	parataxis:conj	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-42	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	41	subj/m	_	Gloss=3Plur=|wordform=zâːsu=
+41	zâː	zâː	AUX	_	Copula=No|Tense=Fut	38	parataxis:conj	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+42	-su	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	41	subj/m	_	Gloss=3Plur|wordform=zâːsu=
 43	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	41	comp:aux	_	Gloss=do.Nmlz|SpaceAfter=No|wordform=yîn
 44	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	43	udep/m	_	Gloss=Gen|SpaceAfter=No
 45	kwântaː	kwântaː	VERB	_	_	44	comp	_	Gloss=lie_down.Part|SpaceAfter=No
@@ -7636,8 +7636,8 @@
 # text_en = When you're ging to do it, you look for misletoe, the misletoe of (the tree) "kalgo".
 # text_ortho = ’in zaà ’a yiìnai, sai ’à bìɗi kaucìi, kaucìn kalgoo.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	'a=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|SpaceAfter=No|wordform=zâː'a=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4|SpaceAfter=No|wordform=zâː'a=
 4	yîː	yi	VERB	_	ExtPos=NOUN	2	comp:aux	_	Gloss=do.Nmlz.Masc|SpaceAfter=No|wordform=yîːnai|wordfrom=yîːnai
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
@@ -7648,7 +7648,7 @@
 11	bìɗi	bìɗaː	VERB	_	_	10	comp:aux	_	Gloss=look_for
 12	kaucìː	kaucìː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=mistletoe_sp.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	kaucì	kaucìː	NOUN	_	Gender=Masc	12	conj:dicto	_	Gloss=mistletoe_sp|SpaceAfter=No|wordform=kaucìn
+14	kaucì	kaucìː	NOUN	_	Gender=Masc	12	conj:reform	_	Gloss=mistletoe_sp|SpaceAfter=No|wordform=kaucìn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
 16	kalgoː	kalgoː	NOUN	_	Gender=Masc	15	comp	_	Gloss=tree_sp.Masc|SpaceAfter=No
 17	.	.	PUNCT	_	_	10	punct	_	Gloss=.

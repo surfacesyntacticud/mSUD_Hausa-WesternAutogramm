@@ -5,8 +5,8 @@
 # text = zâː mu baː kù làːbaːr̃ìː na wani bàhillaːcèː dà yay yi làːlaːtàː, yac ci sàràkkuwaːtai, uwam màːtaːtai.
 # text_en = Let's give you the tale of a Fulani who behaved badly, he had sex with his mother-in-law, his wife's mother.
 # text_ortho = zaà mu baa kù laàbaarìi na wani bàhillaacèe dà yay yi làalaatàa, yac ci sàᵲàkkuwaatai, ’uwam màataatai.
-1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-2	mu=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	1	subj/m	_	Gloss=1Plur=|wordform=zâːmu=
+1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+2	-mu	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	1	subj/m	_	Gloss=1Plur|wordform=zâːmu=
 3	baː	baː	VERB	_	_	1	comp:aux	_	Gloss=give
 4	kù	kù	PRON	_	Number=Plur|Person=2	3	comp:obj@R	_	Gloss=2Plur
 5	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	Gender=Masc	3	comp:obj@T	_	Gloss=story.Masc
@@ -111,9 +111,9 @@
 15	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	5	parataxis:mod	_	Gloss=Perf.Sing
 16	rasà	rasàː	VERB	_	_	15	comp:aux	_	Gloss=lack
 17	wàdà	wàdà	ADV	_	PronType=Rel	16	comp:obj	_	Gloss=how|RelAnt=Yes|Relz=Word
-18	zâː	zâː	AUX	_	Copula=No|Tense=Fut	17	mod@relcl	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
+18	zâː	zâː	AUX	_	Copula=No|Tense=Fut	17	mod@relcl	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
 19-20	zâː	_	_	_	_	_	_	_	_
-19	ka=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	18	subj/m	_	Gloss=2Masc=|wordform=zâːka=
+19	-ka	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	18	subj/m	_	Gloss=2Masc|wordform=zâːka=
 20	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	18	comp:aux	_	ClauseType=Rel|Gloss=do.Vnoun.Masc|RelRole=mod
 21	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	22	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà
 22	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	20	mod	_	Gloss=Sub=
@@ -222,8 +222,8 @@
 # text_en = Before leaving, this Fulani, he met his friend and said that when they left, him and his mother-in-law, let him go alonside of them, without his mother-in-law seeing him.
 # text_ortho = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-3	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Plur=|wordform=zâːsu=
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+3	-su	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Plur|wordform=zâːsu=
 4	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:aux	_	Gloss=go.Vnoun.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	12	dislocated@subj	_	Gloss=3Masc
@@ -484,8 +484,8 @@
 6	:	:	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 8	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	3	comp:obj@T	_	Gloss=how
-9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	8	comp:cleft	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-10	mu=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Plur=|wordform=zâːmu=
+9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	8	comp:cleft	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+10	-mu	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Plur|wordform=zâːmu=
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:aux	_	ClauseType=Int|Gloss=do.Vnoun.Masc
 12	tun	tun	SCONJ	_	_	11	mod	_	Gloss=since/before
 13	dà	dà	SCONJ	_	_	12	comp	_	Gloss=when

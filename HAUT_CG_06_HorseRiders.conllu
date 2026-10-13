@@ -241,8 +241,8 @@
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	niyyàː	niyyàː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=effort.Fem|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	5	parataxis:conj	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-10	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Fem=|wordform=zâːta=
+9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	5	parataxis:conj	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+10	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Fem|wordform=zâːta=
 11	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	9	comp:aux	_	Gloss=go.Nmlz.Fem
 12	wurim	wurin	ADP	_	_	11	comp:obl	_	Gloss=at
 13	bìkiː	bìkiː	NOUN	_	_	12	comp	_	Gloss=festivity|SpaceAfter=No
@@ -1658,8 +1658,8 @@
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 18	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	17	comp:obj/m	_	Gloss=3Fem.Gen
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	14	comp:obj@T	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
-21	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem=|wordform=zâːta=
+20	zâː	zâː	AUX	_	Copula=No|Tense=Fut	14	comp:obj@T	_	Gloss=Fut|SpaceAfter=No|wordform=zâː-
+21	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=3Fem|wordform=zâːta=
 22	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	20	comp:aux	_	Gloss=go.Nmlz.Fem
 23	wurim	wurin	ADP	_	_	22	comp:obl	_	Gloss=at
 24	bìkiː	bìkiː	NOUN	_	_	23	comp	_	Gloss=festivity|SpaceAfter=No
