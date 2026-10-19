@@ -266,16 +266,15 @@
 43	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	42	comp	_	Gloss=3Plur.Gen
 44	,	,	PUNCT	_	_	45	punct	_	Gloss=PUNCT
 45	indà	indà	ADV	_	_	41	mod	_	Gloss=where
-46	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	50	subj	_	GenderAf=Masc|Gloss=in-law.Fem|SpaceAfter=No|wordform=sàràkkuwaːtai
+46	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	49	subj	_	GenderAf=Masc|Gloss=in-law.Fem|SpaceAfter=No|wordform=sàràkkuwaːtai
 47	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	46	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 48	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	47	comp:obj/m	_	Gloss=3Masc.Gen
-49	bâː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	50	mod/m	_	Gloss=Neg.Perf|wordform=bâː
-50	_̀	_̀	AUX	_	Mood=Sub	45	mod@relcl	_	_
-51	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	50	subj/m	_	Gloss=-3Fem|wordform=bâːta
-52	ganiː	ganiːnai	VERB	_	ExtPos=NOUN	50	comp:aux	_	Gloss=see.Vnoun.Masc|SpaceAfter=No|wordform=ganiːnai|wordfrom=ganiːnai
-53	-n	na	PART	_	Case=Gen|PartType=Case	52	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-54	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	53	comp:obj/m	_	Gloss=3Masc.Gen
-55	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+49	bâː	baːbù	PART	_	Copula=No|PartType=Neg|Polarity=Neg	45	mod@relcl	_	Gloss=Neg.Perf
+50	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	49	subj/m	_	Gloss=-3Fem|wordform=bâːta
+51	ganiː	ganiːnai	VERB	_	ExtPos=NOUN	49	comp:pred	_	Gloss=see.Vnoun.Masc|SpaceAfter=No|wordform=ganiːnai|wordfrom=ganiːnai
+52	-n	na	PART	_	Case=Gen|PartType=Case	51	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+53	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	52	comp:obj/m	_	Gloss=3Masc.Gen
+54	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_08_split1
 # speaker_id = *
