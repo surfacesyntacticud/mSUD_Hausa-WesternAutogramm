@@ -428,11 +428,11 @@
 21	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 22	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	12	comp:obj@T	_	Gloss=Perf.Sing|wordform=aː=
 23	ɓacèː	ɓacèː	VERB	_	_	22	comp:aux	_	Gloss=spoil.Ach|SpaceAfter=No
-24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-25	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	26	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-26	_̀	_̀	AUX	_	Mood=Sub	22	parataxis:conj	_	_
-27	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=-3Masc|wordform=bài
-28	san	sanìː	VERB	_	_	26	comp:aux	_	Gloss=know
+24	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+25	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	27	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+26	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	Gloss=-3Masc|wordform=bài
+27	_̀	_̀	AUX	_	Mood=Sub	22	parataxis:conj	_	_
+28	san	sanìː	VERB	_	_	27	comp:aux	_	Gloss=know
 29	indà	indà	ADV	_	_	28	comp:obj	_	Gloss=where
 30	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	31	subj/m	_	Gloss=3Masc|SpaceAfter=No
 31	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	29	mod@relcl	_	Gloss=Prog|Relz=Affix|wordform=shikè
@@ -440,7 +440,7 @@
 33	,	,	PUNCT	_	_	36	punct	_	Gloss=PUNCT
 34	ɗiːmuwaː	ɗiːmuwaː	NOUN	_	Gender=Fem	36	subj	_	Gloss=confusion.Fem
 35	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː
-36	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	26	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=
+36	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	27	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=
 37	kaːmàː	kaːmàː	VERB	_	_	36	comp:aux	_	Gloss=catch
 38	shi	shi	PRON	_	Gender=Masc|Person=3	37	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 39	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
@@ -629,20 +629,20 @@
 # text = sàràkkuwaːtai bàtà san àboːkiːnai nàː nam ba.
 # text_en = The mother-in-law does not know that his friend is there.
 # text_ortho = sàᵲàkkuwaatai bà tà san ’àbookiinai nàa nam ba.
-1	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	5	subj	_	GenderAf=Masc|Gloss=in-law.Fem|SpaceAfter=No|wordform=sàràkkuwaːtai
+1	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	6	subj	_	GenderAf=Masc|Gloss=in-law.Fem|SpaceAfter=No|wordform=sàràkkuwaːtai
 2	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	1	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 3	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Masc.Gen
-4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	_
-6	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=-3Fem|wordform=bàtà
-7	san	sanìː	VERB	_	_	5	comp:aux	_	Gloss=know
+4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+5	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Fem|wordform=bàtà
+6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	_
+7	san	sanìː	VERB	_	_	6	comp:aux	_	Gloss=know
 8	àboːkiː	àboːkiː	NOUN	_	_	11	subj	_	Gloss=friend.Masc|SpaceAfter=No|wordform=àboːkiːnai|wordfrom=àboːkiːnai
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 10	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj/m	_	Gloss=3Masc.Gen
 11	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp:obj	_	Gloss=Prog
 12	nam	nan	ADV	_	Deixis=ProxH|PronType=Dem	11	comp:pred	_	Gloss=Remt
 13	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	Gloss=Neg|SpaceAfter=No
-14	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+14	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_20
 # speaker_id = *

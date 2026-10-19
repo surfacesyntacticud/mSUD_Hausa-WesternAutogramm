@@ -462,12 +462,12 @@
 11	ga	ganiː	VERB	_	_	10	comp:aux	_	Gloss=see
 12	mài	mài	PART	_	Number=Sing|PartType=Der	11	comp:obj	_	Gloss=owner_of.Sing
 13	doːkìː	doːkìː	NOUN	_	Gender=Masc	12	compound	_	Gloss=horse.Masc|SpaceAfter=No
-14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-15	àmmaː	àmmaː	CCONJ	_	_	17	cc	_	Gloss=but
-16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	17	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-17	_̀	_̀	AUX	_	Mood=Sub	10	conj:coord	_	_
-18	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=-3Fem|wordform=bàtà
-19	san	sanìː	VERB	_	_	17	comp:aux	_	Gloss=know
+14	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+15	àmmaː	àmmaː	CCONJ	_	_	18	cc	_	Gloss=but
+16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+17	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=-3Fem|wordform=bàtà
+18	_̀	_̀	AUX	_	Mood=Sub	10	conj:coord	_	_
+19	san	sanìː	VERB	_	_	18	comp:aux	_	Gloss=know
 20	mijì	mijìː	NOUN	_	_	19	comp:obj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 22	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	21	comp:obj/m	_	Gloss=3Fem.Gen
@@ -507,11 +507,11 @@
 19	sàbka	sàbka	VERB	_	_	18	comp:aux	_	Gloss=dismount
 20	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	21	det	_	Gloss=some.Masc
 21	gidaː	gidaː	NOUN	_	Gender=Masc	19	comp:obj@L	_	Gloss=house.Masc|SpaceAfter=No
-22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-23	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	24	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-24	_̀	_̀	AUX	_	Mood=Sub	18	parataxis:conj	_	_
-25	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=-3Masc|wordform=bài
-26	sàbka	sàbka	VERB	_	_	24	comp:aux	_	Gloss=dismount
+22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
+23	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	25	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+24	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	Gloss=-3Masc|wordform=bài
+25	_̀	_̀	AUX	_	Mood=Sub	18	parataxis:conj	_	_
+26	sàbka	sàbka	VERB	_	_	25	comp:aux	_	Gloss=dismount
 27	indà	indà	ADV	_	_	26	comp:obj	_	Gloss=where
 28	a-	a-	PRON	_	Person=4|PronType=Prs	29	subj/m	_	Gloss=4|SpaceAfter=No
 29	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	27	mod@relcl	_	Gloss=Prog|Relz=Affix|wordform=akà
@@ -591,11 +591,11 @@
 16	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 17	C	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=z=
 18	zoː	zoː	VERB	_	_	17	comp:aux	_	Gloss=come|SpaceAfter=No
-19	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-20	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	21	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-21	_̀	_̀	AUX	_	Mood=Sub	18	parataxis:mod	_	_
-22	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=-3Fem|wordform=bàtà
-23	san	sanìː	VERB	_	_	21	comp:aux	_	Gloss=know
+19	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+20	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	22	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+21	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=-3Fem|wordform=bàtà
+22	_̀	_̀	AUX	_	Mood=Sub	18	parataxis:mod	_	_
+23	san	sanìː	VERB	_	_	22	comp:aux	_	Gloss=know
 24	shiː	shiː	PRON	_	Gender=Masc|Person=3	26	comp:pred	_	Gloss=3Masc
 25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	23	mod	_	Gloss=Neg
 26	neː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	23	comp:obj	_	Gloss=be.Masc/Plur|SpaceAfter=No
@@ -669,11 +669,11 @@
 26	sàːmu	saːmùː	VERB	_	_	25	comp:aux	_	Gloss=get
 27	mài	mài	PART	_	Number=Sing|PartType=Der	26	comp:obj	_	Gloss=owner_of.Sing
 28	doːkìː	doːkìː	NOUN	_	Gender=Masc	27	compound	_	Gloss=horse.Masc|SpaceAfter=No
-29	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-30	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	31	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-31	_̀	_̀	AUX	_	Mood=Sub	25	parataxis:conj	_	_
-32	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=-3Fem|wordform=bàtà
-33	san	saniː	VERB	_	_	31	comp:aux	_	Gloss=know
+29	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
+30	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	32	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+31	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=-3Fem|wordform=bàtà
+32	_̀	_̀	AUX	_	Mood=Sub	25	parataxis:conj	_	_
+33	san	saniː	VERB	_	_	32	comp:aux	_	Gloss=know
 34	mijì	mijìː	NOUN	_	_	33	comp:obj	_	Gloss=husband/male|SpaceAfter=No|wordform=mijìntà|wordfrom=mijìntà
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 36	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	35	comp:obj/m	_	Gloss=3Fem.Gen
@@ -739,10 +739,10 @@
 11	zanèː	zanèː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=wrapper.Masc|RelAnt=Yes|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	mod@relcl	_	Gloss=who.Masc.Rel|Relz=Word
-14	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	15	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-15	_̀	_̀	AUX	_	Mood=Sub	13	comp	_	_
-16	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=-3Fem|wordform=bàtà
-17	sanìː	sanìː	VERB	_	_	15	comp:aux	_	ClauseType=Rel|Gloss=know|RelRole=obj
+14	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	16	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+15	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=-3Fem|wordform=bàtà
+16	_̀	_̀	AUX	_	Mood=Sub	13	comp	_	_
+17	sanìː	sanìː	VERB	_	_	16	comp:aux	_	ClauseType=Rel|Gloss=know|RelRole=obj
 18	ba	ba	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	Gloss=Neg|SpaceAfter=No
 19	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
@@ -1410,10 +1410,10 @@
 13	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	12	comp:obj/m	_	Gloss=3Masc.Gen
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	kàmab	kàmat	SCONJ	_	_	6	mod	_	Gloss=as_if
-16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	17	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-17	_̀	_̀	AUX	_	Mood=Sub	15	comp	_	_
-18	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=-3Masc|wordform=bài
-19	zoː	zoː	VERB	_	_	17	comp:aux	_	Gloss=come
+16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+17	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=-3Masc|wordform=bài
+18	_̀	_̀	AUX	_	Mood=Sub	15	comp	_	_
+19	zoː	zoː	VERB	_	_	18	comp:aux	_	Gloss=come
 20	koː’ìnaː	koː’ìnaː	PRON	_	_	19	comp:obj@G	_	Gloss=everywhere
 21	ba	ba	PART	_	PartType=Neg|Polarity=Neg	19	mod	_	Gloss=Neg|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -1441,11 +1441,11 @@
 3	iskèː	iskèː	VERB	_	_	2	comp:aux	_	Gloss=find
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj@T	_	Gloss=3Masc
 5	gidaː	gidaː	NOUN	_	Gender=Masc	3	comp:obj@L	_	Gloss=house.Masc|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-7	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-8	_̀	_̀	AUX	_	Mood=Sub	2	parataxis:conj	_	_
-9	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=-3Fem|wordform=bàtà
-10	san	sanìː	VERB	_	_	8	comp:aux	_	Gloss=know
+6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+7	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	9	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+8	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=-3Fem|wordform=bàtà
+9	_̀	_̀	AUX	_	Mood=Sub	2	parataxis:conj	_	_
+10	san	sanìː	VERB	_	_	9	comp:aux	_	Gloss=know
 11	shiː	shiː	PRON	_	Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc
 12	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	Gloss=Neg
 13	neː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	11	discourse@foc	_	Gloss=Emph.Masc/Plur|SpaceAfter=No
@@ -1589,21 +1589,21 @@
 # text = dàgà rân nan, bàtà koːmàː yîm bùtum mài doːkìː ba.
 # text_en = From that day, she never talked about riders again.
 # text_ortho = dàgà ᵲaǹ nan, bà tà koomàa yim̀ bùtum mài dookìː ba.
-1	dàgà	dàgà	ADP	_	_	6	mod	_	Gloss=from
+1	dàgà	dàgà	ADP	_	_	7	mod	_	Gloss=from
 2	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	1	comp	_	Gloss=sun/day.Fem.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	_
-7	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Fem|wordform=bàtà
-8	koːmàː	koːmàː	VERB	_	_	6	comp:aux	_	Gloss=return
+5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+6	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=-3Fem|wordform=bàtà
+7	_̀	_̀	AUX	_	Mood=Sub	0	root	_	_
+8	koːmàː	koːmàː	VERB	_	_	7	comp:aux	_	Gloss=return
 9	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:obj	_	Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîm
 10	-m	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 11	bùtum	bùtu	NOUN	_	Definite=Cons|Gender=Masc	10	comp	_	Gloss=chatting.Masc
 12	mài	mài	PART	_	Number=Sing|PartType=Der	11	udep	_	Gloss=owner_of.Sing
 13	doːkìː	doːkìː	NOUN	_	Gender=Masc	12	compound	_	Gloss=horse.Masc
 14	ba	ba	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	Gloss=Neg|SpaceAfter=No
-15	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+15	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_45_1
 # speaker_id = *
