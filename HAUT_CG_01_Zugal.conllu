@@ -1680,7 +1680,7 @@
 10	jibdàː	jibdàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=musk.Fem|RelRole=obj|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	waddà	waddà	PRON	_	ExtPos=SCONJ|Gender=Fem|PronType=Rel	10	mod@relcl	_	Gloss=who.Fem|Relz=Word
-13	bâː	babù	PART	_	PartType=Pred|Polarity=Neg	12	comp	_	ClauseType=Rel|Gloss=there_is.Neg|RelRole=subj|wordform=bâːta
+13	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	12	comp	_	ClauseType=Rel|Gloss=there_is.Neg|RelRole=subj|wordform=bâːta
 14	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=-3Fem
 15	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
 16	gamìː	gamìː	NOUN	_	Gender=Masc	15	comp	_	Gloss=tampering.Masc|SpaceAfter=No
