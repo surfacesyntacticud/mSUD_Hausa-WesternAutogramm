@@ -1611,7 +1611,7 @@
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
 21	lì:mân	lì:maːmìː	NOUN	_	Definite=Def|Gender=Masc	20	comp	_	Gloss=imam.Masc.Def|SpaceAfter=No
 22	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-23	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	24	subj/m	_	Gloss=2Fem=|SpaceAfter=No|wordform=kì
+23	ki-	k	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	24	subj/m	_	Gloss=2Fem|SpaceAfter=No|wordform=kì
 24	_̀	_̀	AUX	_	Copula=No|Mood=Sub	3	comp:obj	_	Gloss=Sub-|wordform=_̀=
 25	riƙà	riƙàː	VERB	_	_	24	comp:aux	_	Gloss=seize/keep_on
 26	zôwwaː	zoː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	25	comp:obj	_	Gloss=come.Nmlz.Fem|SpaceAfter=No
@@ -1635,7 +1635,7 @@
 9	-l	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Fem|wordform=-C
 10	lì:mân	lì:maːmìː	NOUN	_	Definite=Def|Gender=Masc	9	comp	_	Gloss=imam.Masc.Def|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-12	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	13	subj/m	_	Gloss=2Fem=|SpaceAfter=No|wordform=kì
+12	ki-	k	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	13	subj/m	_	Gloss=2Fem|SpaceAfter=No|wordform=kì
 13	_̀	_̀	AUX	_	Copula=No|Mood=Sub	2	parataxis:mod	_	Gloss=Sub-|wordform=_̀=
 14	riƙà	riƙàː	VERB	_	_	13	comp:aux	_	Gloss=seize/keep_on
 15	kai	kai	VERB	_	_	14	comp:obj	_	Gloss=reach/take_to
@@ -1655,12 +1655,12 @@
 # text_ortho = kee kuma ’ìm biyaa kì, ’ìm baa kì laadakkì, ’in kik kai mutà naatà, kihw hwaɗàa mutà sàaƙoona, sabòo dà ’i nàa soǹtà.
 1	keː	keː	PRON	_	Gender=Fem|Person=2	4	dislocated@comp	_	Gloss=2Fem
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-3	in=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	Gloss=1Sing=|SpaceAfter=No|wordform=ìn
+3	in-	n	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=ìn
 4	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub-|wordform=_̀=
 5	biyaː	biyaː	VERB	_	_	4	comp:aux	_	Gloss=pay
 6	kì	kì	PRON	_	Gender=Fem|Person=2	5	comp:obj	_	Gloss=2Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-8	in=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing=|SpaceAfter=No|wordform=ìn
+8	in-	n	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=ìn
 9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	parataxis:conj	_	Gloss=Sub-|wordform=_̀=
 10	baː	baː	VERB	_	_	9	comp:aux	_	Gloss=give
 11	kì	kì	PRON	_	Gender=Fem|Person=2	10	comp:obj@R	_	Gloss=2Fem
@@ -1829,7 +1829,7 @@
 7	gidaː	gidaː	NOUN	_	_	6	mod	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidansù
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	comp	_	Gloss=3Plur.Gen
-10	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	11	subj/m	_	Gloss=2Fem=|SpaceAfter=No|wordform=kì
+10	ki-	k	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	11	subj/m	_	Gloss=2Fem|SpaceAfter=No|wordform=kì
 11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub-|wordform=_̀=
 12	zoː	zoː	VERB	_	_	11	comp:aux	_	Gloss=come|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -2520,7 +2520,7 @@
 30	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	31	subj/m	_	Gloss=2Fem-|SpaceAfter=No|wordform=kì
 31	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp:obj@T	_	Gloss=Sub|wordform=_̀=
 32	zoː	zoː	VERB	_	_	31	comp:aux	_	Gloss=come
-33	in=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	34	subj/m	_	Gloss=1Sing=|SpaceAfter=No|wordform=ìn
+33	in-	n	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	34	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=ìn
 34	_̀	_̀	AUX	_	Copula=No|Mood=Sub	31	parataxis:conj	_	Gloss=Sub-|wordform=_̀=
 35	baː	baː	VERB	_	_	34	comp:aux	_	Gloss=give
 36	kì	yà	PRON	_	Gender=Fem|Person=2|PronType=Prs	35	comp:obj@R	_	Gloss=2Fem
@@ -2913,7 +2913,7 @@
 23	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 24	niː	niː	PRON	_	Person=1	27	dislocated@subj	_	Gloss=1Sing
 25	kuma	kuma	PART	_	PartType=Top	24	discourse@top	_	Gloss=also
-26	in=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	27	subj/m	_	Gloss=1Sing=|SpaceAfter=No|wordform=ìn
+26	in-	n	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	27	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=ìn
 27	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	conj:coord	_	Gloss=Sub-|wordform=_̀=
 28	gan	ganiː	VERB	_	_	27	comp:aux	_	Gloss=see|SpaceAfter=No|wordfrom=ganai
 29	-ai	-ai	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	28	comp:obj/m	_	Gloss=3Masc.Gen
@@ -5199,7 +5199,7 @@
 8	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	9	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kaː=
 9	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	3	comp:obj@T	_	Gloss=Perf.Sing|wordform=aː=
 10	sam	sanìː	VERB	_	_	9	comp:aux	_	Gloss=know
-11	mu =	mu=	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	subj/m	_	Gloss=1Plur.Nom|SpaceAfter=No|wordform=munàː
+11	mu -	mu	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	subj/m	_	Gloss=1Plur.No|SpaceAfter=No|wordform=munàː
 12	nàː	nàː	AUX	_	Copula=Yes	10	comp:obj	_	Gloss=be|wordform=munàː
 13	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
 14	kissà	kissà	NOUN	_	Gender=Fem	13	comp	_	Gloss=deception.Fem

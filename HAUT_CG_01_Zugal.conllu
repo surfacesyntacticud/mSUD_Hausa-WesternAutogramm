@@ -1735,7 +1735,7 @@
 14	a-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=à
 15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	10	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 16	shanyàː	shanyàː	VERB	_	_	15	comp:aux	_	Gloss=dry_in_sun
-17	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem=|wordform=tà
+17	ta-	t	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Fem|wordform=tà
 18	_̀	_̀	AUX	_	Copula=No	15	parataxis:conj	_	Gloss=Sub-|wordform=_̀=
 19	buːshèː	buːshèː	VERB	_	_	18	comp:aux	_	Gloss=dry|SpaceAfter=No
 20	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -6157,12 +6157,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 166000, 167000
-# text = in zâː=a- yîː-n-ai , sai à=nèːmi kaskàː, ta gà kàryaː màccè.
+# text = in zâː-'a yîː-n-ai , sai a-_̀ nèːmi kaskàː, ta gà kàryaː màccè.
 # text_en = If you're going to do it, you must look for a tick, that of a female dog.
 # text_ortho = ’in zaà ’à yiìnai, sai ’à nèemi kaskàa, ta gà kàᵲyaa màccè.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut|SpaceAfter=No
-3	a-	a	PRON	_	Person=4|PronType=PrsSubj	2	subj	_	Gloss=4
+3	-'a	a	PRON	_	Person=4|PronType=PrsSubj	2	subj	_	Gloss=4
 4	yîː	yi	VERB	_	ExtPos=NOUN	2	comp:aux	_	Gloss=do.Nmlz.Masc|SpaceAfter=No|wordform=yîːnai|wordfrom=yîːnai
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
