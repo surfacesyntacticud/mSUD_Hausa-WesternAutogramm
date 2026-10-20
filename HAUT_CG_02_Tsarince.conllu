@@ -1939,7 +1939,7 @@
 # text_ortho = ’àbun dà ’as’ s’àaᵲìnci.
 1	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	0	root	_	Gloss=thing.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
-3	as'	neː	AUX	_	Copula=Yes	2	comp	_	ClauseType=Rel|Gloss=Id/Foc.Rel2|Relative=Variante|RelRole=subj
+3	aC	neː	AUX	_	Copula=Yes	2	comp	_	ClauseType=Rel|Gloss=Id/Foc.Rel2|Relative=Variante|RelRole=subj|wordform=as'
 4	s'àːrìnci	s'àːrìnci	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=fornication.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -2553,7 +2553,7 @@
 # text_ortho = ’àbun dà ’ay yaawòo.
 1	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	0	root	_	Gloss=thing.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
-3	ay	neː	AUX	_	Copula=Yes	2	comp	_	ClauseType=Rel|Gloss=Ident/Foc.Rel2|Relative=Variante|RelRole=subj
+3	aC	neː	AUX	_	Copula=Yes	2	comp	_	ClauseType=Rel|Gloss=Ident/Foc.Rel2|Relative=Variante|RelRole=subj|wordform=ay
 4	yaːwòː	yaːwòː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=strolling.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
