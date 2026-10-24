@@ -2312,7 +2312,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 52000, 53000
-# text = suː kuma uwàːyên nan, sai su-_̀= cêː mutà “ tundà bâː- ki= sô-nwânga mijìː, wandà mun- kà= Ø mikì, a-n= bar̃ bùtuː-n-ai , sai ki-_̀= hwàɗi wandà ki-kà sôː ”.
+# text = suː kuma uwàːyên nan , sai su-_̀ cêː mutà “ tundà bâː -ki sô -n wânga mijìː , wandà mun-kà _ mikì , a-n bar̃ bùtuː -n -ai , sai ki-_̀ hwàɗi wandà ki-kà sôː ” .
 # text_en = They, the parents, they will tell her "since you do no like this husband that we chose for you, we stop the talks, tell us who you want."
 # text_ortho = suu kuma ’uwàayeǹ nan, sai sù ceè mutà “tun dà baà ki soǹ waǹga mijìi, wanda munkà mikì, ’am bar bùtunnai, sai kì hwàɗi wandà ki kà soò”.
 1	suː	suː	PRON	_	Number=Plur|Person=3	8	dislocated@top	_	Gloss=3Plur
@@ -2336,7 +2336,7 @@
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	wandà	wandà	PRON	_	PronType=Rel	18	mod@relcl	_	Gloss=who.Rel|Relz=Word
 21	mun-	mu-	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	22	subj/m	_	Gloss=1Plur-|SpaceAfter=No|wordform=mu-
-22	kà	nkà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	20	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
+22	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	20	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 23	_	yi	VERB	_	_	22	comp:aux	_	ClauseType=Rel|Gloss=do|RelRole=obj|wordform=Ø
 24	mikì	mikì	PRON	_	Gender=Fem|Person=2	23	comp:obl	_	Gloss=2Fem.Dat
 25	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT

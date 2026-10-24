@@ -394,7 +394,7 @@
 9	s'akad	s'akat	ADP	_	_	12	mod	_	Gloss=in_the_middle_of
 10	daːjìː	daːjìː	NOUN	_	Gender=Masc	9	mod	_	Gloss=bush.Masc
 11	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-12	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+12	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 13	hanyàː	hanyàː	NOUN	_	Gender=Fem	12	subj	_	Gloss=path.Fem
 14	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 

@@ -1008,11 +1008,11 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 25000, 26000
-# text = ya-Ø= biyoː ƙoːhwà-g gida-n maːlàmiː, sai màccênga ta maːlàmiː, t-aː= sam maːlàmiː bâː- -shi nan, sai ta-Ø= tahoː ƙoːhwà-g gidaː //
+# text = ya-C biyoː ƙoːhwà -g gida -n maːlàmiː , sai màccênga ta maːlàmiː , t-aː sam maːlàmiː bâː -shi nan , sai ta-C tahoː ƙoːhwà -g gidaː //
 # text_en = He passed by the compound door of the imam when the wife of the malam, she realised that the imam was not there, and she went to the door of the compound.
 # text_ortho = yab biyoo ƙoohwàg gidam maalàmii, sai màcceǹga ta maalàmii, taa sam maalàmii baà ši nan, sai tat tahoo ƙoohwàg gidaa.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
-2	C	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	18	parataxis:mod	_	Gloss=Perf.Rel.Sing|wordform=b=
+2	C	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	17	parataxis:mod	_	Gloss=Perf.Rel.Sing|wordform=b=
 3	biyoː	biyaː	VERB	_	_	2	comp:aux	_	Gloss=follow.Dir
 4	ƙoːhwà	ƙoːhwàː	NOUN	_	Gender=Fem	3	comp:obj@L	_	Gloss=door.Fem|wordform=ƙoːhwàg
 5	-g	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No|wordform=-C
@@ -1031,7 +1031,7 @@
 17	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 18	sam	sanìː	VERB	_	_	17	comp:aux	_	Gloss=know
 19	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	20	dislocated@subj	_	Gloss=malam.Masc
-20	bâː-	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	comp:obj	_	Gloss=there_is.Neg|SpaceAfter=No|wordform=bâːshi
+20	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	comp:obj	_	Gloss=there_is.Neg|wordform=bâːshi
 21	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	Gloss=-3Masc|SpaceBefore=No|wordform=bâːshi
 22	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	20	comp:pred	_	Gloss=PreRef|PreRef=Yes
 23	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -3876,11 +3876,11 @@
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	9	conj:coord	_	Gloss=malam.Masc
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	doːkì:	doːkì:	NOUN	_	Gender=Masc	13	subj	_	Gloss=horse.Masc
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	kuma	kuma	CCONJ	_	_	17	cc	_	Gloss=also
-17	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	13	conj:coord	_	Gloss=there_is.Neg
+17	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	13	conj:coord	_	Gloss=there_is.Neg
 18	sa	sau	NOUN	_	Gender=Masc	17	subj	_	Gloss=footprint|wordform=san
 19	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	18	mod/m	_	Gloss=Gen|SpaceBefore=No
 20	doːkì:	doːkì:	NOUN	_	Gender=Masc	19	comp	_	Gloss=horse.Masc

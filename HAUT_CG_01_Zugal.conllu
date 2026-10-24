@@ -1124,7 +1124,7 @@
 45	.	.	PUNCT	_	_	32	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_038-038
-# text = im bà-tà= ganai ba, bâː- -ta dà hankàliː, bâː- ta= iyà zamaː, sai t-aː= ganai.
+# text = im bà -tà ganai ba , bâː-ta dà hankàliː , bâː -ta iyà zamaː , sai t-aː ganai .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 35361, 35877
@@ -1136,7 +1136,7 @@
 4	ganai	ganiːai	VERB	_	Gender=Masc|Person=3	2	comp:aux	_	Gloss=see.-3Masc
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	bâː-	bâː-	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg|SpaceAfter=No|wordform=bâːta
+7	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg|SpaceAfter=No|wordform=bâːta
 8	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=-3Fem|SpaceBefore=No
 9	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 10	hankàliː	hankàliː	NOUN	_	Gender=Masc	9	comp	_	Gloss=sense.Masc

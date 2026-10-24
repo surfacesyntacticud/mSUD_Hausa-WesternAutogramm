@@ -1256,7 +1256,7 @@
 10	C	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	8	comp	_	Gloss=Perf.Rel.Sing|wordform=t=
 11	taːshì	taːshì	VERB	_	_	10	comp:aux	_	Gloss=rise
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+13	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc	13	subj	_	Gloss=give.Nmlz.Masc
 15	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	14	compound	_	Gloss=spend_night.Nmlz.Masc
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT

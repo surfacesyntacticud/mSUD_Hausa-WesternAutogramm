@@ -233,7 +233,7 @@
 # text_en = When there is no pipe, if you roll it like you roll tobacco in a sheet of paper, you light it and you inhale the smoke, metal won't catch you.
 # text_ortho = ’im baabù loohèe, sai ’à yi nàɗeenai, kàma’ ’an naɗè taabàa cikin takàrdaa, ’a nàa kunnà wutaa, ’a nàa šaǹ hayaaƙii, ƙaᵲhèe baà ši kaamà mùtun.
 1	im	in	SCONJ	_	_	33	mod	_	Gloss=if
-2	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	1	comp	_	Gloss=there_is.Neg
+2	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	1	comp	_	Gloss=there_is.Neg
 3	loːhèː	loːhèː	NOUN	_	Gender=Masc	2	subj	_	Gloss=pipe.Masc
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	SCONJ	_	_	33	mod	_	Gloss=then
@@ -1934,7 +1934,7 @@
 8	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì
 9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 10	ga	ganiː	VERB	_	_	9	comp:aux	_	Gloss=see
-11	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=there_is.Neg
+11	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=there_is.Neg
 12	ƙarhèn	ƙarhèː	NOUN	_	Definite=Def|Gender=Masc	11	subj	_	Gloss=iron.Masc.Def
 13	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
