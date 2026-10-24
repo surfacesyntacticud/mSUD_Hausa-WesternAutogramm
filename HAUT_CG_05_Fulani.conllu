@@ -98,8 +98,8 @@
 2	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	1	conj:appos	_	Gloss=Fulani.Masc
 3	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	5	subj/m	_	Gloss=2Masc|SpaceAfter=No
-5	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=kanàː
-6	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:pred	_	Gloss=like/love/want.Vnoun.Masc
+5	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=kanàː
+6	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:aux	_	Gloss=like/love/want.Vnoun.Masc
 7	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	8	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kà=
 8	_̀	_̀	AUX	_	Copula=No|Mood=Sub	6	comp:obj	_	Gloss=Sub|wordform=_̀=
 9	ci	ci	VERB	_	_	8	comp:aux	_	Gloss=have_sex_with
@@ -352,8 +352,8 @@
 17	sàràkkuwaː	sàràkkuwaː	NOUN	_	Gender=Fem	15	conj:coord	_	Gloss=in-law.Fem
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	su-	su-	PRON	_	Number=Plur|Person=3	20	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-21	bî	bîː	VERB	_	ExtPos=NOUN|Gender=Masc	20	comp:pred	_	Gloss=follow.Vnoun|wordform=bîn
+20	nàː	nàː	AUX	_	Aspect=Prog	9	parataxis:conj	_	Gloss=Prog|wordform=sunàː
+21	bî	bîː	VERB	_	ExtPos=NOUN|Gender=Masc	20	comp:aux	_	Gloss=follow.Vnoun|wordform=bîn
 22	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	21	udep/m	_	Gloss=Gen|SpaceBefore=No
 23	daːjìː	daːjìː	NOUN	_	Gender=Masc	22	comp	_	Gloss=bush.Masc
 24	.	.	PUNCT	_	_	9	punct	_	Gloss=.
@@ -369,8 +369,8 @@
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 3	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	2	comp	_	Gloss=Fulani.Masc
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog
-6	bî	bîː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:pred	_	Gloss=follow.Vnoun|wordform=bîn
+5	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
+6	bî	bîː	VERB	_	ExtPos=NOUN|Gender=Masc	5	comp:aux	_	Gloss=follow.Vnoun|wordform=bîn
 7	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	6	udep/m	_	Gloss=Gen|SpaceBefore=No
 8	dabràs	dabràt	ADP	_	_	7	comp	_	Gloss=alongside|wordform=dabràssù
 9	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	comp	_	Gloss=3Plur.Gen|SpaceBefore=No
@@ -725,8 +725,8 @@
 # text_en = They did that three times.
 # text_ortho = su nàa yiǹ hakà nan, has soò ’ukkù.
 1	su-	su-	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=sunàː
-3	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:pred	_	Gloss=do.Vnoun|wordform=yîn
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunàː
+3	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Vnoun|wordform=yîn
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 5	hakànan	hakànan	ADV	_	_	4	comp	_	Gloss=thus
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -762,8 +762,8 @@
 18	:	:	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 19	tôː	tôː	INTJ	_	_	21	discourse	_	Gloss=well
 20	ki-	ki-	PRON	_	Gender=Fem|Person=2|PronType=Prs	21	subj/m	_	Gloss=2Fem|SpaceAfter=No
-21	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	comp:obj@T	_	Gloss=Prog|wordform=kinàː
-22	jî	jîː	VERB	_	ExtPos=NOUN|Gender=Masc	21	comp:pred	_	Gloss=hear.Vnoun|wordform=jîn
+21	nàː	nàː	AUX	_	Aspect=Prog	13	comp:obj@T	_	Gloss=Prog|wordform=kinàː
+22	jî	jîː	VERB	_	ExtPos=NOUN|Gender=Masc	21	comp:aux	_	Gloss=hear.Vnoun|wordform=jîn
 23	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	22	udep/m	_	Gloss=Gen|SpaceBefore=No
 24	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	23	comp	_	Gloss=thing.Masc.Def|RelAnt=Yes
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word
