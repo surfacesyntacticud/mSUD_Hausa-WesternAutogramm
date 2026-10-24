@@ -800,15 +800,17 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 15000, 16000
-# text = makàɗiː nàː ta musù kiràːrìː.
+# text = makàɗiː nàː ta musù kiràːrìː .
 # text_en = Drummers are praising them.
 # text_ortho = makàɗaa nàa ta musù kiᵲàaᵲìː.
 1	makàɗiː	makàɗiː	NOUN	_	Number=Plur	2	subj	_	Gloss=drummer.Plur
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	Gloss=Iter
-4	musù	musù	PRON	_	Number=Plur|Person=3	2	comp:obl	_	Gloss=3Plur.Dat
-5	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=epithet.Masc
-6	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+4-5	musù	_	_	_	_	_	_	_	_
+4	Ø	yi	VERB	_	_	2	comp:aux	_	Gloss=do
+5	musù	musù	PRON	_	Number=Plur|Person=3	4	comp:obl	_	Gloss=3Plur.Dat
+6	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=epithet.Masc
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split2_split2_split2_split1
 # speaker_id = *

@@ -3244,7 +3244,7 @@
 32	ad	neː	AUX	_	Copula=Yes|Mood=Rel	31	comp:cleft	_	ClauseType=Int|Gloss=Ident/Foc.Rel
 33	dà	dà	ADP	_	_	32	comp:pred	_	Gloss=with
 34	doːkì:	doːkì:	NOUN	_	Gender=Masc	33	comp	_	Gloss=horse.Masc
-35	cikin	cikin	ADP	_	_	32	comp:obl	_	Gloss=in(side)
+35	cikin	cikin	ADP	_	_	32	comp:pred	_	Gloss=in(side)
 36	gidaː	gidaː	NOUN	_	_	35	comp	_	Gloss=house.Masc|wordform=gidaːna
 37	-n	na	PART	_	Case=Gen|PartType=Case	36	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 38	-a	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	37	comp:obj/m	_	Gloss=1Sing.Gen|SpaceBefore=No
@@ -3631,7 +3631,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 105000, 106000
-# text = dà maːlàmiː yag= gaidà sarkiː, yac= cèː : allàː shì= baː kà nasar̃àː.
+# text = dà maːlàmiː ya-C gaidà sarkiː , ya-C cèː : allàː shi-_̀ baː kà nasar̃àː .
 # text_en = After he had greeted the chief, he said : God bless you.
 # text_ortho = dà maalàm yag gaidà saᵲkii, yac cèe : ’allàa šì baa kà nasaràa.
 1	dà	dà	SCONJ	_	_	9	mod	_	Gloss=when
@@ -3643,7 +3643,7 @@
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac=
 9	C	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
-10	cèː	neː	AUX	_	Copula=Yes|Gender=Fem	9	comp:aux	_	Gloss=be.Fem
+10	cèː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say
 11	:	:	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 12	allàː	allàː	PROPN	_	_	14	subj	_	Gloss=God
 13	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=shì

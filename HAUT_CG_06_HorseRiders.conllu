@@ -1177,30 +1177,32 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 35000, 36000
-# text = yanàː ta mutà tuːsàː , ɗwai yam mutà yawàː , tanàː ta twàːriː cikin zanèː .
+# text = ya-nàː ta mutà tuːsàː , ɗwai ya-y= mutà yawàː , ta-nàː ta twàːriː cikin zanèː .
 # text_en = He farted, the stench was too much for her, she was coughing in the wrapper.
 # text_ortho = ya nàa ta mutà tuusàa, ɗwai yaa mutà yawàa, ta nàa ta tàaᵲii cikin zanèe.
 1	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=yanàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	Gloss=Iter
-4	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	Gloss=3Fem.Dat
-5	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=farting.Fem
-6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-7	ɗwai	ɗwai	NOUN	_	Gender=Masc	9	subj	_	Gloss=stench.Masc
-8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
-9-10	y=	_	_	_	_	_	_	_	_
-9	C	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	2	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=y=
-10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
-11	mutà	mutà	PRON	_	Gender=Fem|Person=3	10	comp:obl	_	Gloss=3Fem.Dat
-12	yawàː	yawàː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=quantity.Masc
-13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-14	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Fem|SpaceAfter=No
-15	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	parataxis:conj	_	Gloss=Prog|wordform=tanàː
-16	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	17	mod	_	Gloss=Iter
-17	twàːriː	twàːriː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=coughing.Masc
-18	cikin	cikin	ADP	_	_	15	mod	_	Gloss=in(side)
-19	zanèː	zanèː	NOUN	_	Gender=Masc	18	comp	_	Gloss=wrapper.Masc
-20	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+4-5	mutà	_	_	_	_	_	_	_	_
+4	Ø	yi	VERB	_	_	2	comp:aux	_	Gloss=do
+5	mutà	mutà	PRON	_	Gender=Fem|Person=3	4	comp:obl	_	Gloss=3Fem.Dat
+6	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	4	comp:pred	_	Gloss=farting.Fem
+7	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+8	ɗwai	ɗwai	NOUN	_	Gender=Masc	10	subj	_	Gloss=stench.Masc
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
+10-11	y=	_	_	_	_	_	_	_	_
+10	C	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	2	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=y=
+11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
+12	mutà	mutà	PRON	_	Gender=Fem|Person=3	11	comp:obl	_	Gloss=3Fem.Dat
+13	yawàː	yawàː	NOUN	_	Gender=Masc	11	comp:pred	_	Gloss=quantity.Masc
+14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+15	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Fem|SpaceAfter=No
+16	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	parataxis:conj	_	Gloss=Prog|wordform=tanàː
+17	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	18	mod	_	Gloss=Iter
+18	twàːriː	twàːriː	NOUN	_	Gender=Masc	16	comp:pred	_	Gloss=coughing.Masc
+19	cikin	cikin	ADP	_	_	16	mod	_	Gloss=in(side)
+20	zanèː	zanèː	NOUN	_	Gender=Masc	19	comp	_	Gloss=wrapper.Masc
+21	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_37
 # speaker_id = *
