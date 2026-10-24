@@ -219,7 +219,7 @@
 8	kullun	kullun	ADV	_	_	10	mod	_	Gloss=always
 9	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Fem|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=tanàː
-11	Ø	yi	VERB	_	_	10	comp:pred	_	Gloss=do
+11	Ø	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	mai	mai	PRON	_	Gender=Masc|Person=3	11	comp:obl	_	Gloss=3Masc.Dat
 13	hakànan	hakànan	ADV	_	_	11	comp:pred	_	Gloss=thus
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT

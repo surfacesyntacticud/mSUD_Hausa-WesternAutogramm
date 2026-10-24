@@ -35,7 +35,7 @@
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Masc|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	8	conj:coord	_	Gloss=Prog|wordform=shinàː
-17	Ø	yi	VERB	_	_	16	comp:pred	_	Gloss=do
+17	Ø	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	musù	musù	PRON	_	Number=Plur|Person=3	17	comp:obl	_	Gloss=3Plur.Dat
 19	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=effort.Masc
 20	ƙwar̃ai	ƙwar̃ai	ADV	_	_	19	mod	_	Gloss=completely
@@ -43,7 +43,7 @@
 22	sai	sai	CCONJ	_	_	24	cc	_	Gloss=then
 23	su-	su-	PRON	_	Number=Plur|Person=3	24	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 24	nàː	nàː	AUX	_	Aspect=Prog	16	conj:coord	_	Gloss=Prog|wordform=sunàː
-25	Ø	yi	VERB	_	_	24	comp:pred	_	Gloss=do
+25	Ø	yi	VERB	_	_	24	comp:aux	_	Gloss=do
 26	mai	mai	PRON	_	Gender=Masc|Person=3	25	comp:obl	_	Gloss=3Masc.Dat
 27	kissà	kissà	NOUN	_	Gender=Fem	25	comp:pred	_	Gloss=cheating.Fem
 28	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -58,7 +58,7 @@
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
 2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=sunàː
-4	Ø	yi	VERB	_	_	3	comp:pred	_	Gloss=do
+4	Ø	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	mai	mai	PRON	_	Gender=Masc|Person=3	4	comp:obl	_	Gloss=3Masc.Dat
 6	kissà	kissà	NOUN	_	Gender=Fem	4	comp:pred	_	Gloss=cheating.Fem
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -528,7 +528,7 @@
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Fem|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	11	parataxis:conj	_	Gloss=Prog|wordform=tanàː
-17	baː	baː	VERB	_	_	16	comp:pred	_	Gloss=give
+17	baː	baː	VERB	_	_	16	comp:aux	_	Gloss=give
 18	ta	ta	PRON	_	Gender=Fem|Person=3	17	comp:obj@R	_	Gloss=3Fem
 19	madar̃aː	madar̃aː	NOUN	_	Gender=Fem	17	comp:obj@T	_	Gloss=cow_milk.Fem
 20	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -683,7 +683,7 @@
 1	su-	su-	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunàː
 3-4	mâː	_	_	_	_	_	_	_	_
-3	Ø	yi	VERB	_	_	2	comp:pred	_	Gloss=do
+3	Ø	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	mà	mâː	ADP	_	_	3	comp:obl	_	Gloss=Dat
 5	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	4	comp	_	Gloss=malam.Masc
 6	àbunci	àbunci	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=food.Masc
@@ -781,7 +781,7 @@
 9	kullun	kullun	ADV	_	_	11	mod	_	Gloss=always
 10	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	Gloss=3Fem|SpaceAfter=No
 11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=tanàː
-12	kaːwoː	kai	VERB	_	_	11	comp:pred	_	Gloss=reach/take_to.Dir
+12	kaːwoː	kai	VERB	_	_	11	comp:aux	_	Gloss=reach/take_to.Dir
 13	tàlla	tàlla	NOUN	_	Gender=Fem	12	comp:obj@T	_	Gloss=hawking_wares.Fem
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	tàlla	tàlla	NOUN	_	Gender=Fem	13	conj:reform	_	Gloss=hawking_wares.Fem|wordform=tàllad
@@ -1755,7 +1755,7 @@
 5	tà	ta	PRON	_	Gender=Fem|Person=3	4	comp:obj@R	_	Gloss=3Fem
 6	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Fem|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=tanàː
-8	iyà	iyàː	VERB	_	_	7	comp:pred	_	Gloss=be_able
+8	iyà	iyàː	VERB	_	_	7	comp:aux	_	Gloss=be_able
 9	kai	kai	VERB	_	_	8	comp:obj	_	Gloss=reach/take_to
 10	mutà	mutà	PRON	_	Gender=Fem|Person=3	9	comp:obl	_	Gloss=3Fem.Dat
 11	shiː	shiː	PRON	_	Gender=Masc|Person=3	9	comp:obj@T	_	Gloss=3Masc
@@ -2722,13 +2722,13 @@
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	Gloss=3Masc|SpaceAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	3	parataxis:conj	_	Gloss=Prog|wordform=shinàː
-10	baː	baː	VERB	_	_	9	comp:pred	_	Gloss=give
+10	baː	baː	VERB	_	_	9	comp:aux	_	Gloss=give
 11	tà	ta	PRON	_	Gender=Fem|Person=3	10	comp:obj@R	_	Gloss=3Fem
 12	kaːyaː	kaːyaː	NOUN	_	Gender=Masc	11	comp:obj@T	_	Gloss=things.Masc
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Fem|SpaceAfter=No
 15	nàː	nàː	AUX	_	Aspect=Prog	9	parataxis:conj	_	Gloss=Prog|wordform=tanàː
-16	kai	kai	VERB	_	_	15	comp:pred	_	Gloss=reach/take_to
+16	kai	kai	VERB	_	_	15	comp:aux	_	Gloss=reach/take_to
 17	matà	mutà	PRON	_	Gender=Fem|Person=3	16	comp:obl	_	Gloss=3Fem.Dat
 18	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
@@ -2783,12 +2783,12 @@
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 26	sarkiː	sarkiː	NOUN	_	Gender=Masc	25	comp	_	Gloss=chief.Masc
 27	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	22	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-28	baː	baː	VERB	_	_	27	comp:pred	_	Gloss=give|RelRole=T
+28	baː	baː	VERB	_	_	27	comp:aux	_	Gloss=give|RelRole=T
 29	tà	ta	PRON	_	Gender=Fem|Person=3	28	comp:obj@R	_	Gloss=3Fem
 30	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 31	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	32	subj/m	_	Gloss=3Fem|SpaceAfter=No
 32	nàː	nàː	AUX	_	Aspect=Prog	17	parataxis:conj	_	Gloss=Prog|wordform=tanàː
-33	kai	kai	VERB	_	_	32	comp:pred	_	Gloss=reach/take_to
+33	kai	kai	VERB	_	_	32	comp:aux	_	Gloss=reach/take_to
 34	matà	mutà	PRON	_	Gender=Fem|Person=3	33	comp:obl	_	Gloss=3Fem.Dat
 35	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 

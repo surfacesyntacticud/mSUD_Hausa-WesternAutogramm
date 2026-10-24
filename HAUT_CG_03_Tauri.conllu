@@ -1047,7 +1047,7 @@
 # text_ortho = su nàa ɗaᵲmà maagànin tauᵲi gà hannuwàa, tàaᵲe dà lallèe.
 1	su-	su-	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunàː
-3	ɗarmà	ɗarmàː	VERB	_	_	2	comp:pred	_	Gloss=tie
+3	ɗarmà	ɗarmàː	VERB	_	_	2	comp:aux	_	Gloss=tie
 4	maːgàni	maːgàniː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=charm|wordform=maːgànin
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 6	tauri	tauri	NOUN	_	Gender=Masc	5	comp	_	Gloss=toughness_charm.Masc
@@ -2474,7 +2474,7 @@
 8	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	4	mod:appos@relcl	_	Gloss=that.Masc|Relz=Word
 9	a-	a-	PRON	_	Person=4|PronType=Prs	10	subj/m	_	Gloss=4|SpaceAfter=No
 10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	8	comp	_	ClauseType=Rel|Gloss=Prog|Relz=Affix|wordform=akà
-11	ɗiːbàː	ɗiːbàː	VERB	_	_	10	comp:pred	_	Gloss=take|RelRole=obj
+11	ɗiːbàː	ɗiːbàː	VERB	_	_	10	comp:aux	_	Gloss=take|RelRole=obj
 12	gà	gà	ADP	_	_	11	comp:obl	_	Gloss=at
 13	lòːdaː	lòːdaː	NOUN	_	Gender=Fem	12	comp	_	Gloss=plant_sp.Fem
 14	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -2579,7 +2579,7 @@
 62	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	61	det	_	Gloss=PreRef|PreRef=Yes
 63	a-	a-	PRON	_	Person=4|PronType=Prs	64	subj/m	_	Gloss=4|SpaceAfter=No
 64	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	61	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
-65	ɗumkèː	ɗumkèː	VERB	_	_	64	comp:pred	_	Gloss=sew_up
+65	ɗumkèː	ɗumkèː	VERB	_	_	64	comp:aux	_	Gloss=sew_up
 66	shi	shi	PRON	_	Gender=Masc|Person=3	65	comp:obj	_	Gloss=3Masc
 67	.	.	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 
@@ -3428,14 +3428,14 @@
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 25	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	26	subj/m	_	Gloss=2Masc|SpaceAfter=No
 26	nàː	nàː	AUX	_	Aspect=Prog	20	parataxis:conj	_	Gloss=Prog|wordform=kanàː
-27	gamà	gamàː	VERB	_	_	26	comp:pred	_	Gloss=join
+27	gamà	gamàː	VERB	_	_	26	comp:aux	_	Gloss=join
 28	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	27	comp:obj	_	Gloss=stone.Masc
 29	dà	dà	ADP	_	_	27	comp:obl	_	Gloss=with
 30	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	29	comp	_	Gloss=stone.Masc
 31	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 32	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	33	subj/m	_	Gloss=2Masc|SpaceAfter=No
 33	nàː	nàː	AUX	_	Aspect=Prog	26	parataxis:conj	_	Gloss=Prog|wordform=kanàː
-34	sâː	sâː	VERB	_	_	33	comp:pred	_	Gloss=put
+34	sâː	sâː	VERB	_	_	33	comp:aux	_	Gloss=put
 35	jìki	jìkiː	NOUN	_	_	34	comp:obj	_	Gloss=body.Masc|wordform=jìkintà|wordfrom=jìkintà
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 37	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	36	comp:obj/m	_	Gloss=3Fem.Gen|SpaceBefore=No
@@ -3923,7 +3923,7 @@
 2	hakànan	hakànan	ADV	_	_	1	comp	_	Gloss=thus
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
 4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
-5	Ø	yi	VERB	_	_	4	comp:pred	_	Gloss=do
+5	Ø	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	mà	mà	ADP	_	_	5	comp:obl	_	Gloss=Dat
 7	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	6	comp	_	Gloss=skin.Fem
 8	huːdàː	huːdàː	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=hole.Fem

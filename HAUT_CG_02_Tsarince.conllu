@@ -784,13 +784,13 @@
 2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunàː
 4	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	5	mod	_	Gloss=Iter
-5	baːdà	baːdàː	VERB	_	_	3	comp:pred	_	Gloss=give
+5	baːdà	baːdàː	VERB	_	_	3	comp:aux	_	Gloss=give
 6	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=money.Masc
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 8	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
 9	su-	su-	PRON	_	Number=Plur|Person=3	10	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog	3	conj:coord	_	Gloss=Prog|wordform=sunàː
-11	baːdà	baːdàː	VERB	_	_	10	comp:pred	_	Gloss=give
+11	baːdà	baːdàː	VERB	_	_	10	comp:aux	_	Gloss=give
 12	goːr̃ò	goːr̃ò	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=kola.Masc
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
 14	turàːreː	turàːreː	NOUN	_	Gender=Masc	12	conj:coord	_	Gloss=perfume.Masc
@@ -819,13 +819,13 @@
 # text_ortho = su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa :
 1	su-	su-	PRON	_	Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunàː
-3	Ø	yi	VERB	_	_	2	comp:pred	_	Gloss=do
+3	Ø	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	mà	mà	ADP	_	_	3	comp:obl	_	Gloss=Dat
 5	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	4	comp	_	Gloss=youth.Plur
 6	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=epithet.Masc
 7	su-	su-	PRON	_	Person=3	8	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-9	Ø	yi	VERB	_	_	8	comp:pred	_	Gloss=do
+9	Ø	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	mà	mà	ADP	_	_	9	comp:obl	_	Gloss=Dat
 11	’yam	’yan	ADJ	_	Number=Plur	10	comp	_	Gloss=young.Plur
 12	maːtaː	maːtaː	NOUN	_	Number=Plur	11	compound	_	Gloss=woman.Plur
@@ -970,7 +970,7 @@
 17	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	16	comp	_	Gloss=happiness.Masc
 18	su-	su-	PRON	_	Number=Plur|Person=3	19	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 19	nàː	nàː	AUX	_	Aspect=Prog	14	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-20	baːdà	baːdàː	VERB	_	_	19	comp:pred	_	Gloss=give
+20	baːdà	baːdàː	VERB	_	_	19	comp:aux	_	Gloss=give
 21	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=money.Masc
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -2814,7 +2814,7 @@
 7	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Masc|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 9-10	mâː	_	_	_	_	_	_	_	_
-9	Ø	yi	VERB	_	_	8	comp:pred	_	Gloss=do
+9	Ø	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	mà	mâː	ADP	_	Case=Dat	9	comp:obl	_	Gloss=Dat
 11	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	10	comp	_	Gloss=girl.Fem
 12	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	9	comp:pred	_	Gloss=chatting.Fem
@@ -2822,7 +2822,7 @@
 14	kuma	kuma	CCONJ	_	_	16	cc	_	Gloss=also
 15	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Masc|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	8	conj:coord	_	Gloss=Prog|wordform=shinàː
-17	taɓà	taɓàː	VERB	_	_	16	comp:pred	_	Gloss=touch
+17	taɓà	taɓàː	VERB	_	_	16	comp:aux	_	Gloss=touch
 18	jìki	jìkiː	NOUN	_	_	17	comp:obj	_	Gloss=body.Masc|wordform=jìkintà|wordfrom=jìkintà
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 20	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	19	comp:obj/m	_	Gloss=3Fem.Gen|SpaceBefore=No
@@ -2923,7 +2923,7 @@
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 9	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Fem|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	Gloss=Prog|wordform=tanàː
-11	taɓà	taɓàː	VERB	_	_	10	comp:pred	_	Gloss=touch
+11	taɓà	taɓàː	VERB	_	_	10	comp:aux	_	Gloss=touch
 12	jìki	jìkiː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=body|wordform=jìkin
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 14	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	13	comp	_	Gloss=youth.Masc
@@ -2938,7 +2938,7 @@
 # text_ortho = koo waa nàa taɓà jìkin wani, kuma su nàa hiira, has swaahiyaa tà yi.
 1	koːwaː	koːwaː	PRON	_	_	2	subj	_	Gloss=everyone
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
-3	taɓà	taɓàː	VERB	_	_	2	comp:pred	_	Gloss=touch
+3	taɓà	taɓàː	VERB	_	_	2	comp:aux	_	Gloss=touch
 4	jìki	jìkiː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=body|wordform=jìkin
 5	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	mod/m	_	Gloss=Gen|SpaceBefore=No
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	5	comp	_	Gloss=some.Masc
@@ -3070,7 +3070,7 @@
 68	koː	koː	SCONJ	_	_	65	mod	_	Gloss=even_if
 69	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	70	subj/m	_	Gloss=3Masc|SpaceAfter=No
 70	nàː	nàː	AUX	_	Aspect=Prog	68	comp	_	Gloss=Prog|wordform=shinàː
-71	Ø	yi	VERB	_	_	70	comp:pred	_	Gloss=do
+71	Ø	yi	VERB	_	_	70	comp:aux	_	Gloss=do
 72	mutà	mutà	PRON	_	Gender=Fem|Person=3	71	comp:obl	_	Gloss=3Fem.Dat
 73	ɗùmiː	ɗùmiː	NOUN	_	Gender=Masc	71	comp:pred	_	Gloss=chatting.Masc
 74	.	.	PUNCT	_	_	64	punct	_	Gloss=.
