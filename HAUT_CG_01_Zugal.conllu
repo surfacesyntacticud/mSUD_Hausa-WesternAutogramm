@@ -1985,7 +1985,7 @@
 5	su-	su-	PRON	_	Number=Plur|Person=3	6	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 6	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	mod@relcl	_	Gloss=Prog|Relz=Affix|wordform=sukà
 7	wânnan	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	8	det	_	Gloss=PreRef|PreRef=Yes
-8	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=custom.Fem
+8	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	6	comp:aux	_	Gloss=custom.Fem
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 10	in	in	SCONJ	_	_	39	mod	_	Gloss=if
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=am
@@ -3154,7 +3154,7 @@
 30	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	31	subj/m	_	Gloss=3Masc|SpaceAfter=No
 31	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	29	comp	_	ClauseType=Rel|Gloss=Prog|RelRole=subj|Relz=Affix|wordform=shikà
 32	wânnam	nan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	33	det	_	Gloss=ProxH.Masc
-33	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	31	comp:pred	_	Gloss=medicine/charm.Masc.Def
+33	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	31	comp:aux	_	Gloss=medicine/charm.Masc.Def
 34	.	.	PUNCT	_	_	22	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_103-103
@@ -3335,7 +3335,7 @@
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	raːnaː	raːnaː	NOUN	_	_	17	subj	_	Gloss=sun/day
 17	nàː	nàː	AUX	_	Aspect=Prog	9	parataxis:conj	_	Gloss=Prog
-18	shiri	shiriː	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=preparation|wordform=shirin
+18	shiri	shiriː	NOUN	_	Gender=Masc	17	comp:aux	_	Gloss=preparation|wordform=shirin
 19	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	18	udep/m	_	Gloss=Gen|SpaceBefore=No
 20	hwaːɗùwaː	hwaːɗùwaː	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp	_	Gloss=fall.Nmlz.Fem
 21	.	.	PUNCT	_	_	9	punct	_	Gloss=.
@@ -4743,7 +4743,7 @@
 24	kàmash	kàmat	SCONJ	_	_	23	mod	_	Gloss=like
 25	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	26	subj/m	_	Gloss=3Masc|SpaceAfter=No
 26	nàː	nàː	AUX	_	Aspect=Prog	24	comp	_	Gloss=Prog|wordform=shinàː
-27	àlwàllaː	àlwàllaː	NOUN	_	Gender=Fem	26	comp:pred	_	Gloss=ablutions.Fem
+27	àlwàllaː	àlwàllaː	NOUN	_	Gender=Fem	26	comp:aux	_	Gloss=ablutions.Fem
 28	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_151-151

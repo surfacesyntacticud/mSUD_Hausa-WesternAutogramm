@@ -204,7 +204,7 @@
 12	hwageː	hwageː	NOUN	_	Gender=Masc	11	comp:pred	_	Gloss=open_space.Masc
 13	su-	su-	PRON	_	Number=Plur|Person=3	14	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunàː
-15	wargiː	wargiː	NOUN	_	Gender=Masc	14	comp:pred	_	Gloss=playing.Masc
+15	wargiː	wargiː	NOUN	_	Gender=Masc	14	comp:aux	_	Gloss=playing.Masc
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	irìn	irìː	NOUN	_	Definite=Def|Gender=Masc	14	mod	_	Gloss=type.Masc.Def
 18	na	na	PART	_	Case=Gen|PartType=Case	17	mod	_	Gloss=Gen
@@ -259,7 +259,7 @@
 1	cikin	cikin	SCONJ	_	_	9	mod	_	Gloss=while
 2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=sunàː
-4	wargîn	wargiː	NOUN	_	Definite=Def|Gender=Masc	3	comp:pred	_	Gloss=playing.Masc.Def
+4	wargîn	wargiː	NOUN	_	Definite=Def|Gender=Masc	3	comp:aux	_	Gloss=playing.Masc.Def
 5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	Gloss=PreRef|PreRef=Yes
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	9	mod	_	Gloss=then
@@ -447,7 +447,7 @@
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=anàː
-5	bìkiː	bìkiː	NOUN	_	_	4	comp:pred	_	Gloss=festivity
+5	bìkiː	bìkiː	NOUN	_	_	4	comp:aux	_	Gloss=festivity
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	’yam	’yan	ADJ	_	Number=Plur	11	subj	_	Gloss=young.Plur
 8	maːtaː	maːtaː	NOUN	_	Number=Plur	7	compound	_	Gloss=woman.Plur
@@ -754,7 +754,7 @@
 39	kiɗìː	kiɗìː	NOUN	_	Gender=Masc	37	comp:pred	_	Gloss=music.Masc
 40	a-	a-	PRON	_	Person=4|PronType=Prs	41	subj/m	_	Gloss=4|SpaceAfter=No
 41	nàː	nàː	AUX	_	Aspect=Prog	36	parataxis:conj	_	Gloss=Prog|wordform=anàː
-42	shagàliː	shagàliː	NOUN	_	Gender=Masc	41	comp:pred	_	Gloss=festivity.Masc
+42	shagàliː	shagàliː	NOUN	_	Gender=Masc	41	comp:aux	_	Gloss=festivity.Masc
 43	.	.	PUNCT	_	_	32	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split1
@@ -766,7 +766,7 @@
 # text_ortho = maataa nàa ᵲawaa suu dà ’’yam maataa.
 1	maːtaː	maːtaː	NOUN	_	Number=Plur	2	subj	_	Gloss=woman.Plur
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
-3	rawaː	rawaː	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=dance.Fem
+3	rawaː	rawaː	NOUN	_	Gender=Fem	2	comp:aux	_	Gloss=dance.Fem
 4	suː	suː	PRON	_	Number=Plur|Person=3	3	dislocated@subj	_	Gloss=3Plur
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
 6	’yam	’yan	ADJ	_	Number=Plur	4	conj:coord	_	Gloss=young.Plur
@@ -809,7 +809,7 @@
 4-5	musù	_	_	_	_	_	_	_	_
 4	Ø	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 5	musù	musù	PRON	_	Number=Plur|Person=3	4	comp:obl	_	Gloss=3Plur.Dat
-6	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=epithet.Masc
+6	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	4	comp:pred	_	Gloss=epithet.Masc
 7	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split2_split2_split2_split1
@@ -943,7 +943,7 @@
 10	daːɗiː	daːɗiː	NOUN	_	Gender=Masc	9	comp	_	Gloss=happiness.Masc
 11	su-	su-	PRON	_	Number=Plur|Person=3	12	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 12	nàː	nàː	AUX	_	Aspect=Prog	7	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-13	rawaː	rawaː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=dance.Fem
+13	rawaː	rawaː	NOUN	_	Gender=Fem	12	comp:aux	_	Gloss=dance.Fem
 14	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_18-18_split2
@@ -1173,7 +1173,7 @@
 31	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 32	su-	su-	PRON	_	Number=Plur|Person=3	33	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 33	nàː	nàː	AUX	_	Aspect=Prog	28	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-34	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	33	comp:pred	_	Gloss=chatting.Fem
+34	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	33	comp:aux	_	Gloss=chatting.Fem
 35	.	.	PUNCT	_	_	21	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_25-25
@@ -1299,7 +1299,7 @@
 9	kuma	kuma	PART	_	PartType=Disc	11	discourse	_	Gloss=also
 10	su-	su-	PRON	_	Number=Plur|Person=3	11	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunàː
-12	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	11	comp:pred	_	Gloss=chatting.Fem
+12	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	11	comp:aux	_	Gloss=chatting.Fem
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	su-	su-	PRON	_	Number=Plur|Person=3	15	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 15	nàː	nàː	AUX	_	Aspect=Prog	11	parataxis:conj	_	Gloss=Prog|wordform=sunàː
@@ -1641,7 +1641,7 @@
 1	hakànan	hakànan	ADV	_	_	0	root	_	Gloss=thus
 2	a-	a-	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
-4	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=cuddling.Masc
+4	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	3	comp:aux	_	Gloss=cuddling.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_39-39
@@ -2388,7 +2388,7 @@
 19	wandà	wandà	PRON	_	PronType=Rel	13	conj:appos	_	Gloss=who|RelAnt=Yes|Relz=Word
 20	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	21	subj/m	_	Gloss=3Fem|SpaceAfter=No
 21	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	mod@relcl	_	ClauseType=Rel|Gloss=Prog|Relz=Affix|wordform=takà
-22	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=cuddling.Masc|RelRole=obl
+22	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	21	comp:aux	_	Gloss=cuddling.Masc|RelRole=obl
 23	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_55-55_split2
@@ -2917,7 +2917,7 @@
 # text_ortho = su nàa hiira, ’ita maa bùduᵲwaa, ta nàa taɓà jìkin saᵲmàyii.
 1	su-	su-	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=sunàː
-3	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=chatting.Fem
+3	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	2	comp:aux	_	Gloss=chatting.Fem
 4	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 5	ita	ita	PRON	_	Gender=Fem|Person=3	10	dislocated@subj	_	Gloss=3Fem
 6	maː	maː	PART	_	PartType=Top	5	discourse@top	_	Gloss=even
@@ -2948,7 +2948,7 @@
 8	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
 9	su-	su-	PRON	_	Number=Plur|Person=3	10	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog	3	conj:coord	_	Gloss=Prog|wordform=sunàː
-11	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	10	comp:pred	_	Gloss=chatting.Fem
+11	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	10	comp:aux	_	Gloss=chatting.Fem
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	har̃	har̃	SCONJ	_	_	10	mod	_	Gloss=until
 14	swaːhiyaː	swaːhiyaː	NOUN	_	Gender=Fem	16	subj	_	Gloss=morning.Fem
@@ -3144,7 +3144,7 @@
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	su-	su-	PRON	_	Number=Plur|Person=3	11	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 11	nàː	nàː	AUX	_	Aspect=Prog	5	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-12	dàːriyaː	dàːriyaː	NOUN	_	Gender=Fem	11	comp:pred	_	Gloss=laughing.Fem
+12	dàːriyaː	dàːriyaː	NOUN	_	Gender=Fem	11	comp:aux	_	Gloss=laughing.Fem
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	har̃	har̃	SCONJ	_	_	11	mod	_	Gloss=until
 15	swaːhiyaː	swaːhiyaː	NOUN	_	Gender=Fem	17	subj	_	Gloss=morning.Fem

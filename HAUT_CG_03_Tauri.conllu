@@ -540,7 +540,7 @@
 4	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 5	a-	a-	PRON	_	Person=4|PronType=Prs	6	subj/m	_	Gloss=4|SpaceAfter=No
 6	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=akà
-7	aikìː	aikìː	NOUN	_	Gender=Masc	6	comp:pred	_	Gloss=work.Masc
+7	aikìː	aikìː	NOUN	_	Gender=Masc	6	comp:aux	_	Gloss=work.Masc
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	suː	suː	PRON	_	Number=Plur|Person=3	8	comp	_	Gloss=3Plur
 10	?	?	PUNCT	_	_	12	punct	_	Gloss=?
@@ -668,7 +668,7 @@
 19	suː	suː	PRON	_	Number=Plur|Person=3	18	comp	_	Gloss=3Plur
 20	su-	su-	PRON	_	Number=Plur|Person=3	21	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 21	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	18	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=sukà
-22	aikìː	aikìː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=work.Masc
+22	aikìː	aikìː	NOUN	_	Gender=Masc	21	comp:aux	_	Gloss=work.Masc
 23	.	.	PUNCT	_	_	18	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_019-019
@@ -997,7 +997,7 @@
 11	in	in	SCONJ	_	_	18	mod	_	Gloss=if
 12	su-	su-	PRON	_	Number=Plur|Person=3	13	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	11	comp	_	Gloss=Prog|wordform=sunàː
-14	wàːsa	wàːsaː	NOUN	_	Gender=Fem	13	comp:pred	_	Gloss=game.Fem|wordform=wàːsat
+14	wàːsa	wàːsaː	NOUN	_	Gender=Fem	13	comp:aux	_	Gloss=game.Fem|wordform=wàːsat
 15	-t	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No|wordform=-C
 16	tauri	tauri	NOUN	_	Gender=Masc	15	comp	_	Gloss=toughness_charm.Masc
 17	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -1069,7 +1069,7 @@
 1	in	in	SCONJ	_	_	25	mod	_	Gloss=if
 2	su-	su-	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=sunàː
-4	wàːsaː	wàːsaː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=game.Fem
+4	wàːsaː	wàːsaː	NOUN	_	Gender=Fem	3	comp:aux	_	Gloss=game.Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	dà	dà	SCONJ	_	_	25	mod	_	Gloss=when
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=an
@@ -2823,7 +2823,7 @@
 19	wandà	wandà	PRON	_	ExtPos=SCONJ|Gender=Masc|PronType=Rel	14	mod:appos@relcl	_	Gloss=who.Masc|Relz=Word
 20	maːtaː	maːtaː	NOUN	_	Number=Plur	21	subj	_	Gloss=woman.Plur
 21	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	comp	_	ClauseType=Rel|Gloss=Prog.Rel
-22	ùnhwàːniː	ùnhwàːniː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=using.Masc
+22	ùnhwàːniː	ùnhwàːniː	NOUN	_	Gender=Masc	21	comp:aux	_	Gloss=using.Masc
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
 24	shiː	shiː	PRON	_	Gender=Masc|Person=3	23	comp	_	Gloss=3Masc|RelPos=Yes
 25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT

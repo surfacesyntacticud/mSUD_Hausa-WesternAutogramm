@@ -3154,7 +3154,7 @@
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	su-	su-	PRON	_	Number=Plur|Person=3	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	Gloss=Prog|wordform=sunàː
-6	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=chatting.Fem
+6	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	5	comp:aux	_	Gloss=chatting.Fem
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 8	kuma	kuma	CCONJ	_	_	10	cc	_	Gloss=also
 9	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
