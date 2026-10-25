@@ -1432,7 +1432,7 @@
 9	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	8	det	_	Gloss=PreRef|PreRef=Yes
 10	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 11	in	in	SCONJ	_	_	19	mod	_	Gloss=if
-12	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Masc|SpaceAfter=No
+12	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Masc|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	11	comp	_	Gloss=Prog|wordform=shinàː
 14	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
 15	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	14	comp	_	Gloss=money.Masc
@@ -3070,7 +3070,7 @@
 66	shì	yà	PRON	_	Gender=Masc|Person=3|PronType=Prs	65	comp:obj	_	Gloss=3Masc
 67	,	,	PUNCT	_	_	68	punct	_	Gloss=PUNCT
 68	koː	koː	SCONJ	_	_	65	mod	_	Gloss=even_if
-69	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	70	subj/m	_	Gloss=3Masc|SpaceAfter=No
+69	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	70	subj/m	_	Gloss=3Masc|SpaceAfter=No
 70	nàː	nàː	AUX	_	Aspect=Prog	68	comp	_	Gloss=Prog|wordform=shinàː
 71	Ø	yi	VERB	_	_	70	comp:aux	_	Gloss=do
 72	mutà	mutà	PRON	_	Gender=Fem|Person=3	71	comp:obl	_	Gloss=3Fem.Dat

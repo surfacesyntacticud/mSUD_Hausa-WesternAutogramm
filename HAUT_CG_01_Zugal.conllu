@@ -20,7 +20,7 @@
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 4	zuːgàl	zuːgàl	NOUN	_	_	3	comp	_	Gloss=love_charm
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Masc|SpaceAfter=No
+6	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Masc|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 8	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 9	yawàː	yawàː	NOUN	_	Gender=Masc	8	comp	_	Gloss=quantity.Masc
@@ -658,7 +658,7 @@
 23	kùmàːr̃âi	kùmàːr̃âi	NOUN	_	Gender=Masc	22	conj:appos	_	Gloss=crown-bird.Masc
 24	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 25	in	in	SCONJ	_	_	36	mod	_	Gloss=if
-26	ya-	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	27	subj/m	_	Gloss=3Masc|SpaceAfter=No
+26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	27	subj/m	_	Gloss=3Masc|SpaceAfter=No
 27	nàː	nàː	AUX	_	Aspect=Prog	25	comp	_	Gloss=Prog|wordform=yanàː
 28	dà	dà	ADP	_	_	27	comp:pred	_	Gloss=with
 29	màːtaː	màːtaː	NOUN	_	Gender=Fem	28	comp	_	Gloss=wife.Fem
@@ -688,7 +688,7 @@
 # text_ortho = ’im màccè ta nàa dà mijìi, ’in yam mutù, baà ta yiǹ wani hat tà mutù.
 1	im	in	SCONJ	_	_	13	mod	_	Gloss=if
 2	màccè	màccè	NOUN	_	Gender=Fem	4	subj	_	Gloss=female.Fem
-3	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	4	subj/m	_	Gloss=3Fem|SpaceAfter=No
+3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	4	subj/m	_	Gloss=3Fem|SpaceAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=tanàː
 5	dà	dà	ADP	_	_	4	comp:pred	_	Gloss=with
 6	mijìː	mijìː	NOUN	_	_	5	comp	_	Gloss=husband/male
@@ -966,7 +966,7 @@
 11	gàːrîn	gàːriː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=powder.Masc.Def
 12	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	11	det	_	Gloss=PreRef|PreRef=Yes
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-14	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Masc|SpaceAfter=No
+14	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Masc|SpaceAfter=No
 15	nàː	nàː	AUX	_	Copula=Yes	9	parataxis:conj	_	Gloss=be.Loc|wordform=shinàː
 16	wuriː	wuriː	NOUN	_	_	15	comp:pred	_	Gloss=place.Masc|wordform=wuriːnai|wordfrom=wuriːnai
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -2494,7 +2494,7 @@
 16	_̀	_̀	AUX	_	Mood=Sub	10	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 17	niƙèː	niƙèː	VERB	_	_	16	comp:aux	_	Gloss=grind
 18	tun	tun	SCONJ	_	_	17	mod	_	Gloss=since
-19	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Fem|SpaceAfter=No
+19	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Fem|SpaceAfter=No
 20	nàː	nàː	AUX	_	Aspect=Prog	18	comp	_	Gloss=Prog|wordform=tanàː
 21	dà	dà	ADP	_	_	20	comp:pred	_	Gloss=with
 22	damshiː	damshiː	NOUN	_	Gender=Masc	21	comp	_	Gloss=moistness.Masc
@@ -3967,7 +3967,7 @@
 19	an-	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	Gloss=4|SpaceAfter=No|wordform=ankà
 20	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	18	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 21	hàihwaː	hàihwaː	VERB	_	_	20	comp:aux	_	ClauseType=Rel|Gloss=give_birth|RelRole=obj
-22	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	23	subj/m	_	Gloss=3Fem|SpaceAfter=No
+22	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	23	subj/m	_	Gloss=3Fem|SpaceAfter=No
 23	nàː	nàː	AUX	_	Aspect=Prog	20	parataxis:conj	_	Gloss=Prog|wordform=tanàː
 24	'yaƙ	ɗan	ADJ	_	Gender=Fem	25	mod	_	Gloss=little.Fem
 25	ƙàramaː	ƙàramaː	ADJ	_	Gender=Fem	23	comp:aux	_	Gloss=small.Fem
@@ -7988,7 +7988,7 @@
 10	ajèː	ajèː	VERB	_	_	9	comp:aux	_	Gloss=put_aside
 11	shi	shi	PRON	_	Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-13	ya-	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Masc|SpaceAfter=No
+13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Masc|SpaceAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog	9	parataxis:conj	_	Gloss=Prog|wordform=yanàː
 15	kusa	kusa	ADV	_	_	16	comp:pred	_	Gloss=near
 16	gàreː	gàreː	ADP	_	_	14	mod	_	Gloss=at

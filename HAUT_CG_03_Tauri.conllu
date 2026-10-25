@@ -60,7 +60,7 @@
 10	laːyàː	laːyàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=charm.Fem
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	in	in	SCONJ	_	_	23	mod	_	Gloss=if
-13	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Fem|SpaceAfter=No
+13	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Fem|SpaceAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog	12	comp	_	Gloss=Prog|wordform=tanàː
 15	gà	gà	ADP	_	_	14	comp:pred	_	Gloss=at
 16	jìki	jìkiː	NOUN	_	Gender=Masc	15	comp	_	Gloss=body|wordform=jìkim
@@ -3216,7 +3216,7 @@
 23	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	22	comp:obj	_	Gloss=charm.Masc.Def
 24	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 25	in	in	SCONJ	_	_	44	mod	_	Gloss=if
-26	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	27	subj/m	_	Gloss=3Masc|SpaceAfter=No
+26	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	27	subj/m	_	Gloss=3Masc|SpaceAfter=No
 27	nàː	nàː	AUX	_	Aspect=Prog	25	comp	_	Gloss=Prog|wordform=shinàː
 28	gà	gà	ADP	_	_	27	comp:pred	_	Gloss=at
 29	jìki	jìkiː	NOUN	_	_	28	comp	_	GenderAf=Masc|Gloss=body.Masc|wordform=jìkinkà
@@ -3965,7 +3965,7 @@
 # text_en = If it is on you body, whatever metal won't pierce your body.
 # text_ortho = ’in ši nàa gà jìkinkà, du’ ’iᵲìn ƙaᵲhèe, baà ši huudè jìkinkà .
 1	in	in	SCONJ	_	_	14	mod	_	Gloss=if
-2	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Masc|SpaceAfter=No
+2	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Masc|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=shinàː
 4	gà	gà	ADP	_	_	3	comp:pred	_	Gloss=at
 5	jìki	jìkiː	NOUN	_	_	4	comp	_	GenderAf=Masc|Gloss=body.Masc|wordform=jìkinkà

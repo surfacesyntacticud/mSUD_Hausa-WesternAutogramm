@@ -39,7 +39,7 @@
 # text_ortho = wannàn gùdaa ši nàa dà dookìː, gùdaa kàu baà šì dà dookìː.
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
 2	gùdaː	gùdaː	NUM	_	_	4	subj	_	Gloss=one
-3	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	Gloss=3Masc|SpaceAfter=No
+3	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	Gloss=3Masc|SpaceAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 5	dà	dà	ADP	_	_	4	comp:pred	_	Gloss=with
 6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp	_	Gloss=horse.Masc
@@ -415,7 +415,7 @@
 # text = shinàː bisà doːkìː , yac cim mà màːtaːtai , sai yaƙ ƙiyàː mutà màganàː , sai yaw wucèː ta .
 # text_en = On his horse, he caught up with his wife, refused to talk to her, and passed her by.
 # text_ortho = ši nàa bisà dookìː, yac cim mà màataatai, sai yaƙ ƙi mutà màganàa, sai yaw wucèe ta.
-1	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpaceAfter=No
+1	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	8	parataxis:mod	_	Gloss=Prog|wordform=shinàː
 3	bisà	bisà	ADP	_	_	2	comp:pred	_	Gloss=on_top_of
 4	doːkìː	doːkìː	NOUN	_	Gender=Masc	3	comp	_	Gloss=horse.Masc
@@ -753,7 +753,7 @@
 3	zanèn	zanèː	NOUN	_	Definite=Def|Gender=Masc	1	conj:appos	_	Gloss=wrapper.Masc.Def
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=PreRef|PreRef=Yes
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Masc|SpaceAfter=No
+6	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Masc|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 8	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 9	kabriː	kabriː	NOUN	_	Gender=Masc	8	comp	_	Gloss=thickness.Masc
@@ -1180,7 +1180,7 @@
 # text = ya-nàː ta mutà tuːsàː , ɗwai ya-y= mutà yawàː , ta-nàː ta twàːriː cikin zanèː .
 # text_en = He farted, the stench was too much for her, she was coughing in the wrapper.
 # text_ortho = ya nàa ta mutà tuusàa, ɗwai yaa mutà yawàa, ta nàa ta tàaᵲii cikin zanèe.
-1	ya-	ya	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpaceAfter=No
+1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=yanàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	Gloss=Iter
 4-5	mutà	_	_	_	_	_	_	_	_
@@ -1450,7 +1450,7 @@
 16	zoː	zoː	VERB	_	_	15	comp:aux	_	ClauseType=Cleft|Gloss=come
 17	wurim	wurin	ADP	_	_	16	comp:obl	_	Gloss=at
 18	bìkiː	bìkiː	NOUN	_	_	17	comp	_	Gloss=festivity
-19	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Masc|SpaceAfter=No
+19	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Masc|SpaceAfter=No
 20	nàː	nàː	AUX	_	Aspect=Prog	15	parataxis:conj	_	Gloss=Prog|wordform=shinàː
 21	dà	dà	ADP	_	_	20	comp:pred	_	Gloss=with
 22	doːkìː	doːkìː	NOUN	_	Gender=Masc	21	comp	_	Gloss=horse.Masc

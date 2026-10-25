@@ -33,7 +33,7 @@
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 13	maːtaː	maːtaː	NOUN	_	Number=Plur	12	comp	_	Gloss=woman.Plur
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-15	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Masc|SpaceAfter=No
+15	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	16	subj/m	_	Gloss=3Masc|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	8	conj:coord	_	Gloss=Prog|wordform=shinàː
 17	Ø	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	musù	musù	PRON	_	Number=Plur|Person=3	17	comp:obl	_	Gloss=3Plur.Dat
@@ -521,7 +521,7 @@
 7	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	6	comp	_	Gloss=world.Fem
 8	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 9	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	11	subj	_	Gloss=girl.Fem
-10	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	Gloss=3Fem|SpaceAfter=No
+10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	Gloss=3Fem|SpaceAfter=No
 11	nàː	nàː	AUX	_	Aspect=Prog	3	parataxis:conj	_	Gloss=Prog|wordform=tanàː
 12	wurim	wurin	ADP	_	_	11	comp:pred	_	Gloss=at
 13	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	12	comp	_	Gloss=slave.Fem
@@ -595,7 +595,7 @@
 9	zama	zama	VERB	_	_	8	comp:aux	_	Gloss=become
 10	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	9	comp:pred	_	Gloss=girl.Fem
 11	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-12	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Fem|SpaceAfter=No
+12	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Fem|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=tanàː
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	comp:pred	_	Gloss=PreRef|PreRef=Yes
 15	cikin	cikin	ADP	_	_	14	mod:appos	_	Gloss=in(side)
@@ -5114,7 +5114,7 @@
 13	sakoː	sàkaː	VERB	_	_	12	comp:aux	_	Gloss=release.Dir
 14	sarkiː	sarkiː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=chief.Masc
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-16	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Fem|SpaceAfter=No
+16	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Fem|SpaceAfter=No
 17	nàː	nàː	AUX	_	Aspect=Prog	12	parataxis:conj	_	Gloss=Prog|wordform=tanàː
 18	dà	dà	ADP	_	_	17	comp:pred	_	Gloss=with
 19	màganàː	màganàː	NOUN	_	Gender=Fem	18	comp	_	Gloss=talk.Fem
