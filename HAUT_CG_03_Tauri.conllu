@@ -566,7 +566,7 @@
 # text_ortho = nii bàn sanìi ba.
 1	niː	niː	PRON	_	Person=1	2	subj	_	Gloss=1Sing
 2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	Gloss=-1Sing|SpaceBefore=No|wordform=bàn
+3	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	Gloss=-1Sing|SpaceBefore=No|wordform=bàn
 4	sanìː	sanìː	VERB	_	_	2	comp:aux	_	Gloss=know
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg
 6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
