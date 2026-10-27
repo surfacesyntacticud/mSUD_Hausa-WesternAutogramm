@@ -1509,7 +1509,7 @@
 4	:	:	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	miː	miː	PRON	_	PronType=Int	2	dislocated@subj	_	Gloss=what.Int
 6	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=Prs	7	subj/m	_	Gloss=2Fem|SpacesAfter=No
-7	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	5	comp:cleft	_	ClauseType=Int|Gloss=Prog|wordform=kikà
+7	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	5	comp:cleft	_	ClauseType=Int|Gloss=Prog.Rel|wordform=kikà
 8	yôwwaː	yi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp:aux	_	Gloss=do.Dir.Nmlz.Fem
 9	cikin	cikin	ADP	_	_	8	comp:obl	_	Gloss=in(side)
 10	gidaː	gidaː	NOUN	_	_	9	comp	_	Gloss=house.Masc|wordform=gidaːnai|wordfrom=gidaːnai
@@ -1533,7 +1533,7 @@
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	shiː	shiː	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	lìːmân	lìːmân	NOUN	_	Definite=Def|Gender=Masc	4	conj:appos	_	Gloss=imam.Masc.Def
-6	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel
+6	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel
 7	aikì	aik-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:aux	_	Gloss=send.Nmlz.Masc|wordform=aikìntà|wordfrom=aikìntà
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 9	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Fem.Gen|SpacesBefore=No
@@ -1572,7 +1572,7 @@
 4	sabòːdà	sabòːdà	ADP	_	_	3	comp:obj	_	Gloss=because
 5	hakànan	hakànan	ADV	_	_	4	comp	_	Gloss=thus
 6	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Fem|SpacesAfter=No
-7	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=takà
+7	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=takà
 8	shìgaː	shìga	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp:aux	_	Gloss=enter.Nmlz.Fem
 9	gida	gidaː	NOUN	_	Gender=Masc	8	comp:obj@G	_	Gloss=house|wordform=gidan
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -2782,7 +2782,7 @@
 24	ɗa	ɗaː	NOUN	_	Gender=Masc	27	subj	_	Gloss=son|wordform=ɗan
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 26	sarkiː	sarkiː	NOUN	_	Gender=Masc	25	comp	_	Gloss=chief.Masc
-27	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	22	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
+27	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	22	mod@relcl	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
 28	baː	baː	VERB	_	_	27	comp:aux	_	Gloss=give|RelRole=T
 29	tà	ta	PRON	_	Gender=Fem|Person=3	28	comp:obj@R	_	Gloss=3Fem
 30	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
@@ -3830,7 +3830,7 @@
 8	tàː	neː	PART	_	Copula=Yes|Gender=Fem|PartType=Foc	7	discourse@foc	_	Gloss=Emph.Fem
 9	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpacesAfter=No
 10-11	shikài	_	_	_	_	_	_	_	_
-10	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=shikà
+10	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	Gloss=do.Nmlz.Masc
 12	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 13	a-	a	PRON	_	Person=4|PronType=ProSubj	14	subj/m	_	Gloss=4|SpacesAfter=No|wordform=à
@@ -4760,7 +4760,7 @@
 8	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	7	comp	_	Gloss=lie.Fem
 9	shi-	shi	PRON	_	Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpacesAfter=No
 10-11	kài	_	_	_	_	_	_	_	_
-10	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	8	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=shikà
+10	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	8	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	Gloss=do.Nmlz.Masc
 12	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 13	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	14	subj/m	_	Gloss=3Plur|SpacesAfter=No|wordform=sù
@@ -4844,7 +4844,7 @@
 17	in	in	SCONJ	_	_	13	mod	_	Gloss=if
 18	hàukaː	hàukaː	NOUN	_	Gender=Fem	17	comp	_	Gloss=madness.Fem
 19	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Masc|SpacesAfter=No
-20	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	18	comp:cleft	_	ClauseType=Cleft|Gloss=Prog|wordform=shikà
+20	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	18	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 21	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=do.Nmlz.Masc
 22	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 

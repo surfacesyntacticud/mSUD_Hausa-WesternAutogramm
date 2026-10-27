@@ -512,7 +512,7 @@
 25	sàbka	sàbka	VERB	_	_	23	comp:aux	_	Gloss=dismount
 26	indà	indà	ADV	_	_	25	comp:obj	_	Gloss=where
 27	a-	a	PRON	_	Person=4|PronType=Prs	28	subj/m	_	Gloss=4|SpacesAfter=No
-28	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	26	mod@relcl	_	Gloss=Prog|Relz=Affix|wordform=akà
+28	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	26	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix|wordform=akà
 29	bìkiː	bìkiː	NOUN	_	_	28	comp:aux	_	Gloss=festivity
 30	ba	ba	PART	_	PartType=Neg|Polarity=Neg	26	mod	_	Gloss=Neg
 31	.	.	PUNCT	_	_	9	punct	_	Gloss=.
@@ -536,7 +536,7 @@
 10	sàbka	sàbka	VERB	_	_	9	comp:aux	_	Gloss=dismount
 11	indà	indà	ADV	_	_	10	comp:obj	_	Gloss=where
 12	a-	a	PRON	_	Person=4|PronType=Prs	13	subj/m	_	Gloss=4|SpacesAfter=No
-13	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	11	mod@relcl	_	Gloss=Prog|Relz=Affix|wordform=akà
+13	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	11	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix|wordform=akà
 14	bìkiː	bìkiː	NOUN	_	_	13	comp:aux	_	Gloss=festivity
 15	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
@@ -795,14 +795,14 @@
 27	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	22	parataxis:conj	_	Gloss=there_is.Neg
 28	indà	indà	ADV	_	_	27	subj	_	Gloss=where
 29	iskàː	iskàː	NOUN	_	Gender=Fem	30	subj	_	Gloss=air.Fem
-30	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	28	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix
+30	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	28	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix
 31	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	30	comp:aux	_	Gloss=enter.Nmlz.Fem
 32	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 33	kuma	kuma	CCONJ	_	_	34	cc	_	Gloss=also
 34	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	27	conj:coord	_	Gloss=there_is.Neg
 35	indà	indà	ADV	_	_	34	subj	_	Gloss=where
 36	iskàː	iskàː	NOUN	_	Gender=Fem	37	subj	_	Gloss=air.Fem
-37	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	35	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix
+37	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	35	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix
 38	hìtaː	hìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	37	comp:aux	_	Gloss=get_out.Nmlz.Fem
 39	.	.	PUNCT	_	_	22	punct	_	Gloss=.
 
@@ -1006,14 +1006,14 @@
 13	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 14	indà	indà	ADV	_	_	13	subj	_	Gloss=where
 15	iskàː	iskàː	NOUN	_	Gender=Fem	16	subj	_	Gloss=air.Fem
-16	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	14	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix
+16	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	14	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix
 17	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:aux	_	Gloss=enter.Nmlz.Fem
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	kuma	kuma	CCONJ	_	_	20	cc	_	Gloss=also
 20	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	13	conj:coord	_	Gloss=there_is.Neg
 21	indà	indà	ADV	_	_	20	subj	_	Gloss=where
 22	iskàː	iskàː	NOUN	_	Gender=Fem	23	subj	_	Gloss=air.Fem
-23	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	21	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix
+23	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	21	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix
 24	hìtaː	hìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	23	comp:aux	_	Gloss=get_out.Nmlz.Fem
 25	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
