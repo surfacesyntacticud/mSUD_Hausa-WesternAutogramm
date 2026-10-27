@@ -11,7 +11,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 0, 2000
-# text = a-nàː yîn s'àːrìnceː, àmmaː wurin s'àːrìnceː, a-nàː yî-nàbu dà yawàː, wa’àndà su-kè dàban dàban.
+# text = a- nàː yîn s'àːrìnceː , àmmaː wurin s'àːrìnceː , a- nàː yî -n àbu dà yawàː , wa’àndà su- kè dàban dàban .
 # text_en = They do tsarince, but in tsarince, they do many things that are different.
 # text_ortho = ’a nàa yiǹ s’àaᵲìncee, ’àmmaa wuᵲin s’àaᵲìncee, ’a nàa yiǹ ’abuubuwàa dà yawàa, wa’àndà su kè dàban dàban.
 1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpacesAfter=No
@@ -33,8 +33,8 @@
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	14	mod@relcl	_	Gloss=who.Plur|Relz=Word
 19	su-	su	PRON	_	Person=3	20	subj/m	_	Gloss=3Plur|SpacesAfter=No
-20	kè	nàː	AUX	_	Aspect=Prog|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=Prog|RelRole=subj|Relz=Affix|wordform=sukè
-21	dàban	dàban	ADV	_	_	20	comp:pred	_	Gloss=different
+20	kè	kè	AUX	_	Copula=Yes|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=be.Pred/Loc.Rel|RelRole=subj|Relz=Affix|wordform=sukè
+21	dàban	dàban	ADV	_	_	20	comp:loc	_	Gloss=different
 22	dàban	dàban	ADV	_	_	21	conj:redup	_	Gloss=different
 23	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
