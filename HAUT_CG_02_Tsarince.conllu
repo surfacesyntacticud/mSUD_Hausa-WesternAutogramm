@@ -34,7 +34,7 @@
 18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	14	mod@relcl	_	Gloss=who.Plur|Relz=Word
 19	su-	su	PRON	_	Person=3	20	subj/m	_	Gloss=3Plur|SpacesAfter=No
 20	kè	kè	AUX	_	Copula=Yes|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=be.Pred/Loc.Rel|RelRole=subj|Relz=Affix|wordform=su-
-21	dàban	dàban	ADV	_	_	20	comp:loc	_	Gloss=different
+21	dàban	dàban	ADV	_	_	20	comp:pred	_	Gloss=different
 22	dàban	dàban	ADV	_	_	21	conj:redup	_	Gloss=different
 23	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -2004,7 +2004,7 @@
 50	kuma	kuma	CCONJ	_	_	51	cc	_	Gloss=also
 51	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	45	conj:coord	_	Gloss=there_is.Neg|wordform=-shi
 52	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	51	subj/m	_	Gloss=-3Masc|SpacesBefore=No
-53	dà	dà	ADP	_	_	51	comp:loc	_	Gloss=with
+53	dà	dà	ADP	_	_	51	comp:pred	_	Gloss=with
 54	kir̃kiː	kir̃kiː	NOUN	_	Gender=Masc	53	comp	_	Gloss=honesty.Masc
 55	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
 56	sai	sai	ADV	_	_	58	mod	_	Gloss=then
@@ -2517,7 +2517,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 57000, 58000
-# text = bùtun ’yam maːtaː, dà suː dà sàmàːriː, cikin tagaːmaːwaː dà buːzàːyeː dà abzinaːwaː, bâː’a s'àːrìnceː, sai dai yaːwòː.
+# text = bùtu -n ’yam maːtaː , dà suː dà sàmàːriː , cikin tagaːmaːwaː dà buːzàːyeː dà abzinaːwaː , bâː -a s'àːrìnceː , sai dai yaːwòː .
 # text_en = Concerning girls, them and boys, among the Tagama people, the Tuareg, and the Azben people, they don't do "tsarince", only "yawo".
 # text_ortho = bùtun ’’yam maataa, dà suu dà sàmàaᵲii, cikin tagaamaawaa dà buuzàayee dà ’abzinaawaa, baà ’a s’àaᵲìncee, sai dai yaawòo.
 1	bùtu	bùtu	NOUN	_	Gender=Masc	18	dislocated@top	_	Gloss=chatting|wordform=bùtun
@@ -2537,9 +2537,9 @@
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=and
 16	abzinaːwaː	abzinaːwaː	PROPN	_	Number=Plur	14	conj:coord	_	Gloss=Azben_people.Plur
 17	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-18	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bâː’a
+18	bâː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	0	root	_	Gloss=Neg.Prog|wordform=bâː’a
 19	-a	a	PRON	_	Person=4|PronType=ProSubj	18	subj/m	_	Gloss=-4|SpacesBefore=No
-20	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	18	comp:loc	_	Gloss=cuddling.Masc
+20	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	18	comp:aux	_	Gloss=cuddling.Masc
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	sai	sai	ADP	_	_	18	parataxis:conj	_	Gloss=then
 23	dai	dai	PART	_	PartType=Top	22	discourse@top	_	Gloss=however

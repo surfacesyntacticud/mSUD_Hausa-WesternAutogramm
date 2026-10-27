@@ -981,7 +981,7 @@
 9	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	10	dislocated@subj	_	Gloss=malam.Masc
 10	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	21	dislocated@mod	_	Gloss=there_is.Neg|wordform=bâːshi
 11	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	10	subj/m	_	Gloss=-3Masc|SpacesBefore=No
-12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	comp:loc	_	Gloss=PreRef|PreRef=Yes
+12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	comp:pred	_	Gloss=PreRef|PreRef=Yes
 13	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 14	sai	sai	ADV	_	_	21	mod	_	Gloss=then
 15	ɗa	ɗaː	NOUN	_	Gender=Masc	21	subj	_	Gloss=son|wordform=ɗan
@@ -1034,7 +1034,7 @@
 19	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	20	dislocated@subj	_	Gloss=malam.Masc
 20	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	comp:obj	_	Gloss=there_is.Neg|wordform=bâːshi
 21	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	20	subj/m	_	Gloss=-3Masc|SpacesBefore=No
-22	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	20	comp:loc	_	Gloss=PreRef|PreRef=Yes
+22	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	20	comp:pred	_	Gloss=PreRef|PreRef=Yes
 23	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 24	sai	sai	ADV	_	_	26	mod	_	Gloss=then
 25	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	26	subj/m	_	Gloss=3Fem|SpacesAfter=No
@@ -4050,7 +4050,7 @@
 19	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 20	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	17	comp	_	Gloss=there_is.Neg|wordform=bâːshi
 21	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	20	subj/m	_	Gloss=-3Masc|SpacesBefore=No
-22	dà	dà	ADP	_	_	20	comp:loc	_	Gloss=with
+22	dà	dà	ADP	_	_	20	comp:pred	_	Gloss=with
 23	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	22	comp	_	Gloss=health.Fem
 24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 25	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	26	subj/m	_	Gloss=3Masc|SpacesAfter=No
@@ -4170,7 +4170,7 @@
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	25	parataxis:conj	_	Gloss=there_is.Neg|wordform=bâːshi
 30	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	29	subj/m	_	Gloss=-3Masc|SpacesBefore=No
-31	dà	dà	ADP	_	_	29	comp:loc	_	Gloss=with
+31	dà	dà	ADP	_	_	29	comp:pred	_	Gloss=with
 32	lâihiː	lâihiː	NOUN	_	Gender=Masc	31	comp	_	Gloss=fault.Masc
 33	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 34	kissà	kissàː	NOUN	_	_	37	comp:pred	_	Gloss=deception.Fem|wordform=kissàmmù
@@ -4473,7 +4473,7 @@
 11	buːshèː	buːshèː	VERB	_	_	10	comp:aux	_	Gloss=dry
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	10	parataxis:conj	_	Gloss=there_is.Neg
-14	indà	indà	ADV	_	_	13	comp:loc	_	Gloss=where
+14	indà	indà	ADV	_	_	13	comp:pred	_	Gloss=where
 15	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons|Gender=Masc	16	mod	_	Gloss=green/unripe.Masc
 16	hakì:	hakì:	NOUN	_	Gender=Masc	18	subj	_	Gloss=grass.Masc
 17	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	18	subj/m	_	Gloss=3Masc|SpacesAfter=No
@@ -4552,7 +4552,7 @@
 13	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	12	comp:obj/m	_	Gloss=3Fem.Gen|SpacesBefore=No
 14	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	20	dislocated@mod	_	Gloss=there_is.Neg
 15	koːwaː	koːwaː	PRON	_	_	14	subj	_	Gloss=everyone
-16	kusa	kusa	ADV	_	_	14	comp:loc	_	Gloss=near
+16	kusa	kusa	ADV	_	_	14	comp:pred	_	Gloss=near
 17	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 18	sai	sai	ADV	_	_	20	mod	_	Gloss=then
 19	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	20	subj/m	_	Gloss=3Fem|SpacesAfter=No
@@ -5225,7 +5225,7 @@
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	parataxis:conj	_	Gloss=there_is.Neg|wordform=-shi
 23	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	22	subj/m	_	Gloss=-3Masc|SpacesBefore=No
-24	dà	dà	ADP	_	_	22	comp:loc	_	Gloss=with
+24	dà	dà	ADP	_	_	22	comp:pred	_	Gloss=with
 25	lâihiː	lâihiː	NOUN	_	Gender=Masc	24	comp	_	Gloss=fault.Masc
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	cikin	cikin	ADP	_	_	24	mod	_	Gloss=in(side)

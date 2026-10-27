@@ -585,7 +585,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 20000, 21000
-# text = in iskàː y-aː= shìgeː shì, sai shi-_̀= laːlàːceː, bâː- shi= aikìn dà a-kà sôː.
+# text = in iskàː y- aː shìgeː shì , sai shi- _̀ laːlàːceː , bâː -shi aikìn dà a- kà sôː .
 # text_en = If air gets inside, it will spoil and won't have the effect you want.
 # text_ortho = ’in ’iskàa yaa šìgee šì, sai šì laalàacee, baà šì ’aikìn dà ’à kà soò.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
@@ -600,9 +600,9 @@
 10	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=shì
 11	laːlàːceː	laːlàːceː	VERB	_	_	10	comp:aux	_	Gloss=spoil
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	10	parataxis:conj	_	Gloss=Neg.Perf|wordform=bâːshi
+13	bâː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	10	parataxis:conj	_	Gloss=Neg.Prog|wordform=bâːshi
 14	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	13	subj/m	_	Gloss=-3Masc|SpacesBefore=No
-15	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	13	comp:loc	_	Gloss=work.Masc.Def|RelAnt=Yes
+15	aikìn	aikìː	NOUN	_	Definite=Def|Gender=Masc	13	comp:aux	_	Gloss=work.Masc.Def|RelAnt=Yes
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=CompRel|Relz=Word
 17	a-	a	PRON	_	Person=4|PronType=Prs	18	subj/m	_	Gloss=4|SpacesAfter=No
 18	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	16	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=a-
@@ -1138,7 +1138,7 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg|SpacesAfter=No|wordform=-ta
 8	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	7	subj/m	_	Gloss=-3Fem|SpacesBefore=No
-9	dà	dà	ADP	_	_	7	comp:loc	_	Gloss=with
+9	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 10	hankàliː	hankàliː	NOUN	_	Gender=Masc	9	comp	_	Gloss=sense.Masc
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	bâː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	7	parataxis:conj	_	Gloss=Neg.Perf|wordform=bâːta
@@ -1684,7 +1684,7 @@
 12	waddà	waddà	PRON	_	ExtPos=SCONJ|Gender=Fem|PronType=Rel	10	mod@relcl	_	Gloss=who.Fem|Relz=Word
 13	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	12	comp	_	ClauseType=Rel|Gloss=there_is.Neg|RelRole=subj|wordform=-ta
 14	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	13	subj/m	_	Gloss=-3Fem|SpacesBefore=No
-15	dà	dà	ADP	_	_	13	comp:loc	_	Gloss=with
+15	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
 16	gamìː	gamìː	NOUN	_	Gender=Masc	15	comp	_	Gloss=tampering.Masc
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	a-	a	PRON	_	Person=4|PronType=ProSubj	19	subj/m	_	Gloss=4|SpacesAfter=No
@@ -2157,7 +2157,7 @@
 35	ruwa	ruwaː	NOUN	_	_	34	subj	_	Gloss=water.Plur|wordform=ruwantà|wordfrom=ruwantà
 36	-n	na	PART	_	Case=Gen|PartType=Case	35	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 37	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	36	comp:obj/m	_	Gloss=3Fem.Gen|SpacesBefore=No
-38	dà	dà	ADP	_	_	34	comp:loc	_	Gloss=with
+38	dà	dà	ADP	_	_	34	comp:pred	_	Gloss=with
 39	koːwaː	koːwaː	PRON	_	_	38	comp	_	Gloss=everyone
 40	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
 41	sai	sai	ADV	_	_	42	mod	_	Gloss=only
@@ -3748,7 +3748,7 @@
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	24	parataxis:conj	_	Gloss=there_is.Neg|wordform=-ta
 29	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	28	subj/m	_	Gloss=-3Fem|SpacesBefore=No
-30	dà	dà	ADP	_	_	28	comp:loc	_	Gloss=with
+30	dà	dà	ADP	_	_	28	comp:pred	_	Gloss=with
 31	wata	wata	DET	_	Gender=Fem	32	det	_	Gloss=some.Fem
 32	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Gender=Fem	30	comp	_	Gloss=cleverness/trick.Fem
 33	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
@@ -5413,7 +5413,7 @@
 75	kuma	kuma	CCONJ	_	_	76	cc	_	Gloss=also
 76	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	69	conj:coord	_	Gloss=Neg.Perf|wordform=bâːka
 77	-ka	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	76	subj/m	_	Gloss=-2Masc|SpacesBefore=No
-78	arme	armeː	NOUN	_	_	76	comp:loc	_	Gloss=wedding.Masc|wordform=armentà|wordfrom=armentà
+78	arme	armeː	NOUN	_	_	76	comp:pred	_	Gloss=wedding.Masc|wordform=armentà|wordfrom=armentà
 79	-n	na	PART	_	Case=Gen|PartType=Case	78	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 80	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	79	comp:obj/m	_	Gloss=3Fem.Gen|SpacesBefore=No
 81	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
@@ -5532,7 +5532,7 @@
 5	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
 6	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	comp	_	ClauseType=Rel|Gloss=there_is.Neg|RelRole=subj|wordform=ta
 7	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	6	subj/m	_	Gloss=3Fem|RelPos=Yes
-8	dà	dà	ADP	_	_	6	comp:loc	_	ClauseType=Rel|Gloss=with
+8	dà	dà	ADP	_	_	6	comp:pred	_	ClauseType=Rel|Gloss=with
 9	zuccìyaː	zuccìyaː	NOUN	_	Gender=Fem	8	comp	_	Gloss=heart.Fem
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
@@ -5551,7 +5551,7 @@
 6	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 7	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg|wordform=bâːta
 8	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	7	subj/m	_	Gloss=-3Fem|SpacesBefore=No
-9	dà	dà	ADP	_	_	7	comp:loc	_	Gloss=with
+9	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 10	zuccìyaː	zuccìyaː	NOUN	_	Gender=Fem	9	comp	_	Gloss=heart.Fem
 11	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -5565,7 +5565,7 @@
 1	sabòːdà	sabòːdà	SCONJ	_	_	23	mod	_	Gloss=because
 2	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	1	comp	_	Gloss=Neg.Perf|wordform=bâːta
 3	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	2	subj/m	_	Gloss=-3Fem|SpacesBefore=No
-4	hushiː	hushiː	NOUN	_	Gender=Masc	2	comp:loc	_	Gloss=anger.Masc
+4	hushiː	hushiː	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=anger.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	dà'	dàgà	ADP	_	_	24	comp:obj@S	_	Gloss=from
 7	indà	indà	ADV	_	PronType=Rel	6	comp	_	Gloss=where|RelAnt=Yes|Relz=Word
@@ -5654,7 +5654,7 @@
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 12	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg|wordform=-su
 13	-su	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	12	subj/m	_	Gloss=-2Plur|SpacesBefore=No
-14	dà	dà	ADP	_	_	12	comp:loc	_	Gloss=with
+14	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
 15	zuccìyaː	zuccìyaː	NOUN	_	Gender=Fem	14	comp	_	Gloss=heart.Fem
 16	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 

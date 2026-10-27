@@ -594,7 +594,7 @@
 14	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 15	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bâːsu
 16	-su	su	PRON	_	Person=3|PronType=ProSubj	15	subj/m	_	Gloss=-2Plur|SpacesBefore=No
-17	aikìː	aikìː	NOUN	_	Gender=Masc	15	comp:loc	_	Gloss=work.Masc
+17	aikìː	aikìː	NOUN	_	Gender=Masc	15	comp:pred	_	Gloss=work.Masc
 18	sai	sai	ADP	_	_	17	udep	_	Gloss=except_for
 19	dà	dà	ADP	_	_	18	comp	_	Gloss=with
 20	shiː	shiː	PRON	_	Gender=Masc|Person=3	19	comp	_	Gloss=3Masc

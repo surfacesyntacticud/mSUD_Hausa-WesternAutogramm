@@ -616,7 +616,7 @@
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 5	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	4	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
 6	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
-7	làɓe	laɓèː	VERB	_	ExtPos=ADV|VerbForm=Part	6	comp:pred	_	Gloss=hide.Part
+7	làɓe	laɓèː	VERB	_	ExtPos=ADV|VerbForm=Part	6	comp:aux	_	Gloss=hide.Part
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	cikin	cikin	ADP	_	_	7	mod	_	Gloss=in(side)
 10	itàːceː	itàːceː	NOUN	_	Number=Plur	9	comp	_	Gloss=tree.Plur
