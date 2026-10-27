@@ -6,7 +6,7 @@
 # text_en = Let's give you the tale of a Fulani who behaved badly, he had sex with his mother-in-law, his wife's mother.
 # text_ortho = zaà mu baa kù laàbaarìi na wani bàhillaacèe dà yay yi làalaatàa, yac ci sàᵲàkkuwaatai, ’uwam màataatai.
 1	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zâːmu=
-2	-mu	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	1	subj/m	_	Gloss=1Plur|SpacesBefore=No
+2	mu	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	1	subj	_	Gloss=1Plur|SpacesBefore=No|wordform=-mu
 3	baː	baː	VERB	_	_	1	comp:aux	_	Gloss=give
 4	kù	kù	PRON	_	Number=Plur|Person=2	3	comp:obj@R	_	Gloss=2Plur
 5	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	Gender=Masc	3	comp:obj@T	_	Gloss=story.Masc
@@ -113,7 +113,7 @@
 17	wàdà	wàdà	ADV	_	PronType=Rel	16	comp:obj	_	Gloss=how|RelAnt=Yes|Relz=Word
 18	zâː	zâː	AUX	_	Tense=Fut	17	mod@relcl	_	Gloss=Fut|wordform=zâːka=
 19-20	zâː	_	_	_	_	_	_	_	_
-19	-ka	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	18	subj/m	_	Gloss=2Masc|SpacesBefore=No
+19	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	18	subj	_	Gloss=2Masc|SpacesBefore=No|wordform=-ka
 20	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	18	comp:aux	_	ClauseType=Rel|Gloss=do.Vnoun.Masc|RelRole=mod
 21	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	22	subj/m	_	Gloss=2Masc|SpacesAfter=No
 22	_̀	_̀	AUX	_	Mood=Sub	20	mod	_	Gloss=Sub|wordform=kà
@@ -223,7 +223,7 @@
 # text_ortho = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
 2	zâː	zâː	AUX	_	Tense=Fut	1	comp	_	Gloss=Fut|wordform=zâːsu=
-3	-su	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	2	subj/m	_	Gloss=3Plur|SpacesBefore=No
+3	su	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	2	subj	_	Gloss=3Plur|SpacesBefore=No|wordform=-su
 4	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:aux	_	Gloss=go.Vnoun.Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	12	dislocated@subj	_	Gloss=3Masc
@@ -266,11 +266,11 @@
 43	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	42	comp	_	Gloss=3Plur.Gen|SpacesBefore=No
 44	,	,	PUNCT	_	_	45	punct	_	Gloss=PUNCT
 45	indà	indà	ADV	_	_	41	mod	_	Gloss=where
-46	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	49	subj	_	GenderAf=Masc|Gloss=in-law.Fem|wordform=sàràkkuwaːtai
+46	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	49	dislocated@subj	_	GenderAf=Masc|Gloss=in-law.Fem|wordform=sàràkkuwaːtai
 47	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	46	mod@poss/m	_	Gloss=Gen.Fem|SpacesBefore=No
 48	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	47	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
 49	bâː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	45	mod@relcl	_	Gloss=Neg.Perf|wordform=bâːta
-50	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	49	subj/m	_	Gloss=-3Fem|SpacesBefore=No
+50	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	49	subj	_	Gloss=-3Fem|SpacesBefore=No|wordform=-ta
 51	ganiː	ganiːnai	VERB	_	ExtPos=NOUN	49	comp:aux	_	Gloss=see.Vnoun.Masc|wordform=ganiːnai|wordfrom=ganiːnai
 52	-n	na	PART	_	Case=Gen|PartType=Case	51	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 53	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	52	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
@@ -486,7 +486,7 @@
 7	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 8	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	3	comp:obj@T	_	Gloss=how
 9	zâː	zâː	AUX	_	Tense=Fut	8	comp:cleft	_	Gloss=Fut|wordform=zâːmu=
-10	-mu	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	9	subj/m	_	Gloss=1Plur|SpacesBefore=No
+10	mu	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	9	subj	_	Gloss=1Plur|SpacesBefore=No|wordform=-mu
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:aux	_	ClauseType=Int|Gloss=do.Vnoun.Masc
 12	tun	tun	SCONJ	_	_	11	mod	_	Gloss=since/before
 13	dà	dà	SCONJ	_	_	12	comp	_	Gloss=when
@@ -822,7 +822,7 @@
 4	:	:	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	3	comp:obj@T	_	Gloss=how
 6	zâː	zâː	AUX	_	Tense=Fut	5	comp:cleft	_	Gloss=Fut|SpaceForm=zâi|wordform=zâːni=
-7	-ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	6	subj/m	_	Gloss=3Masc|SpacesBefore=No
+7	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	6	subj	_	Gloss=3Masc|SpacesBefore=No|wordform=-ni
 8	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	6	comp:aux	_	ClauseType=Int|Gloss=say.Vnoun.Fem
 9	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
