@@ -5504,9 +5504,9 @@
 # text_en = Whatever you do to her, she cannot leave you.
 # text_ortho = koo mìi kam mutà, baà ta ’iyà ᵲàbuwaa dà kai.
 1	koːmìː	koːmìː	PRON	_	_	7	mod	_	Gloss=anything
-2	ka-	ka=	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	3	subj/m	_	Gloss=3Fem|SpacesAfter=No|wordform=kam
+2	ka-	ka=	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	3	subj/m	_	Gloss=3Fem|SpacesAfter=No
 3-4	m=	_	_	_	_	_	_	_	_
-3	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=m=
+3	C	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=kam
 4	Ø	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	mutà	mutà	PRON	_	Gender=Fem|Person=3	4	comp:obl	_	Gloss=3Fem.Dat
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
