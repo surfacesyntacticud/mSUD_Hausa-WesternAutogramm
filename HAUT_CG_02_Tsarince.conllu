@@ -33,7 +33,7 @@
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	14	mod@relcl	_	Gloss=who.Plur|Relz=Word
 19	su-	su	PRON	_	Person=3	20	subj/m	_	Gloss=3Plur|SpacesAfter=No
-20	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=be.Pred/Loc.Rel|RelRole=subj|Relz=Affix|wordform=su-
+20	kè	kèː	AUX	_	ExtPos=PART|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=be.Pred/Loc.Rel|RelRole=subj|Relz=Affix|wordform=su-
 21	dàban	dàban	ADV	_	_	20	comp:pred	_	Gloss=different
 22	dàban	dàban	ADV	_	_	21	conj:redup	_	Gloss=different
 23	.	.	PUNCT	_	_	2	punct	_	Gloss=.
