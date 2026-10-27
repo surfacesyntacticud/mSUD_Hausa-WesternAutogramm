@@ -61,7 +61,7 @@
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	in	in	SCONJ	_	_	23	mod	_	Gloss=if
 13	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Fem|SpacesAfter=No
-14	nàː	nàː	AUX	_	Aspect=Prog	12	comp	_	Gloss=Prog|wordform=ta-
+14	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	12	comp	_	Gloss=Prog|wordform=ta-
 15	gà	gà	ADP	_	_	14	comp:pred	_	Gloss=at
 16	jìki	jìkiː	NOUN	_	Gender=Masc	15	comp	_	Gloss=body|wordform=jìkim
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -3217,7 +3217,7 @@
 24	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 25	in	in	SCONJ	_	_	44	mod	_	Gloss=if
 26	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	27	subj/m	_	Gloss=3Masc|SpacesAfter=No
-27	nàː	nàː	AUX	_	Aspect=Prog	25	comp	_	Gloss=Prog|wordform=shi-
+27	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	25	comp	_	Gloss=Prog|wordform=shi-
 28	gà	gà	ADP	_	_	27	comp:pred	_	Gloss=at
 29	jìki	jìkiː	NOUN	_	_	28	comp	_	GenderAf=Masc|Gloss=body.Masc|wordform=jìkinkà
 30	-n	na	PART	_	Case=Gen|PartType=Case	29	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -3778,7 +3778,7 @@
 # text_ortho = ’in kàrhoǹ nàa dà šaahìi, na ɓaᵲgon jàakii dà ’àleewà dà šuunii, ’ankà ’azàa ši bisà hwaatàa, waddà zaà ’a ɗumkèe ši.
 1	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 2	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=charm_belt.Masc.Def
-3	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog
+3	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	1	comp	_	Gloss=Prog
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	shaːhìː	shaːhìː	NOUN	_	Gender=Masc	4	comp	_	Gloss=lining.Masc
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -3966,7 +3966,7 @@
 # text_ortho = ’in ši nàa gà jìkinkà, du’ ’iᵲìn ƙaᵲhèe, baà ši huudè jìkinkà .
 1	in	in	SCONJ	_	_	14	mod	_	Gloss=if
 2	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Masc|SpacesAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=shi-
+3	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	1	comp	_	Gloss=Prog|wordform=shi-
 4	gà	gà	ADP	_	_	3	comp:pred	_	Gloss=at
 5	jìki	jìkiː	NOUN	_	_	4	comp	_	GenderAf=Masc|Gloss=body.Masc|wordform=jìkinkà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No

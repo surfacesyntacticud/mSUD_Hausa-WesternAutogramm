@@ -41,7 +41,7 @@
 # text_en = He has a wife.
 # text_ortho = ši nàa dà màataššì.
 1	shi-	shi	PRON	_	Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpacesAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shi-
+2	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	Gloss=Prog|wordform=shi-
 3	dà	dà	ADP	_	_	2	comp:pred	_	Gloss=with
 4	màːtaː	màːtaː	NOUN	_	_	3	comp	_	Gloss=wife.Fem|wordform=màːtashshì
 5	-s	na	PART	_	Case=Gen|PartType=Case	4	mod@poss	_	Gloss=Gen.Fem|SpacesBefore=No
@@ -60,7 +60,7 @@
 3	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	2	mod@poss/m	_	Gloss=Gen.Fem|SpacesBefore=No
 4	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	6	subj/m	_	Gloss=3Fem|SpacesAfter=No
-6	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=ta-
+6	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	Gloss=Prog|wordform=ta-
 7	dà	dà	ADP	_	_	6	comp:pred	_	Gloss=with
 8	uwaː	uwaː	NOUN	_	Gender=Fem	7	comp	_	Gloss=mother.Fem
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -82,7 +82,7 @@
 8	ita	ita	PRON	_	Gender=Fem|Person=3	11	dislocated@subj	_	Gloss=3Fem
 9	kàu	kàu	PART	_	PartType=Top	8	discourse@top	_	Gloss=whereas
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	Gloss=3Fem|SpacesAfter=No
-11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=ta-
+11	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	Gloss=Prog|wordform=ta-
 12	dà	dà	ADP	_	_	11	comp:pred	_	Gloss=with
 13	kyâu	kyâu	NOUN	_	Gender=Masc	12	comp	_	Gloss=goodness/beauty.Masc
 14	.	.	PUNCT	_	_	11	punct	_	Gloss=.
@@ -460,7 +460,7 @@
 # text_en = They were standing there, him and the mother-in-law.
 # text_ortho = su nàa nan s’àis’àye, dà šii dà sàᵲàkkuwaa.
 1	su-	su	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur|SpacesAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=su-
+2	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=su-
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	s'àis'àye	s'ayàː	VERB	_	ExtPos=ADV|Number=Plur|VerbForm=Part	3	conj:appos	_	Gloss=stop.Plur.Part
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -638,7 +638,7 @@
 7	àboːkiː	àboːkiː	NOUN	_	_	10	subj	_	Gloss=friend.Masc|wordform=àboːkiːnai|wordfrom=àboːkiːnai
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 9	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
-10	nàː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog
+10	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	6	comp:obj	_	Gloss=Prog
 11	nam	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	comp:pred	_	Gloss=Remt
 12	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	Gloss=Neg
 13	.	.	PUNCT	_	_	4	punct	_	Gloss=.

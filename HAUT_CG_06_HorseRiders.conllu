@@ -40,7 +40,7 @@
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
 2	gùdaː	gùdaː	NUM	_	_	4	subj	_	Gloss=one
 3	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	Gloss=3Masc|SpacesAfter=No
-4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shi-
+4	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	Gloss=Prog|wordform=shi-
 5	dà	dà	ADP	_	_	4	comp:pred	_	Gloss=with
 6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp	_	Gloss=horse.Masc
 7	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -130,7 +130,7 @@
 2	mijì	mijìː	NOUN	_	_	5	subj	_	Gloss=husband/male|wordform=mijìntà|wordfrom=mijìntà
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 4	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Fem.Gen|SpacesBefore=No
-5	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog
+5	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	1	comp	_	Gloss=Prog
 6	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	5	comp:pred	_	Gloss=PreRef|PreRef=Yes
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	in	in	SCONJ	_	_	20	mod	_	Gloss=if
@@ -210,7 +210,7 @@
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
 1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpacesAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	10	mod	_	Gloss=be.Loc|wordform=a-
+2	nàː	nàː	AUX	_	ExtPos=PART	10	mod	_	Gloss=be.Loc|wordform=a-
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	zama	zama	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	mod:appos	_	Gloss=stay.Nmlz.Masc|wordform=zaman
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -416,7 +416,7 @@
 # text_en = On his horse, he caught up with his wife, refused to talk to her, and passed her by.
 # text_ortho = ši nàa bisà dookìː, yac cim mà màataatai, sai yaƙ ƙi mutà màganàa, sai yaw wucèe ta.
 1	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpacesAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog	8	parataxis:mod	_	Gloss=Prog|wordform=shi-
+2	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	8	parataxis:mod	_	Gloss=Prog|wordform=shi-
 3	bisà	bisà	ADP	_	_	2	comp:pred	_	Gloss=on_top_of
 4	doːkìː	doːkìː	NOUN	_	Gender=Masc	3	comp	_	Gloss=horse.Masc
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -548,7 +548,7 @@
 # text_en = They stayed there, each one with their host, until the sun went down.
 # text_ortho = su nàa nan zàmne, koowaa masabkiinai, haᵲ ᵲaanaa tah hwaaɗì.
 1	su-	su	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur|SpacesAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=su-
+2	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=su-
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Part	3	conj:appos	_	Gloss=stay.Part
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -754,7 +754,7 @@
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=PreRef|PreRef=Yes
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Masc|SpacesAfter=No
-7	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shi-
+7	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	Gloss=Prog|wordform=shi-
 8	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 9	kabriː	kabriː	NOUN	_	Gender=Masc	8	comp	_	Gloss=thickness.Masc
 10	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -1451,7 +1451,7 @@
 17	wurim	wurin	ADP	_	_	16	comp:obl	_	Gloss=at
 18	bìkiː	bìkiː	NOUN	_	_	17	comp	_	Gloss=festivity
 19	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Masc|SpacesAfter=No
-20	nàː	nàː	AUX	_	Aspect=Prog	15	parataxis:conj	_	Gloss=Prog|wordform=shi-
+20	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	15	parataxis:conj	_	Gloss=Prog|wordform=shi-
 21	dà	dà	ADP	_	_	20	comp:pred	_	Gloss=with
 22	doːkìː	doːkìː	NOUN	_	Gender=Masc	21	comp	_	Gloss=horse.Masc
 23	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -1477,7 +1477,7 @@
 # text_ortho = dà su nàa nan gidaa, sai mài dookìː yab biyoo, ši nàa zaamiyaa
 1	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
 2	su-	su	PRON	_	Number=Plur|Person=3	3	subj/m	_	Gloss=3Plur|SpacesAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=su-
+3	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	1	comp	_	Gloss=Prog|wordform=su-
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
 5	gidaː	gidaː	NOUN	_	Gender=Masc	4	conj:appos	_	Gloss=house.Masc
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT

@@ -21,7 +21,7 @@
 4	zuːgàl	zuːgàl	NOUN	_	_	3	comp	_	Gloss=love_charm
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Masc|SpacesAfter=No
-7	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shi-
+7	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	Gloss=Prog|wordform=shi-
 8	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 9	yawàː	yawàː	NOUN	_	Gender=Masc	8	comp	_	Gloss=quantity.Masc
 10	don	don	SCONJ	_	_	7	mod	_	Gloss=because
@@ -659,7 +659,7 @@
 24	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 25	in	in	SCONJ	_	_	36	mod	_	Gloss=if
 26	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	27	subj/m	_	Gloss=3Masc|SpacesAfter=No
-27	nàː	nàː	AUX	_	Aspect=Prog	25	comp	_	Gloss=Prog|wordform=ya-
+27	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	25	comp	_	Gloss=Prog|wordform=ya-
 28	dà	dà	ADP	_	_	27	comp:pred	_	Gloss=with
 29	màːtaː	màːtaː	NOUN	_	Gender=Fem	28	comp	_	Gloss=wife.Fem
 30	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -689,7 +689,7 @@
 1	im	in	SCONJ	_	_	13	mod	_	Gloss=if
 2	màccè	màccè	NOUN	_	Gender=Fem	4	subj	_	Gloss=female.Fem
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	4	subj/m	_	Gloss=3Fem|SpacesAfter=No
-4	nàː	nàː	AUX	_	Aspect=Prog	1	comp	_	Gloss=Prog|wordform=ta-
+4	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	1	comp	_	Gloss=Prog|wordform=ta-
 5	dà	dà	ADP	_	_	4	comp:pred	_	Gloss=with
 6	mijìː	mijìː	NOUN	_	_	5	comp	_	Gloss=husband/male
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -967,7 +967,7 @@
 12	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	11	det	_	Gloss=PreRef|PreRef=Yes
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Masc|SpacesAfter=No
-15	nàː	nàː	AUX	_	Copula=Yes	9	parataxis:conj	_	Gloss=be.Loc|wordform=shi-
+15	nàː	nàː	AUX	_	ExtPos=PART	9	parataxis:conj	_	Gloss=be.Loc|wordform=shi-
 16	wuriː	wuriː	NOUN	_	_	15	comp:pred	_	Gloss=place.Masc|wordform=wuriːnai|wordfrom=wuriːnai
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 18	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
@@ -1593,14 +1593,16 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 46000, 46852
-# text = ita a- kà mâː.
+# text = ita a- kà mâː .
 # text_en = It's to her that you do it.
 # text_ortho = ’ita ’a kà maà.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	0	root	_	Gloss=3Fem
 2	a-	a	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpacesAfter=No
-3	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=a-
-4	mâː	mâː	ADP	_	ExtPos=VERB	3	comp:pred	_	Gloss=do.Dat
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+3	kà	kèː	AUX	_	Aspect=Prog|ExtPos=PART|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Prog.Rel|wordform=a-
+4-5	mâː	_	_	_	_	_	_	_	_
+4	Ø	yi	VERB	_	_	3	comp:aux	_	Gloss=do
+5	mà	mà	ADP	_	Case=Dat	4	comp:obl	_	Gloss=Dat
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_053-053_split1
 # speaker_id = *
@@ -1824,7 +1826,7 @@
 11	bishshiyaː	bishshiyaː	NOUN	_	Gender=Fem	8	conj:coord	_	Gloss=hedgehog.Fem
 12	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 13	su-	su	PRON	_	Person=3	14	subj/m	_	Gloss=3Plur|SpacesAfter=No
-14	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Pred|wordform=su-
+14	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Pred|wordform=su-
 15	dà	dà	ADP	_	_	14	comp:pred	_	Gloss=with
 16	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	15	comp	_	Gloss=custom.Fem
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -2495,7 +2497,7 @@
 17	niƙèː	niƙèː	VERB	_	_	16	comp:aux	_	Gloss=grind
 18	tun	tun	SCONJ	_	_	17	mod	_	Gloss=since
 19	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	Gloss=3Fem|SpacesAfter=No
-20	nàː	nàː	AUX	_	Aspect=Prog	18	comp	_	Gloss=Prog|wordform=ta-
+20	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	18	comp	_	Gloss=Prog|wordform=ta-
 21	dà	dà	ADP	_	_	20	comp:pred	_	Gloss=with
 22	damshiː	damshiː	NOUN	_	Gender=Masc	21	comp	_	Gloss=moistness.Masc
 23	.	.	PUNCT	_	_	10	punct	_	Gloss=.
@@ -3968,7 +3970,7 @@
 20	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	18	comp	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=ankà
 21	hàihwaː	hàihwaː	VERB	_	_	20	comp:aux	_	ClauseType=Rel|Gloss=give_birth|RelRole=obj
 22	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	23	subj/m	_	Gloss=3Fem|SpacesAfter=No
-23	nàː	nàː	AUX	_	Copula=Yes	20	parataxis:conj	_	Gloss=be.Pred/Loc|wordform=ta-
+23	nàː	nàː	AUX	_	ExtPos=PART	20	parataxis:conj	_	Gloss=be.Pred/Loc|wordform=ta-
 24	'yaƙ	ɗan	ADJ	_	Gender=Fem	25	mod	_	Gloss=little.Fem
 25	ƙàramaː	ƙàramaː	ADJ	_	Gender=Fem	23	comp:pred	_	Gloss=small.Fem
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT

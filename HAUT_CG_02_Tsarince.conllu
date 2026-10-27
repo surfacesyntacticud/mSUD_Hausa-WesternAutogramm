@@ -33,7 +33,7 @@
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	14	mod@relcl	_	Gloss=who.Plur|Relz=Word
 19	su-	su	PRON	_	Person=3	20	subj/m	_	Gloss=3Plur|SpacesAfter=No
-20	kè	kè	AUX	_	Copula=Yes|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=be.Pred/Loc.Rel|RelRole=subj|Relz=Affix|wordform=su-
+20	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	18	comp	_	ClauseType=Rel|Gloss=be.Pred/Loc.Rel|RelRole=subj|Relz=Affix|wordform=su-
 21	dàban	dàban	ADV	_	_	20	comp:pred	_	Gloss=different
 22	dàban	dàban	ADV	_	_	21	conj:redup	_	Gloss=different
 23	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -200,7 +200,7 @@
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	in	in	SCONJ	_	_	14	mod	_	Gloss=if
 10	su-	su	PRON	_	Person=3	11	subj/m	_	Gloss=3Plur|SpacesAfter=No
-11	nàː	nàː	AUX	_	Copula=Yes	9	comp	_	Gloss=be.Loc|wordform=su-
+11	nàː	nàː	AUX	_	ExtPos=PART	9	comp	_	Gloss=be.Loc|wordform=su-
 12	hwageː	hwageː	NOUN	_	Gender=Masc	11	comp:pred	_	Gloss=open_space.Masc
 13	su-	su	PRON	_	Number=Plur|Person=3	14	subj/m	_	Gloss=3Plur|SpacesAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=su-
@@ -1364,7 +1364,7 @@
 # text_en = Here they are doing like that, until they fall asleep.
 # text_ortho = su nàa nan su nàa yiǹ hakà nan, has sù yi kwaanaa.
 1	su-	su	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur|SpacesAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=su-
+2	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=su-
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	su-	su	PRON	_	Number=Plur|Person=3	5	subj/m	_	Gloss=3Plur|SpacesAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	Gloss=Prog|wordform=su-
@@ -1433,7 +1433,7 @@
 10	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 11	in	in	SCONJ	_	_	19	mod	_	Gloss=if
 12	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Masc|SpacesAfter=No
-13	nàː	nàː	AUX	_	Aspect=Prog	11	comp	_	Gloss=Prog|wordform=shi-
+13	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	11	comp	_	Gloss=Prog|wordform=shi-
 14	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
 15	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	14	comp	_	Gloss=money.Masc
 16	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -1941,7 +1941,7 @@
 # text_ortho = ’àbun dà ’as’ s’àaᵲìnci.
 1	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	0	root	_	Gloss=thing.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
-3	aC	neː	AUX	_	Copula=Yes	2	comp	_	ClauseType=Rel|Gloss=Id/Foc.Rel2|Relative=Variante|RelRole=subj|wordform=as'
+3	aC	neː	AUX	_	Copula=Yes|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|wordform=as'
 4	s'àːrìnci	s'àːrìnci	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=fornication.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -2555,7 +2555,7 @@
 # text_ortho = ’àbun dà ’ay yaawòo.
 1	àbun	àbu	NOUN	_	Definite=Def|Gender=Masc	0	root	_	Gloss=thing.Masc.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=CompRel|Relz=Word
-3	aC	neː	AUX	_	Copula=Yes	2	comp	_	ClauseType=Rel|Gloss=Ident/Foc.Rel2|Relative=Variante|RelRole=subj|wordform=ay
+3	aC	neː	AUX	_	Copula=Yes|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Prog.Rel|RelRole=subj|wordform=ay
 4	yaːwòː	yaːwòː	NOUN	_	Gender=Masc	3	comp:pred	_	Gloss=strolling.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 

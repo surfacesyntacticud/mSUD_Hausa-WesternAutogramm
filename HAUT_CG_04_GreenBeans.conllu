@@ -143,7 +143,7 @@
 1	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	29	mod	_	Gloss=sun/day.Fem.Def
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=PreRef|PreRef=Yes
 3	a-	a	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpacesAfter=No
-4	nàː	nàː	AUX	_	Copula=Yes	29	mod	_	Gloss=be.Loc|wordform=a-
+4	nàː	nàː	AUX	_	ExtPos=PART	29	mod	_	Gloss=be.Loc|wordform=a-
 5	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	comp:pred	_	Gloss=PreRef|PreRef=Yes
 6	zama	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	conj:appos	_	Gloss=stay.Nmlz|wordform=zaman
 7	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	6	udep/m	_	Gloss=Gen|SpacesBefore=No
@@ -440,7 +440,7 @@
 # text_en = The malam had a [female] slave.
 # text_ortho = maalàmii nàa dà bàiwaa.
 1	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	2	subj	_	Gloss=malam.Masc
-2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
+2	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	Gloss=Prog
 3	dà	dà	ADP	_	_	2	comp:pred	_	Gloss=with
 4	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	3	comp	_	Gloss=slave.Fem
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -514,7 +514,7 @@
 # text_ortho = kullun ’a nàa nan zaman duuniyàa, yaaᵲinyàa ta nàa wuᵲim bàiwaa, ta nàa baa tà madaraa, kuma ta nàa ᵲèenontà.
 1	kullun	kullun	ADV	_	_	3	mod	_	Gloss=always
 2	a-	a	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpacesAfter=No
-3	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=a-
+3	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=a-
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
 5	zama	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	mod	_	Gloss=stay.Nmlz|wordform=zaman
 6	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	udep/m	_	Gloss=Gen|SpacesBefore=No
@@ -522,7 +522,7 @@
 8	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 9	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	11	subj	_	Gloss=girl.Fem
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	Gloss=3Fem|SpacesAfter=No
-11	nàː	nàː	AUX	_	Aspect=Prog	3	parataxis:conj	_	Gloss=Prog|wordform=ta-
+11	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	3	parataxis:conj	_	Gloss=Prog|wordform=ta-
 12	wurim	wurin	ADP	_	_	11	comp:pred	_	Gloss=at
 13	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	12	comp	_	Gloss=slave.Fem
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -567,7 +567,7 @@
 18	àbunci	àbunci	NOUN	_	Gender=Masc	17	comp	_	Gloss=food.Masc
 19	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 20	su-	su	PRON	_	Number=Plur|Person=3	21	subj/m	_	Gloss=3Plur|SpacesAfter=No
-21	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=su-
+21	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=su-
 22	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	21	comp:pred	_	Gloss=PreRef|PreRef=Yes
 23	zamaː	zamn-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	22	conj:appos	_	Gloss=stay.Nmlz.Masc|wordform=zamansù
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -596,7 +596,7 @@
 10	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	9	comp:pred	_	Gloss=girl.Fem
 11	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 12	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	13	subj/m	_	Gloss=3Fem|SpacesAfter=No
-13	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=ta-
+13	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	Gloss=Prog|wordform=ta-
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	comp:pred	_	Gloss=PreRef|PreRef=Yes
 15	cikin	cikin	ADP	_	_	14	mod:appos	_	Gloss=in(side)
 16	gidaː	gidaː	NOUN	_	Gender=Masc	15	comp	_	Gloss=house.Masc
@@ -971,7 +971,7 @@
 # text_en = This went on until one day the malam was not there, and the chief's son saddled his horse one evening to go for a ride.
 # text_ortho = ’a nàa nan kullun hakà nan, ᵲaǹ nan maalàmii baà ši nan, sai ɗan saᵲkin gàᵲii yay yoo mà dookìinai sirdìi, dà màᵲaicee, zaà ši kìliisàa.
 1	a	a	PRON	_	Person=4	2	subj	_	Gloss=4
-2	nàː	nàː	AUX	_	Aspect=Prog	21	mod	_	Gloss=Prog
+2	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	21	mod	_	Gloss=Prog
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	kullun	kullun	ADV	_	_	2	mod	_	Gloss=always
 5	hakànan	hakànan	ADV	_	_	2	mod	_	Gloss=thus
@@ -2740,7 +2740,7 @@
 # text_en = After a while, the salla arrived.
 # text_ortho = ’à nàa nan sai sallàa tam mas’oo.
 1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpacesAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	8	parataxis:mod	_	Gloss=be.Loc|wordform=a-
+2	nàː	nàː	AUX	_	ExtPos=PART	8	parataxis:mod	_	Gloss=be.Loc|wordform=a-
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 5	sallàː	sallàː	NOUN	_	Gender=Fem	7	subj	_	Gloss=prayer.Fem
@@ -3150,7 +3150,7 @@
 # text_en = They were there, chatting, and they did what they did.
 # text_ortho = su nàa nan su nàa hiira, kuma sunkà yi ’àbun dà sunkà yi.
 1	su-	su	PRON	_	Person=3	2	subj/m	_	Gloss=3Plur|SpacesAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=su-
+2	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=su-
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	su-	su	PRON	_	Number=Plur|Person=3	5	subj/m	_	Gloss=3Plur|SpacesAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	Gloss=Prog|wordform=su-
@@ -3189,7 +3189,7 @@
 # text_en = There they were, they did not get up then the malam arrived.
 # text_ortho = su nàa nan bà sù taašì ba, ham maalàm yaz zoo.
 1	su-	su	PRON	_	Number=Plur|Person=3	2	subj/m	_	Gloss=3Plur|SpacesAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=su-
+2	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=su-
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	2	parataxis:conj	_	Gloss=Neg.Perf|wordform=bàsù
 5	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	4	subj/m	_	Gloss=-3Plur|SpacesBefore=No
@@ -4317,7 +4317,7 @@
 # text_en = Time went by as usual, then the rain season came.
 # text_ortho = ’a nàa nan ’à kwaana ’à taašì, ’a nàa zaman duuniyàa, sai dàamunaa tay yi.
 1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpacesAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=a-
+2	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=a-
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	a-	a	PRON	_	Person=4|PronType=ProSubj	5	subj/m	_	Gloss=4|SpacesAfter=No
 5	_̀	_̀	AUX	_	Mood=Sub	2	parataxis:conj	_	Gloss=Sub|wordform=à
@@ -4680,7 +4680,7 @@
 6	zaurèː	zaurèː	NOUN	_	Gender=Masc	5	comp:obj@G	_	Gloss=entrance_hut.Masc
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	a-	a	PRON	_	Person=4|PronType=Prs	9	subj/m	_	Gloss=4|SpacesAfter=No
-9	nàː	nàː	AUX	_	Copula=Yes	21	parataxis:mod	_	Gloss=be.Loc|wordform=a-
+9	nàː	nàː	AUX	_	ExtPos=PART	21	parataxis:mod	_	Gloss=be.Loc|wordform=a-
 10	s'akah	s'akak	ADP	_	_	9	comp:pred	_	Gloss=in_the_middle_of
 11	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	10	comp	_	Gloss=chatting.Fem
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -5081,12 +5081,12 @@
 5	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	3	conj:coord	_	Gloss=malam.Masc
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	su-	su	PRON	_	Number=Plur|Person=3	8	subj/m	_	Gloss=3Plur|SpacesAfter=No
-8	nàː	nàː	AUX	_	Copula=Yes	0	root	_	Gloss=be.Loc|wordform=su-
+8	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	Gloss=be.Loc|wordform=su-
 9	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	comp:pred	_	Gloss=PreRef|PreRef=Yes
 10	zamaː-zamaː	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	conj:appos	_	Gloss=stay.Nmlz.Redup
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	su-	su	PRON	_	Number=Plur|Person=3	13	subj/m	_	Gloss=3Plur|SpacesAfter=No
-13	nàː	nàː	AUX	_	Copula=Yes	8	parataxis:conj	_	Gloss=be.Loc|wordform=su-
+13	nàː	nàː	AUX	_	ExtPos=PART	8	parataxis:conj	_	Gloss=be.Loc|wordform=su-
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	comp:pred	_	Gloss=PreRef|PreRef=Yes
 15	cikin	cikin	ADP	_	_	14	conj:appos	_	Gloss=in(side)
 16	kasòː	kasòː	NOUN	_	Gender=Masc	15	comp	_	Gloss=prison.Masc
@@ -5115,7 +5115,7 @@
 14	sarkiː	sarkiː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=chief.Masc
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Fem|SpacesAfter=No
-17	nàː	nàː	AUX	_	Aspect=Prog	12	parataxis:conj	_	Gloss=Prog|wordform=ta-
+17	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	12	parataxis:conj	_	Gloss=Prog|wordform=ta-
 18	dà	dà	ADP	_	_	17	comp:pred	_	Gloss=with
 19	màganàː	màganàː	NOUN	_	Gender=Fem	18	comp	_	Gloss=talk.Fem
 20	dà	dà	ADP	_	_	19	comp:obl	_	Gloss=with
@@ -5187,7 +5187,7 @@
 9	aː	aː	AUX	_	Aspect=Perf|Number=Sing	3	comp:obj@T	_	Gloss=Perf.Sing|wordform=kaː=
 10	sam	sanìː	VERB	_	_	9	comp:aux	_	Gloss=know
 11	mu -	mu	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	subj/m	_	Gloss=1Plur.No|SpacesAfter=No
-12	nàː	nàː	AUX	_	Copula=Yes	10	comp:obj	_	Gloss=be|wordform=munàː
+12	nàː	nàː	AUX	_	ExtPos=PART	10	comp:obj	_	Gloss=be|wordform=munàː
 13	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
 14	kissà	kissà	NOUN	_	Gender=Fem	13	comp	_	Gloss=deception.Fem
 15	?	?	PUNCT	_	_	16	punct	_	Gloss=?
@@ -5296,7 +5296,7 @@
 9	_̀	_̀	AUX	_	Mood=Sub	5	mod	_	Gloss=Sub|wordform=kà
 10	san	sanìː	VERB	_	_	9	comp:aux	_	Gloss=know
 11	mu-	mu	PRON	_	Number=Plur|Person=1	12	subj/m	_	Gloss=3Fem|SpacesAfter=No
-12	nàː	nàː	AUX	_	Copula=Yes	10	comp:obj	_	Gloss=be.Pred|wordform=mu-
+12	nàː	nàː	AUX	_	ExtPos=PART	10	comp:obj	_	Gloss=be.Pred|wordform=mu-
 13	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
 14	kissà	kissà	NOUN	_	Gender=Fem	13	comp	_	Gloss=deception.Fem
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
