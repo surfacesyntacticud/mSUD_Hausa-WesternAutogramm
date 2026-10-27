@@ -5500,13 +5500,13 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 150000, 151000
-# text = koːmìː ka-m= mutà, bâː- ta= iyà ràbuwaː dà kai.
+# text = koːmìː ka- m= mutà , bâː -ta iyà ràbuwaː dà kai .
 # text_en = Whatever you do to her, she cannot leave you.
 # text_ortho = koo mìi kam mutà, baà ta ’iyà ᵲàbuwaa dà kai.
 1	koːmìː	koːmìː	PRON	_	_	7	mod	_	Gloss=anything
 2	ka-	ka=	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	3	subj/m	_	Gloss=3Fem|SpacesAfter=No|wordform=kam
 3-4	m=	_	_	_	_	_	_	_	_
-3	m	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=m=
+3	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=m=
 4	Ø	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	mutà	mutà	PRON	_	Gender=Fem|Person=3	4	comp:obl	_	Gloss=3Fem.Dat
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
